@@ -80,7 +80,7 @@ Alle Links wurden am 26.09.2026 geprüft. Tote oder umgeleitete Seiten fliegen r
 
 ## Geschichte und Modelle
 
-- [Simson (Unternehmen)](https://de.wikipedia.org/wiki/Simson_%28Unternehmen%29) - Firmengeschichte von 1856 bis heute.
+- [Simson (Unternehmen)](https://de.wikipedia.org/wiki/Simson_(Unternehmen)) - Firmengeschichte von 1856 bis heute.
 - [Simson S51](https://de.wikipedia.org/wiki/Simson_S51) - Das meistgebaute Simson-Mokick: Varianten, Technik, Produktion.
 - [Simson S50](https://de.wikipedia.org/wiki/Simson_S50) - Der Vorgänger der S51.
 - [Simson Schwalbe](https://de.wikipedia.org/wiki/Simson_Schwalbe) - Der Kultroller KR 51.

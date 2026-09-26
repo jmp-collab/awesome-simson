@@ -2,7 +2,7 @@
 """Baut docs/index.html (GitHub Pages) aus README.md.
 
 Keine Abhängigkeiten, nur Python 3.8+. Aufruf aus dem Repo-Root:
-    python3 scripts/build_de_page.py
+    python3 scripts/build_page.py
 
 README.md bleibt die einzige Quelle; die HTML-Seite nie von Hand bearbeiten.
 """
@@ -23,6 +23,9 @@ DESCRIPTION = (
     "Reparaturanleitungen, BVF-Vergaser, Zweitakt-Rechner, 60-km/h-Regel, Museen und Treffen."
 )
 
+# Link-Ziel mit bis zu einer Ebene balancierter Klammern, z. B. Wikipedia-Titel
+DEST = r"((?:[^()\s]|\([^()\s]*\))+)"
+
 
 def slug(text):
     text = re.sub(r"[^\w\- ]", "", text.strip().lower())
@@ -31,7 +34,7 @@ def slug(text):
 
 def plain(text):
     """Markdown-Links und -Markierungen zu reinem Text (für Suche und JSON-LD)."""
-    text = re.sub(r"\[([^\]]+)\]\([^)\s]+\)", r"\1", text)
+    text = re.sub(r"\[([^\]]+)\]\(" + DEST + r"\)", r"\1", text)
     return re.sub(r"\s+", " ", text.replace("`", "").replace("*", "")).strip()
 
 
@@ -52,10 +55,10 @@ def inline(text):
         attrs = ' target="_blank" rel="noopener"' if ext else ""
         return f'<a href="{html.escape(href)}"{attrs}>{label}</a>'
 
-    return re.sub(r"\[([^\]]+)\]\(([^)\s]+)\)", link, out)
+    return re.sub(r"\[([^\]]+)\]\(" + DEST + r"\)", link, out)
 
 
-ITEM_RE = re.compile(r"^- \[([^\]]+)\]\(([^)\s]+)\)\s*[-–—]\s*(.*)$")
+ITEM_RE = re.compile(r"^- \[([^\]]+)\]\(" + DEST + r"\)\s*[-–—]\s*(.*)$")
 
 
 def convert(md):
@@ -132,7 +135,7 @@ def convert(md):
             cat = h3 or h2
             body.append(
                 f'<li data-eu="{int(eu)}" data-oss="{int(oss)}" '
-                f'data-search="{html.escape(plain(name + " " + desc + " " + cat).lower())}">'
+                f'data-search="{html.escape(plain(" ".join([name, desc, h2, h3])).lower())}">'
                 f'<a class="name" href="{html.escape(url)}" target="_blank" rel="noopener">{html.escape(name)}</a>'
                 f'<span class="desc">{inline(desc)}</span></li>'
             )
@@ -224,15 +227,15 @@ TEMPLATE = """<!doctype html>
 <meta name="twitter:card" content="summary">
 <script type="application/ld+json">{ld}</script>
 <style>
-:root{{--bg:#fbfaf7;--fg:#1d1b18;--muted:#6b665d;--line:#e6e1d6;--card:#fff;--accent:#c8102e;--accent-ink:#9e0c24;--tip:#fdeef0}}
-@media (prefers-color-scheme:dark){{:root{{--bg:#141311;--fg:#ece8e1;--muted:#a39d92;--line:#2c2a26;--card:#1c1b18;--accent:#e5484d;--accent-ink:#ff8a8f;--tip:#2a1618}}}}
+:root{{--bg:#fbfaf7;--fg:#1d1b18;--muted:#6b665d;--line:#e6e1d6;--card:#fff;--accent:#c8102e;--accent-ink:#9e0c24;--cta:#c8102e;--tip:#fdeef0}}
+@media (prefers-color-scheme:dark){{:root{{--bg:#141311;--fg:#ece8e1;--muted:#a39d92;--line:#2c2a26;--card:#1c1b18;--accent:#e5484d;--accent-ink:#ff8a8f;--cta:#b3132a;--tip:#2a1618}}}}
 *{{box-sizing:border-box}}
 body{{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}}
 a{{color:var(--accent-ink)}}
 header{{padding:48px 16px 24px;max-width:1080px;margin:auto}}
 header h1{{font-size:clamp(28px,5vw,44px);line-height:1.1;margin:0 0 12px;letter-spacing:-.02em}}
 header p{{color:var(--muted);max-width:720px;margin:0 0 16px}}
-.cta{{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;font-weight:600;padding:10px 16px;border-radius:8px;margin:4px 8px 4px 0}}
+.cta{{display:inline-block;background:var(--cta);color:#fff;text-decoration:none;font-weight:600;padding:10px 16px;border-radius:8px;margin:4px 8px 4px 0}}
 .cta.ghost{{background:transparent;color:var(--accent-ink);border:1px solid var(--accent)}}
 .bar{{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 16px}}
 .bar .in{{max-width:1080px;margin:auto;display:flex;gap:10px;flex-wrap:wrap;align-items:center}}
@@ -280,19 +283,27 @@ footer{{max-width:1080px;margin:auto;padding:24px 16px 48px;color:var(--muted);f
 var q=document.getElementById('q'),count=document.getElementById('count');
 var items=[].slice.call(document.querySelectorAll('ul.tools li'));
 function run(){{
-  var s=q.value.trim().toLowerCase(),n=0;
+  var s=q.value.trim().toLowerCase();
   items.forEach(function(li){{
     var ok=!s||li.dataset.search.indexOf(s)>-1;
-    li.classList.toggle('hidden',!ok); if(ok)n++;
+    li.classList.toggle('hidden',!ok);
   }});
-  var filtering=s;
-  document.querySelectorAll('main h2, main h3, main ul.tools').forEach(function(el){{el.classList.remove('hidden');}});
-  if(filtering){{
-    document.querySelectorAll('main ul.tools').forEach(function(ul){{
-      if(!ul.querySelector('li:not(.hidden)'))ul.classList.add('hidden');
+  // Beim Filtern nur Überschriften und Listen mit Treffern zeigen, sonst alles
+  var kids=[].slice.call(document.querySelector('main').children);
+  kids.forEach(function(el){{el.classList.toggle('hidden',!!s&&!(el.matches('ul.tools')&&el.querySelector('li:not(.hidden)')));}});
+  if(s){{
+    kids.forEach(function(el,i){{
+      if(!/^H[23]$/.test(el.tagName))return;
+      var lvl=+el.tagName[1];
+      for(var j=i+1;j<kids.length;j++){{
+        var k=kids[j]; if(/^H[23]$/.test(k.tagName)&&+k.tagName[1]<=lvl)break;
+        if(k.matches('ul.tools')&&!k.classList.contains('hidden')){{el.classList.remove('hidden');break;}}
+      }}
     }});
   }}
-  count.textContent=n+' von '+items.length+' Einträgen';
+  // Einträge, die in mehreren Kategorien stehen, nur einmal zählen
+  function uniq(list){{var u={{}};list.forEach(function(li){{u[li.querySelector('a.name').href]=1;}});return Object.keys(u).length;}}
+  count.textContent=uniq(items.filter(function(li){{return !li.classList.contains('hidden');}}))+' von '+uniq(items)+' Einträgen';
 }}
 q.addEventListener('input',run);
 run();
