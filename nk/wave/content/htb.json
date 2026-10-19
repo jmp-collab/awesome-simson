@@ -1,0 +1,104 @@
+{
+ "slug": "htb-haus-technik-bechtel-gmbh",
+ "theme": "metall",
+ "name": "HTB Haus-Technik Bechtel GmbH",
+ "branche": "Elektro-, Sicherheits- und Haustechnik",
+ "addr": "Rombachstraße 65 · 66539 Neunkirchen",
+ "tel": "06821 952200",
+ "url": "https://www.ht-bechtel.de",
+ "g": "keine Bewertungen gefunden",
+ "label": "Quick Win",
+ "visit": "Früh morgens oder vorher anrufen, Teams sind tagsüber beim Kunden",
+ "logo_a": "HTB",
+ "logo_b": "Bechtel",
+ "nav": [
+  "Elektro",
+  "Sicherheit",
+  "Haustechnik",
+  "Jobs"
+ ],
+ "eyebrow": "Elektro-, Sicherheits- und Haustechnik aus Neunkirchen, seit 2004",
+ "h1": "Strom, Sicherheit und Hausservice aus einer Hand.",
+ "lead": "Elektromeister Armin Bechtel mit Team für Elektro-, Alarm- und Videotechnik. Peter Bechtel mit Team für Instandsetzung, Reparaturen und Gebäudepflege. Für Privatkunden und Gewerbe.",
+ "cta1": "Anrufen: 06821 952200",
+ "cta2": "Leistungen ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "2004",
+  "gegründet in Neunkirchen"
+ ],
+ "deco": "",
+ "hero_img": "img/htb-haus-technik-bechtel-gmbh_2.jpg",
+ "trust": [
+  "<b>Elektromeister</b> im Haus",
+  "<b>Alarmanlagen</b> und Videoüberwachung",
+  "<b>Instandhaltungsverträge</b> für Privat und Gewerbe"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Elektrotechnik",
+   "Installation, Reparatur und Erweiterung für Haus und Betrieb."
+  ],
+  [
+   "Alarmanlagen",
+   "Einbruchschutz mit Planung, Montage und Wartung."
+  ],
+  [
+   "Videoüberwachung",
+   "Für Haus, Hof und Gewerbe."
+  ],
+  [
+   "Haustechnik",
+   "Reparaturen an Fenstern, Türen, Bad und Heizungskleinteilen."
+  ],
+  [
+   "Gebäude- und Flächenpflege",
+   "Rasen, Hochdruckreinigung, Verbundstein, Entrümpelung."
+  ],
+  [
+   "Instandhaltungsverträge",
+   "Individuell für Privat und Gewerbe."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Wir suchen Elektriker. Und wir helfen Ihnen gern.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Wir stellen ein",
+ "alt_text": "Wir suchen ab sofort Elektriker zur Verstärkung unseres Teams. Melden Sie sich telefonisch oder per Mail.",
+ "contact": "HTB Haus-Technik Bechtel GmbH<br>Rombachstraße 65<br>66539 Neunkirchen<br><br>Telefon 06821 952200<br>office@ht-bechtel.de",
+ "audit": [
+  "Nicht für Smartphones angepasst, Startseite fast ohne Text",
+  "Die Stellenanzeige ('Wir suchen Elektriker') ist nur eine Textzeile",
+  "Elektro und Sicherheitstechnik verlinken auf eine zweite, separate Domain (alarmanlagen.saarland), die nur unverschlüsselt erreichbar ist"
+ ],
+ "hebel": "Zwei Geschäftsfelder, zwei Domains, keine klare Seite: Gerade Alarmanlagen und Instandhaltungsverträge sind lukrative, wiederkehrende Aufträge. Eine Seite mit Bereichen und eine echte Karriereseite helfen gegen den Fachkräftemangel, das drängendste Problem laut eigener Startseite.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.290 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Eine Website für beide Bereiche (Elektro/Sicherheit, Haustechnik), Karriereseite, Anfrageformular, Umleitung der Zweitdomain, Google-Profil",
+ "svc": [
+  "Karriereseite mit Google-Jobdaten für Elektriker, dazu Social-Recruiting",
+  "Landingpage 'Alarmanlage Neunkirchen' mit Fördermöglichkeiten für Einbruchschutz",
+  "Instandhaltungsvertrag als Produkt mit Anfrage für Hausverwaltungen",
+  "Google-Profil mit Leistungen, Bewertungen nach Aufträgen anfragen"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht, dass Sie Elektriker suchen, als eine einzelne Zeile. Ich hab Ihnen mitgebracht, wie eine Seite aussehen könnte, die Kunden und Bewerber gleichzeitig abholt.",
+ "obj": "'Wir haben genug Arbeit': Dann ist die Seite vor allem Ihr Recruiting. Bewerber schauen sich die Website an, bevor sie anrufen.",
+ "obs": [
+  "Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.",
+  "Ihre Stellenanzeige für Elektriker ist nur eine Textzeile auf der Startseite.",
+  "Elektro- und Sicherheitstechnik liegen auf einer zweiten Domain, die nicht verschlüsselt erreichbar ist."
+ ],
+ "neu": [
+  "Elektro, Sicherheit und Haustechnik übersichtlich auf einer Seite",
+  "Eine Karriereseite, die Bewerber bei Google finden",
+  "Anfrage für Instandhaltungsverträge und Alarmanlagen"
+ ]
+}

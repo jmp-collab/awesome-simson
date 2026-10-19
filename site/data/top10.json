@@ -950,5 +950,165 @@
   "addr": "Ludwigsthaler Straße 2",
   "tel": "06821 9729239",
   "welle": 4
+ },
+ {
+  "name": "HTB Haus-Technik Bechtel GmbH",
+  "branche": "Elektro-, Sicherheits- und Haustechnik",
+  "url": "https://www.ht-bechtel.de",
+  "g": "keine Bewertungen gefunden",
+  "label": "Quick Win",
+  "visit": "Früh morgens oder vorher anrufen, Teams sind tagsüber beim Kunden",
+  "audit": [
+   "Nicht für Smartphones angepasst, Startseite fast ohne Text",
+   "Die Stellenanzeige ('Wir suchen Elektriker') ist nur eine Textzeile",
+   "Elektro und Sicherheitstechnik verlinken auf eine zweite, separate Domain (alarmanlagen.saarland), die nur unverschlüsselt erreichbar ist"
+  ],
+  "hebel": "Zwei Geschäftsfelder, zwei Domains, keine klare Seite: Gerade Alarmanlagen und Instandhaltungsverträge sind lukrative, wiederkehrende Aufträge. Eine Seite mit Bereichen und eine echte Karriereseite helfen gegen den Fachkräftemangel, das drängendste Problem laut eigener Startseite.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.290 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Eine Website für beide Bereiche (Elektro/Sicherheit, Haustechnik), Karriereseite, Anfrageformular, Umleitung der Zweitdomain, Google-Profil",
+  "svc": [
+   "Karriereseite mit Google-Jobdaten für Elektriker, dazu Social-Recruiting",
+   "Landingpage 'Alarmanlage Neunkirchen' mit Fördermöglichkeiten für Einbruchschutz",
+   "Instandhaltungsvertrag als Produkt mit Anfrage für Hausverwaltungen",
+   "Google-Profil mit Leistungen, Bewertungen nach Aufträgen anfragen"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht, dass Sie Elektriker suchen, als eine einzelne Zeile. Ich hab Ihnen mitgebracht, wie eine Seite aussehen könnte, die Kunden und Bewerber gleichzeitig abholt.",
+  "obj": "'Wir haben genug Arbeit': Dann ist die Seite vor allem Ihr Recruiting. Bewerber schauen sich die Website an, bevor sie anrufen.",
+  "k": "htb",
+  "addr": "Rombachstraße 65",
+  "tel": "06821 952200",
+  "welle": 5
+ },
+ {
+  "name": "Haus- und Montage Service Kirschhock",
+  "branche": "Hausmeister- und Montageservice",
+  "url": "https://www.hausmeisterservice-kirschhock.de",
+  "g": "keine Bewertungen gefunden",
+  "label": "Quick Win",
+  "visit": "Vorher anrufen (mobil 0175 4147742), am besten früh morgens",
+  "audit": [
+   "Auf dem Handy breiter als der Bildschirm",
+   "Text 'seit über 10 Jahren' im Kopf, laut eigener Seite aber seit 2003 tätig, also deutlich länger",
+   "Bilder sind überwiegend Symbolfotos, Referenzen echter Arbeiten fehlen auf der Startseite"
+  ],
+  "hebel": "Hausmeister- und Montageservice wird oft über Hausverwaltungen vergeben, aber Privatkunden suchen 'Entrümpelung Neunkirchen' oder 'Möbelmontage Neunkirchen'. Eigene Leistungsseiten und Anfrage mit Foto bringen planbare Kleinaufträge, Referenzen mit echten Fotos schaffen Vertrauen.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.690 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Website mit Leistungsseiten, Referenzen mit eigenen Fotos, Anfrage mit Foto-Upload, Google-Profil",
+  "svc": [
+   "Google-Profil anlegen (bisher keine Bewertungen gefunden), Bewertungs-QR nach jedem Auftrag",
+   "Leistungsseiten Entrümpelung, Möbelmontage, Pflaster als lokale Suchtreffer",
+   "Infoblatt für Hausverwaltungen (Rahmenvertrag)",
+   "Vorher/Nachher-Fotos aus Aufträgen als Referenzen"
+  ],
+  "open": "Herr Kirschhock, ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite steht 'seit über 10 Jahren', dabei sind Sie seit 2003 dabei. Ich hab Ihnen mitgebracht, wie Ihre Seite mit Ihren echten Arbeiten aussehen könnte.",
+  "obj": "'Meine Kunden kommen über Empfehlung': Die Empfehlung googelt Sie trotzdem, bevor sie anruft. Dann sollte sie Ihre echten Arbeiten sehen.",
+  "k": "kirschhock",
+  "addr": "Zum Bremmenfeld 2",
+  "tel": "06821 306991",
+  "welle": 5
+ },
+ {
+  "name": "Hegi Fenstervertrieb und Montage",
+  "branche": "Fenster, Rollläden, Haustüren (Vertrieb und Montage)",
+  "url": "https://fenster-hegi.de",
+  "g": "keine Bewertungen gefunden",
+  "label": "Quick Win",
+  "visit": "Werktags vormittags, vorher anrufen",
+  "audit": [
+   "Die Startseite zeigt nur 'Derzeit aktualisieren wir unser Onlineangebot für Sie!', keine Leistungen, keine Bilder",
+   "Abgesehen von Impressum und Datenschutz gibt es keine Unterseiten",
+   "Kein Google-Profil mit Bewertungen gefunden"
+  ],
+  "hebel": "Fenstertausch ist eine Entscheidung über mehrere Tausend Euro mit langer Recherche. Wer online nichts zeigt, wird gar nicht erst angefragt. Schon eine einfache Seite mit Produkten, Referenzen und Anfrage holt Hegi zurück in die Auswahl.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Website mit Produktseiten, Referenzen, Angebotsanfrage mit Maßen und Foto, Google-Profil",
+  "svc": [
+   "Google-Profil anlegen oder übernehmen, Bewertungen nach Montage anfragen",
+   "Ratgeber Förderung Fenstertausch als Suchtreffer",
+   "Referenzfotos aus Montagen (Vorher/Nachher)",
+   "Einträge in Branchenverzeichnissen vereinheitlichen"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Website steht gerade nur 'Derzeit aktualisieren wir unser Onlineangebot'. Ich hab Ihnen mitgebracht, wie die fertige Seite aussehen könnte, in zwei Wochen online.",
+  "obj": "'Das wollten wir eh mal machen': Genau dafür ist der Entwurf da. Sie müssen nichts vorbereiten, ich nehme Ihre Angaben und Sie geben frei.",
+  "k": "hegi",
+  "addr": "Ginsterweg 8",
+  "tel": "06821 59180",
+  "welle": 5
+ },
+ {
+  "name": "La Campanella",
+  "branche": "Pizzeria / Lieferdienst",
+  "url": "https://www.la-campanella-neunkirchen.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Umsatzhebel",
+  "visit": "Nachmittags zwischen 15 und 17 Uhr, nicht zur Essenszeit",
+  "audit": [
+   "Die eigene Domain ist ein Lieferando-Shop ('Diese Website wird betrieben und verwaltet durch Lieferando.de')",
+   "Jede Bestellung über diese Seite läuft über das Portal mit Provision",
+   "Auf dem Handy breiter als der Bildschirm, keine Öffnungszeiten, keine Bilder vom Laden"
+  ],
+  "hebel": "Wie bei Damaskus Haus und Wibilo: Stammkunden bestellen über die eigene Domain, zahlen aber Provision an das Portal. Eine eigene Seite mit Karte und Bestellknopf zu Telefon und WhatsApp holt genau diese Bestellungen zurück. Halal-Pizza ist ein klares Alleinstellungsmerkmal für die Suche.",
+  "p": [
+   "690 bis 990 €",
+   "1.490 bis 2.290 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Onepager mit Speisekarte als echte Seite, Allergenen, Halal-Bereich, Anruf- und WhatsApp-Knopf, Google-Profil, Fotoshooting der Top-Pizzen",
+  "svc": [
+   "Google-Profil mit Speisekarte, Fotos und Öffnungszeiten",
+   "Instagram und TikTok mit Kurzvideos aus dem Ofen",
+   "Seite 'Halal Pizza Neunkirchen' als Suchtreffer",
+   "Mittagsangebot als Google-Beitrag und WhatsApp-Status"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Wenn man Ihre Website aufruft, ist das ein Lieferando-Shop, jede Bestellung dort kostet Sie Provision. Ich hab Ihnen mitgebracht, wie Ihre eigene Seite mit Ihrer Karte aussehen könnte.",
+  "obj": "'Lieferando bringt uns Kunden': Die neuen ja. Die Stammkunden, die Ihre Adresse schon kennen, sollten direkt bei Ihnen bestellen. Genau dafür ist die eigene Seite da.",
+  "k": "campanella",
+  "addr": "Marienstraße 8",
+  "tel": "06821 3624333",
+  "welle": 5
+ },
+ {
+  "name": "Viktor Hofmann Fliesen Granit Mosaik",
+  "branche": "Fliesenleger / Spanndecken",
+  "url": "https://www.fliesen-neunkirchen.de",
+  "g": "keine Bewertungen gefunden",
+  "label": "Quick Win",
+  "visit": "Vorher anrufen, morgens vor Baustellenbeginn",
+  "audit": [
+   "Startseite besteht nur aus einem Bild mit Menü-Wörtern, kein Text für Google",
+   "Leistungen und Referenzen stecken in Unterseiten, die Galerie zeigt kleine Bilder",
+   "Kein Google-Profil mit Bewertungen gefunden, keine Anfrage-Möglichkeit"
+  ],
+  "hebel": "Badsanierung ist eine der meistgesuchten Handwerksleistungen ('Badsanierung Neunkirchen', 'Fliesenleger Neunkirchen'). Mit Text auf der Startseite, großen Galeriebildern und einer Seite Spanndecken (selten im Kreis angeboten) wird Hofmann für beide Suchen sichtbar.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.690 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Website mit Leistungsseiten (Bad, Boden, Spanndecken), großer Galerie, Beratungsanfrage, Google-Profil",
+  "svc": [
+   "Google-Profil anlegen mit Galeriefotos, Bewertungen nach Abnahme anfragen",
+   "Eigene Seite Spanndecken als Suchtreffer",
+   "Vorher/Nachher-Bäder auf Instagram und Pinterest",
+   "Kooperation mit Sanitär- und Heizungsbetrieben (Empfehlungen, Links)"
+  ],
+  "open": "Herr Hofmann, ich bin Jean, Webdesigner aus Neunkirchen. Ihre Bäder in der Galerie sind richtig schön, aber Ihre Startseite ist nur ein Bild mit Menü. Google findet dort keinen Text. Ich hab Ihnen mitgebracht, wie es aussehen könnte.",
+  "obj": "'Ich hab genug zu tun': Dann holt die Seite die Aufträge, die Sie wirklich wollen, zum Beispiel komplette Bäder oder Spanndecken statt Kleinkram.",
+  "k": "hofmann",
+  "addr": "An der Alten Ziegelei 27",
+  "tel": "06821 87797",
+  "welle": 5
  }
 ]

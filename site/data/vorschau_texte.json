@@ -358,5 +358,65 @@
    "Ihre Bewertungen gut sichtbar auf der Startseite",
    "Eigene Seite für Smart Repair vor der Leasing-Rückgabe"
   ]
+ },
+ "htb": {
+  "obs": [
+   "Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.",
+   "Ihre Stellenanzeige für Elektriker ist nur eine Textzeile auf der Startseite.",
+   "Elektro- und Sicherheitstechnik liegen auf einer zweiten Domain, die nicht verschlüsselt erreichbar ist."
+  ],
+  "neu": [
+   "Elektro, Sicherheit und Haustechnik übersichtlich auf einer Seite",
+   "Eine Karriereseite, die Bewerber bei Google finden",
+   "Anfrage für Instandhaltungsverträge und Alarmanlagen"
+  ]
+ },
+ "kirschhock": {
+  "obs": [
+   "Auf dem Handy ist Ihre Seite breiter als der Bildschirm. Man muss seitlich wischen, um alles zu sehen.",
+   "Oben steht 'seit über 10 Jahren', laut Ihrer eigenen Seite sind Sie seit 2003 im Einsatz.",
+   "Auf der Startseite sind vor allem Symbolbilder zu sehen, Ihre eigenen Arbeiten kaum."
+  ],
+  "neu": [
+   "Ihre echten Arbeiten als Referenzen",
+   "Anfrage mit Foto-Upload",
+   "Eigene Seiten für Entrümpelung, Montage, Pflaster und Fliesen"
+  ]
+ },
+ "hegi": {
+  "obs": [
+   "Ihre Startseite zeigt derzeit nur den Hinweis 'Derzeit aktualisieren wir unser Onlineangebot für Sie!'.",
+   "Außer Impressum und Datenschutz gibt es keine weiteren Seiten zu Ihren Leistungen.",
+   "Ein Google-Profil mit Bewertungen habe ich nicht gefunden."
+  ],
+  "neu": [
+   "Eine fertige Seite mit Fenstern, Rollläden und Haustüren",
+   "Angebotsanfrage mit Maßen und Foto",
+   "Ihre 30 Jahre Erfahrung gut sichtbar"
+  ]
+ },
+ "campanella": {
+  "obs": [
+   "Ihre Website wird von Lieferando betrieben, nicht von Ihnen.",
+   "Bestellungen über diese Seite laufen über das Portal, das an jeder Bestellung mitverdient.",
+   "Auf dem Handy ist die Seite breiter als der Bildschirm, Öffnungszeiten und Bilder vom Laden fehlen."
+  ],
+  "neu": [
+   "Eine eigene Seite mit Ihrer Karte und Ihren Preisen",
+   "Bestellen per Anruf oder WhatsApp, ohne Provision",
+   "Halal-Pizza als eigenes Thema, damit man Sie dafür findet"
+  ]
+ },
+ "hofmann": {
+  "obs": [
+   "Ihre Startseite besteht nur aus einem Bild mit Menüpunkten. Google kann dort keinen Text lesen.",
+   "Ihre schönen Badfotos stehen nur klein in der Galerie.",
+   "Eine Anfrage-Möglichkeit und ein Google-Profil mit Bewertungen habe ich nicht gefunden."
+  ],
+  "neu": [
+   "Ihre Bäder in großen Bildern auf der Startseite",
+   "Eigene Seiten für Bad, Boden und Spanndecken",
+   "Beratung anfragen mit einem Klick"
+  ]
  }
 }

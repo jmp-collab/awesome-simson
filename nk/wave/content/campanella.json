@@ -1,0 +1,145 @@
+{
+ "slug": "la-campanella",
+ "theme": "doener",
+ "name": "La Campanella",
+ "branche": "Pizzeria / Lieferdienst",
+ "addr": "Marienstraße 8 · 66538 Neunkirchen",
+ "tel": "06821 3624333",
+ "url": "https://www.la-campanella-neunkirchen.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Umsatzhebel",
+ "visit": "Nachmittags zwischen 15 und 17 Uhr, nicht zur Essenszeit",
+ "logo_a": "La",
+ "logo_b": "Campanella",
+ "nav": [
+  "Speisekarte",
+  "Bestellen",
+  "Halal",
+  "Kontakt"
+ ],
+ "eyebrow": "Pizzeria in der Marienstraße, Neunkirchen",
+ "h1": "Pizza, Pasta und Halal-Pizza direkt bei uns bestellt.",
+ "lead": "Pizza aus dem Ofen, Pasta aus der Pfanne und Fleischgerichte. Abholen oder liefern lassen, bestellt per Anruf oder WhatsApp, ohne Umweg über ein Portal.",
+ "cta1": "Anrufen und bestellen",
+ "cta2": "Speisekarte",
+ "mcta": "Anrufen & bestellen",
+ "badge": [
+  "Halal",
+  "Pizza auf der Karte"
+ ],
+ "deco": "PIZZA",
+ "hero_img": "",
+ "trust": [
+  "<b>Halal-Pizza</b> auf der Karte",
+  "<b>Abholen</b> und Lieferung",
+  "<b>Marienstraße 8</b>, mitten in Neunkirchen"
+ ],
+ "menu_title": "Beliebte Pizzen",
+ "menu": [
+  [
+   "Pizza Saarland",
+   "Lyoner, Peperoniwurst, Knoblauch, pikant",
+   "11,50 €"
+  ],
+  [
+   "Pizza Pazza",
+   "Lyoner und Pommes frites",
+   "11,50 €"
+  ],
+  [
+   "Pizza Frutti di Mare",
+   "Meeresfrüchtemix",
+   "12,00 €"
+  ],
+  [
+   "Pizza Fechingen",
+   "Krabben, Zwiebeln, Lachsfilet, Sahne",
+   "13,00 €"
+  ],
+  [
+   "Pizza Diavola",
+   "extra scharf, Salami, Peperoniwurst, Knoblauch",
+   "11,50 €"
+  ],
+  [
+   "Pizza Caprese",
+   "Mozzarella, Tomate, Basilikum",
+   "11,00 €"
+  ],
+  [
+   "Pizza Vegetaria",
+   "Aubergine, Zucchini, Paprika, Champignons",
+   "11,00 €"
+  ],
+  [
+   "Pizza Fantasia",
+   "Schinken, Sardellen, Oliven und mehr",
+   "12,50 €"
+  ]
+ ],
+ "svc_title": "So bestellen Sie",
+ "services": [
+  [
+   "Anrufen",
+   "Ein Tipp auf die Nummer, wir nehmen Ihre Bestellung auf."
+  ],
+  [
+   "WhatsApp",
+   "Bestellung per Nachricht, wir bestätigen die Abholzeit."
+  ],
+  [
+   "Abholen",
+   "Bestellen und ohne Wartezeit mitnehmen."
+  ],
+  [
+   "Liefern lassen",
+   "Lieferung in Neunkirchen."
+  ],
+  [
+   "Halal",
+   "Eigene Halal-Pizzen auf der Karte."
+  ],
+  [
+   "Allergene",
+   "Alle Angaben auf einen Blick."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Hunger? Ein Anruf genügt.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Mitten in der Stadt",
+ "alt_text": "Marienstraße 8 in Neunkirchen. Aktuelle Öffnungs- und Lieferzeiten stehen hier immer tagesaktuell.",
+ "contact": "La Campanella<br>Marienstraße 8<br>66538 Neunkirchen<br><br>Telefon 06821 3624333",
+ "audit": [
+  "Die eigene Domain ist ein Lieferando-Shop ('Diese Website wird betrieben und verwaltet durch Lieferando.de')",
+  "Jede Bestellung über diese Seite läuft über das Portal mit Provision",
+  "Auf dem Handy breiter als der Bildschirm, keine Öffnungszeiten, keine Bilder vom Laden"
+ ],
+ "hebel": "Wie bei Damaskus Haus und Wibilo: Stammkunden bestellen über die eigene Domain, zahlen aber Provision an das Portal. Eine eigene Seite mit Karte und Bestellknopf zu Telefon und WhatsApp holt genau diese Bestellungen zurück. Halal-Pizza ist ein klares Alleinstellungsmerkmal für die Suche.",
+ "p": [
+  "690 bis 990 €",
+  "1.490 bis 2.290 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Onepager mit Speisekarte als echte Seite, Allergenen, Halal-Bereich, Anruf- und WhatsApp-Knopf, Google-Profil, Fotoshooting der Top-Pizzen",
+ "svc": [
+  "Google-Profil mit Speisekarte, Fotos und Öffnungszeiten",
+  "Instagram und TikTok mit Kurzvideos aus dem Ofen",
+  "Seite 'Halal Pizza Neunkirchen' als Suchtreffer",
+  "Mittagsangebot als Google-Beitrag und WhatsApp-Status"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Wenn man Ihre Website aufruft, ist das ein Lieferando-Shop, jede Bestellung dort kostet Sie Provision. Ich hab Ihnen mitgebracht, wie Ihre eigene Seite mit Ihrer Karte aussehen könnte.",
+ "obj": "'Lieferando bringt uns Kunden': Die neuen ja. Die Stammkunden, die Ihre Adresse schon kennen, sollten direkt bei Ihnen bestellen. Genau dafür ist die eigene Seite da.",
+ "obs": [
+  "Ihre Website wird von Lieferando betrieben, nicht von Ihnen.",
+  "Bestellungen über diese Seite laufen über das Portal, das an jeder Bestellung mitverdient.",
+  "Auf dem Handy ist die Seite breiter als der Bildschirm, Öffnungszeiten und Bilder vom Laden fehlen."
+ ],
+ "neu": [
+  "Eine eigene Seite mit Ihrer Karte und Ihren Preisen",
+  "Bestellen per Anruf oder WhatsApp, ohne Provision",
+  "Halal-Pizza als eigenes Thema, damit man Sie dafür findet"
+ ]
+}
