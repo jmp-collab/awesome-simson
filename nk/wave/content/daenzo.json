@@ -1,0 +1,144 @@
+{
+ "slug": "pizza-heimservice-da-enzo",
+ "theme": "doener",
+ "name": "Pizza Heimservice Da Enzo",
+ "branche": "Pizzeria und Lieferdienst",
+ "addr": "Schloßstraße 25 · 66538 Neunkirchen",
+ "tel": "06821 9316899",
+ "url": "https://www.pizzaheimservicedaenzoneunkirchen.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Quick Win",
+ "visit": "Nachmittags vor 17 Uhr, montags geschlossen",
+ "logo_a": "Da Enzo",
+ "logo_b": "Neunkirchen",
+ "nav": [
+  "Pizza",
+  "Pasta",
+  "Salate",
+  "Bestellen"
+ ],
+ "eyebrow": "Pizza Heimservice in Neunkirchen",
+ "h1": "Pizza, Pasta al forno und Salate. Direkt von Da Enzo.",
+ "lead": "Klassiker wie Pizza Diavolo und Pizza Parma, überbackene Nudeln mit Bolognese und Béchamel, frische Salate. Lieferung dienstags bis sonntags ab 17 Uhr.",
+ "cta1": "Jetzt bestellen",
+ "cta2": "Karte ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "Di bis So",
+  "17 bis 21:45 Uhr"
+ ],
+ "deco": "PIZZA",
+ "hero_img": "",
+ "trust": [
+  "<b>Pizza</b> von Diavolo bis Sofia Loren",
+  "<b>Al forno</b> mit Bolognese und Béchamel",
+  "<b>Lieferung</b> Dienstag bis Sonntag"
+ ],
+ "menu_title": "Auszug aus der Karte",
+ "menu": [
+  [
+   "Pizza Diavolo (scharf)",
+   "Peperoniwurst, rote Paprika, Knoblauch",
+   "11,00 €"
+  ],
+  [
+   "Pizza Parma",
+   "Gorgonzola, Parmaschinken",
+   "12,00 €"
+  ],
+  [
+   "Pizza Sofia Loren",
+   "Rindersalami, Pilze, 2 Spiegeleier",
+   "11,00 €"
+  ],
+  [
+   "Combinazione",
+   "Lasagne, Spaghetti, Canelloni, Rigatoni",
+   "11,00 €"
+  ],
+  [
+   "Nudeln Carbonara",
+   "Nudelsorte nach Wahl",
+   "10,00 €"
+  ],
+  [
+   "Salat Nizza",
+   "Thunfisch, Sardellen, Ei, Oliven",
+   "9,00 €"
+  ]
+ ],
+ "svc_title": "Unsere Küche",
+ "services": [
+  [
+   "Pizza",
+   "Vom Klassiker bis zur Pizza Spaghetti."
+  ],
+  [
+   "Al forno",
+   "Lasagne, Canelloni, Tortellini, überbacken."
+  ],
+  [
+   "Pasta",
+   "Nudelsorte nach Wahl, mit Bolognese, Carbonara, Marinara."
+  ],
+  [
+   "Fleischgerichte",
+   "Für den großen Hunger."
+  ],
+  [
+   "Salate",
+   "Mit speziellem Essig-Öl-Dressing."
+  ],
+  [
+   "Abholen",
+   "Direkt in der Schloßstraße."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Direkt bei Da Enzo bestellen. Ohne Umweg.",
+ "hours": [
+  [
+   "Montag",
+   "geschlossen"
+  ],
+  [
+   "Dienstag bis Sonntag",
+   "17:00 bis 21:45 (Lieferzeiten)"
+  ]
+ ],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "contact": "Pizza Heimservice Da Enzo<br>Schloßstraße 25<br>66538 Neunkirchen<br><br>Telefon 06821 9316899",
+ "audit": [
+  "Die eigene Domain zeigt eine Seite, die laut Hinweis oben von Lieferando betrieben wird",
+  "Kein eigenes Logo (Platzhalter mit Besteck-Symbol), keine Telefonnummer sichtbar",
+  "Kein Foto der eigenen Pizzen, keine Infos zum Laden"
+ ],
+ "hebel": "Stammkunden tippen die Domain ein und bestellen dann über Lieferando mit Provision. Eine eigene Seite mit Karte und Telefon- oder WhatsApp-Bestellung holt diese Bestellungen zurück.",
+ "p": [
+  "690 bis 990 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Onepager mit Karte als echte Seite, Logo, Bestellknopf zu Telefon und WhatsApp, Allergene, Google-Profil",
+ "svc": [
+  "Einfaches Logo für Da Enzo",
+  "Fotoshooting der Top-Pizzen",
+  "Google-Profil mit Karte und Fotos",
+  "Lieferando nur noch als Zusatzkanal"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Domain läuft eine Lieferando-Seite, sogar ohne Ihr Logo. Ich habe Ihnen mitgebracht, wie Da Enzo dort mit eigener Seite aussehen könnte.",
+ "obj": "'Lieferando bringt Bestellungen': Ja, von neuen Kunden. Wer Ihre Domain kennt, ist schon Stammkunde, und für ihn zahlen Sie unnötig Provision.",
+ "obs": [
+  "Ihre Domain zeigt eine Seite, die Lieferando betreibt.",
+  "Statt Logo ist dort ein Platzhalter-Symbol.",
+  "Es steht keine Telefonnummer auf der Seite."
+ ],
+ "neu": [
+  "Eigene Seite mit Logo auf Ihrer Domain",
+  "Bestellen per Telefon oder WhatsApp, ohne Provision",
+  "Ihre Pizzen mit eigenen Fotos"
+ ]
+}

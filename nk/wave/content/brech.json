@@ -1,0 +1,113 @@
+{
+ "slug": "brech-motors-autovermietung",
+ "theme": "event",
+ "name": "Brech-Motors",
+ "branche": "Autovermietung, Kfz-Service, Fahrzeughandel",
+ "addr": "Kuchenbergstraße 207 · 66540 Neunkirchen",
+ "tel": "0177 6922223",
+ "url": "https://www.brech-motors.com",
+ "g": "keine Google-Daten erfasst",
+ "label": "Kleines Budget",
+ "visit": "Vormittags zwischen 8 und 15 Uhr",
+ "logo_a": "Brech",
+ "logo_b": "Motors",
+ "nav": [
+  "Vermietung",
+  "Service",
+  "Transporte",
+  "Kontakt"
+ ],
+ "eyebrow": "Autovermietung und Kfz-Service in Neunkirchen",
+ "h1": "Autos mieten, Service und Transporte. Seit 2011.",
+ "lead": "Vermietung von Neu- und Gebrauchtwagen, Reifen, Inspektionen und Zulassungsdienst, TÜV und AU sowie Kfz- und Motorradtransporte in ganz Europa.",
+ "cta1": "Fahrzeug anfragen",
+ "cta2": "Anrufen: 0177 6922223",
+ "mcta": "Anrufen",
+ "badge": [
+  "2011",
+  "vermieten wir"
+ ],
+ "deco": "",
+ "hero_img": "img/brech-motors-autovermietung_0.jpeg",
+ "trust": [
+  "<b>Autovermietung</b> Neu- und Gebrauchtwagen",
+  "<b>TÜV und AU</b>, Inspektionen",
+  "<b>Transporte</b> europaweit"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Autovermietung",
+   "Neu- und Gebrauchtwagen zu guten Konditionen."
+  ],
+  [
+   "Reifen",
+   "Reifen und Reifenwechsel."
+  ],
+  [
+   "Inspektion",
+   "Inspektionen für Ihr Fahrzeug."
+  ],
+  [
+   "Zulassungsdienst",
+   "An- und Ummeldung für Sie erledigt."
+  ],
+  [
+   "TÜV und AU",
+   "Hauptuntersuchung und Abgasuntersuchung."
+  ],
+  [
+   "Transporte",
+   "Kfz und Motorräder, europaweit."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Auto gebraucht? Rufen Sie an.",
+ "hours": [
+  [
+   "Montag bis Freitag",
+   "8:00 bis 15:00"
+  ],
+  [
+   "Samstag",
+   "8:00 bis 12:00"
+  ]
+ ],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "contact": "Brech-Motors<br>Kuchenbergstraße 207<br>66540 Neunkirchen<br><br>Mobil 0177 6922223<br>brechmotors@gmail.com",
+ "audit": [
+  "Einseitige Seite, Leistungen als zentrierte Textliste über dem Fahrzeugbild",
+  "Englische Zeile mit Fehlern ('We have been renting again since 2011 and used cars'), Tippfehler bei den Zeiten ('15;00')",
+  "Gmail-Adresse, keine Adresse auf der Startseite, Menü nur mit Rechtstexten"
+ ],
+ "hebel": "Mietwagen, TÜV und Transporte werden kurzfristig gesucht. Eine Seite mit Fahrzeugen, Preisen ab und einem Anfrageformular für Zeitraum und Fahrzeugtyp macht aus Suchenden Mieter. Eine eigene Mail-Adresse mit Domain wirkt seriöser als Gmail.",
+ "p": [
+  "690 € (Start, ggf. in Raten)",
+  "1.190 bis 1.690 €",
+  "29 €"
+ ],
+ "paket": "Onepager mit Leistungen, Fahrzeugübersicht, Mietanfrage mit Zeitraum, Adresse und Karte, E-Mail mit eigener Domain, Google-Profil",
+ "svc": [
+  "Mietanfrage mit Zeitraum und Fahrzeugklasse",
+  "E-Mail-Adresse mit eigener Domain",
+  "Landingpage 'Transporter mieten Neunkirchen'",
+  "Google-Profil mit Fahrzeugfotos"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite stehen alle Leistungen als eine Liste über dem Auto, und die Adresse fehlt. Ich habe Ihnen mitgebracht, wie man bei Ihnen direkt ein Auto anfragen könnte.",
+ "obj": "'Die Leute rufen an': Gut, die Nummer bleibt ganz oben. Mit Adresse und Karte finden Sie aber auch die, die bei Google 'Auto mieten Neunkirchen' suchen.",
+ "obs": [
+  "Auf der Startseite fehlt Ihre Adresse.",
+  "Die englische Zeile hat Fehler, bei den Zeiten steht '15;00'.",
+  "Für Kontakt gibt es nur eine Gmail-Adresse."
+ ],
+ "neu": [
+  "Leistungen klar getrennt mit Anfrage",
+  "Adresse und Karte sichtbar",
+  "Mail-Adresse mit eigener Domain"
+ ]
+}

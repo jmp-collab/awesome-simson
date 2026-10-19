@@ -1,0 +1,115 @@
+{
+ "slug": "flick-roland-versicherungsb-ro",
+ "theme": "praxis",
+ "name": "Versicherungsbüro Roland Flick",
+ "branche": "Versicherungsmakler",
+ "addr": "Tränkenweg 7 · 66540 Neunkirchen",
+ "tel": "06821 4017830",
+ "url": "https://www.agentur-flick.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Solide Chance",
+ "visit": "Vormittags zwischen 9 und 12 Uhr im Büro",
+ "logo_a": "Versicherungsbüro",
+ "logo_b": "Flick",
+ "nav": [
+  "Privat",
+  "Firmen",
+  "Tarifrechner",
+  "Kontakt"
+ ],
+ "eyebrow": "Versicherungsbüro in Neunkirchen",
+ "h1": "Mehr als 30 Jahre Erfahrung. Passender Schutz zum fairen Preis.",
+ "lead": "Roland Flick vermittelt für Privatpersonen und Firmenkunden Versicherungen mehrerer Anbieter, darunter Barmenia, Concordia, Hannoversche, Stuttgarter, Swiss Life und Volkswohl Bund.",
+ "cta1": "Beratung vereinbaren",
+ "cta2": "Tarife vergleichen",
+ "mcta": "Anrufen",
+ "badge": [
+  "30+",
+  "Jahre Erfahrung"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Mehrere Anbieter</b> im Vergleich",
+  "<b>Privat und Firmen</b>",
+  "<b>Tarifrechner</b> online"
+ ],
+ "menu_title": "Bürozeiten",
+ "menu": [
+  [
+   "Montag bis Freitag",
+   "vormittags",
+   "9 bis 12 Uhr"
+  ],
+  [
+   "Montag, Mittwoch, Freitag",
+   "nachmittags",
+   "15 bis 17 Uhr"
+  ]
+ ],
+ "svc_title": "Für wen",
+ "services": [
+  [
+   "Privatpersonen",
+   "Absicherung für Familie, Haus und Auto."
+  ],
+  [
+   "Firmenkunden",
+   "Versicherungen für Betriebe und Selbständige."
+  ],
+  [
+   "Vergleich",
+   "Tarife mehrerer Anbieter nebeneinander."
+  ],
+  [
+   "Check",
+   "Ist Ihr aktueller Schutz zu teuer? Wir vergleichen."
+  ],
+  [
+   "Tarifrechner",
+   "Online selbst rechnen."
+  ],
+  [
+   "Persönlich",
+   "Beratung im Büro im Tränkenweg."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Ist Ihre Versicherung zu teuer? Lassen Sie vergleichen.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Persönlicher Ansprechpartner",
+ "alt_text": "Ein Ansprechpartner für alle Verträge. Rufen Sie an, schreiben Sie eine E-Mail oder kommen Sie zu den Bürozeiten vorbei.",
+ "contact": "Versicherungsbüro Roland Flick<br>Tränkenweg 7<br>66540 Neunkirchen<br><br>Telefon 06821 4017830<br>info@agentur-flick.de",
+ "audit": [
+  "Telefonnummer auf der Kontaktseite mit Leerzeichen zwischen jeder Ziffer, so am Handy nicht anrufbar",
+  "Startseite verweist auf den 'Tarifrechner auf Seite 3', Navigation doppelt als Textzeilen",
+  "Gelbes Baukasten-Layout, Bild 'mit Sicherheit die richtige Entscheidung' als Header"
+ ],
+ "hebel": "Versicherungskunden wechseln, wenn ihnen jemand den Vergleich leicht macht. Ein klarer 'Versicherungs-Check' mit Termin- oder Rückrufanfrage und eine anrufbare Nummer bringen Beratungstermine.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.290 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit Berater-Profil, Bereichen Privat und Firmen, Check-Anfrage mit Rückruf, eingebundenem Tarifrechner, Google-Profil",
+ "svc": [
+  "'Versicherungs-Check' mit Rückrufwunsch",
+  "Online-Terminbuchung zu den Bürozeiten",
+  "Landingpages 'Kfz-Versicherung wechseln' (Wechselsaison bis 30.11.) und 'Berufsunfähigkeit'",
+  "Google-Profil mit Foto und Bürozeiten"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Kontaktseite steht die Telefonnummer mit Leerzeichen zwischen jeder Ziffer, am Handy kann man sie nicht antippen. Ich habe Ihnen mitgebracht, wie Ihre Seite Anrufe leichter macht.",
+ "obj": "'Meine Kunden kennen mich': Gerade jetzt in der Kfz-Wechselsaison suchen auch neue Kunden. Die finden Sie nur, wenn die Seite es leicht macht.",
+ "obs": [
+  "Ihre Telefonnummer auf der Kontaktseite lässt sich am Handy nicht antippen.",
+  "Die Startseite verweist auf 'Seite 3' für den Tarifrechner.",
+  "Die Navigation steht doppelt als Textzeilen."
+ ],
+ "neu": [
+  "Anrufen und Rückruf mit einem Tipp",
+  "Versicherungs-Check als klares Angebot",
+  "Privat und Firmen getrennt"
+ ]
+}

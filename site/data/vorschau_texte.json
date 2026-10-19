@@ -598,5 +598,65 @@
    "Katalog-Download, der neue Kontakte bringt",
    "Bereich für Gastronomen"
   ]
+ },
+ "daenzo": {
+  "obs": [
+   "Ihre Domain zeigt eine Seite, die Lieferando betreibt.",
+   "Statt Logo ist dort ein Platzhalter-Symbol.",
+   "Es steht keine Telefonnummer auf der Seite."
+  ],
+  "neu": [
+   "Eigene Seite mit Logo auf Ihrer Domain",
+   "Bestellen per Telefon oder WhatsApp, ohne Provision",
+   "Ihre Pizzen mit eigenen Fotos"
+  ]
+ },
+ "tobae": {
+  "obs": [
+   "Oben auf Ihrer Seite stehen Links zum Kontakt-Import statt Ihrer Leistungen.",
+   "Ihre Leistungen stehen in einem langen Fließtext.",
+   "Man kann keine Anfrage mit Foto schicken."
+  ],
+  "neu": [
+   "Treppen, Balkone und Geländer mit eigenen Seiten",
+   "Referenzfotos ganz vorne",
+   "Anfrage mit Foto der Hauswand"
+  ]
+ },
+ "audeh": {
+  "obs": [
+   "Ihre Projektfotos sieht man erst in der Galerie.",
+   "Auf der Leistungsseite stehen allgemeine Lexikon-Texte.",
+   "Man kann keine Anfrage mit Fotos schicken."
+  ],
+  "neu": [
+   "Ihre Projekte ganz vorne auf der Startseite",
+   "Leistungen in Ihren eigenen Worten",
+   "Anfrage per WhatsApp mit Fotos"
+  ]
+ },
+ "flick": {
+  "obs": [
+   "Ihre Telefonnummer auf der Kontaktseite lässt sich am Handy nicht antippen.",
+   "Die Startseite verweist auf 'Seite 3' für den Tarifrechner.",
+   "Die Navigation steht doppelt als Textzeilen."
+  ],
+  "neu": [
+   "Anrufen und Rückruf mit einem Tipp",
+   "Versicherungs-Check als klares Angebot",
+   "Privat und Firmen getrennt"
+  ]
+ },
+ "brech": {
+  "obs": [
+   "Auf der Startseite fehlt Ihre Adresse.",
+   "Die englische Zeile hat Fehler, bei den Zeiten steht '15;00'.",
+   "Für Kontakt gibt es nur eine Gmail-Adresse."
+  ],
+  "neu": [
+   "Leistungen klar getrennt mit Anfrage",
+   "Adresse und Karte sichtbar",
+   "Mail-Adresse mit eigener Domain"
+  ]
  }
 }

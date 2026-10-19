@@ -1,0 +1,109 @@
+{
+ "slug": "audeh-trockenbauer",
+ "theme": "papier",
+ "name": "Audeh Trockenbau",
+ "branche": "Trockenbau, Fliesen- und Bodenverlegung",
+ "addr": "Hermannstraße 9 · 66538 Neunkirchen",
+ "tel": "0157 59621497",
+ "url": "https://www.audeh.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Quick Win",
+ "visit": "Abends anrufen, Inhaber ist tagsüber auf Baustellen",
+ "logo_a": "Audeh",
+ "logo_b": "Trockenbau",
+ "nav": [
+  "Leistungen",
+  "Galerie",
+  "Über mich",
+  "Kontakt"
+ ],
+ "eyebrow": "Trockenbau, Fliesen und Böden aus Neunkirchen",
+ "h1": "Innenausbau aus einer Hand: Wände, Decken, Fliesen, Böden.",
+ "lead": "Mohamad Audeh baut Trennwände, Decken und Dachböden aus, verlegt Fliesen, Mosaik, Platten, Estrich und Bodenbeläge von Parkett bis Vinyl. Aus Neunkirchen für das ganze Saarland.",
+ "cta1": "Angebot anfragen",
+ "cta2": "Galerie ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "7",
+  "Gewerke aus einer Hand"
+ ],
+ "deco": "",
+ "hero_img": "img/audeh_1.jpeg",
+ "trust": [
+  "<b>Trockenbau</b> und Raumausstattung",
+  "<b>Fliesen, Mosaik, Platten</b>",
+  "<b>Böden und Estrich</b>"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Trockenbau",
+   "Trennwände, Abhängdecken, Unterböden, Dachbodenausbau."
+  ],
+  [
+   "Raumausstattung",
+   "Innenräume stimmig gestalten."
+  ],
+  [
+   "Fliesen",
+   "Wand und Boden, sorgfältig geplant und verlegt."
+  ],
+  [
+   "Mosaik und Platten",
+   "Für Bad, Küche und Außenbereich."
+  ],
+  [
+   "Bodenbeläge",
+   "Parkett, Laminat, Vinyl, Kork, Teppich."
+  ],
+  [
+   "Estrich",
+   "Die Grundlage für jeden Boden."
+  ]
+ ],
+ "gal_title": "Aus meinen Projekten",
+ "gallery": [
+  "img/audeh_3.jpeg",
+  "img/audeh_6.jpeg",
+  "img/audeh_5.jpeg",
+  "img/audeh_2.jpeg"
+ ],
+ "band": "Umbau geplant? Schicken Sie mir Fotos und Maße.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Persönlich",
+ "alt_text": "Bei mir haben Sie einen Ansprechpartner vom Angebot bis zur fertigen Fläche. Rufen Sie an oder schreiben Sie per WhatsApp.",
+ "contact": "Audeh Trockenbau<br>Mohamad Audeh<br>Hermannstraße 9<br>66538 Neunkirchen<br><br>Mobil 0157 59621497",
+ "audit": [
+  "Startseite mit allgemeinem Willkommenstext, die echten Projektfotos stecken in der Galerie",
+  "Leistungsseite mit Lexikon-Texten ('Trockenbau ist eine Technik...') statt eigener Arbeit und Region",
+  "Header mit dunklem Bild und Logo, darunter lange Aufzählung der Gewerke mit senkrechten Strichen"
+ ],
+ "hebel": "Sieben Gewerke aus einer Hand ist ein starkes Argument für Sanierer und Vermieter. Mit Vorher-Nachher-Fotos aus den eigenen Projekten und einer Anfrage per WhatsApp mit Fotos kommen Aufträge, die zum Betrieb passen.",
+ "p": [
+  "690 bis 990 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Projektfotos auf der Startseite, Leistungsseiten mit eigenen Texten, Anfrage per Foto und WhatsApp, Google-Profil",
+ "svc": [
+  "Vorher-Nachher-Galerie aus Handyfotos",
+  "WhatsApp-Anfrage mit Fotos und Maßen",
+  "Landingpages 'Trockenbau Neunkirchen' und 'Fliesenleger Neunkirchen'",
+  "Google-Profil mit Projektfotos"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Baustellenfotos sind gut, aber man findet sie erst in der Galerie. Ich habe Ihnen mitgebracht, wie Ihre Arbeit gleich auf der Startseite stehen könnte.",
+ "obj": "'Ich hab genug Aufträge': Dann sorgt die Seite für die passenden, zum Beispiel komplette Badsanierungen statt einzelner Kleinaufträge.",
+ "obs": [
+  "Ihre Projektfotos sieht man erst in der Galerie.",
+  "Auf der Leistungsseite stehen allgemeine Lexikon-Texte.",
+  "Man kann keine Anfrage mit Fotos schicken."
+ ],
+ "neu": [
+  "Ihre Projekte ganz vorne auf der Startseite",
+  "Leistungen in Ihren eigenen Worten",
+  "Anfrage per WhatsApp mit Fotos"
+ ]
+}

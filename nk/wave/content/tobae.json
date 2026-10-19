@@ -1,0 +1,108 @@
+{
+ "slug": "metallbau-tob-torsten",
+ "theme": "metall",
+ "name": "Torsten Tobä Metallbau",
+ "branche": "Metallbau-Meisterbetrieb",
+ "addr": "An der Ziegelhütte 9 · 66540 Neunkirchen-Hangard",
+ "tel": "0177 2006808",
+ "url": "https://metallbau-tobae.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Quick Win",
+ "visit": "Früh morgens oder nach Feierabend, vorher anrufen",
+ "logo_a": "Tobä",
+ "logo_b": "Metallbau",
+ "nav": [
+  "Treppen",
+  "Balkone",
+  "Geländer",
+  "Referenzen"
+ ],
+ "eyebrow": "Metallbau-Meisterbetrieb in Neunkirchen-Hangard",
+ "h1": "Treppen, Balkone und Geländer aus eigener Werkstatt.",
+ "lead": "Geländer, Treppen, Stahlbalkone, Vordächer und Tore aus Stahl, Edelstahl und Aluminium. Beratung vor Ort durch Inhaber Torsten Tobä, auf Wunsch zum Festpreis.",
+ "cta1": "Beratung vor Ort anfragen",
+ "cta2": "Anrufen: 0177 2006808",
+ "mcta": "Anrufen",
+ "badge": [
+  "Festpreis",
+  "auf Wunsch möglich"
+ ],
+ "deco": "",
+ "hero_img": "img/tobae_4.jpg",
+ "trust": [
+  "<b>Meisterbetrieb</b>, Beratung durch den Inhaber",
+  "<b>Eigene Fertigung</b> in der Werkstatt",
+  "<b>Stahl, Edelstahl, Aluminium</b>"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Treppen",
+   "Außentreppen, Wendeltreppen und Treppenaufgänge."
+  ],
+  [
+   "Balkone",
+   "Stahlbalkone, gefertigt in der eigenen Werkstatt."
+  ],
+  [
+   "Geländer",
+   "Für Treppe, Balkon und Terrasse."
+  ],
+  [
+   "Vordächer",
+   "Für den Hauseingang, nach Ihren Wünschen."
+  ],
+  [
+   "Tore",
+   "Individuell gefertigt."
+  ],
+  [
+   "Gewerbe",
+   "Auch größere Projekte für gewerbliche Auftraggeber."
+  ]
+ ],
+ "gal_title": "Referenzen",
+ "gallery": [
+  "img/tobae_3.jpg",
+  "img/tobae_5.jpeg",
+  "img/tobae_6.jpeg"
+ ],
+ "band": "Neue Treppe oder Balkon geplant? Torsten Tobä berät Sie vor Ort.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "So arbeiten wir",
+ "alt_text": "Beratung vor Ort durch den Inhaber, detailliertes Angebot mit der Möglichkeit eines Festpreises, Fertigung in der eigenen Werkstatt, Montage durch die Fachleute, die Ihr Projekt gefertigt haben.",
+ "contact": "Torsten Tobä Metallbau<br>An der Ziegelhütte 9<br>66540 Neunkirchen-Hangard<br><br>Mobil 0177 2006808<br>info@metallbau-tobae.de",
+ "audit": [
+  "Startseite beginnt mit Kontakt-Import-Links (Outlook, Google, iOS) statt mit Leistungen",
+  "Referenzen nur als wenige Bilder, Leistungen in einem langen Fließtext",
+  "Keine Anfrage mit Fotos oder Maßen, keine eigenen Seiten für Treppen, Balkone, Geländer"
+ ],
+ "hebel": "Treppen und Balkone sind Aufträge im vierstelligen Bereich und werden gezielt gesucht ('Außentreppe Metall Saarland', 'Balkon anbauen Neunkirchen'). Eigene Seiten mit Referenzfotos und eine Anfrage mit Foto der Hauswand bringen passende Anfragen.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit Leistungsseiten (Treppen, Balkone, Geländer, Vordächer), Referenzgalerie, Anfrage mit Foto-Upload, Google-Profil",
+ "svc": [
+  "Anfrage mit Foto der Hauswand und groben Maßen",
+  "Referenzgalerie, die Sie selbst vom Handy befüllen",
+  "Landingpages 'Außentreppe' und 'Stahlbalkon' für Google",
+  "Google-Profil mit Fotos jeder Montage"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Treppen und Balkone sehen stark aus, aber auf der Seite sieht man zuerst Links zum Kontakt-Import. Ich habe Ihnen mitgebracht, wie Ihre Referenzen ganz vorne stehen könnten.",
+ "obj": "'Wir leben von Empfehlungen': Die Empfohlenen schauen trotzdem online nach. Wenn dort gleich die Treppen zu sehen sind, ist der Anruf schnell da.",
+ "obs": [
+  "Oben auf Ihrer Seite stehen Links zum Kontakt-Import statt Ihrer Leistungen.",
+  "Ihre Leistungen stehen in einem langen Fließtext.",
+  "Man kann keine Anfrage mit Foto schicken."
+ ],
+ "neu": [
+  "Treppen, Balkone und Geländer mit eigenen Seiten",
+  "Referenzfotos ganz vorne",
+  "Anfrage mit Foto der Hauswand"
+ ]
+}

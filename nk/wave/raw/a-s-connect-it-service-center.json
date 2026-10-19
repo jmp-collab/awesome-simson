@@ -1,0 +1,92 @@
+{
+ "key": "a-s-connect-it-service-center",
+ "url": "https://www.asconnect.de/",
+ "title": "asconnect",
+ "text": "Direkt zum Seiteninhalt\nMenü überspringen\nServices\nKontakt\nImpressum\nIhr Partner für ganzheitliche IT Bereiche\nKOMPETENZ BRAUCHT STARKE PARTNER\nWir bieten ganzheitliche IT-Lösungen für Unternehmen jeder Größe. Von der strategischen Beratung über die Einrichtung und Wartung Ihrer IT-Infrastruktur bis hin zur individuellen Softwareentwicklung – wir sind Ihr zuverlässiger Partner.\n\nUnsere Kernleistungen:\n- IT-Beratung & Digitalisierung: Zukunftsorientierte Strategien für Ihr Business\n- Netzwerk & Infrastruktur: Sichere und stabile Systeme – lokal & in der Cloud\n- IT-Sicherheit & Datenschutz: Schutz Ihrer Daten durch moderne Sicherheitskonzepte\n- Support & Wartung: Schnelle Hilfe und proaktives Monitoring\n- Softwarelösungen: Maßgeschneiderte Anwendungen & Systemintegration\n- Schulungen & Workshops: Know-how für Ihr Team\nIndividuell. Sicher. Effizient. Wir kümmern uns um Ihre IT – damit Sie sich auf Ihr Kerngeschäft konzentrieren können.\nZurück zum Seiteninhalt",
+ "imgs": [
+  {
+   "src": "https://www.asconnect.de/images/large-774068.png",
+   "w": 405,
+   "h": 380
+  },
+  {
+   "src": "https://www.asconnect.de/pluginAppObj/pluginAppObj_90/large-1181316.jpg",
+   "w": 361,
+   "h": 241
+  },
+  {
+   "src": "https://www.asconnect.de/pluginAppObj/pluginAppObj_90/large-2153286.png",
+   "w": 361,
+   "h": 188
+  },
+  {
+   "src": "https://www.asconnect.de/pluginAppObj/pluginAppObj_90/large-8702237.png",
+   "w": 361,
+   "h": 361
+  },
+  {
+   "src": "https://www.asconnect.de/pluginAppObj/pluginAppObj_90/large-1999636.png",
+   "w": 361,
+   "h": 197
+  }
+ ],
+ "bg": [
+  "https://www.asconnect.de/search/icon.png",
+  "https://www.asconnect.de/images/large-7732459.png",
+  "https://www.asconnect.de/pluginAppObj/pluginAppObj_90/large-1181316.jpg",
+  "https://www.asconnect.de/pluginAppObj/pluginAppObj_90/large-2153286.png",
+  "https://www.asconnect.de/pluginAppObj/pluginAppObj_90/large-8702237.png",
+  "https://www.asconnect.de/pluginAppObj/pluginAppObj_90/large-1999636.png"
+ ],
+ "tel": [],
+ "mail": [],
+ "links": [
+  {
+   "t": "Direkt zum Seiteninhalt",
+   "h": "https://www.asconnect.de/#imGoToCont"
+  },
+  {
+   "t": "Menü überspringen",
+   "h": "https://www.asconnect.de/#imStickyBar_imMenuObject_20_after_menu"
+  },
+  {
+   "t": "Services",
+   "h": "https://www.asconnect.de/index.html"
+  },
+  {
+   "t": "Kontakt",
+   "h": "https://www.asconnect.de/kontakt.html"
+  },
+  {
+   "t": "Impressum",
+   "h": "https://www.asconnect.de/impressum.html"
+  },
+  {
+   "t": "Menü überspringen",
+   "h": "https://www.asconnect.de/#imStickyBar_imMenuObject_19_after_menu"
+  },
+  {
+   "t": "Services",
+   "h": "https://www.asconnect.de/index.html"
+  },
+  {
+   "t": "Kontakt",
+   "h": "https://www.asconnect.de/kontakt.html"
+  },
+  {
+   "t": "Impressum",
+   "h": "https://www.asconnect.de/impressum.html"
+  },
+  {
+   "t": "Zurück zum Seiteninhalt",
+   "h": "https://www.asconnect.de/#imGoToCont"
+  }
+ ],
+ "saved": [
+  "img/a-s-connect-it-service-center_0.png",
+  "img/a-s-connect-it-service-center_1.png",
+  "img/a-s-connect-it-service-center_2.jpg",
+  "img/a-s-connect-it-service-center_3.png",
+  "img/a-s-connect-it-service-center_4.png"
+ ]
+}

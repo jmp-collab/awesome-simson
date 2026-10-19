@@ -27,7 +27,7 @@ with sync_playwright() as p:
         r = D[k]; url = r.get("final") or r["url"]
         out = {"key": k, "url": url}
         for vw, vh, suf, dsf in [(1366, 850, "desk", 1), (390, 844, "mob", 2)]:
-            ctx = b.new_context(viewport={"width": vw, "height": vh}, device_scale_factor=dsf, locale="de-DE", ignore_https_errors=True)
+            ctx = b.new_context(viewport={"width": vw, "height": vh}, device_scale_factor=dsf, locale="de-DE", ignore_https_errors=True, user_agent=os.environ.get("UA") or None)
             pg = ctx.new_page()
             try:
                 pg.goto(url, timeout=45000, wait_until="load"); pg.wait_for_timeout(2500)
