@@ -1,0 +1,125 @@
+{
+ "slug": "scheiber-hof",
+ "theme": "praxis",
+ "name": "Pension am Scheiber Hof",
+ "branche": "Pension",
+ "addr": "Friedrichstraße 69 · 66538 Neunkirchen",
+ "tel": "06821 88381",
+ "url": "https://www.pension-neunkirchen.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Solide Chance",
+ "visit": "Vorher anrufen, Rezeption nach Absprache",
+ "logo_a": "Pension",
+ "logo_b": "Scheiber Hof",
+ "nav": [
+  "Zimmer",
+  "Preise",
+  "Lage",
+  "Buchen"
+ ],
+ "eyebrow": "Pension im Herzen von Neunkirchen",
+ "h1": "Frisch renoviert. Zentral. Günstig übernachten.",
+ "lead": "Moderne Zimmer mit 140 oder 180 cm breiten Betten, Flachbild-TV, WLAN und eigenem Bad. Wenige Kilometer zur A6 und A8, Parkplätze direkt am Haus, Frühstück bei unserem Partner.",
+ "cta1": "Zimmer anfragen",
+ "cta2": "Anrufen: 06821 88381",
+ "mcta": "Anrufen",
+ "badge": [
+  "365",
+  "Tage im Jahr geöffnet"
+ ],
+ "deco": "",
+ "hero_img": "img/scheiber_1.jpg",
+ "trust": [
+  "<b>Neu renoviert</b>",
+  "<b>Parkplätze</b> direkt am Haus",
+  "<b>A6 und A8</b> in wenigen Minuten"
+ ],
+ "menu_title": "Gut zu wissen",
+ "menu": [
+  [
+   "Check-in",
+   "ab 16 Uhr, früher nach Absprache",
+   ""
+  ],
+  [
+   "Frühstück beim Partner",
+   "Mo bis Fr ab 6 Uhr, Sa ab 8 Uhr",
+   ""
+  ],
+  [
+   "Zustellbett",
+   "ab 7 Jahren und Erwachsene, pro Bett und Nacht",
+   "20 €"
+  ]
+ ],
+ "svc_title": "Zimmer",
+ "services": [
+  [
+   "Betten",
+   "140 oder 180 × 200 cm."
+  ],
+  [
+   "Bad",
+   "Mit Dusche oder Badewanne."
+  ],
+  [
+   "Technik",
+   "Flachbild-TV und WLAN."
+  ],
+  [
+   "Nichtraucher",
+   "Alle Zimmer rauchfrei."
+  ],
+  [
+   "Wäscheservice",
+   "Auf Wunsch."
+  ],
+  [
+   "Familien",
+   "Bis zu zwei Zustellbetten pro Zimmer."
+  ]
+ ],
+ "gal_title": "Unsere Zimmer",
+ "gallery": [
+  "img/scheiber_4.jpg",
+  "img/scheiber_0.jpg",
+  "img/scheiber_6.jpg",
+  "img/scheiber_5.jpg"
+ ],
+ "band": "Zimmer frei? Rufen Sie an oder fragen Sie online.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Lage",
+ "alt_text": "Im Herzen von Neunkirchen, Innenstadt, Gondwana und Altes Hüttenareal sind in wenigen Minuten erreichbar.",
+ "contact": "Pension am Scheiber Hof<br>Friedrichstraße 69<br>66538 Neunkirchen<br><br>Telefon 06821 88381<br>info@pension-neunkirchen.de",
+ "audit": [
+  "Startseite mit 'Neueröffnung & NEU Renoviert!!!!' ohne Datum, Ausstattung als lange Liste (inkl. Fax)",
+  "Seitentitel 'pension-neunkirchens Webseite!', keine Zimmerpreise auf der Startseite",
+  "Gute neue Zimmerfotos, aber erst weiter unten, Verweis auf zweite Pension auf eigener Domain"
+ ],
+ "hebel": "Monteure und Geschäftsreisende buchen kurzfristig und wählen nach Preis, Foto und Lage. Die schönen neuen Zimmer nach vorne, Preise sichtbar und eine Anfrage mit Datum bringen direkte Buchungen, auch für die Schwesterpension am Stummplatz.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit Zimmern, Preisen, Anfrage mit Datum, Seite für Monteure und Firmen, Verbindung zur zweiten Pension, Google-Profil",
+ "svc": [
+  "Anfrage mit Datum und Anzahl Personen",
+  "Seite 'Monteurzimmer Neunkirchen' für Firmen",
+  "Gemeinsamer Auftritt mit Pension am Stummplatz",
+  "Google-Profil mit den neuen Zimmerfotos"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Zimmer sind frisch renoviert und sehen gut aus, aber auf der Seite stehen sie weit unten, und im Titel steht 'pension-neunkirchens Webseite!'. Ich habe Ihnen mitgebracht, wie die Zimmer ganz vorne aussehen könnten.",
+ "obj": "'Wir sind über Booking gut ausgelastet': Dann spart jede direkte Buchung Provision. Firmen, die regelmäßig Monteure schicken, buchen gern direkt.",
+ "obs": [
+  "Im Seitentitel steht 'pension-neunkirchens Webseite!'.",
+  "Ihre schönen neuen Zimmerfotos stehen weit unten.",
+  "Preise sieht man auf der Startseite nicht."
+ ],
+ "neu": [
+  "Die renovierten Zimmer groß auf der Startseite",
+  "Anfrage mit Datum",
+  "Eigene Seite für Monteure und Firmen"
+ ]
+}

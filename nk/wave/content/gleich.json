@@ -1,0 +1,109 @@
+{
+ "slug": "gleich-hans-erich-malermarkt-u-betrieb",
+ "theme": "gelato",
+ "name": "Malerbetrieb Gleich GmbH",
+ "branche": "Malerbetrieb",
+ "addr": "Redener Straße 41 · 66540 Neunkirchen",
+ "tel": "06821 963636",
+ "url": "https://www.maler-gleich.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Quick Win",
+ "visit": "Morgens früh oder nachmittags, vorher anrufen",
+ "logo_a": "gleich",
+ "logo_b": "wird's schöner",
+ "nav": [
+  "Leistungen",
+  "Projekte",
+  "Über uns",
+  "Kontakt"
+ ],
+ "eyebrow": "Der Maler in Neunkirchen, seit 1969",
+ "h1": "Fassaden, Räume, Farbe. Seit 1969 in Neunkirchen.",
+ "lead": "Familiengeführter Malerbetrieb mit ausgebildeten Maler- und Lackierergesellen. Für Privatkunden, Vermieter und Gewerbe.",
+ "cta1": "Angebot anfragen",
+ "cta2": "Projekte ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "1969",
+  "gegründet"
+ ],
+ "deco": "",
+ "hero_img": "img/gleich_6.jpg",
+ "trust": [
+  "<b>Familienbetrieb</b> seit 1969",
+  "<b>Maler- und Lackierergesellen</b> im Team",
+  "<b>Privat, Vermieter, Gewerbe</b>"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Aus unseren Projekten",
+ "services": [
+  [
+   "Fassaden",
+   "Wohnhäuser und Mehrfamilienhäuser."
+  ],
+  [
+   "Innenräume",
+   "Wände und Decken in Farbe."
+  ],
+  [
+   "Gewerbe",
+   "Büros und Geschäftsräume."
+  ],
+  [
+   "Mosaik und Gestaltung",
+   "Besondere Oberflächen."
+  ],
+  [
+   "Fototapeten",
+   "Akzente mit großen Motiven."
+  ],
+  [
+   "Beratung",
+   "Farbwahl und Planung vor Ort."
+  ]
+ ],
+ "gal_title": "Projekte",
+ "gallery": [
+  "img/gleich_0.jpg",
+  "img/gleich_5.jpg",
+  "img/gleich_2.jpg",
+  "img/gleich_4.jpg"
+ ],
+ "band": "Neue Farbe für Haus oder Wohnung? Wir beraten Sie.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Familienbetrieb",
+ "alt_text": "Wir sind ein familiengeführtes Handwerksunternehmen aus Neunkirchen mit einem Team ausgebildeter Maler- und Lackierergesellen.",
+ "contact": "Malerbetrieb Gleich GmbH<br>Redener Straße 41<br>66540 Neunkirchen<br><br>Telefon 06821 963636",
+ "audit": [
+  "Startseite mit zwei allgemeinen Sätzen, keine Leistungen",
+  "Keine Kontaktseite im Menü, nur Startseite, Über uns, Projekte, Datenschutz, Impressum",
+  "Baukasten-Seite (Strato), Projekte ohne Beschreibung"
+ ],
+ "hebel": "Maler werden gesucht, wenn ein Umzug, eine Renovierung oder eine Fassade ansteht. Leistungsseiten, Projektfotos mit kurzer Beschreibung und eine Anfrage mit Fotos bringen planbare Aufträge, besonders von Vermietern und Hausverwaltungen.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit Leistungsseiten (Fassade, Innen, Gewerbe), Projektgalerie mit Text, Anfrage mit Fotos, Kontaktseite, Google-Profil",
+ "svc": [
+  "Anfrage mit Fotos der Räume und Wunschtermin",
+  "Landingpages 'Fassade streichen Neunkirchen' und 'Maler Neunkirchen'",
+  "Projektseiten mit Vorher-Nachher",
+  "Karriereseite für Maler und Azubis"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite gibt es keine Kontaktseite und auf der Startseite stehen nur zwei Sätze. Ich habe Ihnen mitgebracht, wie Ihre Projekte und Leistungen dort aussehen könnten.",
+ "obj": "'Wir sind seit 1969 bekannt': Das ist Ihr stärkstes Argument. Die Seite soll genau das zeigen, damit auch neue Kunden und Bewerber es sehen.",
+ "obs": [
+  "Im Menü gibt es keine Kontaktseite.",
+  "Die Startseite hat nur zwei allgemeine Sätze.",
+  "Die Projekte haben keine Beschreibung."
+ ],
+ "neu": [
+  "Leistungen und Projekte auf der Startseite",
+  "Anfrage mit Fotos",
+  "Kontakt und Telefon überall sichtbar"
+ ]
+}

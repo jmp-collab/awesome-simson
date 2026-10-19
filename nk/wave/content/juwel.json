@@ -1,0 +1,114 @@
+{
+ "slug": "karosserie-lack-juwel-gmbh-lackierbetrie",
+ "theme": "metall",
+ "name": "Karosserie & Lack JuWel GmbH",
+ "branche": "Karosserie und Lackiererei",
+ "addr": "Rombachstraße 39 · 66539 Neunkirchen-Wellesweiler",
+ "tel": "06821 59333",
+ "url": "https://lack-juwel.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Solide Chance",
+ "visit": "Morgens ab 7:30 Uhr, vorher anrufen",
+ "logo_a": "JuWel",
+ "logo_b": "Karosserie & Lack",
+ "nav": [
+  "Leistungen",
+  "Unfall",
+  "Oldtimer",
+  "Kontakt"
+ ],
+ "eyebrow": "Karosserie und Lack in Wellesweiler",
+ "h1": "Unfall, Lack, Steinschlag. Wir machen das.",
+ "lead": "Komplett- und Teillackierung, Unfall- und Hagelschäden, Autoglas und Smart Repair. Wir übernehmen die Abwicklung mit Ihrer Versicherung, stellen ein Leihfahrzeug und holen und bringen Ihr Auto.",
+ "cta1": "Schaden melden",
+ "cta2": "Anrufen: 06821 59333",
+ "mcta": "Anrufen",
+ "badge": [
+  "Hol- und Bring",
+  "Service"
+ ],
+ "deco": "",
+ "hero_img": "img/juwel_2.jpg",
+ "trust": [
+  "<b>Partnerwerkstatt</b> der Versicherer LVM, DEVK u. a.",
+  "<b>Leihfahrzeug</b> während der Reparatur",
+  "<b>Oldtimer</b>-Restaurierung"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Lackierung",
+   "Komplettlackierung oder einzelne Teile."
+  ],
+  [
+   "Unfallschäden",
+   "Reparatur und Schadenabwicklung mit Ihrer Versicherung."
+  ],
+  [
+   "Hagelschäden",
+   "Reparatur von Steinhagel und Hagel."
+  ],
+  [
+   "Autoglas",
+   "Scheibenreparatur und Austausch."
+  ],
+  [
+   "Smart Repair",
+   "Kleine Schäden schnell beseitigt."
+  ],
+  [
+   "Oldtimer",
+   "Original- und detailgetreue Restaurierung."
+  ]
+ ],
+ "gal_title": "Aus der Werkstatt",
+ "gallery": [
+  "img/juwel_1.jpg",
+  "img/juwel_4.jpg",
+  "img/juwel_5.jpg",
+  "img/juwel_6.jpg"
+ ],
+ "band": "Unfall gehabt? Wir kümmern uns um alles.",
+ "hours": [
+  [
+   "Montag bis Freitag",
+   "7:30 bis 16:30"
+  ]
+ ],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "contact": "Karosserie & Lack JuWel GmbH<br>Rombachstraße 39<br>66539 Neunkirchen-Wellesweiler<br><br>Telefon 06821 59333<br>info@lack-juwel.de",
+ "audit": [
+  "Logo wird nicht geladen, oben links steht nur der Alternativtext",
+  "Startseite mit dunklem Bild und viel Fließtext, die starke Oldtimer-Restaurierung erst unter 'Referenzobjekte'",
+  "Keine Schadensmeldung mit Fotos, Ablauf nach dem Unfall nur im Fließtext"
+ ],
+ "hebel": "Nach einem Unfall entscheiden Autofahrer schnell und oft am Handy. 'Schaden melden' mit Fotos, Versicherungsabwicklung und Leihwagen ganz oben bringt Aufträge. Die Porsche-Restaurierung ist ein Aushängeschild für Oldtimer-Besitzer im ganzen Südwesten.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.290 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit Schadensmeldung per Foto, Leistungsseiten, Oldtimer-Referenzen, Versicherungsablauf, Google-Profil",
+ "svc": [
+  "'Schaden melden' mit Foto-Upload und Rückruf",
+  "Oldtimer-Seite mit Restaurierungsprojekten",
+  "Ablauf nach dem Unfall in 4 Schritten",
+  "Google-Profil mit Werkstattfotos"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite lädt das Logo nicht, und Ihre Porsche-Restaurierung findet man erst unter Referenzen. Ich habe Ihnen mitgebracht, wie das ganz vorne aussehen könnte.",
+ "obj": "'Die Versicherungen schicken uns Kunden': Gut, und Selbstzahler und Oldtimer-Besitzer suchen selbst. Die erreichen Sie nur über die Seite.",
+ "obs": [
+  "Oben links lädt Ihr Logo nicht, man sieht nur Text.",
+  "Nach einem Unfall kann man keine Fotos vom Schaden schicken.",
+  "Ihre Oldtimer-Restaurierung steht versteckt unter Referenzen."
+ ],
+ "neu": [
+  "Schaden melden mit Fotos",
+  "Oldtimer-Projekte als Aushängeschild",
+  "Leistungen und Ablauf klar erklärt"
+ ]
+}

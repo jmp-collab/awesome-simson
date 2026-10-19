@@ -1750,5 +1750,165 @@
   "addr": "Kuchenbergstraße 207",
   "tel": "0177 6922223",
   "welle": 9
+ },
+ {
+  "name": "Ferienapartment am Märzbrunnen",
+  "branche": "Ferienwohnung",
+  "url": "https://www.ferienwohnung-wiebelskirchen.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Kleines Budget",
+  "visit": "Vorher anrufen, privater Vermieter",
+  "audit": [
+   "Startseite nennt zwei Wohnungen (ca. 85 m² und 45 m²), die Preisseite nur eine",
+   "Copyright 2016, Auszeichnung von 2018, Hauptbild ist eine große Gänseblümchen-Collage",
+   "Keine Verfügbarkeit und keine Buchungsanfrage, Seitentitel 'die Ferienwohnung in Neunkirchen Saar'"
+  ],
+  "hebel": "Wanderer und Geschäftsreisende suchen 'Ferienwohnung Neunkirchen Saar' und buchen dort, wo sie Fotos, Preis und freie Termine sehen. Eine Seite mit Garten und Veranda im Mittelpunkt und einer Anfrage mit Wunschdatum bringt Direktbuchungen ohne Portalprovision.",
+  "p": [
+   "690 € (Start, ggf. in Raten)",
+   "1.190 bis 1.690 €",
+   "29 €"
+  ],
+  "paket": "Onepager mit Fotos, Preis, Ausstattung, Anfrage mit Wunschdatum, Wanderwege-Abschnitt, Google-Profil",
+  "svc": [
+   "Anfrage mit An- und Abreisedatum",
+   "Abschnitt Premium-Wanderwege für Google",
+   "Neue Fotos von Wohnung und Garten",
+   "Seite für Monteure und Geschäftsreisende"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite stehen zwei Wohnungen, auf der Preisseite nur eine. Ich habe Ihnen mitgebracht, wie Ihr Garten und die Veranda ganz vorne stehen könnten.",
+  "obj": "'Wir vermieten über Portale': Dann spart jede direkte Buchung Provision. Stammgäste buchen beim nächsten Mal direkt.",
+  "k": "maerz",
+  "addr": "Brucknerstraße 9",
+  "tel": "06821 58612",
+  "welle": 10
+ },
+ {
+  "name": "Malerbetrieb Gleich GmbH",
+  "branche": "Malerbetrieb",
+  "url": "https://www.maler-gleich.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Morgens früh oder nachmittags, vorher anrufen",
+  "audit": [
+   "Startseite mit zwei allgemeinen Sätzen, keine Leistungen",
+   "Keine Kontaktseite im Menü, nur Startseite, Über uns, Projekte, Datenschutz, Impressum",
+   "Baukasten-Seite (Strato), Projekte ohne Beschreibung"
+  ],
+  "hebel": "Maler werden gesucht, wenn ein Umzug, eine Renovierung oder eine Fassade ansteht. Leistungsseiten, Projektfotos mit kurzer Beschreibung und eine Anfrage mit Fotos bringen planbare Aufträge, besonders von Vermietern und Hausverwaltungen.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Neue Website mit Leistungsseiten (Fassade, Innen, Gewerbe), Projektgalerie mit Text, Anfrage mit Fotos, Kontaktseite, Google-Profil",
+  "svc": [
+   "Anfrage mit Fotos der Räume und Wunschtermin",
+   "Landingpages 'Fassade streichen Neunkirchen' und 'Maler Neunkirchen'",
+   "Projektseiten mit Vorher-Nachher",
+   "Karriereseite für Maler und Azubis"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite gibt es keine Kontaktseite und auf der Startseite stehen nur zwei Sätze. Ich habe Ihnen mitgebracht, wie Ihre Projekte und Leistungen dort aussehen könnten.",
+  "obj": "'Wir sind seit 1969 bekannt': Das ist Ihr stärkstes Argument. Die Seite soll genau das zeigen, damit auch neue Kunden und Bewerber es sehen.",
+  "k": "gleich",
+  "addr": "Redener Straße 41",
+  "tel": "06821 963636",
+  "welle": 10
+ },
+ {
+  "name": "Pension am Scheiber Hof",
+  "branche": "Pension",
+  "url": "https://www.pension-neunkirchen.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Vorher anrufen, Rezeption nach Absprache",
+  "audit": [
+   "Startseite mit 'Neueröffnung & NEU Renoviert!!!!' ohne Datum, Ausstattung als lange Liste (inkl. Fax)",
+   "Seitentitel 'pension-neunkirchens Webseite!', keine Zimmerpreise auf der Startseite",
+   "Gute neue Zimmerfotos, aber erst weiter unten, Verweis auf zweite Pension auf eigener Domain"
+  ],
+  "hebel": "Monteure und Geschäftsreisende buchen kurzfristig und wählen nach Preis, Foto und Lage. Die schönen neuen Zimmer nach vorne, Preise sichtbar und eine Anfrage mit Datum bringen direkte Buchungen, auch für die Schwesterpension am Stummplatz.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Neue Website mit Zimmern, Preisen, Anfrage mit Datum, Seite für Monteure und Firmen, Verbindung zur zweiten Pension, Google-Profil",
+  "svc": [
+   "Anfrage mit Datum und Anzahl Personen",
+   "Seite 'Monteurzimmer Neunkirchen' für Firmen",
+   "Gemeinsamer Auftritt mit Pension am Stummplatz",
+   "Google-Profil mit den neuen Zimmerfotos"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Zimmer sind frisch renoviert und sehen gut aus, aber auf der Seite stehen sie weit unten, und im Titel steht 'pension-neunkirchens Webseite!'. Ich habe Ihnen mitgebracht, wie die Zimmer ganz vorne aussehen könnten.",
+  "obj": "'Wir sind über Booking gut ausgelastet': Dann spart jede direkte Buchung Provision. Firmen, die regelmäßig Monteure schicken, buchen gern direkt.",
+  "k": "scheiber",
+  "addr": "Friedrichstraße 69",
+  "tel": "06821 88381",
+  "welle": 10
+ },
+ {
+  "name": "Karosserie & Lack JuWel GmbH",
+  "branche": "Karosserie und Lackiererei",
+  "url": "https://lack-juwel.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Morgens ab 7:30 Uhr, vorher anrufen",
+  "audit": [
+   "Logo wird nicht geladen, oben links steht nur der Alternativtext",
+   "Startseite mit dunklem Bild und viel Fließtext, die starke Oldtimer-Restaurierung erst unter 'Referenzobjekte'",
+   "Keine Schadensmeldung mit Fotos, Ablauf nach dem Unfall nur im Fließtext"
+  ],
+  "hebel": "Nach einem Unfall entscheiden Autofahrer schnell und oft am Handy. 'Schaden melden' mit Fotos, Versicherungsabwicklung und Leihwagen ganz oben bringt Aufträge. Die Porsche-Restaurierung ist ein Aushängeschild für Oldtimer-Besitzer im ganzen Südwesten.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.290 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Neue Website mit Schadensmeldung per Foto, Leistungsseiten, Oldtimer-Referenzen, Versicherungsablauf, Google-Profil",
+  "svc": [
+   "'Schaden melden' mit Foto-Upload und Rückruf",
+   "Oldtimer-Seite mit Restaurierungsprojekten",
+   "Ablauf nach dem Unfall in 4 Schritten",
+   "Google-Profil mit Werkstattfotos"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite lädt das Logo nicht, und Ihre Porsche-Restaurierung findet man erst unter Referenzen. Ich habe Ihnen mitgebracht, wie das ganz vorne aussehen könnte.",
+  "obj": "'Die Versicherungen schicken uns Kunden': Gut, und Selbstzahler und Oldtimer-Besitzer suchen selbst. Die erreichen Sie nur über die Seite.",
+  "k": "juwel",
+  "addr": "Rombachstraße 39",
+  "tel": "06821 59333",
+  "welle": 10
+ },
+ {
+  "name": "Fliesenmarkt Schwenk GmbH",
+  "branche": "Fliesenhandel und Verlegung",
+  "url": "https://www.fliesen-schwenk.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Umsatzhebel",
+  "visit": "Vormittags in der Ausstellung Wellesweiler",
+  "audit": [
+   "Auf der Standortseite laden die Google-Karten nicht ('Hoppla! Ein Fehler ist aufgetreten')",
+   "Sortiment nicht online, Sonderangebote ohne Preise auf der Startseite, kleine Bilder",
+   "Cookie-Hinweis ohne echte Auswahl ('Ich stimme zu'), ältere Joomla-Seite"
+  ],
+  "hebel": "Wer ein Bad plant, sucht Inspiration online und fährt dann in die Ausstellung, die ihm am meisten zeigt. Eine Seite mit Fliesenserien, Badideen, Sonderposten und Terminbuchung für die Beratung bringt Besucher in beide Märkte.",
+  "p": [
+   "1.490 bis 2.290 €",
+   "2.290 bis 3.490 €",
+   "49 bis 99 €"
+  ],
+  "paket": "Relaunch mit Sortimentsseiten, Sonderposten-Bereich, Beratungstermin online, funktionierenden Karten für beide Standorte, Google-Profile",
+  "svc": [
+   "Beratungstermin in der Ausstellung online buchen",
+   "Sonderposten-Seite, die das Team selbst pflegt",
+   "Badideen-Galerie aus Referenzen",
+   "Zwei Google-Profile sauber gepflegt"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Standortseite laden die Karten nicht, da steht 'Hoppla! Ein Fehler ist aufgetreten'. Ich habe Ihnen mitgebracht, wie Ihre beiden Märkte online aussehen könnten.",
+  "obj": "'Die Leute kommen eh in den Laden': Ja, aber vorher suchen sie online. Wer dort Badideen und Sonderposten sieht, kommt zu Ihnen statt zum Baumarkt.",
+  "k": "schwenk",
+  "addr": "Rombachstraße 80",
+  "tel": "06821 485601",
+  "welle": 10
  }
 ]

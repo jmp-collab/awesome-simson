@@ -658,5 +658,65 @@
    "Adresse und Karte sichtbar",
    "Mail-Adresse mit eigener Domain"
   ]
+ },
+ "maerz": {
+  "obs": [
+   "Auf der Startseite stehen zwei Wohnungen, bei den Preisen nur eine.",
+   "Das Hauptbild ist eine Blumen-Collage, der Garten ist klein am Rand.",
+   "Man kann kein Wunschdatum anfragen."
+  ],
+  "neu": [
+   "Garten und Veranda groß auf der Startseite",
+   "Preis und Ausstattung auf einen Blick",
+   "Anfrage mit Wunschdatum"
+  ]
+ },
+ "gleich": {
+  "obs": [
+   "Im Menü gibt es keine Kontaktseite.",
+   "Die Startseite hat nur zwei allgemeine Sätze.",
+   "Die Projekte haben keine Beschreibung."
+  ],
+  "neu": [
+   "Leistungen und Projekte auf der Startseite",
+   "Anfrage mit Fotos",
+   "Kontakt und Telefon überall sichtbar"
+  ]
+ },
+ "scheiber": {
+  "obs": [
+   "Im Seitentitel steht 'pension-neunkirchens Webseite!'.",
+   "Ihre schönen neuen Zimmerfotos stehen weit unten.",
+   "Preise sieht man auf der Startseite nicht."
+  ],
+  "neu": [
+   "Die renovierten Zimmer groß auf der Startseite",
+   "Anfrage mit Datum",
+   "Eigene Seite für Monteure und Firmen"
+  ]
+ },
+ "juwel": {
+  "obs": [
+   "Oben links lädt Ihr Logo nicht, man sieht nur Text.",
+   "Nach einem Unfall kann man keine Fotos vom Schaden schicken.",
+   "Ihre Oldtimer-Restaurierung steht versteckt unter Referenzen."
+  ],
+  "neu": [
+   "Schaden melden mit Fotos",
+   "Oldtimer-Projekte als Aushängeschild",
+   "Leistungen und Ablauf klar erklärt"
+  ]
+ },
+ "schwenk": {
+  "obs": [
+   "Auf der Standortseite laden die Karten nicht.",
+   "Ihr Sortiment ist online nicht zu sehen.",
+   "Die Bilder auf der Startseite sind klein."
+  ],
+  "neu": [
+   "Sortiment und Badideen online",
+   "Beratungstermin buchen",
+   "Beide Standorte mit Karte und Zeiten"
+  ]
  }
 }

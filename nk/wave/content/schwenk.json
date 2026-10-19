@@ -1,0 +1,119 @@
+{
+ "slug": "fliesenmarkt-schwenk-gmbh",
+ "theme": "papier",
+ "name": "Fliesenmarkt Schwenk GmbH",
+ "branche": "Fliesenhandel und Verlegung",
+ "addr": "Rombachstraße 80 · 66539 Neunkirchen-Wellesweiler",
+ "tel": "06821 485601",
+ "url": "https://www.fliesen-schwenk.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Umsatzhebel",
+ "visit": "Vormittags in der Ausstellung Wellesweiler",
+ "logo_a": "Fliesenmarkt",
+ "logo_b": "Schwenk",
+ "nav": [
+  "Ausstellung",
+  "Abholmarkt",
+  "Verlegung",
+  "Standorte"
+ ],
+ "eyebrow": "Fliesen in Neunkirchen und St. Wendel, seit 1991",
+ "h1": "Fliesen aussuchen, mitnehmen oder verlegen lassen.",
+ "lead": "Große Ausstellung, Abholmärkte in Neunkirchen-Wellesweiler und St. Wendel und Verlegung durch unsere Fliesenlegermeister. Für Heimwerker und Profis.",
+ "cta1": "Beratung vereinbaren",
+ "cta2": "Standorte",
+ "mcta": "Anrufen",
+ "badge": [
+  "2",
+  "Standorte im Saarland"
+ ],
+ "deco": "",
+ "hero_img": "img/schwenk_0.jpg",
+ "trust": [
+  "<b>Abholmarkt</b> mit vielem auf Lager",
+  "<b>Verlegeservice</b> durch Fliesenlegermeister",
+  "<b>Lieferung</b> und Anhänger-Verleih"
+ ],
+ "menu_title": "Standorte",
+ "menu": [
+  [
+   "Neunkirchen-Wellesweiler",
+   "Rombachstraße 80, am Kreisel, Tel. 06821 485601",
+   "Mo bis Fr 10 bis 18, Sa 9 bis 13"
+  ],
+  [
+   "St. Wendel",
+   "Linxweilerstraße 3, neben Globus Baumarkt, Tel. 06851 9122177",
+   "Mo bis Fr 9 bis 18, Sa 9 bis 13"
+  ]
+ ],
+ "svc_title": "Service",
+ "services": [
+  [
+   "Ausstellung",
+   "Beratung zu Material und Einsatz."
+  ],
+  [
+   "Abholmarkt",
+   "Breites Sortiment, direkt zum Mitnehmen."
+  ],
+  [
+   "Verlegeservice",
+   "Durch unsere Fliesenlegermeister."
+  ],
+  [
+   "Lieferung",
+   "Wir liefern nach Hause, Anhänger leihen möglich."
+  ],
+  [
+   "Restaurierung",
+   "Fliesenkunstwerke fachgerecht restauriert."
+  ],
+  [
+   "Angebot",
+   "Detailliert kalkuliert und geplant."
+  ]
+ ],
+ "gal_title": "Ausstellung",
+ "gallery": [
+  "img/schwenk_2.jpg",
+  "img/schwenk_1.jpg",
+  "img/schwenk_3.jpg"
+ ],
+ "band": "Neues Bad geplant? Kommen Sie in die Ausstellung.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Seit 1991",
+ "alt_text": "1991 gründete Martin Schwenk die Firma als Einmannbetrieb mit einer Garagenausstellung. Heute gibt es Abholmärkte in Neunkirchen und St. Wendel.",
+ "contact": "Fliesenmarkt Schwenk GmbH<br>Rombachstraße 80<br>66539 Neunkirchen-Wellesweiler<br><br>Telefon 06821 485601<br>info@fliesen-schwenk.de",
+ "audit": [
+  "Auf der Standortseite laden die Google-Karten nicht ('Hoppla! Ein Fehler ist aufgetreten')",
+  "Sortiment nicht online, Sonderangebote ohne Preise auf der Startseite, kleine Bilder",
+  "Cookie-Hinweis ohne echte Auswahl ('Ich stimme zu'), ältere Joomla-Seite"
+ ],
+ "hebel": "Wer ein Bad plant, sucht Inspiration online und fährt dann in die Ausstellung, die ihm am meisten zeigt. Eine Seite mit Fliesenserien, Badideen, Sonderposten und Terminbuchung für die Beratung bringt Besucher in beide Märkte.",
+ "p": [
+  "1.490 bis 2.290 €",
+  "2.290 bis 3.490 €",
+  "49 bis 99 €"
+ ],
+ "paket": "Relaunch mit Sortimentsseiten, Sonderposten-Bereich, Beratungstermin online, funktionierenden Karten für beide Standorte, Google-Profile",
+ "svc": [
+  "Beratungstermin in der Ausstellung online buchen",
+  "Sonderposten-Seite, die das Team selbst pflegt",
+  "Badideen-Galerie aus Referenzen",
+  "Zwei Google-Profile sauber gepflegt"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Standortseite laden die Karten nicht, da steht 'Hoppla! Ein Fehler ist aufgetreten'. Ich habe Ihnen mitgebracht, wie Ihre beiden Märkte online aussehen könnten.",
+ "obj": "'Die Leute kommen eh in den Laden': Ja, aber vorher suchen sie online. Wer dort Badideen und Sonderposten sieht, kommt zu Ihnen statt zum Baumarkt.",
+ "obs": [
+  "Auf der Standortseite laden die Karten nicht.",
+  "Ihr Sortiment ist online nicht zu sehen.",
+  "Die Bilder auf der Startseite sind klein."
+ ],
+ "neu": [
+  "Sortiment und Badideen online",
+  "Beratungstermin buchen",
+  "Beide Standorte mit Karte und Zeiten"
+ ]
+}

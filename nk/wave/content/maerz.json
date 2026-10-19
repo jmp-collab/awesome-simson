@@ -1,0 +1,123 @@
+{
+ "slug": "ferienapartment-am-m-rzbrunnen",
+ "theme": "spa",
+ "name": "Ferienapartment am Märzbrunnen",
+ "branche": "Ferienwohnung",
+ "addr": "Brucknerstraße 9 · 66540 Neunkirchen-Wiebelskirchen",
+ "tel": "06821 58612",
+ "url": "https://www.ferienwohnung-wiebelskirchen.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Kleines Budget",
+ "visit": "Vorher anrufen, privater Vermieter",
+ "logo_a": "Ferienapartment",
+ "logo_b": "am Märzbrunnen",
+ "nav": [
+  "Wohnung",
+  "Garten",
+  "Preise",
+  "Wandern"
+ ],
+ "eyebrow": "Ferienwohnung in Neunkirchen-Wiebelskirchen",
+ "h1": "Ruhig wohnen mit 3.000 m² Garten.",
+ "lead": "Eine 45 m² große Ferienwohnung im Erdgeschoss für ein bis zwei Personen, mit überdachter Holzveranda, Blick in den Garten und Parkplatz im gesicherten Hof. Vier Premium-Wanderwege liegen in der Nähe.",
+ "cta1": "Verfügbarkeit anfragen",
+ "cta2": "Wohnung ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "49 €",
+  "pro Nacht inkl. Endreinigung"
+ ],
+ "deco": "",
+ "hero_img": "img/maerz_garten.jpg",
+ "trust": [
+  "<b>Über 3.000 m² Garten</b> mit Grillplätzen",
+  "<b>Parkplatz</b> im gesicherten Hof",
+  "<b>4 Premium-Wanderwege</b> in der Nähe"
+ ],
+ "menu_title": "Preise",
+ "menu": [
+  [
+   "Ferienwohnung, 45 m²",
+   "max. 2 Personen, mindestens 3 Nächte",
+   "49 € / Nacht"
+  ],
+  [
+   "Endreinigung",
+   "im Preis enthalten",
+   "inklusive"
+  ],
+  [
+   "Bettwäsche und Handtücher",
+   "im Preis enthalten",
+   "inklusive"
+  ]
+ ],
+ "svc_title": "Ausstattung",
+ "services": [
+  [
+   "Veranda",
+   "Überdacht, aus Holz, mit Blick in den Garten."
+  ],
+  [
+   "Küche",
+   "Herd mit Backofen, Mikrowelle, Kaffeemaschine, Spülmaschine."
+  ],
+  [
+   "Wohnzimmer",
+   "Couch, Flachbild-TV mit Satellit, DVD und Stereoanlage."
+  ],
+  [
+   "Schlafzimmer",
+   "Großes französisches Bett."
+  ],
+  [
+   "WLAN",
+   "Kostenlos."
+  ],
+  [
+   "Wandern",
+   "Ottweiler Mühlenpfad, Steinbachpfad, Schauinsland-Weg, Hangarder Brunnenpfad."
+  ]
+ ],
+ "gal_title": "Haus und Garten",
+ "gallery": [
+  "img/maerz_haus.jpg",
+  "img/maerz_schlaf.jpg"
+ ],
+ "band": "Ruhe, Garten und Wanderwege vor der Tür. Jetzt anfragen.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Gut zu wissen",
+ "alt_text": "Mindestaufenthalt drei Nächte. Alle Preise inklusive Endreinigung, Bettwäsche und Handtücher.",
+ "contact": "Ferienapartment am Märzbrunnen<br>Brucknerstraße 9<br>66540 Neunkirchen-Wiebelskirchen<br><br>Telefon 06821 58612",
+ "audit": [
+  "Startseite nennt zwei Wohnungen (ca. 85 m² und 45 m²), die Preisseite nur eine",
+  "Copyright 2016, Auszeichnung von 2018, Hauptbild ist eine große Gänseblümchen-Collage",
+  "Keine Verfügbarkeit und keine Buchungsanfrage, Seitentitel 'die Ferienwohnung in Neunkirchen Saar'"
+ ],
+ "hebel": "Wanderer und Geschäftsreisende suchen 'Ferienwohnung Neunkirchen Saar' und buchen dort, wo sie Fotos, Preis und freie Termine sehen. Eine Seite mit Garten und Veranda im Mittelpunkt und einer Anfrage mit Wunschdatum bringt Direktbuchungen ohne Portalprovision.",
+ "p": [
+  "690 € (Start, ggf. in Raten)",
+  "1.190 bis 1.690 €",
+  "29 €"
+ ],
+ "paket": "Onepager mit Fotos, Preis, Ausstattung, Anfrage mit Wunschdatum, Wanderwege-Abschnitt, Google-Profil",
+ "svc": [
+  "Anfrage mit An- und Abreisedatum",
+  "Abschnitt Premium-Wanderwege für Google",
+  "Neue Fotos von Wohnung und Garten",
+  "Seite für Monteure und Geschäftsreisende"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite stehen zwei Wohnungen, auf der Preisseite nur eine. Ich habe Ihnen mitgebracht, wie Ihr Garten und die Veranda ganz vorne stehen könnten.",
+ "obj": "'Wir vermieten über Portale': Dann spart jede direkte Buchung Provision. Stammgäste buchen beim nächsten Mal direkt.",
+ "obs": [
+  "Auf der Startseite stehen zwei Wohnungen, bei den Preisen nur eine.",
+  "Das Hauptbild ist eine Blumen-Collage, der Garten ist klein am Rand.",
+  "Man kann kein Wunschdatum anfragen."
+ ],
+ "neu": [
+  "Garten und Veranda groß auf der Startseite",
+  "Preis und Ausstattung auf einen Blick",
+  "Anfrage mit Wunschdatum"
+ ]
+}
