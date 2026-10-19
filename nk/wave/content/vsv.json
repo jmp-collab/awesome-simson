@@ -1,0 +1,109 @@
+{
+ "slug": "vsv-hochbau-gmbh",
+ "theme": "metall",
+ "name": "VSV Abbruch GmbH",
+ "branche": "Abbruch / Entkernung / Schadstoffsanierung",
+ "addr": "Wellesweilerstraße 86 · 66538 Neunkirchen",
+ "tel": "06821 590721",
+ "url": "https://www.vsv-abbruch.de",
+ "g": "keine Bewertungen gefunden",
+ "label": "Quick Win",
+ "visit": "Vorher anrufen, Büro werktags vormittags",
+ "logo_a": "VSV",
+ "logo_b": "Abbruch",
+ "nav": [
+  "Leistungen",
+  "Asbest",
+  "Referenzen",
+  "Kontakt"
+ ],
+ "eyebrow": "Abbruch, Entkernung und Sanierung seit 2001",
+ "h1": "Abbruch, Entkernung und Asbestsanierung aus einer Hand.",
+ "lead": "Vom Industriegebäude bis zur Garage: Abriss, Entkernung, Schadstoffsanierung und fachgerechte Entsorgung, terminorientiert und nach allen Vorschriften.",
+ "cta1": "Projekt anfragen",
+ "cta2": "Leistungen ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "2001",
+  "seit über 20 Jahren"
+ ],
+ "deco": "",
+ "hero_img": "img/vsvhero_0.jpg",
+ "trust": [
+  "<b>Seit 2001</b> Abbruch und Rückbau",
+  "<b>Asbestsanierung</b> nach TRGS 519",
+  "<b>Entsorgung</b> nach abfallrechtlichen Vorschriften"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Abbruch",
+   "Industriegebäude, Mehr- und Einfamilienhäuser, Anbauten und Garagen."
+  ],
+  [
+   "Entkernung",
+   "Bis auf die Grundmauern, mit sortierter Entsorgung."
+  ],
+  [
+   "Schadstoffsanierung",
+   "Asbest, PCB, PAK, KMF nach TRGS 519, 521 und 524."
+  ],
+  [
+   "Flächenräumung",
+   "Sortierung, Abtransport und Entsorgung des Abrissmaterials."
+  ],
+  [
+   "Entsorgung und Recycling",
+   "Geringere Deponiekosten durch saubere Trennung."
+  ],
+  [
+   "Öffentliche Auftraggeber",
+   "Erfahrung mit Behörden und öffentlichen Ausschreibungen."
+  ]
+ ],
+ "gal_title": "Aus unseren Projekten",
+ "gallery": [
+  "img/vsv-hochbau-gmbh_0.jpg",
+  "img/vsv-hochbau-gmbh_1.jpg",
+  "img/vsv-hochbau-gmbh_3.jpg",
+  "img/vsv-hochbau-gmbh_2.jpg"
+ ],
+ "band": "Abriss oder Sanierung geplant? Schicken Sie uns die Eckdaten.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Projektanfrage",
+ "alt_text": "Objektart, Größe, Ort und gewünschter Zeitraum genügen für eine erste Einschätzung. Fotos oder Pläne können Sie direkt mitschicken.",
+ "contact": "VSV Abbruch GmbH<br>Wellesweilerstraße 86<br>66538 Neunkirchen<br><br>Telefon 06821 590721<br>info@vsv-abbruch.de",
+ "audit": [
+  "Auf dem Handy bleibt die Startseite bei meinem Test komplett weiß: kein Text, keine Bilder",
+  "Nicht für Smartphones angepasst",
+  "Die starke Asbest-Zulassung (TRGS 519, GefStoffV) steht nur tief auf einer Unterseite"
+ ],
+ "hebel": "Asbestsanierung ist ein Spezialgebiet mit wenigen zugelassenen Betrieben und hoher Nachfrage durch Hausverkäufe und Sanierungen. Eine eigene Seite 'Asbestsanierung Saarland' mit Zulassungen und Anfrageformular bringt hochwertige Privat- und Gewerbeaufträge.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.290 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Website mit Leistungsseiten (Abbruch, Entkernung, Asbest, Entsorgung), Referenzen, Projektanfrage mit Upload, Google-Profil",
+ "svc": [
+  "Landingpage Asbestsanierung mit Zulassungen und FAQ für Privatkunden",
+  "Google-Profil mit Projektfotos, Bewertungen von Bauherren anfragen",
+  "Einträge in Ausschreibungs- und Handwerkerportalen",
+  "Kooperationen mit Maklern und Gutachtern (Backlinks und Empfehlungen)"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Sie haben die Zulassung für Asbestsanierung, die suchen viele Hauskäufer gerade. Auf Ihrer Website findet man das kaum. Ich hab Ihnen mitgebracht, wie das aussehen könnte.",
+ "obj": "'Wir arbeiten mit festen Auftraggebern': Gut, dann holt die Seite zusätzlich die Privatkunden mit Asbestproblem, die heute bei überregionalen Firmen landen.",
+ "obs": [
+  "Auf dem Handy bleibt Ihre Startseite bei meinem Test leer, es erscheinen weder Text noch Bilder.",
+  "Auf Ihrer Startseite steht fast kein Text. Google kann dadurch kaum erkennen, was Sie anbieten.",
+  "Ihre Zulassung für Asbestsanierung steht nur auf einer Unterseite."
+ ],
+ "neu": [
+  "Eine Seite, die auf Handy und Rechner gleich gut funktioniert, mit Ihren großen Baustellenfotos",
+  "Eine eigene Seite zur Asbestsanierung mit Ihren Zulassungen",
+  "Projektanfrage mit Foto- und Plan-Upload"
+ ]
+}

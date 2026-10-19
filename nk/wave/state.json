@@ -1,15 +1,6 @@
 {
  "queue": [
-  "r-mpel-alf",
-  "regitz-kreativdesign",
-  "horst-sehte-gmbh",
-  "vsv-hochbau-gmbh",
-  "schneider-birgit-musikunterricht",
-  "divna-medizinische-fu-pflege",
-  "orthop-die-lattrich-gmbh-wolfgang",
-  "deja-vu-second-hand-exclusive",
   "schmidt-thomas-michael-dr-med-u-schmitt-",
-  "k-nig-bernd-dipl-ing-architekt",
   "arminia-steuerberatung",
   "decker-fenster-haust-ren-rollladen-gmbh",
   "logop-die-kr-mer-monika-schwochow-nathal",
@@ -291,9 +282,19 @@
   "high-voltage",
   "elektro-hobler-ug-haftungsbeschr-nkt-ele",
   "asia-haus-thaimassagen",
-  "koble-tassone-jeannine-friseur"
+  "koble-tassone-jeannine-friseur",
+  "horst-sehte-gmbh",
+  "vsv-hochbau-gmbh",
+  "divna-medizinische-fu-pflege",
+  "orthop-die-lattrich-gmbh-wolfgang",
+  "schneider-birgit-musikunterricht",
+  "horst-sehte-gmbh",
+  "vsv-hochbau-gmbh",
+  "divna-medizinische-fu-pflege",
+  "orthop-die-lattrich-gmbh-wolfgang",
+  "schneider-birgit-musikunterricht"
  ],
- "wave": 2,
+ "wave": 3,
  "deferred": {
   "l-a-nails-nagelstudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",
   "nieland-julia-pasta": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",
@@ -301,6 +302,10 @@
   "schreiner-barbara-fotostudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",
   "aktiv-gesundheitspark": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",
   "sascha-kieczewsky-planungsb-ro": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",
-  "reitverein-neunkirchen-city": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren"
+  "reitverein-neunkirchen-city": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",
+  "r-mpel-alf": "Seite modern (WordPress, mobil fast ok), 4,9 Sterne, nur Ladezeit: geringer Hebel",
+  "k-nig-bernd-dipl-ing-architekt": "Domain steht zum Verkauf, Betrieb unklar",
+  "regitz-kreativdesign": "Startseite defekt (Unterseite nicht gefunden), keine Inhalte f\u00fcr Entwurf: Leistungen vor Ort kl\u00e4ren",
+  "deja-vu-second-hand-exclusive": "Seite modern (WordPress 2021), mobil ok: nur Bewertungen fehlen, geringer Hebel"
  }
 }

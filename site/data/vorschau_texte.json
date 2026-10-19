@@ -238,5 +238,65 @@
    "Leistungen und Preise auf einen Blick, auch am Handy",
    "Online-Terminanfrage und eine eigene Seite für Braut-Make-up"
   ]
+ },
+ "sehte": {
+  "obs": [
+   "Ihre Startseite zeigt derzeit nur den Hinweis 'Unsere Website wird derzeit überarbeitet'.",
+   "Leistungen, Bilder und Ansprechpartner sind im Moment online nicht zu finden.",
+   "Ihre 40 Google-Bewertungen mit 4,4 Sternen sieht auf der Website niemand."
+  ],
+  "neu": [
+   "Eine fertige Seite mit Ihren Leistungen, in etwa zwei Wochen online",
+   "Dach-Check-Anfrage mit Foto-Upload",
+   "Ihre guten Bewertungen sichtbar auf der Startseite"
+  ]
+ },
+ "vsv": {
+  "obs": [
+   "Auf dem Handy bleibt Ihre Startseite bei meinem Test leer, es erscheinen weder Text noch Bilder.",
+   "Auf Ihrer Startseite steht fast kein Text. Google kann dadurch kaum erkennen, was Sie anbieten.",
+   "Ihre Zulassung für Asbestsanierung steht nur auf einer Unterseite."
+  ],
+  "neu": [
+   "Eine Seite, die auf Handy und Rechner gleich gut funktioniert, mit Ihren großen Baustellenfotos",
+   "Eine eigene Seite zur Asbestsanierung mit Ihren Zulassungen",
+   "Projektanfrage mit Foto- und Plan-Upload"
+  ]
+ },
+ "divna": {
+  "obs": [
+   "Auf dem Handy ist Ihre Seite breiter als der Bildschirm. Man muss seitlich wischen, um alles zu sehen.",
+   "Laut Server wurde Ihre Startseite zuletzt 2018 geändert.",
+   "Ihre medizinische Podologie mit Kassenrezept steht gleichrangig neben Kosmetik und Sonnenbank."
+  ],
+  "neu": [
+   "Podologie und Kosmetik klar getrennt, für Patienten sofort verständlich",
+   "Terminanfrage online, neben dem Telefon",
+   "Eine Seite mit Informationen für überweisende Ärzte"
+  ]
+ },
+ "lattrich": {
+  "obs": [
+   "Auf Ihrer Startseite steht die Fehlermeldung 'Smart Slider with ID #4 does NOT EXIST' statt eines Bildes.",
+   "Die Rubrik 'Aktuelles' meldet, dass zurzeit keine Informationen anstehen.",
+   "Ein Rezept kann man online nicht einreichen, und offene Stellen sind nicht zu finden."
+  ],
+  "neu": [
+   "Eine saubere Startseite mit Ihren drei Standorten und Zeiten",
+   "Rezept per Foto hochladen und Rückruf erhalten",
+   "Eine Karriereseite für Fachkräfte und Azubis"
+  ]
+ },
+ "schneider": {
+  "obs": [
+   "Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.",
+   "Ihre besten Argumente, keine Kündigungsfrist und kostenfreie Ferien, stehen im Fließtext.",
+   "Ein Google-Profil, über das Eltern Sie finden, habe ich nicht gefunden."
+  ],
+  "neu": [
+   "Instrumente und Kosten auf einen Blick, auch am Handy",
+   "Probestunde anfragen mit einem Tipp",
+   "Ein Google-Profil, damit Eltern Sie bei der Suche finden"
+  ]
  }
 }

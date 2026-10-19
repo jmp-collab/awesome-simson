@@ -1,0 +1,111 @@
+{
+ "slug": "divna-medizinische-fu-pflege",
+ "theme": "beauty",
+ "name": "Institut DIVNA",
+ "branche": "Podologie / Kosmetik / Wellness",
+ "addr": "Hermannstraße 53 · 66538 Neunkirchen",
+ "tel": "06821 983190",
+ "url": "https://www.podologie-divna.de",
+ "g": "4,6 ★ (37)",
+ "label": "Solide Chance",
+ "visit": "Dienstag bis Freitag zwischen den Terminen, vorher anrufen",
+ "logo_a": "Institut",
+ "logo_b": "DIVNA",
+ "nav": [
+  "Podologie",
+  "Kosmetik",
+  "Wellness",
+  "Kontakt"
+ ],
+ "eyebrow": "Podologische Praxis und Kosmetikinstitut in Neunkirchen",
+ "h1": "Gesunde Füße, gepflegte Haut.",
+ "lead": "Medizinische Fußpflege von der staatlich geprüften Podologin, auch auf ärztliche Verordnung. Dazu Kosmetik, Wellness und Nagelmodellage unter einem Dach.",
+ "cta1": "Termin anfragen",
+ "cta2": "Leistungen ansehen",
+ "mcta": "Termin",
+ "badge": [
+  "4,6 ★",
+  "37 Bewertungen bei Google"
+ ],
+ "deco": "Divna",
+ "hero_img": "",
+ "trust": [
+  "<b>Staatlich geprüfte Podologin</b>",
+  "<b>Kassenrezept</b> möglich",
+  "<b>Di bis Fr</b> 8:30 bis 18:30 Uhr"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Podologische Behandlung",
+   "Mit Befund, auch für Diabetiker, Bluter und Marcumar-Patienten."
+  ],
+  [
+   "Nagelspangen",
+   "Bei eingewachsenen oder eingerollten Zehennägeln."
+  ],
+  [
+   "Nagel- und Fußpilz",
+   "Behandlung von Onycho- und Dermatomykose."
+  ],
+  [
+   "Hühneraugen, Hornhaut, Rhagaden",
+   "Skalpelltechnik, Druck- und Reibungsschutz."
+  ],
+  [
+   "Kosmetik",
+   "Gesichtsbehandlungen von Basis bis 'Royal', auch für Herren."
+  ],
+  [
+   "Wellness und Nägel",
+   "Fußreflexzonen, Lymphdrainage, Nagelmodellage."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Wunschtermin? Wir nehmen uns Zeit für Sie.",
+ "hours": [
+  [
+   "Dienstag bis Freitag",
+   "8:30 bis 18:30 Uhr"
+  ],
+  [
+   "Termine",
+   "nach Vereinbarung"
+  ]
+ ],
+ "pill": "",
+ "contact": "Institut DIVNA<br>Hermannstraße 53<br>66538 Neunkirchen<br><br>Telefon 06821 983190",
+ "audit": [
+  "Auf dem Handy breiter als der Bildschirm, laut Server zuletzt 2018 geändert",
+  "Die medizinische Podologie mit Kassenzulassung geht zwischen Kosmetik und Sonnenbank unter",
+  "Keine Online-Terminanfrage, nur Telefon"
+ ],
+ "hebel": "Podologie auf Rezept ist planbares Stammgeschäft mit Diabetikern, Ärzte und Wundnetz empfehlen weiter. Eine klar getrennte Seite 'Podologie Neunkirchen' für Patienten und Ärzte, dazu Terminanfrage, bringt Verordnungen direkt in den Kalender.",
+ "p": [
+  "690 bis 990 €",
+  "1.190 bis 1.690 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Website mit getrennten Bereichen Podologie (Patienten, Ärzte) und Kosmetik, Terminanfrage, Google-Profil mit Leistungen",
+ "svc": [
+  "Infoblatt und Seite für Hausärzte und Diabetologen (Verordnungen, Ablauf)",
+  "Google-Profil mit Kategorie Podologe und Leistungen, Bewertungs-QR an der Theke",
+  "Gutscheine für Kosmetik online (Weihnachten, Muttertag)",
+  "Barrierefreie Gestaltung für ältere Patienten"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Sie sind staatlich geprüfte Podologin mit Kassenzulassung, auf Ihrer Website geht das neben Kosmetik und Sonnenbank fast unter. Ich hab Ihnen mitgebracht, wie man das trennen könnte.",
+ "obj": "'Meine Patienten kommen über den Arzt': Genau dafür ist eine eigene Ärzte-Seite gedacht. Wer verschreibt, empfiehlt lieber eine Praxis, deren Ablauf er online nachlesen kann.",
+ "obs": [
+  "Auf dem Handy ist Ihre Seite breiter als der Bildschirm. Man muss seitlich wischen, um alles zu sehen.",
+  "Laut Server wurde Ihre Startseite zuletzt 2018 geändert.",
+  "Ihre medizinische Podologie mit Kassenrezept steht gleichrangig neben Kosmetik und Sonnenbank."
+ ],
+ "neu": [
+  "Podologie und Kosmetik klar getrennt, für Patienten sofort verständlich",
+  "Terminanfrage online, neben dem Telefon",
+  "Eine Seite mit Informationen für überweisende Ärzte"
+ ]
+}

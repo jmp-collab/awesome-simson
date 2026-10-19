@@ -1,0 +1,40 @@
+{
+ "key": "vsv-hochbau-gmbh",
+ "url": "https://www.vsv-abbruch.de/",
+ "title": "Home",
+ "text": "",
+ "imgs": [],
+ "bg": [
+  "https://www.vsv-abbruch.de/images/arrowmenudown.png?crc=262559161",
+  "https://www.vsv-abbruch.de/images/0b3cc3c0-9586-4bc7-9a20-090b1e2a43e1.jpg?crc=438704277",
+  "https://www.vsv-abbruch.de/images/waldmohr1-u164-fr.jpg?crc=4144962211",
+  "https://www.vsv-abbruch.de/images/ramstein%20geb%20201%20a%20014%20(1280x797)%20(2).jpg?crc=4154837373",
+  "https://www.vsv-abbruch.de/images/lkw.jpg?crc=434906976"
+ ],
+ "tel": [],
+ "mail": [],
+ "links": [
+  {
+   "t": "ABBRUCH",
+   "h": "https://www.vsv-abbruch.de/abbruch.html"
+  },
+  {
+   "t": "ENTKERNUNG",
+   "h": "https://www.vsv-abbruch.de/entkernung.html"
+  },
+  {
+   "t": "SANIERUNG",
+   "h": "https://www.vsv-abbruch.de/sanierung.html"
+  },
+  {
+   "t": "ENTSORGUNG",
+   "h": "https://www.vsv-abbruch.de/entsorgung.html"
+  }
+ ],
+ "saved": [
+  "img/vsv-hochbau-gmbh_0.jpg",
+  "img/vsv-hochbau-gmbh_1.jpg",
+  "img/vsv-hochbau-gmbh_2.jpg",
+  "img/vsv-hochbau-gmbh_3.jpg"
+ ]
+}

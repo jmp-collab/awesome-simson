@@ -631,5 +631,164 @@
   "addr": "Kuchenbergstraße 1",
   "tel": "06821 9838460",
   "welle": 2
+ },
+ {
+  "name": "Horst Sehte GmbH",
+  "branche": "Dachdecker",
+  "url": "https://dach-sehte.de",
+  "g": "4,4 ★ (40)",
+  "label": "Quick Win",
+  "visit": "Früh morgens 7 bis 8 Uhr oder vorher anrufen (Mobil laut Impressum vorhanden)",
+  "audit": [
+   "Startseite zeigt nur 'Unsere Website wird derzeit überarbeitet', keine Leistungen, keine Bilder",
+   "40 Google-Bewertungen mit 4,4 Sternen laufen ins Leere",
+   "Laut Impressum hat eine Agentur (BW-Media, Ottweiler) die Seite gebaut: vorher klären, ob dort schon ein Neubau beauftragt ist"
+  ],
+  "hebel": "Ein Dachdecker mit guten Bewertungen, der online gerade gar nichts zeigt, verliert jede Suche 'Dachdecker Neunkirchen' an die Konkurrenz. Hier zählt Tempo: eine fertige Seite in zwei Wochen statt einer Baustelle auf unbestimmte Zeit.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Website mit Leistungsseiten, Dach-Check-Formular mit Foto, Bewertungen eingebunden, Google-Profil aufgefrischt",
+  "svc": [
+   "Google-Profil mit Baustellenfotos und Beiträgen, Bewertungs-QR auf der Rechnung",
+   "Leistungsseiten für Reparatur, Sanierung und Dachfenster als lokale Suchtreffer",
+   "Ratgeber zu Förderung für Dachdämmung",
+   "Karriereseite für Dachdecker und Azubis"
+  ],
+  "open": "Herr Sehte, ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Website steht seit einer Weile 'wird überarbeitet', dabei haben Sie 40 gute Bewertungen. Ich hab Ihnen mitgebracht, wie Ihre Seite in zwei Wochen aussehen könnte.",
+  "obj": "'Da ist schon jemand dran': Dann schauen Sie sich den Entwurf trotzdem an. Kostet nichts, und Sie haben einen Vergleich, was Preis und Tempo angeht.",
+  "k": "sehte",
+  "addr": "Schillerstraße 49",
+  "tel": "06821 51356",
+  "welle": 3
+ },
+ {
+  "name": "VSV Abbruch GmbH",
+  "branche": "Abbruch / Entkernung / Schadstoffsanierung",
+  "url": "https://www.vsv-abbruch.de",
+  "g": "keine Bewertungen gefunden",
+  "label": "Quick Win",
+  "visit": "Vorher anrufen, Büro werktags vormittags",
+  "audit": [
+   "Auf dem Handy bleibt die Startseite bei meinem Test komplett weiß: kein Text, keine Bilder",
+   "Nicht für Smartphones angepasst",
+   "Die starke Asbest-Zulassung (TRGS 519, GefStoffV) steht nur tief auf einer Unterseite"
+  ],
+  "hebel": "Asbestsanierung ist ein Spezialgebiet mit wenigen zugelassenen Betrieben und hoher Nachfrage durch Hausverkäufe und Sanierungen. Eine eigene Seite 'Asbestsanierung Saarland' mit Zulassungen und Anfrageformular bringt hochwertige Privat- und Gewerbeaufträge.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.290 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Website mit Leistungsseiten (Abbruch, Entkernung, Asbest, Entsorgung), Referenzen, Projektanfrage mit Upload, Google-Profil",
+  "svc": [
+   "Landingpage Asbestsanierung mit Zulassungen und FAQ für Privatkunden",
+   "Google-Profil mit Projektfotos, Bewertungen von Bauherren anfragen",
+   "Einträge in Ausschreibungs- und Handwerkerportalen",
+   "Kooperationen mit Maklern und Gutachtern (Backlinks und Empfehlungen)"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Sie haben die Zulassung für Asbestsanierung, die suchen viele Hauskäufer gerade. Auf Ihrer Website findet man das kaum. Ich hab Ihnen mitgebracht, wie das aussehen könnte.",
+  "obj": "'Wir arbeiten mit festen Auftraggebern': Gut, dann holt die Seite zusätzlich die Privatkunden mit Asbestproblem, die heute bei überregionalen Firmen landen.",
+  "k": "vsv",
+  "addr": "Wellesweilerstraße 86",
+  "tel": "06821 590721",
+  "welle": 3
+ },
+ {
+  "name": "Institut DIVNA",
+  "branche": "Podologie / Kosmetik / Wellness",
+  "url": "https://www.podologie-divna.de",
+  "g": "4,6 ★ (37)",
+  "label": "Solide Chance",
+  "visit": "Dienstag bis Freitag zwischen den Terminen, vorher anrufen",
+  "audit": [
+   "Auf dem Handy breiter als der Bildschirm, laut Server zuletzt 2018 geändert",
+   "Die medizinische Podologie mit Kassenzulassung geht zwischen Kosmetik und Sonnenbank unter",
+   "Keine Online-Terminanfrage, nur Telefon"
+  ],
+  "hebel": "Podologie auf Rezept ist planbares Stammgeschäft mit Diabetikern, Ärzte und Wundnetz empfehlen weiter. Eine klar getrennte Seite 'Podologie Neunkirchen' für Patienten und Ärzte, dazu Terminanfrage, bringt Verordnungen direkt in den Kalender.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.690 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Website mit getrennten Bereichen Podologie (Patienten, Ärzte) und Kosmetik, Terminanfrage, Google-Profil mit Leistungen",
+  "svc": [
+   "Infoblatt und Seite für Hausärzte und Diabetologen (Verordnungen, Ablauf)",
+   "Google-Profil mit Kategorie Podologe und Leistungen, Bewertungs-QR an der Theke",
+   "Gutscheine für Kosmetik online (Weihnachten, Muttertag)",
+   "Barrierefreie Gestaltung für ältere Patienten"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Sie sind staatlich geprüfte Podologin mit Kassenzulassung, auf Ihrer Website geht das neben Kosmetik und Sonnenbank fast unter. Ich hab Ihnen mitgebracht, wie man das trennen könnte.",
+  "obj": "'Meine Patienten kommen über den Arzt': Genau dafür ist eine eigene Ärzte-Seite gedacht. Wer verschreibt, empfiehlt lieber eine Praxis, deren Ablauf er online nachlesen kann.",
+  "k": "divna",
+  "addr": "Hermannstraße 53",
+  "tel": "06821 983190",
+  "welle": 3
+ },
+ {
+  "name": "Lattrich Orthopädie GmbH",
+  "branche": "Sanitätshaus / Orthopädie- und Rehatechnik",
+  "url": "https://lattrich.de",
+  "g": "4,0 ★ (35)",
+  "label": "Solide Chance",
+  "visit": "Werktags vormittags im Sanitätshaus Hebbelstraße, nach der Geschäftsführung fragen",
+  "audit": [
+   "Auf der Startseite steht die Fehlermeldung 'Smart Slider with ID #4 does NOT EXIST' statt eines Bildes",
+   "Rubrik 'Aktuelles': 'Zurzeit stehen keine aktuellen Informationen an'",
+   "Bei 58 Mitarbeitern keine Karriereseite und keine Online-Rezeptanfrage"
+  ],
+  "hebel": "Ein Betrieb mit 58 Mitarbeitern und drei Standorten wirkt mit einer Fehlermeldung auf der Startseite kleiner, als er ist. Hebel: Rezept-Upload (Foto der Verordnung), Standortseiten für lokale Suche und eine Karriereseite für Orthopädietechniker, die schwer zu finden sind.",
+  "p": [
+   "1.490 bis 2.490 €",
+   "2.490 bis 3.990 €",
+   "79 bis 149 €"
+  ],
+  "paket": "Website mit Standortseiten, Leistungsbereichen, Rezept-Upload, Karriereseite, Google-Profile für alle drei Standorte",
+  "svc": [
+   "Rezept per Foto hochladen, Rückruf zur Terminvereinbarung",
+   "Karriereseite mit Google-Jobdaten für Orthopädietechniker, Sanitätshaus-Fachkräfte und Azubis",
+   "Google-Profile aller Standorte vereinheitlichen, Bewertungen nach Versorgung anfragen",
+   "Infoseiten für Ärzte und Pflegedienste in der Region"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht gerade eine Fehlermeldung statt eines Bildes. Für einen Betrieb mit 58 Mitarbeitern ist das schade. Ich hab Ihnen mitgebracht, wie es aussehen könnte.",
+  "obj": "'Das macht unsere Agentur': Dann zeigen Sie den Entwurf dort gern als Messlatte. Die Fehlermeldung sollte in jedem Fall heute noch weg.",
+  "k": "lattrich",
+  "addr": "Hebbelstraße 5-7",
+  "tel": "06821 22476",
+  "welle": 3
+ },
+ {
+  "name": "Musikunterricht Birgit Schneider",
+  "branche": "Musikunterricht",
+  "url": "https://www.musikunterricht-neunkirchen.de",
+  "g": "keine Bewertungen gefunden",
+  "label": "Kleines Budget",
+  "visit": "Vormittags vor dem Unterricht, vorher anrufen",
+  "audit": [
+   "Nicht für Smartphones angepasst",
+   "Starke Argumente (keine Kündigungsfrist, Ferien frei, barrierefrei, Erfahrung mit Autismus) stehen im Fließtext",
+   "Kein Google-Profil mit Bewertungen gefunden"
+  ],
+  "hebel": "Eltern suchen 'Klavierunterricht Neunkirchen' am Handy. Die Argumente sind stark und preislich unschlagbar. Aber: Bei 10 € pro Stunde ist das Budget klein. Hier eher das Startpaket oder nur Google-Profil anbieten.",
+  "p": [
+   "690 € (Start, ggf. in Raten)",
+   "nicht sinnvoll",
+   "29 €"
+  ],
+  "paket": "Onepager Start mit Instrumenten, Kosten, Probestunde-Anfrage, plus Google-Profil. Alternative ohne Website: nur Google-Profil einrichten (ab 190 €)",
+  "svc": [
+   "Google-Profil einrichten (ab 190 €): der größte Hebel bei kleinem Budget",
+   "Eintrag in Musikschul- und Nachhilfeverzeichnissen",
+   "Aushang mit QR-Code für Kitas und Grundschulen in Wellesweiler"
+  ],
+  "open": "Frau Schneider, ich bin Jean, Webdesigner aus Neunkirchen. Ihre Bedingungen sind für Eltern richtig attraktiv, man findet sie auf dem Handy nur schwer. Ich hab Ihnen mitgebracht, wie das aussehen könnte, und eine kleine Variante nur mit Google-Profil.",
+  "obj": "'Das ist mir zu teuer': Verständlich. Dann reicht für den Anfang das Google-Profil für 190 €, damit Eltern Sie bei 'Klavierunterricht Neunkirchen' finden.",
+  "k": "schneider",
+  "addr": "Eisenbahnstraße 51",
+  "tel": "06821 42184",
+  "welle": 3
  }
 ]

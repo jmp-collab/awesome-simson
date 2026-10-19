@@ -498,7 +498,7 @@ def load_top():
 VTXT = json.load(open(os.path.join(ROOT, "data", "vorschau_texte.json"), encoding="utf-8"))
 
 def clamp_price(s):
-    nums = [int(x.replace(".", "")) for x in re.findall(r"[\d.]+", s)]
+    nums = [int(x.replace(".", "")) for x in re.findall(r"\d[\d.]*", s)]
     lo = max(nums[0], 690); hi = max(nums[-1], lo + 200)
     f = lambda n: f"{n:,}".replace(",", ".")
     return f"{f(lo)} bis {f(hi)} €"

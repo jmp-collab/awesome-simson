@@ -1,0 +1,119 @@
+{
+ "slug": "orthop-die-lattrich-gmbh-wolfgang",
+ "theme": "praxis",
+ "name": "Lattrich Orthopädie GmbH",
+ "branche": "Sanitätshaus / Orthopädie- und Rehatechnik",
+ "addr": "Hebbelstraße 5-7 · 66538 Neunkirchen",
+ "tel": "06821 22476",
+ "url": "https://lattrich.de",
+ "g": "4,0 ★ (35)",
+ "label": "Solide Chance",
+ "visit": "Werktags vormittags im Sanitätshaus Hebbelstraße, nach der Geschäftsführung fragen",
+ "logo_a": "Lattrich",
+ "logo_b": "Orthopädie",
+ "nav": [
+  "Sanitätshaus",
+  "Orthopädietechnik",
+  "Rehatechnik",
+  "Standorte"
+ ],
+ "eyebrow": "Sanitätshaus, Orthopädie- und Rehatechnik im Saarland",
+ "h1": "Mobil bleiben. Selbstständig leben.",
+ "lead": "Zwei Sanitätshäuser, Orthopädie-, Medizin- und Rehatechnik an drei Standorten im Saarland. 58 Mitarbeiter kümmern sich um Ihre Versorgung, von der Einlage bis zur Prothese.",
+ "cta1": "Anrufen: 06821 22476",
+ "cta2": "Standorte und Zeiten",
+ "mcta": "Anrufen",
+ "badge": [
+  "58",
+  "Mitarbeiter an 3 Standorten"
+ ],
+ "deco": "",
+ "hero_img": "img/orthop-die-lattrich-gmbh-wolfgang_0.jpg",
+ "trust": [
+  "<b>3 Standorte</b>: Neunkirchen, Wellesweiler, St. Ingbert",
+  "<b>24-h-Notdienst</b> für Reha- und Medizintechnik",
+  "<b>Kassenversorgung</b> mit Rezept"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Sanitätshaus",
+   "Bandagen, Kompression, Alltagshilfen, medizinisch korrekt versorgt."
+  ],
+  [
+   "Orthopädietechnik",
+   "Einlagen, Laufbandanalyse und High-Tech-Prothetik."
+  ],
+  [
+   "Rehatechnik",
+   "Rollstühle und Hilfsmittel, angepasst und repariert."
+  ],
+  [
+   "Medizintechnik",
+   "Geräte für die Versorgung zu Hause."
+  ],
+  [
+   "Sitzschalenbau",
+   "Maßgefertigte Sitzschalen in der Hebbelstraße."
+  ],
+  [
+   "Notdienst",
+   "24 Stunden über Anrufbeantworter mit Rückruf."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Rezept bekommen? Wir kümmern uns um den Rest.",
+ "hours": [
+  [
+   "Sanitätshaus Neunkirchen",
+   "Mo bis Fr 9:00 bis 17:00 Uhr"
+  ],
+  [
+   "Orthopädie Hebbelstraße",
+   "Mo bis Fr 8:00 bis 17:00 Uhr"
+  ],
+  [
+   "Reha Wellesweiler",
+   "Mo bis Do 8 bis 17, Fr 8 bis 15 Uhr"
+  ],
+  [
+   "Sanitätshaus St. Ingbert",
+   "Mo bis Fr 9:00 bis 18:00 Uhr"
+  ]
+ ],
+ "pill": "",
+ "contact": "Lattrich Orthopädie GmbH<br>Hebbelstraße 5-7<br>66538 Neunkirchen<br><br>Sanitätshaus 06821 22476<br>Orthopädie 06821 210344<br>Reha Wellesweiler 06821 90860",
+ "audit": [
+  "Auf der Startseite steht die Fehlermeldung 'Smart Slider with ID #4 does NOT EXIST' statt eines Bildes",
+  "Rubrik 'Aktuelles': 'Zurzeit stehen keine aktuellen Informationen an'",
+  "Bei 58 Mitarbeitern keine Karriereseite und keine Online-Rezeptanfrage"
+ ],
+ "hebel": "Ein Betrieb mit 58 Mitarbeitern und drei Standorten wirkt mit einer Fehlermeldung auf der Startseite kleiner, als er ist. Hebel: Rezept-Upload (Foto der Verordnung), Standortseiten für lokale Suche und eine Karriereseite für Orthopädietechniker, die schwer zu finden sind.",
+ "p": [
+  "1.490 bis 2.490 €",
+  "2.490 bis 3.990 €",
+  "79 bis 149 €"
+ ],
+ "paket": "Website mit Standortseiten, Leistungsbereichen, Rezept-Upload, Karriereseite, Google-Profile für alle drei Standorte",
+ "svc": [
+  "Rezept per Foto hochladen, Rückruf zur Terminvereinbarung",
+  "Karriereseite mit Google-Jobdaten für Orthopädietechniker, Sanitätshaus-Fachkräfte und Azubis",
+  "Google-Profile aller Standorte vereinheitlichen, Bewertungen nach Versorgung anfragen",
+  "Infoseiten für Ärzte und Pflegedienste in der Region"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht gerade eine Fehlermeldung statt eines Bildes. Für einen Betrieb mit 58 Mitarbeitern ist das schade. Ich hab Ihnen mitgebracht, wie es aussehen könnte.",
+ "obj": "'Das macht unsere Agentur': Dann zeigen Sie den Entwurf dort gern als Messlatte. Die Fehlermeldung sollte in jedem Fall heute noch weg.",
+ "obs": [
+  "Auf Ihrer Startseite steht die Fehlermeldung 'Smart Slider with ID #4 does NOT EXIST' statt eines Bildes.",
+  "Die Rubrik 'Aktuelles' meldet, dass zurzeit keine Informationen anstehen.",
+  "Ein Rezept kann man online nicht einreichen, und offene Stellen sind nicht zu finden."
+ ],
+ "neu": [
+  "Eine saubere Startseite mit Ihren drei Standorten und Zeiten",
+  "Rezept per Foto hochladen und Rückruf erhalten",
+  "Eine Karriereseite für Fachkräfte und Azubis"
+ ]
+}
