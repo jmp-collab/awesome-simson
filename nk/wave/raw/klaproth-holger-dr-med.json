@@ -1,0 +1,65 @@
+{
+ "key": "klaproth-holger-dr-med",
+ "url": "https://www.onkologie-neunkirchen.de/",
+ "title": "Home | Hämatologie · Onkologie · Palliativmedizin | Dr. med. Klaproth",
+ "text": "Home\nKontakt\nImpressum\nDatenschutz\nPraxis\nLeistungen\nNotfälle\nKooperationen\nService\nLiebe Besucherin, lieber Besucher,\n\nwenn Sie den Weg zu dieser Website gefunden haben, dann suchen Sie vermutlich einen Spezialisten für die Behandlung von Blut- oder Krebserkrankungen. In unserer hämatologisch-onkologischen Praxis finden Sie dazu kompetente und erfahrene Ansprechpartner.\n\nSie können sich hier einen ersten Eindruck über das Team und das Leistungsspektrum verschaffen. Darüber hinaus stehen wir Ihnen gerne für eine persönliches Gespräch zur Verfügung.\n\nIhre Praxis Dr. Holger Klaproth\n\n\n\n\n \nMo bis Do von 08:00 bis 14:00 Uhr\nFreitag von 08:00 bis 12:00 Uhr\nund nach Vereinbarung",
+ "imgs": [
+  {
+   "src": "https://www.onkologie-neunkirchen.de/img/home.jpg",
+   "w": 340,
+   "h": 310
+  }
+ ],
+ "bg": [
+  "https://www.onkologie-neunkirchen.de/img/bg.jpg",
+  "https://www.onkologie-neunkirchen.de/img/header.png",
+  "https://www.onkologie-neunkirchen.de/img/mainblock-top.png",
+  "https://www.onkologie-neunkirchen.de/img/mainblock.png",
+  "https://www.onkologie-neunkirchen.de/img/contentbar.gif",
+  "https://www.onkologie-neunkirchen.de/img/mainblock-bottom.png"
+ ],
+ "tel": [],
+ "mail": [],
+ "links": [
+  {
+   "t": "Home",
+   "h": "https://www.onkologie-neunkirchen.de/index.php"
+  },
+  {
+   "t": "Kontakt",
+   "h": "https://www.onkologie-neunkirchen.de/kontakt.php"
+  },
+  {
+   "t": "Impressum",
+   "h": "https://www.onkologie-neunkirchen.de/impressum.php"
+  },
+  {
+   "t": "Datenschutz",
+   "h": "https://www.onkologie-neunkirchen.de/datenschutz.php"
+  },
+  {
+   "t": "Praxis",
+   "h": "https://www.onkologie-neunkirchen.de/praxis.php"
+  },
+  {
+   "t": "Leistungen",
+   "h": "https://www.onkologie-neunkirchen.de/leistungen.php"
+  },
+  {
+   "t": "Notfälle",
+   "h": "https://www.onkologie-neunkirchen.de/notfall.php"
+  },
+  {
+   "t": "Kooperationen",
+   "h": "https://www.onkologie-neunkirchen.de/kooperationen.php"
+  },
+  {
+   "t": "Service",
+   "h": "https://www.onkologie-neunkirchen.de/service.php"
+  }
+ ],
+ "saved": [
+  "img/klaproth-holger-dr-med_0.jpg",
+  "img/klaproth-holger-dr-med_1.jpg"
+ ]
+}

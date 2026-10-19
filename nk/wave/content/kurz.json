@@ -1,0 +1,153 @@
+{
+ "slug": "kurz-manfred-auto-u-anh-ngerverleih",
+ "theme": "doener",
+ "name": "Anhängerverleih Manfred Kurz",
+ "branche": "Anhängerverleih",
+ "addr": "Spieser Straße 117 · 66538 Neunkirchen",
+ "tel": "06821 88317",
+ "url": "https://www.kurz-neunkirchen.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Quick Win",
+ "visit": "Vormittags 10 bis 12 Uhr während der Öffnungszeit",
+ "logo_a": "Anhänger",
+ "logo_b": "Kurz",
+ "nav": [
+  "Anhänger",
+  "Preise",
+  "Reservieren",
+  "Kontakt"
+ ],
+ "eyebrow": "Anhängerverleih in Neunkirchen",
+ "h1": "Den passenden Anhänger, ab 30 € am Tag.",
+ "lead": "30 Anhänger von 750 kg bis über 2,7 Tonnen: Kasten, Hochplane, Koffer, Kipper, Autotransporter und Motorradanhänger für bis zu drei Motorräder.",
+ "cta1": "Anhänger reservieren",
+ "cta2": "Preise ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "30",
+  "Anhänger zur Auswahl"
+ ],
+ "deco": "",
+ "hero_img": "img/kurz_2.jpg",
+ "trust": [
+  "<b>30 Anhänger</b> im Fuhrpark",
+  "<b>ab 30 €</b> für 24 Stunden",
+  "<b>Wochenend- und Monatspreise</b>"
+ ],
+ "menu_title": "Preise",
+ "menu": [
+  [
+   "750 kg Plane, ungebremst",
+   "ca. 2,24 x 1,22 x 1,30 m · Wochenende 60 €, Woche 120 €",
+   "30 €"
+  ],
+  [
+   "1.200 kg 2-Schiener, Plane",
+   "ca. 2,50 x 1,25 x 1,50 m · Wochenende 60 €, Woche 150 €",
+   "30 €"
+  ],
+  [
+   "2.000 kg 3-Schiener, Tandem offen",
+   "ca. 3,00 x 1,50 m · Wochenende 70 €, Woche 140 €",
+   "35 €"
+  ],
+  [
+   "2.000 kg Tandem Plane",
+   "ca. 3,00 x 1,50 x 1,80 m · Wochenende 80 €, Woche 150 €",
+   "40 €"
+  ],
+  [
+   "Autotransportanhänger",
+   "ca. 4,00 x 2,00 m · Wochenende 120 €, Woche 300 €",
+   "60 €"
+  ],
+  [
+   "Preise bis 24 Stunden",
+   "inkl. gesetzlicher Mehrwertsteuer",
+   ""
+  ]
+ ],
+ "svc_title": "Anhänger für jeden Transport",
+ "services": [
+  [
+   "Kastenanhänger",
+   "Offen, für Grünschnitt, Material und Sperrmüll."
+  ],
+  [
+   "Hochplane",
+   "Für Umzüge und Möbel, trocken unterwegs."
+  ],
+  [
+   "Koffer",
+   "Geschlossen und abschließbar."
+  ],
+  [
+   "Kipper",
+   "Für Erde, Kies und Schutt."
+  ],
+  [
+   "Autotransporter",
+   "Für Pkw bis ca. 4 x 2 m Ladefläche."
+  ],
+  [
+   "Motorradanhänger",
+   "Für ein bis drei Motorräder."
+  ]
+ ],
+ "gal_title": "Unsere Anhänger",
+ "gallery": [
+  "img/kurz_1.jpg",
+  "img/kurz_3.jpg",
+  "img/kurz_4.jpg",
+  "img/kurz_5.jpg"
+ ],
+ "band": "Anhänger fürs Wochenende? Jetzt reservieren.",
+ "hours": [
+  [
+   "Montag bis Freitag",
+   "10:00 bis 12:00"
+  ],
+  [
+   "",
+   "13:30 bis 17:00"
+  ],
+  [
+   "Samstag",
+   "10:00 bis 12:00"
+  ]
+ ],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "contact": "Anhänger- und Autoverleih Manfred Kurz<br>Spieser Straße 117<br>66538 Neunkirchen<br><br>Telefon 06821 88317",
+ "audit": [
+  "Baukasten-Seite (IONOS), Startseite in Serifenschrift und viel Weißraum, Anhänger erst nach Klick sichtbar",
+  "Preise als schwer lesbare Tabelle, auf dem Handy kaum nutzbar",
+  "Keine Reservierung oder Anfrage pro Anhänger, Hinweis 'keine Transporter und LKW' steht ohne Datum ganz oben"
+ ],
+ "hebel": "Anhänger werden spontan gesucht ('Anhänger mieten Neunkirchen'), oft am Handy und kurz vor dem Wochenende. Preise ab 30 € direkt sichtbar und ein Reservierungsknopf je Anhänger holen genau diese Anfragen, bevor jemand zum Baumarkt fährt.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit Anhängerübersicht, Preisen als Karten, Reservierungsanfrage pro Anhänger und Wunschdatum, Google-Profil",
+ "svc": [
+  "Reservierungsanfrage mit Datum und Anhängertyp, Bestätigung per SMS oder WhatsApp",
+  "Landingpages 'Anhänger mieten Neunkirchen' und 'Autotransporter mieten'",
+  "Google-Profil mit Fotos und Preisen",
+  "Kalender mit Verfügbarkeit (Ausbaustufe)"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Wer am Freitag schnell einen Anhänger braucht, sucht am Handy. Ich habe Ihnen mitgebracht, wie Ihre Preise und eine Reservierung dort aussehen könnten.",
+ "obj": "'Die Leute rufen eh an': Gut, dann bleibt das Telefon der Hauptweg. Die Seite sorgt nur dafür, dass mehr Leute Sie finden und schon wissen, welchen Anhänger sie wollen.",
+ "obs": [
+  "Ihre Preise stehen in einer Tabelle, die auf dem Handy schwer zu lesen ist.",
+  "Man kann keinen Anhänger für ein Datum anfragen.",
+  "Oben steht der Hinweis, dass keine Transporter verfügbar sind, ohne Datum."
+ ],
+ "neu": [
+  "Anhänger mit Foto, Maßen und Preis auf einen Blick",
+  "Reservierung per Knopfdruck",
+  "Für Google und Handy gebaut"
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "slug": "m-trucks-gmbh",
+ "theme": "papier",
+ "name": "M-Trucks GmbH",
+ "branche": "Nutzfahrzeug-Werkstatt und Teilehandel",
+ "addr": "Grubenstraße 9 · 66540 Neunkirchen-Heinitz",
+ "tel": "06821 74963-14",
+ "url": "https://www.m-trucks.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Umsatzhebel",
+ "visit": "Morgens ab 7 Uhr oder nach 16 Uhr, vorher anrufen",
+ "logo_a": "M-Trucks",
+ "logo_b": "GmbH",
+ "nav": [
+  "Werkstatt",
+  "Teile",
+  "Über uns",
+  "Kontakt"
+ ],
+ "eyebrow": "Nutzfahrzeugservice in Neunkirchen-Heinitz",
+ "h1": "LKW, Bus und Baumaschine wieder auf die Straße.",
+ "lead": "Reparatur von LKW, Omnibussen, Transportern und Baumaschinen. Instandsetzung von Getriebe, Motor und Achsen, dazu Handel mit gebrauchten Fahrzeugteilen.",
+ "cta1": "Anrufen: 06821 74963-14",
+ "cta2": "Gebrauchtteile ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "Mo bis Fr",
+  "7 bis 17 Uhr"
+ ],
+ "deco": "",
+ "hero_img": "img/mtrucks_1.png",
+ "trust": [
+  "<b>LKW, Bus, Transporter</b> und Baumaschinen",
+  "<b>Fahrtschreiberprüfung</b> nach § 57b",
+  "<b>Gebrauchtteile</b> aus eigenem Handel"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Werkstatt",
+ "services": [
+  [
+   "Getriebe",
+   "Instandsetzung von Nutzfahrzeuggetrieben."
+  ],
+  [
+   "Motoren",
+   "Reparatur und Instandsetzung von LKW- und Busmotoren."
+  ],
+  [
+   "Achsen",
+   "Instandsetzung von Achsen und Fahrwerk."
+  ],
+  [
+   "Klimaanlagenservice",
+   "Für LKW, Bus und Transporter."
+  ],
+  [
+   "Achs- und Fahrwerksvermessung",
+   "Für saubere Spur und weniger Reifenverschleiß."
+  ],
+  [
+   "Fahrtschreiberprüfung",
+   "Prüfung nach § 57b StVZO."
+  ]
+ ],
+ "gal_title": "Aus der Werkstatt",
+ "gallery": [
+  "img/mtrucks_0.png",
+  "img/mtrucks_2.png"
+ ],
+ "band": "Fahrzeug steht? Rufen Sie uns an.",
+ "hours": [
+  [
+   "Montag bis Freitag",
+   "7:00 bis 17:00"
+  ],
+  [
+   "Samstag",
+   "nach Vereinbarung"
+  ],
+  [
+   "Sonntag",
+   "geschlossen"
+  ]
+ ],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "contact": "M-Trucks GmbH<br>Grubenstraße 9<br>66540 Neunkirchen-Heinitz<br><br>Telefon 06821 74963-14<br>Mobil 0170 5590990<br>info@m-trucks.de",
+ "audit": [
+  "Startseite: Der Bild-Slider legt Text über Text ('Wir reparieren noch!', 'Achtung', Betrugswarnung), auf dem Desktop schwer lesbar",
+  "Wichtige Betrugswarnung (keine Inserate bei mobile.de) steckt im Slider statt gut sichtbar auf der Seite",
+  "Copyright 2022, Teilehandel ohne Preise und ohne direkte Anfrage pro Teil"
+ ],
+ "hebel": "Speditionen und Busunternehmen suchen eine Werkstatt, wenn ein Fahrzeug steht, und rufen die erste an, die klar zeigt, was sie kann. Eine ruhige Seite mit Leistungen, Notfallnummer und einem Teilehandel mit Anfrage je Teil bringt Werkstattaufträge und Teileverkäufe. Die Betrugswarnung schützt dann wirklich.",
+ "p": [
+  "1.190 bis 1.690 €",
+  "1.990 bis 2.790 €",
+  "49 bis 99 €"
+ ],
+ "paket": "Neue Website mit Leistungsseiten (Getriebe, Motor, Fahrtschreiber), Teilehandel mit Anfrage je Teil, gut sichtbare Betrugswarnung, Google-Profil",
+ "svc": [
+  "Teilehandel mit Anfrageknopf je Teil und WhatsApp",
+  "Landingpage 'Fahrtschreiberprüfung Neunkirchen'",
+  "Seite für Flottenkunden mit Wartungsvertrag",
+  "Google-Profil mit Fotos aus der Werkstatt, Bewertungen nach Reparaturen anfragen"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite liegt die Betrugswarnung im Slider über anderen Texten, man kann sie kaum lesen. Ich habe Ihnen mitgebracht, wie das ruhig und klar aussehen könnte.",
+ "obj": "'Unsere Kunden kennen uns': Neue Speditionen und Busfirmen nicht. Die suchen genau dann, wenn ein Fahrzeug steht, und rufen die erste Werkstatt an, die sie überzeugt.",
+ "obs": [
+  "Auf Ihrer Startseite liegen im Slider mehrere Texte übereinander und sind schwer lesbar.",
+  "Die Warnung vor falschen mobile.de-Inseraten geht im Slider unter.",
+  "Der Teilehandel hat keine direkte Anfrage pro Teil."
+ ],
+ "neu": [
+  "Leistungen klar auf einen Blick, Telefon immer sichtbar",
+  "Teilehandel mit Anfrage per Knopfdruck",
+  "Betrugswarnung gut sichtbar und verständlich"
+ ]
+}

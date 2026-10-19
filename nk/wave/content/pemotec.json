@@ -1,0 +1,122 @@
+{
+ "slug": "pemotec-gmbh-autoreparaturen",
+ "theme": "metall",
+ "name": "Pemotec GmbH",
+ "branche": "Motoreninstandsetzung und Kfz-Werkstatt",
+ "addr": "Rombachstraße 99 · 66539 Neunkirchen",
+ "tel": "06821 2902680",
+ "url": "https://www.pemotec.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Quick Win",
+ "visit": "Vormittags zwischen 9 und 12 Uhr, vorher anrufen",
+ "logo_a": "PEMOTEC",
+ "logo_b": "GmbH",
+ "nav": [
+  "Motor",
+  "Getriebe",
+  "Motorenbau",
+  "Kontakt"
+ ],
+ "eyebrow": "Motoreninstandsetzung in Neunkirchen",
+ "h1": "Motor kaputt? Reparieren statt tauschen.",
+ "lead": "Motoreninstandsetzung für Pkw, Nkw und Bootsmotoren, Getriebeölspülung für Automatik- und DSG-Getriebe, Motortuning und Motorenbau für den Motorsport.",
+ "cta1": "Kostenvoranschlag anfragen",
+ "cta2": "Anrufen: 06821 2902680",
+ "mcta": "Anfragen",
+ "badge": [
+  "0,01 mm",
+  "Toleranzen im Motorenbau"
+ ],
+ "deco": "MOTOR",
+ "hero_img": "",
+ "trust": [
+  "<b>Pkw, Nkw</b> und Bootsmotoren",
+  "<b>Automatik und DSG</b> Getriebeölspülung",
+  "<b>Motorsport</b>: BMW E36 GTR, Mercedes 190E Evo"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Motoreninstandsetzung",
+   "Zylinderkopf, Ventile, Kurbelwelle: Reparatur nach Herstellervorgaben als Alternative zum teuren Tauschmotor."
+  ],
+  [
+   "Ursache finden",
+   "Wir beseitigen auch den Fehler, der den Motorschaden ausgelöst hat."
+  ],
+  [
+   "Getriebeölspülung",
+   "Komplette Reinigung statt Ölwechsel, auch für Mercedes-Getriebe freigegeben."
+  ],
+  [
+   "Motortuning",
+   "Konfiguration von elektronischen Zünd- und Einspritzsystemen."
+  ],
+  [
+   "Motorenbau",
+   "Rennmotoren, zum Beispiel für BMW E36 GTR und Mercedes 190E Evo."
+  ],
+  [
+   "Kostenvoranschlag",
+   "Fahrzeugschein abfotografieren und schicken."
+  ]
+ ],
+ "gal_title": "Aus der Werkstatt",
+ "gallery": [
+  "img/pemotec_0.png",
+  "img/pemotec_3.png",
+  "img/pemotec_2.png",
+  "img/pemotec_4.png"
+ ],
+ "band": "Kostenvoranschlag in 2 Minuten anfragen.",
+ "hours": [
+  [
+   "Montag bis Freitag",
+   "8:00 bis 12:00"
+  ],
+  [
+   "",
+   "13:00 bis 17:00"
+  ],
+  [
+   "Telefon",
+   "9 bis 12 und 14 bis 17 Uhr"
+  ]
+ ],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "contact": "Pemotec GmbH<br>Rombachstraße 99<br>66539 Neunkirchen<br><br>Telefon und WhatsApp 06821 2902680<br>service@pemotec.de",
+ "audit": [
+  "Startseite ohne Seitentitel und mit nur rund 140 Wörtern, für Google kaum auffindbar",
+  "Hinweis 'An Rosenmontag 12.02.2024 geschlossen' steht noch auf der Startseite",
+  "Kostenvoranschlag nur per E-Mail mit Erstzulassung, Schlüsselnummern und Fahrgestellnummer, kein Formular"
+ ],
+ "hebel": "Motoreninstandsetzung ist ein Nischenthema mit hohem Auftragswert: Wer 'Motor instandsetzen Saarland' sucht, steht vor der Wahl Tauschmotor oder Reparatur. Eine Seite mit klarer Erklärung und einer Anfrage per Foto vom Fahrzeugschein macht aus Besuchern Kostenvoranschläge.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.290 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit Leistungsseiten (Motor, Getriebe, Motorenbau), Kostenvoranschlag-Formular mit Foto-Upload des Fahrzeugscheins, Seitentitel und Texte für Google",
+ "svc": [
+  "Formular 'Kostenvoranschlag': Fahrzeugschein fotografieren, Problem beschreiben, fertig",
+  "Landingpage 'Getriebeölspülung DSG Saarland'",
+  "Motorsport-Referenzseite mit Fotos und Video",
+  "Google-Profil mit Werkstattfotos"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Für einen Kostenvoranschlag schicken Ihre Kunden heute Schlüsselnummern und Fahrgestellnummer per Mail. Ich habe Ihnen mitgebracht, wie das mit einem Foto vom Fahrzeugschein in zwei Minuten geht.",
+ "obj": "'Wir haben genug zu tun': Dann filtert die Seite vor. Mit Foto und Fehlerbeschreibung sehen Sie sofort, ob sich ein Auftrag lohnt.",
+ "obs": [
+  "Auf Ihrer Startseite steht noch der Hinweis zu Rosenmontag 2024.",
+  "Ihre Seite hat keinen Seitentitel, bei Google erscheint dann nur die Adresse.",
+  "Für einen Kostenvoranschlag muss der Kunde mehrere Nummern abtippen und mailen."
+ ],
+ "neu": [
+  "Kostenvoranschlag per Foto vom Fahrzeugschein",
+  "Motor, Getriebe und Motorsport klar getrennt",
+  "Texte, mit denen Google Sie für 'Motor instandsetzen' findet"
+ ]
+}

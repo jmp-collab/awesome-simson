@@ -47,7 +47,7 @@ h1{font-size:{{t.h1m}}}.hero .t{padding:46px 20px 40px}.hero::after{font-size:15
 .mbar{display:flex;position:fixed;bottom:0;left:0;right:0;gap:8px;padding:10px;background:var(--card);box-shadow:0 -6px 20px #0002;z-index:5}.mbar a{flex:1;justify-content:center;padding:13px 10px}.mbar .o{color:var(--ink)}body{padding-bottom:72px}.draft{bottom:84px}footer{flex-direction:column;gap:6px}}
 </style></head><body>
 <div class="draft">ENTWURF · Vorschau</div>
-<div class="top"><span>{{ c.addr }}</span><span>Telefon <b>{{ c.tel }}</b></span></div>
+<div class="top"><span>{{ c.addr }}</span><span>{% if c.tel %}Telefon <b>{{ c.tel }}</b>{% else %}<b>{{ c.top_alt }}</b>{% endif %}</span></div>
 <header><div class="logo">{{ c.logo_a }} <span>{{ c.logo_b }}</span></div><nav>{% for n in c.nav %}<a href="#">{{ n }}</a>{% endfor %}</nav></header>
 <div class="hero"><div class="t"><div class="eyebrow">{{ c.eyebrow }}</div><h1>{{ c.h1 }}</h1><p>{{ c.lead }}</p>
 <div class="cta"><a class="btn p" href="#">{{ c.cta1 }}</a><a class="btn o" href="#">{{ c.cta2 }}</a></div>

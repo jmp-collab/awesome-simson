@@ -1,0 +1,125 @@
+{
+ "slug": "ferienwohnung-haus-am-berg",
+ "theme": "spa",
+ "name": "Ferienwohnungen Haus am Berg",
+ "branche": "Ferienwohnungen",
+ "addr": "Kuchenbergstraße 226 · 66540 Neunkirchen",
+ "tel": "06821 25146",
+ "url": "https://www.haus-am-berg-neunkirchen.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Solide Chance",
+ "visit": "Vorher anrufen und Termin ausmachen, privater Vermieter",
+ "logo_a": "Haus am",
+ "logo_b": "Berg",
+ "nav": [
+  "Wohnungen",
+  "Preise",
+  "Umgebung",
+  "Buchen"
+ ],
+ "eyebrow": "Ferienwohnungen in Neunkirchen (Saar)",
+ "h1": "Zwei Ferienwohnungen mit je 75 m².",
+ "lead": "Verkehrsgünstig in Neunkirchen gelegen, mit voll ausgestatteter Küche, WLAN und Terrasse oder Balkon mit Garten. Zoo, Gebläsehalle, Saarpark-Center und Bostalsee erreichen Sie bequem mit Auto, Bus oder Bahn.",
+ "cta1": "Verfügbarkeit prüfen",
+ "cta2": "Wohnungen ansehen",
+ "mcta": "Buchen",
+ "badge": [
+  "ab 75 €",
+  "pro Nacht, ab 3 Nächte"
+ ],
+ "deco": "",
+ "hero_img": "img/hausamberg_5.jpg",
+ "trust": [
+  "<b>DTV-zertifiziert</b>",
+  "<b>Bettwäsche und Handtücher</b> inklusive",
+  "<b>Waschmaschine und Trockner</b> im Haus"
+ ],
+ "menu_title": "Wohnungen und Preise",
+ "menu": [
+  [
+   "Ferienwohnung Nr. 1, Erdgeschoss",
+   "75 m², 2 Schlafzimmer, für 4 Personen und ein Baby, Terrasse",
+   "75 €"
+  ],
+  [
+   "Ferienwohnung Nr. 2, Obergeschoss",
+   "75 m², 1 Schlafzimmer, für 2 Personen, Balkon mit Treppe in den Garten",
+   "75 €"
+  ],
+  [
+   "Jede weitere Person (Nr. 1)",
+   "Kinder bis 2 Jahre frei, 3 bis 10 Jahre 15 € pro Nacht",
+   "40 €"
+  ]
+ ],
+ "svc_title": "Ausstattung",
+ "services": [
+  [
+   "Küche komplett",
+   "Spülmaschine, Backofen, Mikrowelle, Kaffeevollautomat."
+  ],
+  [
+   "Bad",
+   "Dusche und WC, in Nr. 1 zusätzlich separates WC."
+  ],
+  [
+   "Für Familien",
+   "Babybett, Babybadewanne, Wickelauflage in Nr. 1."
+  ],
+  [
+   "Waschküche",
+   "Waschmaschine, Trockner, Bügelbrett."
+  ],
+  [
+   "Unterhaltung",
+   "SAT-TV, DVD-Player, Digitalradio, kostenloses WLAN."
+  ],
+  [
+   "Anreise",
+   "Parkplätze vor der Tür, Bushaltestelle 6 Minuten zu Fuß."
+  ]
+ ],
+ "gal_title": "Einblicke",
+ "gallery": [
+  "img/hausamberg_6.jpg",
+  "img/hausamberg_8.jpg",
+  "img/hausamberg_2.jpg",
+  "img/hausamberg_7.jpg"
+ ],
+ "band": "Direkt bei uns buchen, ohne Umweg.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Gut zu wissen",
+ "alt_text": "Buchbar ab 3 Nächten. Nichtraucher-Wohnungen, keine Haustiere. Preise pro Nacht für 1 bis 2 Personen.",
+ "contact": "Ferienwohnungen Haus am Berg<br>Maja Baus<br>Kuchenbergstraße 226<br>66540 Neunkirchen<br><br>Telefon 06821 25146<br>Mobil 0174 3792211<br>maja.baus@gmx.de",
+ "audit": [
+  "Buchungslink steht als lange, nicht anklickbare Textadresse auf der Seite",
+  "Startseite zeigt ein Bild der Saarschleife, die Wohnungen erst nach Klick",
+  "Baukasten-Seite (IONOS), Kontakt über GMX-Adresse, Tippfehler ('Tourismiusverband', 'Narturpark')"
+ ],
+ "hebel": "Jede Buchung über Portale kostet Provision. Gäste, die Haus am Berg schon kennen oder bei Google finden, sollen direkt buchen: große Fotos, Preise sichtbar und ein Buchungsknopf, der das vorhandene Buchungssystem einbindet.",
+ "p": [
+  "690 bis 990 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit beiden Wohnungen, großen Fotos, Preisen, eingebundenem Buchungskalender, Umgebungsseite, Google-Profil",
+ "svc": [
+  "Buchungskalender direkt auf der Seite (vorhandenes System einbinden)",
+  "Umgebungsseite mit Zoo, Gebläsehalle, Bostalsee für Google",
+  "Eigene E-Mail-Adresse mit der Domain",
+  "Monteurs- und Geschäftsreisende-Seite für längere Aufenthalte"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite steht der Buchungslink als lange Textadresse. Ich habe Ihnen mitgebracht, wie Gäste mit einem Klick direkt bei Ihnen buchen könnten.",
+ "obj": "'Wir sind über Portale ausgebucht': Dann spart jede Direktbuchung Provision. Stammgäste buchen beim nächsten Mal direkt.",
+ "obs": [
+  "Ihr Buchungslink ist eine lange Textadresse, die man nicht anklicken kann.",
+  "Auf der Startseite sieht man die Saarschleife, aber noch keine Wohnung.",
+  "Preise und Ausstattung stehen erst auf den Unterseiten."
+ ],
+ "neu": [
+  "Beide Wohnungen mit großen Fotos auf der Startseite",
+  "Buchen mit einem Klick",
+  "Preise und Ausstattung auf einen Blick"
+ ]
+}

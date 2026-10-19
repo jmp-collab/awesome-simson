@@ -418,5 +418,65 @@
    "Eigene Seiten für Bad, Boden und Spanndecken",
    "Beratung anfragen mit einem Klick"
   ]
+ },
+ "mtrucks": {
+  "obs": [
+   "Auf Ihrer Startseite liegen im Slider mehrere Texte übereinander und sind schwer lesbar.",
+   "Die Warnung vor falschen mobile.de-Inseraten geht im Slider unter.",
+   "Der Teilehandel hat keine direkte Anfrage pro Teil."
+  ],
+  "neu": [
+   "Leistungen klar auf einen Blick, Telefon immer sichtbar",
+   "Teilehandel mit Anfrage per Knopfdruck",
+   "Betrugswarnung gut sichtbar und verständlich"
+  ]
+ },
+ "pemotec": {
+  "obs": [
+   "Auf Ihrer Startseite steht noch der Hinweis zu Rosenmontag 2024.",
+   "Ihre Seite hat keinen Seitentitel, bei Google erscheint dann nur die Adresse.",
+   "Für einen Kostenvoranschlag muss der Kunde mehrere Nummern abtippen und mailen."
+  ],
+  "neu": [
+   "Kostenvoranschlag per Foto vom Fahrzeugschein",
+   "Motor, Getriebe und Motorsport klar getrennt",
+   "Texte, mit denen Google Sie für 'Motor instandsetzen' findet"
+  ]
+ },
+ "kurz": {
+  "obs": [
+   "Ihre Preise stehen in einer Tabelle, die auf dem Handy schwer zu lesen ist.",
+   "Man kann keinen Anhänger für ein Datum anfragen.",
+   "Oben steht der Hinweis, dass keine Transporter verfügbar sind, ohne Datum."
+  ],
+  "neu": [
+   "Anhänger mit Foto, Maßen und Preis auf einen Blick",
+   "Reservierung per Knopfdruck",
+   "Für Google und Handy gebaut"
+  ]
+ },
+ "hausamberg": {
+  "obs": [
+   "Ihr Buchungslink ist eine lange Textadresse, die man nicht anklicken kann.",
+   "Auf der Startseite sieht man die Saarschleife, aber noch keine Wohnung.",
+   "Preise und Ausstattung stehen erst auf den Unterseiten."
+  ],
+  "neu": [
+   "Beide Wohnungen mit großen Fotos auf der Startseite",
+   "Buchen mit einem Klick",
+   "Preise und Ausstattung auf einen Blick"
+  ]
+ },
+ "karate": {
+  "obs": [
+   "Auf Ihrer Startseite und der Vereinsseite stehen unterschiedliche Hallen und Zeiten.",
+   "Die Beitragsseite zeigt einen Platzhalter '$ 00.00'.",
+   "Für ein Probetraining gibt es weder Telefonnummer noch Formular."
+  ],
+  "neu": [
+   "Aktuelle Zeiten und Halle an einer Stelle",
+   "Probetraining mit einem Klick anfragen",
+   "Seite, die der Vorstand selbst aktuell hält"
+  ]
  }
 }

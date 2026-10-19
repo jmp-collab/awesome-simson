@@ -1,0 +1,116 @@
+{
+ "slug": "karate-dojo-neunkirchen",
+ "theme": "dojo",
+ "name": "Karate Dojo Neunkirchen e.V.",
+ "branche": "Karateverein (Shotokan)",
+ "addr": "Sporthalle Gymnasium am Krebsberg · Albert-Schweitzer-Str. 23 · 66538 Neunkirchen",
+ "tel": "",
+ "top_alt": "Training Mo, Mi, Fr ab 19 Uhr",
+ "url": "https://karatedojo-neunkirchen.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Kleines Budget",
+ "visit": "Vor oder nach dem Training (Mo, Mi, Fr abends), Ansprechpartner Vorstand",
+ "logo_a": "Karate Dojo",
+ "logo_b": "Neunkirchen",
+ "nav": [
+  "Training",
+  "Verein",
+  "Beiträge",
+  "Probetraining"
+ ],
+ "eyebrow": "Traditionelles Shotokan Karate seit 1971",
+ "h1": "Karate in Neunkirchen. Für Kinder und Erwachsene.",
+ "lead": "Wir trainieren traditionelles Shotokan Karate-Do der JKA unter Dojoleiter Salvatore LaMarca (4. Dan). Mitglied im Deutschen JKA-Karate Bund.",
+ "cta1": "Probetraining anfragen",
+ "cta2": "Trainingszeiten",
+ "mcta": "Probetraining",
+ "badge": [
+  "1971",
+  "gegründet"
+ ],
+ "deco": "空手",
+ "hero_img": "",
+ "trust": [
+  "<b>Shotokan Karate</b> nach JKA",
+  "<b>Kindertraining</b> und Kurs 40+",
+  "<b>Lehrgänge und Prüfungen</b> im DJKB"
+ ],
+ "menu_title": "Trainingszeiten",
+ "menu": [
+  [
+   "Montag, Mittwoch, Freitag",
+   "Training",
+   "19 bis 20 Uhr"
+  ],
+  [
+   "Freitag",
+   "Kindertraining ab 6 Jahren",
+   "18 bis 19 Uhr"
+  ]
+ ],
+ "svc_title": "Training im Dojo",
+ "services": [
+  [
+   "Kinder",
+   "Kindertraining ab 6 Jahren, freitags."
+  ],
+  [
+   "Unterstufe",
+   "Grundlagen bis zum braunen Gürtel."
+  ],
+  [
+   "Oberstufe",
+   "Kata, Kumite und Vorbereitung auf den Dan."
+  ],
+  [
+   "Karate ab 40",
+   "Einstieg ist in jedem Alter möglich."
+  ],
+  [
+   "Lehrgänge",
+   "Training mit bis zu 300 Karateka aus dem ganzen Verband."
+  ],
+  [
+   "Vereinsleben",
+   "Sommerfest, Weihnachtsfeier, Eltern-Kind-Training."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Neugierig? Fragen Sie ein Probetraining an.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Trainer",
+ "alt_text": "Salvatore LaMarca, 4. Dan, Dojoleiter und Oberstufe. Gerald Diehl, 3. Dan, Kinder und Unterstufe. Berit Kruspe, 2. Dan, Anfänger Erwachsene.",
+ "contact": "Karate Dojo Neunkirchen<br>Training: Sporthalle Gymnasium am Krebsberg<br>Albert-Schweitzer-Str. 23<br>66538 Neunkirchen<br><br>kassenwart@karatedojo-neunkirchen.de",
+ "audit": [
+  "Widersprüchliche Angaben: Startseite nennt Sporthalle am Krebsberg und Mo, Mi, Fr 19 bis 20 Uhr, die Vereinsseite eine andere Halle und andere Zeiten",
+  "Beitragsseite enthält einen Platzhalter '$ 00.00', Kurs 'Karate ab 40+' mit Start 2023 noch als neu angekündigt",
+  "Keine Telefonnummer, kein Formular für ein Probetraining, Seitentitel ist nur die Domain"
+ ],
+ "hebel": "Neue Mitglieder, besonders Eltern, suchen 'Karate Neunkirchen' oder 'Kampfsport Kinder Neunkirchen' am Handy und wollen drei Dinge: Wo, wann, was kostet es. Eine klare Seite mit aktuellen Zeiten und einer Probetraining-Anfrage füllt die Gruppen.",
+ "p": [
+  "690 € (Start, ggf. in Raten)",
+  "nicht sinnvoll",
+  "29 €"
+ ],
+ "paket": "Onepager mit Trainingszeiten, Halle mit Karte, Trainern, Beiträgen und Probetraining-Anfrage, Datenschutzerklärung, Google-Profil",
+ "svc": [
+  "Formular 'Probetraining' mit Alter und Wunschtag",
+  "Google-Profil für 'Karate Neunkirchen'",
+  "Vereinsseite, die der Vorstand selbst pflegt",
+  "Hinweis: Fotos mit Kindern nur mit Einwilligung der Eltern verwenden"
+ ],
+ "open": "Ich bin Jean aus Neunkirchen, selbst Kampfsportler und Webdesigner. Auf Ihrer Seite stehen zwei verschiedene Hallen und Trainingszeiten. Ich habe Ihnen mitgebracht, wie eine klare Seite für neue Mitglieder aussehen könnte.",
+ "obj": "'Wir sind ein Verein, das kostet zu viel': Verständlich. Darum ein Onepager zum Festpreis, gern in Raten, und der Vorstand kann Zeiten selbst ändern.",
+ "obs": [
+  "Auf Ihrer Startseite und der Vereinsseite stehen unterschiedliche Hallen und Zeiten.",
+  "Die Beitragsseite zeigt einen Platzhalter '$ 00.00'.",
+  "Für ein Probetraining gibt es weder Telefonnummer noch Formular."
+ ],
+ "neu": [
+  "Aktuelle Zeiten und Halle an einer Stelle",
+  "Probetraining mit einem Klick anfragen",
+  "Seite, die der Vorstand selbst aktuell hält"
+ ]
+}
