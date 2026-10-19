@@ -802,5 +802,65 @@
    "Anfrage mit Datum für Zimmer und Feiern",
    "Wanderwege und Ausflüge für Gäste von außerhalb"
   ]
+ },
+ "malburg": {
+  "obs": [
+   "Am Handy ist die Seite winzig, man muss zoomen.",
+   "Die Telefonnummer lässt sich nicht antippen.",
+   "Bestattungen sind ein Menüpunkt zwischen Möbeln und Türen, ohne eigenen Zugang."
+  ],
+  "neu": [
+   "Getrennte Bereiche Schreinerei und Bestattungen",
+   "Telefon mit einem Fingertipp",
+   "Fotos fertiger Arbeiten groß und am Handy lesbar"
+  ]
+ },
+ "jung": {
+  "obs": [
+   "Die Seite heißt bei Google nur 'Home'.",
+   "Keine Leistung wird genannt, rund 60 Wörter Text.",
+   "Gelbe Seiten und Website zeigen verschiedene Adressen."
+  ],
+  "neu": [
+   "Leistungen und Referenzen auf einen Blick",
+   "Anfrage mit Foto vom Dach",
+   "Telefon und Mobil mit einem Fingertipp"
+  ]
+ },
+ "jolly": {
+  "obs": [
+   "Am Handy ist die Seite abgeschnitten und muss seitlich gewischt werden.",
+   "Copyright 2016.",
+   "Fragen nur per E-Mail-Link, kein Formular."
+  ],
+  "neu": [
+   "Systemfinder mit drei Fragen",
+   "Produktwelt am Handy sauber lesbar",
+   "Anfrage mit Raumgröße und Bodenbelag"
+  ]
+ },
+ "marascia": {
+  "obs": [
+   "Vorlagen-Adresse 'medical@clinic.com' im Code.",
+   "Die Seite heißt bei Google nur 'Home'.",
+   "Keine Anfrage mit Maßen oder Foto, nur Telefon und E-Mail."
+  ],
+  "neu": [
+   "Anfrage mit Maßen und Foto",
+   "Außendienst nach Region mit einem Fingertipp",
+   "Fenster, Türen, Tore am Handy klar gegliedert"
+  ]
+ },
+ "lander": {
+  "obs": [
+   "Am Handy angeschnitten.",
+   "Telefon nicht antippbar.",
+   "Zwei verschiedene Adressen in Website und Gelbe Seiten."
+  ],
+  "neu": [
+   "Referenzen groß und vorher-nachher",
+   "WhatsApp-Anfrage mit Foto",
+   "Einheitliche Adresse für Google"
+  ]
  }
 }

@@ -1,0 +1,100 @@
+{
+ "k": "malburg",
+ "url": "https://www.schreinerei-malburg.de",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 3.4,
+  "status": 200,
+  "final": "https://www.schreinerei-malburg.de/",
+  "title": "Schreinerei Schreiner Saarbrücken Bestattungen Beerdigung Möbel Büromöbel Bau Holz Fenster Türen Tische Zimmer Küche Decken Böden Wohnung Innenausbau Schiffweiler Saarland",
+  "desc": "Schreinerei und Bestattungen Malburg in Schiffweiler Saarbrücken - Fenster Türen Tische Büromöbel Küchen Decken Böden Innenausbau Gastronomie",
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [
+   "Willkommen bei der Schreinerei Malburg"
+  ],
+  "words": 116,
+  "tel": 0,
+  "mail": [
+   "malburg.gmbh@gmx.de"
+  ],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 30,
+  "broken": [],
+  "noalt": 1,
+  "big": [],
+  "years": [],
+  "small": 2,
+  "total": 13,
+  "taps": 13,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "diaShow is not defined",
+   "Cannot set properties of undefined (setting 'src')"
+  ],
+  "requests": 31,
+  "bytes": 2040824,
+  "img_bytes": 2034355
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 3.3,
+  "status": 200,
+  "final": "https://www.schreinerei-malburg.de/",
+  "title": "Schreinerei Schreiner Saarbrücken Bestattungen Beerdigung Möbel Büromöbel Bau Holz Fenster Türen Tische Zimmer Küche Decken Böden Wohnung Innenausbau Schiffweiler Saarland",
+  "desc": "Schreinerei und Bestattungen Malburg in Schiffweiler Saarbrücken - Fenster Türen Tische Büromöbel Küchen Decken Böden Innenausbau Gastronomie",
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [
+   "Willkommen bei der Schreinerei Malburg"
+  ],
+  "words": 116,
+  "tel": 0,
+  "mail": [
+   "malburg.gmbh@gmx.de"
+  ],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 30,
+  "broken": [],
+  "noalt": 1,
+  "big": [],
+  "years": [],
+  "small": 2,
+  "total": 13,
+  "taps": 13,
+  "placeholders": [],
+  "scrollW": 1010,
+  "innerW": 1010,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "diaShow is not defined",
+   "Cannot set properties of undefined (setting 'src')"
+  ],
+  "requests": 31,
+  "bytes": 1937990,
+  "img_bytes": 1931521
+ },
+ "http_to": "http://www.schreinerei-malburg.de/",
+ "http_code": "200",
+ "http_redirects_to_https": false
+}

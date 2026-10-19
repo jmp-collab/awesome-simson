@@ -401,5 +401,35 @@
   60,
   "Nacht",
   15
+ ],
+ "malburg": [
+  "auftrag",
+  3000,
+  "Auftrag",
+  3
+ ],
+ "jung": [
+  "auftrag",
+  6000,
+  "Auftrag",
+  3
+ ],
+ "jolly": [
+  "auftrag",
+  2000,
+  "Auftrag",
+  6
+ ],
+ "marascia": [
+  "auftrag",
+  8000,
+  "Auftrag",
+  3
+ ],
+ "lander": [
+  "auftrag",
+  4000,
+  "Auftrag",
+  4
  ]
 }

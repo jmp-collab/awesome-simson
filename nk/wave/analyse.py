@@ -183,6 +183,10 @@ def main():
         k = t["k"]
         af = f"{B}/audit/{k}.json"
         a = json.load(open(af)) if os.path.exists(af) else {}
+        d, m = a.get("desk") or {}, a.get("mob") or {}
+        if d.get("status") == 403 and m.get("status") == 200:  # Bot-Sperre nur fuer Desktop-UA: Inhaltswerte vom Handy-Abruf nehmen
+            for x, v in m.items():
+                if x not in ("scrollW", "innerW", "small", "taps", "total"): d[x] = v
         F = findings(k, t, a) if a else []
         order = {"hoch": 0, "mittel": 1, "niedrig": 2}
         F.sort(key=lambda f: order[f["sev"]])

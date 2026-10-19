@@ -2264,7 +2264,7 @@
   }
  },
  "praxiswell": {
-  "score": 28,
+  "score": 31,
   "datum": "2026-10-19",
   "befunde": [
    {
@@ -2276,12 +2276,12 @@
     "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
    },
    {
-    "id": "text",
+    "id": "bild_kaputt",
     "sev": "hoch",
-    "titel": "Zu wenig Text für Google",
-    "beleg": "Auf der Startseite stehen nur 1 lesbare Wörter.",
-    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
-    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+    "titel": "Ein Bild lädt nicht",
+    "beleg": "Nicht geladen: ti/opt/Bildschirmfoto%2B2021-03-30%2Bum%2B16.01.42-1920w-640",
+    "folge": "Leere Kästen oder fehlende Logos wirken, als sei der Betrieb nicht mehr aktiv.",
+    "fix": "Alle Bilder geprüft und neu eingebunden"
    },
    {
     "id": "desc",
@@ -2314,14 +2314,6 @@
     "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
     "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
     "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
-   },
-   {
-    "id": "favicon",
-    "sev": "niedrig",
-    "titel": "Kein Symbol im Browser-Tab",
-    "beleg": "Kein Favicon hinterlegt.",
-    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
-    "fix": "Favicon aus Ihrem Logo"
    }
   ],
   "sicht": [
@@ -2331,7 +2323,7 @@
   ],
   "nutzen": [
    "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
-   "Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen",
+   "Alle Bilder und das Logo laden zuverlässig",
    "Anfragen auch abends und am Wochenende, per Formular oder WhatsApp",
    "Online-Termin, Rezept und Überweisung als drei große Knöpfe ganz oben",
    "Sprechzeiten und Urlaubshinweise auf einen Blick"
@@ -2356,10 +2348,10 @@
   },
   "gemessen": {
    "load_m": 5.0,
-   "mb": 0.0,
+   "mb": 0.5,
    "breite_m": 390,
-   "woerter": 1,
-   "titel": "403 Forbidden"
+   "woerter": 454,
+   "titel": "Hausarztpraxis Wellesweiler"
   }
  },
  "decker": {
@@ -2581,7 +2573,7 @@
   }
  },
  "lembcke": {
-  "score": 28,
+  "score": 55,
   "datum": "2026-10-19",
   "befunde": [
    {
@@ -2591,22 +2583,6 @@
     "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
     "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
     "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
-   },
-   {
-    "id": "text",
-    "sev": "hoch",
-    "titel": "Zu wenig Text für Google",
-    "beleg": "Auf der Startseite stehen nur 1 lesbare Wörter.",
-    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
-    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
-   },
-   {
-    "id": "desc",
-    "sev": "mittel",
-    "titel": "Keine Beschreibung für Google",
-    "beleg": "Die Seite hat keine Meta-Beschreibung.",
-    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
-    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
    },
    {
     "id": "anfrage",
@@ -2623,22 +2599,6 @@
     "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
     "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
     "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
-   },
-   {
-    "id": "og",
-    "sev": "niedrig",
-    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
-    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
-    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
-    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
-   },
-   {
-    "id": "favicon",
-    "sev": "niedrig",
-    "titel": "Kein Symbol im Browser-Tab",
-    "beleg": "Kein Favicon hinterlegt.",
-    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
-    "fix": "Favicon aus Ihrem Logo"
    }
   ],
   "sicht": [
@@ -2648,10 +2608,10 @@
   ],
   "nutzen": [
    "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
-   "Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen",
    "Anfragen auch abends und am Wochenende, per Formular oder WhatsApp",
    "Ihr Angebot für Babys, Kinder, Schwangere und Erwachsene auf der Startseite",
-   "Termin-Knopf groß und oben"
+   "Termin-Knopf groß und oben",
+   "Kosten und Erstattung verständlich auf einer Seite"
   ],
   "hebel": "Eltern suchen gezielt 'Kinderosteopathie Neunkirchen' oder 'Osteopathie Baby Saarland'. Mit 4,9 Sternen und Zertifikat als Kinderosteopathin gewinnt die Praxis diese Suche, wenn die Startseite das Angebot zeigt statt den Lebenslauf und der Termin-Knopf ganz oben steht.",
   "extra": [
@@ -2671,10 +2631,10 @@
   },
   "gemessen": {
    "load_m": 5.3,
-   "mb": 0.0,
+   "mb": 0.3,
    "breite_m": 390,
-   "woerter": 1,
-   "titel": "403 Forbidden"
+   "woerter": 170,
+   "titel": "www.Osteopathie-Lembcke.de Neunkirchen Saar, Saarland"
   }
  },
  "forster": {
@@ -5803,6 +5763,449 @@
    "breite_m": 980,
    "woerter": 236,
    "titel": "Hotel-Restaurant \"Schafbrücker Mühle\""
+  }
+ },
+ "malburg": {
+  "score": 28,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 1010 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 39 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "https_redirect",
+    "sev": "mittel",
+    "titel": "Ohne 'https' eingetippt erscheint 'Nicht sicher'",
+    "beleg": "Die Adresse http://www.schreinerei-malburg.de leitet nicht auf die sichere Version weiter.",
+    "folge": "Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.",
+    "fix": "Automatische Weiterleitung auf https"
+   },
+   {
+    "id": "text",
+    "sev": "mittel",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 116 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "js",
+    "sev": "niedrig",
+    "titel": "Technische Fehler im Hintergrund",
+    "beleg": "2 Fehlermeldungen beim Laden der Startseite.",
+    "folge": "Fehler können Formulare, Karten oder Menüs unbemerkt lahmlegen.",
+    "fix": "Saubere, geprüfte Technik"
+   }
+  ],
+  "sicht": [
+   "Am Handy ist die Seite winzig, man muss zoomen.",
+   "Die Telefonnummer lässt sich nicht antippen.",
+   "Bestattungen sind ein Menüpunkt zwischen Möbeln und Türen, ohne eigenen Zugang."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Getrennte Bereiche Schreinerei und Bestattungen",
+   "Telefon mit einem Fingertipp"
+  ],
+  "hebel": "Schreinerei und Bestattungen sind zwei sehr verschiedene Besucher. Wer einen Trauerfall hat, braucht sofort eine ruhige Seite mit Telefonnummer zum Antippen. Wer eine Küche oder Treppe plant, will Fotos von fertigen Arbeiten sehen. Getrennte, klare Bereiche holen beide ab.",
+  "extra": [
+   "Eigener, ruhiger Bereich Bestattungen mit Telefon zum Antippen",
+   "Referenzgalerie, die Sie vom Handy befüllen",
+   "Anfrage mit Maßen und Foto für Möbel nach Maß",
+   "Google-Profil für Schreinerei und Bestattungen getrennt gepflegt"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 3000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 990,
+   "breakeven": 1,
+   "jahr": 9000
+  },
+  "gemessen": {
+   "load_m": 3.3,
+   "mb": 2.0,
+   "breite_m": 1010,
+   "woerter": 116,
+   "titel": "Schreinerei Schreiner Saarbrücken Bestattungen Beerdigung Möbel Büromöbel Bau Holz Fenster Türen Tische Zimmer Küche Decken Böden Wohnung Innenausbau Schiffweiler Saarland"
+  }
+ },
+ "jung": {
+  "score": 24,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "titel",
+    "sev": "hoch",
+    "titel": "Google zeigt einen nichtssagenden Titel",
+    "beleg": "Seitentitel: 'Home'",
+    "folge": "Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.",
+    "fix": "Titel mit Leistung und Ort, z. B. 'Ihr Betrieb in Neunkirchen | Leistung'"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "text",
+    "sev": "mittel",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 59 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   }
+  ],
+  "sicht": [
+   "Die Seite heißt bei Google nur 'Home'.",
+   "Keine Leistung wird genannt, rund 60 Wörter Text.",
+   "Gelbe Seiten und Website zeigen verschiedene Adressen."
+  ],
+  "nutzen": [
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Bei Google mit Leistung und Ort sichtbar statt mit 'Home'",
+   "Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen",
+   "Leistungen und Referenzen auf einen Blick",
+   "Anfrage mit Foto vom Dach"
+  ],
+  "hebel": "Dachaufträge sind groß, und Kunden vergleichen mehrere Betriebe online. Wer bei 'Dachdecker Schiffweiler' nur eine Seite namens 'Home' ohne Leistungen findet, ruft den nächsten an. Leistungen, Referenzen und Anfrage per Foto machen den Meisterbetrieb sichtbar.",
+  "extra": [
+   "Anfrage mit Foto vom Schaden",
+   "Referenzgalerie, die Sie vom Handy befüllen",
+   "Google-Profil und Verzeichnisse mit einer einheitlichen Adresse",
+   "Karriereseite für Gesellen und Azubis"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 6000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 790,
+   "breakeven": 1,
+   "jahr": 18000
+  },
+  "gemessen": {
+   "load_m": 3.9,
+   "mb": 0.1,
+   "breite_m": 390,
+   "woerter": 59,
+   "titel": "Home"
+  }
+ },
+ "jolly": {
+  "score": 42,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 1024 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 38 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "jahr",
+    "sev": "mittel",
+    "titel": "Copyright 2016: wirkt nicht gepflegt",
+    "beleg": "Im Fußbereich steht das Jahr 2016.",
+    "folge": "Ein altes Jahr lässt Besucher zweifeln, ob Angaben wie Öffnungszeiten oder Preise noch stimmen.",
+    "fix": "Aktuelle Seite, die Sie selbst pflegen können"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "js",
+    "sev": "niedrig",
+    "titel": "Technische Fehler im Hintergrund",
+    "beleg": "5 Fehlermeldungen beim Laden der Startseite.",
+    "folge": "Fehler können Formulare, Karten oder Menüs unbemerkt lahmlegen.",
+    "fix": "Saubere, geprüfte Technik"
+   }
+  ],
+  "sicht": [
+   "Am Handy ist die Seite abgeschnitten und muss seitlich gewischt werden.",
+   "Copyright 2016.",
+   "Fragen nur per E-Mail-Link, kein Formular."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Aktuelle Seite, die Vertrauen schafft",
+   "Systemfinder mit drei Fragen",
+   "Anfrage mit Raumgröße und Bodenbelag"
+  ],
+  "hebel": "Jollytherm verkauft Systeme, die Kunden vor dem Kauf genau vergleichen: Welcher Boden, welche Fläche, Elektro oder Warmwasser. Ein Systemfinder mit drei Fragen und eine Anfrage mit Raumgröße machen aus Besuchern qualifizierte Anfragen für Handel und Endkunden.",
+  "extra": [
+   "Systemfinder: Boden, Fläche, Energie, Empfehlung",
+   "Händler- und Partnerbereich mit Downloads",
+   "Ratgeberseiten für Suchanfragen wie 'Fußbodenheizung nachrüsten'",
+   "Produktdatenblätter als saubere, druckbare Seiten"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 2000,
+   "einheit": "Auftrag",
+   "anzahl": 6,
+   "preis": 1990,
+   "breakeven": 1,
+   "jahr": 12000
+  },
+  "gemessen": {
+   "load_m": 5.2,
+   "mb": 3.7,
+   "breite_m": 1024,
+   "woerter": 277,
+   "titel": "Jollytherm GmbH"
+  }
+ },
+ "marascia": {
+  "score": 52,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "titel",
+    "sev": "hoch",
+    "titel": "Google zeigt einen nichtssagenden Titel",
+    "beleg": "Seitentitel: 'Home'",
+    "folge": "Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.",
+    "fix": "Titel mit Leistung und Ort, z. B. 'Ihr Betrieb in Neunkirchen | Leistung'"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   }
+  ],
+  "sicht": [
+   "Vorlagen-Adresse 'medical@clinic.com' im Code.",
+   "Die Seite heißt bei Google nur 'Home'.",
+   "Keine Anfrage mit Maßen oder Foto, nur Telefon und E-Mail."
+  ],
+  "nutzen": [
+   "Bei Google mit Leistung und Ort sichtbar statt mit 'Home'",
+   "Anfrage mit Maßen und Foto",
+   "Außendienst nach Region mit einem Fingertipp",
+   "Fenster, Türen, Tore am Handy klar gegliedert"
+  ],
+  "hebel": "Fenster und Türen sind Aufträge im vier- bis fünfstelligen Bereich, und Kunden holen mehrere Angebote ein. Wer bei Google nur 'Home' ohne Beschreibung sieht, klickt beim Nächsten. Eine klare Seite mit Anfrage nach Maßen und den drei Außendienst-Nummern nach Region holt diese Anfragen.",
+  "extra": [
+   "Anfrage mit Maßen und Foto der alten Fenster",
+   "Außendienst-Nummer passend zur Region mit einem Fingertipp",
+   "Referenzgalerie vorher und nachher",
+   "Seite zu Fördermitteln für Fenstertausch, mit Ihnen abgestimmt"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 8000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 990,
+   "breakeven": 1,
+   "jahr": 24000
+  },
+  "gemessen": {
+   "load_m": 3.5,
+   "mb": 0.5,
+   "breite_m": 390,
+   "woerter": 344,
+   "titel": "Home"
+  }
+ },
+ "lander": {
+  "score": 35,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 496 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 79 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "https_redirect",
+    "sev": "mittel",
+    "titel": "Ohne 'https' eingetippt erscheint 'Nicht sicher'",
+    "beleg": "Die Adresse http://www.carsten-lander.de leitet nicht auf die sichere Version weiter.",
+    "folge": "Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.",
+    "fix": "Automatische Weiterleitung auf https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Am Handy angeschnitten.",
+   "Telefon nicht antippbar.",
+   "Zwei verschiedene Adressen in Website und Gelbe Seiten."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Referenzen groß und vorher-nachher",
+   "WhatsApp-Anfrage mit Foto"
+  ],
+  "hebel": "Stuck, Betonoptik und Fassaden verkaufen sich über Bilder. Wer 'Stuckateur Saarland' sucht, entscheidet in Sekunden anhand der Referenzen. Große Vorher-nachher-Fotos und eine Anfrage per WhatsApp mit Foto machen aus dem Meisterbetrieb eine Seite, die Aufträge bringt.",
+  "extra": [
+   "Referenzgalerie vorher und nachher, die Sie vom Handy befüllen",
+   "WhatsApp-Knopf mit vorbereitetem Text",
+   "Einheitliche Adresse in Google und Verzeichnissen",
+   "Eigene Seite für Wasserschäden mit schneller Erreichbarkeit"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 4000,
+   "einheit": "Auftrag",
+   "anzahl": 4,
+   "preis": 990,
+   "breakeven": 1,
+   "jahr": 16000
+  },
+  "gemessen": {
+   "load_m": 3.9,
+   "mb": 1.4,
+   "breite_m": 496,
+   "woerter": 259,
+   "titel": "Carsten-Lander.de"
   }
  }
 }

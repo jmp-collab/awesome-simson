@@ -12,9 +12,12 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 35;hofmann;Viktor Hofmann Fliesen Granit Mosaik;Fliesenleger / Spanndecken;21;5;3;12000;690;60;qyw5z7;06821 87797;Vorher anrufen, morgens vor Baustellenbeginn
 37;pemotec;Pemotec GmbH;Motoreninstandsetzung und Kfz-Werkstatt;21;5;3;8000;990;60;sr52zb;06821 2902680;Vormittags zwischen 9 und 12 Uhr, vorher anrufen
 66;droeschel;Aluminiumprofil- und Glastechnik Marco Dröschel;Metallbau, Aluminium und Glas;21;6;1;12000;990;60;m56tnv;06821 2902675;Morgens früh oder nachmittags, vorher anrufen
+69;jung;Steven Jung GmbH Dachdeckermeister;Dachdeckerei;24;5;3;18000;790;60;kdhf6s;06821 9649937;Früh morgens oder vorher anrufen, mobil 0177 3316944
 30;forster;Lackierservice Forster;KFZ-Lackiererei / Karosseriebau / Smart Repair;31;5;2;7200;690;54;3hy5xw;06821 9729239;Werktags zwischen 8 und 9 Uhr oder nachmittags gegen 16 Uhr in der Werkstatt
+68;malburg;Schreinerei Malburg GmbH;Schreinerei und Bestattungen;28;5;2;9000;990;54;2qj3tz;06821 6278;Vormittags in der Werkstatt, vorher kurz anrufen
 18;hobler;Elektro Hobler UG;Elektroinstallation / Elektriker;41;5;1;5400;690;48;khjgpu;06821 952063;Morgens zwischen 7 und 9 Uhr (Büro Mo bis Fr 6 bis 13 Uhr erreichbar)
 32;kirschhock;Haus- und Montage Service Kirschhock;Hausmeister- und Montageservice;35;4;3;3600;690;48;6vsmks;06821 306991;Vorher anrufen (mobil 0175 4147742), am besten früh morgens
+72;lander;Carsten Lander GmbH;Stuckateur- und Malerbetrieb;35;5;1;16000;990;48;mrbje5;06897 61762;Vorher anrufen oder per WhatsApp melden
 13;didie;Hermann Didié Büro- und Zeichenbedarf;Bürobedarf / Künstler- und Bastelbedarf;15;7;3;1600;690;46.5;322wzl;06821 22757;Vormittag unter der Woche, wenn wenig Kundschaft im Laden ist
 28;rebel;Blumen Rebel;Blumengeschäft / Gärtnerei / Grabpflege;15;7;3;1600;690;46.5;vh4jxx;06821 86217;Vormittags in der Gärtnerei, nicht vor Muttertag, Allerheiligen oder Weihnachten
 34;campanella;La Campanella;Pizzeria / Lieferdienst;24;6;1;2340;690;43.9;4qyb27;06821 3624333;Nachmittags zwischen 15 und 17 Uhr, nicht zur Essenszeit
@@ -25,11 +28,13 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 41;hifi;Hifi Zenit;Hifi- und Car-Hifi-Fachhandel;42;4;2;6000;990;42;qw57hp;06821 177223;Nachmittags im Laden, vorher anrufen (oft Termine beim Kunden)
 57;gleich;Malerbetrieb Gleich GmbH;Malerbetrieb;45;4;2;10000;990;42;goweaj;06821 963636;Morgens früh oder nachmittags, vorher anrufen
 60;schwenk;Fliesenmarkt Schwenk GmbH;Fliesenhandel und Verlegung;42;4;2;15000;1490;42;hhe3wr;06821 485601;Vormittags in der Ausstellung Wellesweiler
+70;jolly;Jollytherm GmbH;Hersteller Flächenheizungen;42;4;2;12000;1990;42;tfpwp4;06821 964930;Vorher anrufen und Termin mit der Geschäftsführung vereinbaren
 11;wibilo;Wibilo-Kebap-Haus;Döner / Imbiss mit Lieferservice;15;6;2;1685;690;37.9;enipj7;06821 9533808;Werktags 14 bis 16 Uhr, nach dem Mittagsgeschäft (geöffnet Mo bis Sa ab 12 Uhr)
 36;mtrucks;M-Trucks GmbH;Nutzfahrzeug-Werkstatt und Teilehandel;55;4;1;9000;1190;36;mjifl6;06821 74963-14;Morgens ab 7 Uhr oder nach 16 Uhr, vorher anrufen
 44;grill;Grill au Bois;Steakhaus und Eventgastronomie;52;3;3;28800;1990;36;eeuj5q;06821 89999;Nachmittags zwischen Mittag- und Abendservice, vorher anrufen
 59;juwel;Karosserie & Lack JuWel GmbH;Karosserie und Lackiererei;55;4;1;7200;990;36;z7qt2y;06821 59333;Morgens ab 7:30 Uhr, vorher anrufen
 61;bogro;BoGro Fachhandel für Bodenbeläge;Bodenbeläge, Lieferung und Verlegung;58;4;1;8000;990;36;vqt5il;06821 179053;Dienstag bis Donnerstag nachmittags, Ausstellung ist bis 17 Uhr offen
+71;marascia;MF-Marascia Fenster-Tor-Tür GmbH;Fenster, Türen und Tore;52;4;1;24000;990;36;uwyl6n;06821 7901291;Vorher anrufen, das Team ist viel im Außendienst
 4;ornella;Beauty Nails Ornella;Nagelstudio / Kosmetik;15;6;3;1350;690;35.5;fzuql4;06821 4013600;Vormittag oder telefonisch Termin vereinbaren
 47;luu;Luu Asien Bistro;Asiatisches und vietnamesisches Bistro;38;5;1;2340;690;35.1;utcsjg;06821 9140902;Nachmittags vor 16:30 Uhr, vor der Öffnung
 51;daenzo;Pizza Heimservice Da Enzo;Pizzeria und Lieferdienst;38;5;1;2340;690;35.1;amsjox;06821 9316899;Nachmittags vor 17 Uhr, montags geschlossen
@@ -39,12 +44,11 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 43;stoerr;Rollladen Störr;Fenster, Haustüren und Rollläden;59;4;0;14000;990;30;qocotn;06821 51700;Nach den Betriebsferien (ab 20.10.), vormittags in der Ausstellung
 53;audeh;Audeh Trockenbau;Trockenbau, Fliesen- und Bodenverlegung;56;3;2;10000;690;30;bnf6t4;0157 59621497;Abends anrufen, Inhaber ist tagsüber auf Baustellen
 62;felicita;Felicita Catering;Catering und Event-Catering;62;3;2;10000;990;30;3n2mmw;0152 22333003;Vorher anrufen, Termin mit Lajos Waadt
-29;lembcke;Praxis für Osteopathie Melanie Lembcke;Osteopathie / Pilates;28;5;2;1600;690;29.9;y25ong;0176 21391233;Vorher anrufen, Behandlungen laufen nach Termin
 46;balkan;Balkan Bäckerei Prizreni;Bäckerei mit Burek, Pizza und Gebäck;38;5;1;1872;690;29.7;liae2m;0155 10932660;Vormittags im Laden, ruhige Zeit vor dem Mittagsgeschäft
 3;gondoliere;Pizzeria Gondoliere Heimservice;Pizzeria / Lieferdienst;45;4;2;3120;990;29.1;hrxs2j;06821 13211;Di bis Fr gegen 16:00 Uhr (vor Öffnung um 17 Uhr)
 20;koble;Hair-Design-Cosmetic Koble;Friseur / Kosmetik;28;6;0;1500;690;28.6;rttms3;06821 9838460;Dienstag bis Freitag vormittags, nicht samstags
 23;divna;Institut DIVNA;Podologie / Kosmetik / Wellness;31;5;2;1500;690;28.6;5dpx2a;06821 983190;Dienstag bis Freitag zwischen den Terminen, vorher anrufen
-26;praxiswell;Hausarztpraxis Wellesweiler;Hausarztpraxis / Allgemeinmedizin;28;5;2;2100;990;28.1;a7yt7z;06821 4311;Nicht in der Sprechstunde: am besten anrufen und um 10 Minuten mit der Praxismanagerin bitten (Mittwoch oder Freitag nachmittags)
+26;praxiswell;Hausarztpraxis Wellesweiler;Hausarztpraxis / Allgemeinmedizin;31;5;2;2100;990;28.1;a7yt7z;06821 4311;Nicht in der Sprechstunde: am besten anrufen und um 10 Minuten mit der Praxismanagerin bitten (Mittwoch oder Freitag nachmittags)
 1;thielen;Schlüssel Thielen;Schlüsseldienst / Sicherheitsfachhandel;15;7;1;900;690;27.7;eglxtn;06821 22510;Vormittag (nur Mo bis Fr 9 bis 13 Uhr geöffnet)
 54;flick;Versicherungsbüro Roland Flick;Versicherungsmakler;35;4;3;2400;990;27.4;ppadlc;06821 4017830;Vormittags zwischen 9 und 12 Uhr im Büro
 55;brech;Brech-Motors;Autovermietung, Kfz-Service, Fahrzeughandel;39;4;2;1800;690;25.3;ten4qe;0177 6922223;Vormittags zwischen 8 und 15 Uhr
@@ -55,6 +59,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 9;tanzwerkstatt;Die Tanzwerkstatt Susanne Sprung;Tanzschule / Musical / Yoga;62;4;0;3600;990;23.2;suyk2t;06821 690035;Nachmittag vor Kursbeginn, ca. 15:00 Uhr
 8;damaskus;Damaskus Haus;Syrisches Restaurant / Imbiss / Döner;52;4;1;2746;990;22.6;7glrnj;06821 149263;15:00 bis 17:00 Uhr
 58;scheiber;Pension am Scheiber Hof;Pension;27;5;3;1080;990;20.9;ulssdt;06821 88381;Vorher anrufen, Rezeption nach Absprache
+29;lembcke;Praxis für Osteopathie Melanie Lembcke;Osteopathie / Pilates;55;4;1;1600;690;19.9;y25ong;0176 21391233;Vorher anrufen, Behandlungen laufen nach Termin
 19;asiahaus;Asia Haus Thaimassage;Traditionelle Thai-Massage;56;4;0;1800;690;18.0;jsivqo;01590 6636103;Vormittags gegen 9 Uhr zur Öffnung, vorher kurz anrufen
 21;sehte;Horst Sehte GmbH;Dachdecker;73;3;0;15000;690;18;kmvidf;06821 51356;Früh morgens 7 bis 8 Uhr oder vorher anrufen (Mobil laut Impressum vorhanden)
 38;kurz;Anhängerverleih Manfred Kurz;Anhängerverleih;55;4;1;1800;990;16.9;wco5zb;06821 88317;Vormittags 10 bis 12 Uhr während der Öffnungszeit

@@ -267,9 +267,19 @@
   "dachdeckerei-schappert-gmbh-dachdeckerei",
   "khan-pizzeria-la-luna-m-hlbachhalle",
   "dr-schel-marco",
-  "alte-schafbr-cker-m-hle-hotelrestaurant"
+  "alte-schafbr-cker-m-hle-hotelrestaurant",
+  "malburg-gmbh-schreiner-bestattungen",
+  "jung-steven-dachdeckerei",
+  "jollytherm-gmbh-heizungsbau",
+  "mf-marascia-gmbh",
+  "carsten-lander-gmbh",
+  "malburg-gmbh-schreiner-bestattungen",
+  "jung-steven-dachdeckerei",
+  "jollytherm-gmbh-heizungsbau",
+  "mf-marascia-gmbh",
+  "carsten-lander-gmbh"
  ],
- "wave": 12,
+ "wave": 13,
  "deferred": {
   "l-a-nails-nagelstudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
   "nieland-julia-pasta": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
@@ -338,12 +348,6 @@
   "coyote-caf": "Kette (Franchise)",
   "bestattungsinstitut-flunkert": "gepflegte Seite, sensibles Thema"
  },
- "queue_neu": [
-  "malburg-gmbh-schreiner-bestattungen",
-  "jung-steven-dachdeckerei",
-  "jollytherm-gmbh-heizungsbau",
-  "mf-marascia-gmbh",
-  "carsten-lander-gmbh"
- ],
+ "queue_neu": [],
  "hinweis": "Neue Leads kommen aus wave/harvest_gs.py (Gelbe Seiten, Ort x Branche) + wave/screen.py (Alterssignale); Kandidaten in wave/new_near.json/screen.json"
 }
