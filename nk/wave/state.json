@@ -348,6 +348,14 @@
   "coyote-caf": "Kette (Franchise)",
   "bestattungsinstitut-flunkert": "gepflegte Seite, sensibles Thema"
  },
- "queue_neu": [],
- "hinweis": "Neue Leads kommen aus wave/harvest_gs.py (Gelbe Seiten, Ort x Branche) + wave/screen.py (Alterssignale); Kandidaten in wave/new_near.json/screen.json"
+ "queue_neu": [
+  "d-g-industriemontage-gmbh",
+  "naturfreundehaus",
+  "s-a-s-gmbh-kfz-meisterbetrieb",
+  "zickwolff-garten-und-landschaftsbau",
+  "schuler-nikolaus-bausanierung",
+  "socacel-fleischtechnologie-gmbh"
+ ],
+ "hinweis": "Neue Leads kommen aus wave/harvest_gs.py (Gelbe Seiten, Ort x Branche) + wave/screen.py (Alterssignale); Kandidaten in wave/new_near.json/screen.json",
+ "queue_neu_hinweis": "Slugs aus new_near.json, noch NICHT in data/all_v2.json: vor fetch.py Eintrag ergänzen (name, branch, addr, plz, url, final, tel, slug, src=gelbeseiten). Ketten wie Holiday Inn auslassen."
 }
