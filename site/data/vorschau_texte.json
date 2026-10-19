@@ -298,5 +298,65 @@
    "Probestunde anfragen mit einem Tipp",
    "Ein Google-Profil, damit Eltern Sie bei der Suche finden"
   ]
+ },
+ "praxiswell": {
+  "obs": [
+   "Auf Ihrer Startseite steht als Erstes das Impressum, nicht Ihre Sprechzeiten oder Online-Services.",
+   "Ganz oben auf der Startseite steht noch der Baukasten-Platzhalter 'Dies ist Absatztext. Klicken Sie darauf...'.",
+   "Auf dem Handy ist Ihre Seite breiter als der Bildschirm."
+  ],
+  "neu": [
+   "Online-Termin, Rezept und Überweisung als drei große Knöpfe ganz oben",
+   "Sprechzeiten und Urlaubshinweise auf einen Blick",
+   "Barrierearm, mit großer Schrift für ältere Patienten"
+  ]
+ },
+ "decker": {
+  "obs": [
+   "Beim Aufruf überdecken ein Cookie-Hinweis und ein Werbe-Fenster Ihre Startseite.",
+   "Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.",
+   "Dass Sie selbst im Saarland fertigen, steht nur im Fließtext."
+  ],
+  "neu": [
+   "Ihre eigene Fertigung und Ausstellung groß auf der Startseite",
+   "Angebotsanfrage mit Maßen und Foto",
+   "Termin für die Ausstellung online buchen"
+  ]
+ },
+ "rebel": {
+  "obs": [
+   "Beim Aufruf verdeckt ein großer Cookie-Dialog Ihre Startseite.",
+   "Ihre Seite ist laut meinem Test nicht für Smartphones angepasst.",
+   "Sie bitten um frühzeitige Vorbestellung, online ist das aber nicht möglich."
+  ],
+  "neu": [
+   "Strauß online vorbestellen mit Abholzeit",
+   "Blumengeschäft, Gärtnerei und Grabpflege klar getrennt",
+   "Helle Seite mit großen Bildern aus Ihrer Gärtnerei"
+  ]
+ },
+ "lembcke": {
+  "obs": [
+   "Auf dem Handy ist Ihre Seite breiter als der Bildschirm. Man muss seitlich wischen, um alles zu sehen.",
+   "Ihre Startseite beginnt mit dem Lebenslauf, Ihr Angebot steht erst auf Unterseiten.",
+   "Die Online-Terminbuchung ist nur ein kleiner Link in der Navigation."
+  ],
+  "neu": [
+   "Ihr Angebot für Babys, Kinder, Schwangere und Erwachsene auf der Startseite",
+   "Termin-Knopf groß und oben",
+   "Kosten und Erstattung verständlich auf einer Seite"
+  ]
+ },
+ "forster": {
+  "obs": [
+   "Auf dem Handy ist Ihre Seite breiter als der Bildschirm. Man muss seitlich wischen, um alles zu sehen.",
+   "Ihre 52 Google-Bewertungen mit 4,9 Sternen sieht auf der Website niemand.",
+   "Einen Schaden mit Foto melden ist online nicht möglich."
+  ],
+  "neu": [
+   "Schaden mit Foto melden, Rückmeldung mit Preisrahmen",
+   "Ihre Bewertungen gut sichtbar auf der Startseite",
+   "Eigene Seite für Smart Repair vor der Leasing-Rückgabe"
+  ]
  }
 }

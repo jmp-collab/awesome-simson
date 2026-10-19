@@ -790,5 +790,165 @@
   "addr": "Eisenbahnstraße 51",
   "tel": "06821 42184",
   "welle": 3
+ },
+ {
+  "name": "Hausarztpraxis Wellesweiler",
+  "branche": "Hausarztpraxis / Allgemeinmedizin",
+  "url": "https://www.praxis-wellesweiler.de",
+  "g": "nicht eindeutig gefunden",
+  "label": "Solide Chance",
+  "visit": "Nicht in der Sprechstunde: am besten anrufen und um 10 Minuten mit der Praxismanagerin bitten (Mittwoch oder Freitag nachmittags)",
+  "audit": [
+   "Die Startseite zeigt als ersten Inhalt das Impressum (Kammer, KV, Approbation) statt Sprechzeiten und Online-Services",
+   "Auf der Startseite steht noch der Baukasten-Platzhalter 'Dies ist Absatztext. Klicken Sie darauf...'",
+   "Auf dem Handy breiter als der Bildschirm"
+  ],
+  "hebel": "Die Praxis hat Online-Termin, -Rezept und -Überweisung, versteckt sie aber hinter einer Startseite voller Impressum. Wenn diese drei Knöpfe ganz oben stehen, sinkt die Zahl der Anrufe am Empfang spürbar. Bei sechs Mitarbeiterinnen ist das der eigentliche Gewinn.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.290 €",
+   "49 bis 99 €"
+  ],
+  "paket": "Neue Startseite mit Sprechzeiten, Online-Services und Urlaubshinweis oben, Team- und Leistungsseiten, barrierearme Gestaltung, Anbindung des bestehenden Online-Termin-Systems",
+  "svc": [
+   "Urlaubs- und Vertretungshinweis, den die Praxis selbst in 1 Minute ändert",
+   "Karriereseite für MFA (Fachkräftemangel)",
+   "Google-Profil mit korrekten Sprechzeiten und Links zu Online-Rezept",
+   "KI-Workshop fürs Team: Patientenbriefe und Antworten schneller schreiben (datenschutzkonform)"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Praxis bietet Rezept und Termin schon online an, aber auf der Startseite sieht man zuerst das Impressum. Ich hab Ihnen mitgebracht, wie die drei Online-Knöpfe ganz oben aussehen könnten.",
+  "obj": "'Wir haben keine Zeit für so was': Genau darum geht es. Jeder Patient, der online bestellt statt anzurufen, spart Ihrem Empfang Zeit.",
+  "k": "praxiswell",
+  "addr": "Winterfloß 17",
+  "tel": "06821 4311",
+  "welle": 4
+ },
+ {
+  "name": "Fensterbau Decker GmbH",
+  "branche": "Fenster, Haustüren, Rollläden (Hersteller)",
+  "url": "https://www.decker-fenster.de",
+  "g": "4,1 ★ (33)",
+  "label": "Quick Win",
+  "visit": "Werktags vormittags in der Ausstellung",
+  "audit": [
+   "Beim Aufruf überdecken ein Cookie-Hinweis und ein Werbe-Popup die Startseite",
+   "Joomla-Seite von 2018 mit Besucherzähler ('254 Gäste online'), nicht für Smartphones angepasst",
+   "Eigene Fertigung im Saarland, das stärkste Argument gegen Online-Händler, steht nur im Fließtext"
+  ],
+  "hebel": "Fenster und Haustüren sind Zehntausend-Euro-Entscheidungen, die online beginnen ('Fenster kaufen Saarland', 'Haustür Neunkirchen'). Als Hersteller mit Ausstellung gewinnt Decker gegen Online-Konfiguratoren mit Nähe, Fertigung vor Ort und Aufmaß. Dazu Förderung für Fenstertausch als Suchtreffer.",
+  "p": [
+   "1.490 bis 2.290 €",
+   "2.290 bis 3.490 €",
+   "49 bis 129 €"
+  ],
+  "paket": "Website mit Produktseiten, Ausstellungsseite mit Terminbuchung, Angebotsanfrage mit Maßen und Foto, Referenzen, Google-Profil",
+  "svc": [
+   "Ratgeber Förderung Fenstertausch und Einbruchschutz als lokale Suchtreffer",
+   "Google-Profil mit Ausstellungsfotos und Bewertungen nach Montage (QR auf der Rechnung)",
+   "Händler-Bereich für den Fachhandel",
+   "Instagram mit Vorher/Nachher-Montagen"
+  ],
+  "open": "Herr Decker, ich bin Jean, Webdesigner aus Neunkirchen. Sie fertigen Fenster hier in Furpach, das ist gegen jeden Online-Händler ein starkes Argument. Auf Ihrer Website sieht man es kaum, und beim Öffnen kommt erst ein Popup. Ich hab Ihnen mitgebracht, wie es aussehen könnte.",
+  "obj": "'Unsere Kunden kommen über Empfehlung und Händler': Die Endkunden googeln trotzdem zuerst. Wer Ihre Ausstellung online findet, kommt mit konkretem Projekt.",
+  "k": "decker",
+  "addr": "Ludwigsthaler Straße 2",
+  "tel": "06821 361524",
+  "welle": 4
+ },
+ {
+  "name": "Blumen Rebel",
+  "branche": "Blumengeschäft / Gärtnerei / Grabpflege",
+  "url": "https://www.blumen-rebel.de",
+  "g": "4,4 ★ (89)",
+  "label": "Quick Win",
+  "visit": "Vormittags in der Gärtnerei, nicht vor Muttertag, Allerheiligen oder Weihnachten",
+  "audit": [
+   "Beim Aufruf verdeckt ein großer Cookie-Dialog die Seite, darunter dunkle Startseite mit wenig Kontrast",
+   "Laut Crawl nicht für Smartphones angepasst, Startseite mit sehr wenig Text",
+   "Kein Weg, einen Strauß online vorzubestellen, obwohl die Seite selbst darum bittet"
+  ],
+  "hebel": "Blumen werden spontan und anlassbezogen gekauft, vor Muttertag, Valentinstag und Allerheiligen massiv. Eine Vorbestellung online mit Abholzeit verkürzt die Schlange (das wünscht sich die Seite selbst) und holt Bestellungen, die heute an Fleurop und Online-Floristen gehen. Grabpflege ist planbares Abo-Geschäft und gehört als eigene Seite nach vorne.",
+  "p": [
+   "690 bis 1.190 €",
+   "1.490 bis 2.290 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Website mit Bereichen Blumengeschäft, Gärtnerei, Grabpflege, Strauß-Vorbestellung mit Abholzeit, Saisonhinweisen, Google-Profilen für beide Standorte",
+  "svc": [
+   "Vorbestellformular für Anlässe (Muttertag, Valentinstag, Allerheiligen) mit Abholzeit",
+   "Grabpflege-Seite mit Anfrage, je Friedhof als Suchtreffer",
+   "Instagram mit saisonalen Sträußen, 2 bis 3 Beiträge pro Woche",
+   "Zwei Google-Profile sauber trennen (Geschäft und Gärtnerei)"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Website bitten Sie, Sträuße frühzeitig vorzubestellen, aber online geht das nicht. Ich hab Ihnen mitgebracht, wie eine Vorbestellung direkt auf der Seite aussehen könnte.",
+  "obj": "'Die Leute rufen doch an': Vor Muttertag klingelt das Telefon ununterbrochen. Jede Online-Vorbestellung ist ein Anruf weniger und ein fertiger Strauß zur festen Uhrzeit.",
+  "k": "rebel",
+  "addr": "Carl-Ferdinand-Straße 13",
+  "tel": "06821 86217",
+  "welle": 4
+ },
+ {
+  "name": "Praxis für Osteopathie Melanie Lembcke",
+  "branche": "Osteopathie / Pilates",
+  "url": "https://osteopathie-lembcke.de",
+  "g": "4,9 ★ (34)",
+  "label": "Solide Chance",
+  "visit": "Vorher anrufen, Behandlungen laufen nach Termin",
+  "audit": [
+   "Auf dem Handy breiter als der Bildschirm",
+   "Die Startseite ist ein Lebenslauf (Geburtsjahr, Abitur, Privates), das Angebot kommt erst auf Unterseiten",
+   "Online-Terminbuchung vorhanden, aber nur als Link in der Navigation"
+  ],
+  "hebel": "Eltern suchen gezielt 'Kinderosteopathie Neunkirchen' oder 'Osteopathie Baby Saarland'. Mit 4,9 Sternen und Zertifikat als Kinderosteopathin gewinnt die Praxis diese Suche, wenn die Startseite das Angebot zeigt statt den Lebenslauf und der Termin-Knopf ganz oben steht.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.690 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Website mit Angebotsseiten (Baby, Kind, Schwangerschaft, Erwachsene, Pilates), Kostenseite, eingebundener Online-Terminbuchung, Google-Profil",
+  "svc": [
+   "Eigene Seite Kinderosteopathie als Suchtreffer für Eltern",
+   "Pilates-Kursplan mit Anmeldung",
+   "Google-Profil mit Leistungen, Antworten auf Bewertungen",
+   "Kooperation mit Hebammen und Kinderärzten der Region (Empfehlungen, Links)"
+  ],
+  "open": "Frau Lembcke, ich bin Jean, Webdesigner aus Neunkirchen. Sie haben 4,9 Sterne und sind zertifizierte Kinderosteopathin, aber Ihre Startseite beginnt mit dem Lebenslauf. Ich hab Ihnen mitgebracht, wie sie mit Ihrem Angebot vorne aussehen könnte.",
+  "obj": "'Ich bin eh ausgebucht': Dann sorgt die Seite dafür, dass die richtigen Patienten kommen, zum Beispiel mehr Babys und Schwangere, wenn das Ihr Schwerpunkt sein soll.",
+  "k": "lembcke",
+  "addr": "Bahnhofstraße 45",
+  "tel": "0176 21391233",
+  "welle": 4
+ },
+ {
+  "name": "Lackierservice Forster",
+  "branche": "KFZ-Lackiererei / Karosseriebau / Smart Repair",
+  "url": "https://beulenfrei.com",
+  "g": "4,9 ★ (52)",
+  "label": "Quick Win",
+  "visit": "Werktags zwischen 8 und 9 Uhr oder nachmittags gegen 16 Uhr in der Werkstatt",
+  "audit": [
+   "Auf dem Handy breiter als der Bildschirm",
+   "52 Bewertungen mit 4,9 Sternen sind auf der Website nicht zu sehen",
+   "Kein Weg, einen Schaden mit Foto zu melden, obwohl Smart Repair und Leasing-Rückgabe genau davon leben"
+  ],
+  "hebel": "Smart Repair vor Leasing-Rückgabe ist ein wachsendes, planbares Geschäft. Wer bei 'Smart Repair Neunkirchen' sucht, will sofort einen Preis. Ein Foto-Upload mit Rückmeldung innerhalb eines Tages macht aus der Suche einen Werkstatttermin, die 4,9 Sterne geben den Ausschlag.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Website mit Leistungsseiten, Schaden-melden-Formular mit Foto-Upload, Bewertungen eingebunden, Projektgalerie, Google-Profil",
+  "svc": [
+   "Landingpage 'Smart Repair vor Leasing-Rückgabe' plus Ansprache von Autohäusern",
+   "Vorher/Nachher-Reels auf Instagram aus der Werkstatt",
+   "Google-Profil mit Leistungen und Preisen ab, Bewertungs-QR bei Fahrzeugübergabe",
+   "Einträge bei Autoreparatur-Portalen vereinheitlichen"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Sie haben 4,9 Sterne bei 52 Bewertungen, auf Ihrer Website sieht man das nicht, und einen Schaden per Foto melden geht auch nicht. Ich hab Ihnen mitgebracht, wie das aussehen könnte.",
+  "obj": "'Unsere Kunden kommen über Mundpropaganda': Genau das sagen die 52 Bewertungen. Die Seite sorgt nur dafür, dass Neukunden diese Mundpropaganda online auch sehen.",
+  "k": "forster",
+  "addr": "Ludwigsthaler Straße 2",
+  "tel": "06821 9729239",
+  "welle": 4
  }
 ]

@@ -1,14 +1,9 @@
 {
  "queue": [
-  "schmidt-thomas-michael-dr-med-u-schmitt-",
   "arminia-steuerberatung",
-  "decker-fenster-haust-ren-rollladen-gmbh",
   "logop-die-kr-mer-monika-schwochow-nathal",
-  "blumen-rebel",
   "m-ller-pierrette-dr-psychotherapeutische",
   "meyer-walter-meyer-christel-yogadozenten",
-  "lembcke-melanie-praxis-f-r-osteopathie",
-  "lackierservice-forster",
   "ac-1-sport-und-freizeitpark",
   "htb-haus-technik-bechtel-gmbh",
   "kirschhock-bernd-haus-montage-service",
@@ -292,9 +287,19 @@
   "vsv-hochbau-gmbh",
   "divna-medizinische-fu-pflege",
   "orthop-die-lattrich-gmbh-wolfgang",
-  "schneider-birgit-musikunterricht"
+  "schneider-birgit-musikunterricht",
+  "schmidt-thomas-michael-dr-med-u-schmitt-",
+  "decker-fenster-haust-ren-rollladen-gmbh",
+  "blumen-rebel",
+  "lembcke-melanie-praxis-f-r-osteopathie",
+  "lackierservice-forster",
+  "schmidt-thomas-michael-dr-med-u-schmitt-",
+  "decker-fenster-haust-ren-rollladen-gmbh",
+  "blumen-rebel",
+  "lembcke-melanie-praxis-f-r-osteopathie",
+  "lackierservice-forster"
  ],
- "wave": 3,
+ "wave": 4,
  "deferred": {
   "l-a-nails-nagelstudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",
   "nieland-julia-pasta": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",

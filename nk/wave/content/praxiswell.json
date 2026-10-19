@@ -1,0 +1,111 @@
+{
+ "slug": "schmidt-thomas-michael-dr-med-u-schmitt-",
+ "theme": "praxis",
+ "name": "Hausarztpraxis Wellesweiler",
+ "branche": "Hausarztpraxis / Allgemeinmedizin",
+ "addr": "Winterfloß 17 · 66539 Neunkirchen-Wellesweiler",
+ "tel": "06821 4311",
+ "url": "https://www.praxis-wellesweiler.de",
+ "g": "nicht eindeutig gefunden",
+ "label": "Solide Chance",
+ "visit": "Nicht in der Sprechstunde: am besten anrufen und um 10 Minuten mit der Praxismanagerin bitten (Mittwoch oder Freitag nachmittags)",
+ "logo_a": "Hausarztpraxis",
+ "logo_b": "Wellesweiler",
+ "nav": [
+  "Praxis",
+  "Leistungen",
+  "Online-Service",
+  "Kontakt"
+ ],
+ "eyebrow": "Seit 1956, in dritter Generation in Wellesweiler",
+ "h1": "Ihre Hausarztpraxis in Wellesweiler.",
+ "lead": "Allgemeinmedizin mit Herz-Kreislauf-Diagnostik, Vorsorge, Impfungen und Naturheilverfahren. Termine, Rezepte und Überweisungen auch online.",
+ "cta1": "Termin online buchen",
+ "cta2": "Rezept bestellen",
+ "mcta": "Anrufen",
+ "badge": [
+  "1956",
+  "in dritter Generation"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Fachärzte für Allgemeinmedizin</b>",
+  "<b>Online</b> Termin, Rezept, Überweisung",
+  "<b>Videosprechstunde</b> möglich"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Akut- und Dauerversorgung",
+   "Behandlung akuter und chronischer Erkrankungen, Hausarztprogramme AOK und Knappschaft."
+  ],
+  [
+   "Vorsorge",
+   "Check-up ab 35, Krebsvorsorge, Impfberatung und Impfungen."
+  ],
+  [
+   "Herz und Kreislauf",
+   "Ruhe-, Belastungs- und Langzeit-EKG, 24-Stunden-Blutdruck."
+  ],
+  [
+   "Ultraschall und Lunge",
+   "Bauchraum, Schilddrüse, Lungenfunktion."
+  ],
+  [
+   "Labor",
+   "Blutentnahme 8 bis 10 Uhr, Sofortwerte INR, HbA1c, CRP."
+  ],
+  [
+   "DMP-Programme",
+   "Diabetes Typ 2, COPD, Asthma, koronare Herzkrankheit."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Rezept oder Überweisung? Einfach online bestellen.",
+ "hours": [
+  [
+   "Montag",
+   "8:00 bis 12:00, nachmittags nach Vereinbarung"
+  ],
+  [
+   "Dienstag und Donnerstag",
+   "8:00 bis 12:00 und 15:30 bis 17:30"
+  ]
+ ],
+ "pill": "",
+ "contact": "Hausarztpraxis Wellesweiler<br>Dr. med. Michael Schmidt<br>Dr. med. Kerstin Schmitt<br>Winterfloß 17<br>66539 Neunkirchen-Wellesweiler<br><br>Telefon 06821 4311",
+ "audit": [
+  "Die Startseite zeigt als ersten Inhalt das Impressum (Kammer, KV, Approbation) statt Sprechzeiten und Online-Services",
+  "Auf der Startseite steht noch der Baukasten-Platzhalter 'Dies ist Absatztext. Klicken Sie darauf...'",
+  "Auf dem Handy breiter als der Bildschirm"
+ ],
+ "hebel": "Die Praxis hat Online-Termin, -Rezept und -Überweisung, versteckt sie aber hinter einer Startseite voller Impressum. Wenn diese drei Knöpfe ganz oben stehen, sinkt die Zahl der Anrufe am Empfang spürbar. Bei sechs Mitarbeiterinnen ist das der eigentliche Gewinn.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.290 €",
+  "49 bis 99 €"
+ ],
+ "paket": "Neue Startseite mit Sprechzeiten, Online-Services und Urlaubshinweis oben, Team- und Leistungsseiten, barrierearme Gestaltung, Anbindung des bestehenden Online-Termin-Systems",
+ "svc": [
+  "Urlaubs- und Vertretungshinweis, den die Praxis selbst in 1 Minute ändert",
+  "Karriereseite für MFA (Fachkräftemangel)",
+  "Google-Profil mit korrekten Sprechzeiten und Links zu Online-Rezept",
+  "KI-Workshop fürs Team: Patientenbriefe und Antworten schneller schreiben (datenschutzkonform)"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Praxis bietet Rezept und Termin schon online an, aber auf der Startseite sieht man zuerst das Impressum. Ich hab Ihnen mitgebracht, wie die drei Online-Knöpfe ganz oben aussehen könnten.",
+ "obj": "'Wir haben keine Zeit für so was': Genau darum geht es. Jeder Patient, der online bestellt statt anzurufen, spart Ihrem Empfang Zeit.",
+ "obs": [
+  "Auf Ihrer Startseite steht als Erstes das Impressum, nicht Ihre Sprechzeiten oder Online-Services.",
+  "Ganz oben auf der Startseite steht noch der Baukasten-Platzhalter 'Dies ist Absatztext. Klicken Sie darauf...'.",
+  "Auf dem Handy ist Ihre Seite breiter als der Bildschirm."
+ ],
+ "neu": [
+  "Online-Termin, Rezept und Überweisung als drei große Knöpfe ganz oben",
+  "Sprechzeiten und Urlaubshinweise auf einen Blick",
+  "Barrierearm, mit großer Schrift für ältere Patienten"
+ ]
+}

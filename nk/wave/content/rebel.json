@@ -1,0 +1,124 @@
+{
+ "slug": "blumen-rebel",
+ "theme": "beauty",
+ "name": "Blumen Rebel",
+ "branche": "Blumengeschäft / Gärtnerei / Grabpflege",
+ "addr": "Carl-Ferdinand-Straße 13 · 66538 Neunkirchen",
+ "tel": "06821 86217",
+ "url": "https://www.blumen-rebel.de",
+ "g": "4,4 ★ (89)",
+ "label": "Quick Win",
+ "visit": "Vormittags in der Gärtnerei, nicht vor Muttertag, Allerheiligen oder Weihnachten",
+ "logo_a": "Blumen",
+ "logo_b": "Rebel",
+ "nav": [
+  "Blumengeschäft",
+  "Gärtnerei",
+  "Grabpflege",
+  "Kontakt"
+ ],
+ "eyebrow": "Blumengeschäft, Gärtnerei und Grabpflege in Neunkirchen",
+ "h1": "Blumen für jeden Anlass. Pflanzen aus eigener Gärtnerei.",
+ "lead": "Floristik für Hochzeit, Geschenk und Trauer, 2.000 m² Gärtnerei unter Glas und Grabpflege auf den Friedhöfen der Region.",
+ "cta1": "Strauß vorbestellen",
+ "cta2": "Öffnungszeiten",
+ "mcta": "Anrufen",
+ "badge": [
+  "2.000 m²",
+  "Verkaufsfläche unter Glas"
+ ],
+ "deco": "",
+ "hero_img": "img/rebel_2.jpg",
+ "trust": [
+  "<span class='stars'>★★★★☆</span> <b>4,4</b> bei Google (89 Bewertungen)",
+  "<b>Ausbildungsbetrieb</b> für Gärtner",
+  "<b>Dauergrabpflege</b> über die Treuhandstelle"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Bei uns",
+ "services": [
+  [
+   "Geschenkfloristik",
+   "Sträuße und Gestecke für jeden Anlass."
+  ],
+  [
+   "Hochzeitsfloristik",
+   "Brautstrauß, Anstecker und Dekoration."
+  ],
+  [
+   "Trauerbinderei",
+   "Kränze und Gestecke, würdevoll gebunden."
+  ],
+  [
+   "Gärtnerei",
+   "Beet, Balkon, Nutzpflanzen, Dünger und Erden."
+  ],
+  [
+   "Grabpflege",
+   "Jahres-, Saison- und Dauergrabpflege, Neuanlagen."
+  ],
+  [
+   "Deko",
+   "Für Küche, Haus und Garten."
+  ]
+ ],
+ "gal_title": "Aus Geschäft und Gärtnerei",
+ "gallery": [
+  "img/rebel_0.jpg",
+  "img/rebel_1.jpg",
+  "img/rebel_3.jpg",
+  "img/rebel_2.jpg"
+ ],
+ "band": "Muttertag, Hochzeit, Trauerfall: Bestellen Sie rechtzeitig vor.",
+ "hours": [
+  [
+   "Gärtnerei Mo bis Fr",
+   "8:00 bis 12:00 und 13:00 bis 17:00"
+  ],
+  [
+   "Gärtnerei Sa",
+   "9:00 bis 12:00"
+  ],
+  [
+   "Blumengeschäft Mo bis Fr",
+   "8:00 bis 17:00"
+  ],
+  [
+   "Blumengeschäft Sa / So",
+   "8:00 bis 13:00 / 10:00 bis 12:00"
+  ]
+ ],
+ "pill": "",
+ "contact": "Blumen Rebel, Christine Hoffmann<br>Gärtnerei: Carl-Ferdinand-Straße 13, 66538 Neunkirchen, Telefon 06821 86217<br>Blumengeschäft: Limbacher Straße, 66539 Neunkirchen (am Zentralfriedhof), Telefon 06821 31407",
+ "audit": [
+  "Beim Aufruf verdeckt ein großer Cookie-Dialog die Seite, darunter dunkle Startseite mit wenig Kontrast",
+  "Laut Crawl nicht für Smartphones angepasst, Startseite mit sehr wenig Text",
+  "Kein Weg, einen Strauß online vorzubestellen, obwohl die Seite selbst darum bittet"
+ ],
+ "hebel": "Blumen werden spontan und anlassbezogen gekauft, vor Muttertag, Valentinstag und Allerheiligen massiv. Eine Vorbestellung online mit Abholzeit verkürzt die Schlange (das wünscht sich die Seite selbst) und holt Bestellungen, die heute an Fleurop und Online-Floristen gehen. Grabpflege ist planbares Abo-Geschäft und gehört als eigene Seite nach vorne.",
+ "p": [
+  "690 bis 1.190 €",
+  "1.490 bis 2.290 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Website mit Bereichen Blumengeschäft, Gärtnerei, Grabpflege, Strauß-Vorbestellung mit Abholzeit, Saisonhinweisen, Google-Profilen für beide Standorte",
+ "svc": [
+  "Vorbestellformular für Anlässe (Muttertag, Valentinstag, Allerheiligen) mit Abholzeit",
+  "Grabpflege-Seite mit Anfrage, je Friedhof als Suchtreffer",
+  "Instagram mit saisonalen Sträußen, 2 bis 3 Beiträge pro Woche",
+  "Zwei Google-Profile sauber trennen (Geschäft und Gärtnerei)"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Website bitten Sie, Sträuße frühzeitig vorzubestellen, aber online geht das nicht. Ich hab Ihnen mitgebracht, wie eine Vorbestellung direkt auf der Seite aussehen könnte.",
+ "obj": "'Die Leute rufen doch an': Vor Muttertag klingelt das Telefon ununterbrochen. Jede Online-Vorbestellung ist ein Anruf weniger und ein fertiger Strauß zur festen Uhrzeit.",
+ "obs": [
+  "Beim Aufruf verdeckt ein großer Cookie-Dialog Ihre Startseite.",
+  "Ihre Seite ist laut meinem Test nicht für Smartphones angepasst.",
+  "Sie bitten um frühzeitige Vorbestellung, online ist das aber nicht möglich."
+ ],
+ "neu": [
+  "Strauß online vorbestellen mit Abholzeit",
+  "Blumengeschäft, Gärtnerei und Grabpflege klar getrennt",
+  "Helle Seite mit großen Bildern aus Ihrer Gärtnerei"
+ ]
+}
