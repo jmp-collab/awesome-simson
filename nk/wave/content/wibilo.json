@@ -1,0 +1,163 @@
+{
+ "slug": "wibilo-kebap-haus",
+ "theme": "doener",
+ "name": "Wibilo-Kebap-Haus",
+ "branche": "Döner / Imbiss mit Lieferservice",
+ "addr": "Wibilostraße 12 · 66540 Neunkirchen-Wiebelskirchen",
+ "tel": "06821 9533808",
+ "url": "https://www.wibilo-kebap-haus.de",
+ "g": "3,2 ★ (232)",
+ "label": "Umsatzhebel",
+ "visit": "Werktags 14 bis 16 Uhr, nach dem Mittagsgeschäft (geöffnet Mo bis Sa ab 12 Uhr)",
+ "logo_a": "Wibilo",
+ "logo_b": "Kebap-Haus",
+ "nav": [
+  "Speisekarte",
+  "Bestellen",
+  "Öffnungszeiten",
+  "Kontakt"
+ ],
+ "eyebrow": "Döner, Pide und Pizza in Wiebelskirchen",
+ "h1": "Frisch vom Spieß. Direkt bei uns bestellt.",
+ "lead": "Döner, Yufka, Lahmacun, Pide und Pizza aus der Wibilostraße. Abholen oder liefern lassen, bestellt per Anruf oder WhatsApp, ohne Umweg über ein Portal.",
+ "cta1": "Jetzt anrufen: 06821 9533808",
+ "cta2": "Speisekarte ansehen",
+ "mcta": "Anrufen & bestellen",
+ "badge": [
+  "12 bis 22 Uhr",
+  "Montag bis Samstag geöffnet"
+ ],
+ "deco": "DÖNER",
+ "hero_img": "",
+ "trust": [
+  "<b>Abholung</b> und Lieferung",
+  "<b>Mo bis Sa</b> 12 bis 22 Uhr, <b>So</b> 15 bis 22 Uhr",
+  "<b>Wiebelskirchen</b>, Wibilostraße 12"
+ ],
+ "menu_title": "Beliebt bei uns",
+ "menu": [
+  [
+   "Döner",
+   "klassisch, groß oder vegetarisch",
+   ""
+  ],
+  [
+   "Döner Teller",
+   "mit Beilage und Salat",
+   ""
+  ],
+  [
+   "Yufka",
+   "im dünnen Fladen gerollt",
+   ""
+  ],
+  [
+   "Lahmacun",
+   "türkische Pizza, frisch belegt",
+   ""
+  ],
+  [
+   "Pide",
+   "aus dem Ofen",
+   ""
+  ],
+  [
+   "Pizza",
+   "verschiedene Sorten",
+   ""
+  ],
+  [
+   "Salate",
+   "frisch angemacht",
+   ""
+  ],
+  [
+   "Chicken Wings und Nuggets",
+   "auch als Menü",
+   ""
+  ],
+  [
+   "Kids Menü",
+   "für die Kleinen",
+   ""
+  ],
+  [
+   "Dauerangebote",
+   "fragen Sie nach dem Angebot der Woche",
+   ""
+  ]
+ ],
+ "svc_title": "So bestellen Sie",
+ "services": [
+  [
+   "Anrufen",
+   "Ein Tipp auf die Nummer, wir nehmen Ihre Bestellung auf."
+  ],
+  [
+   "WhatsApp",
+   "Bestellung per Nachricht schicken, wir bestätigen die Abholzeit."
+  ],
+  [
+   "Abholen",
+   "Bestellen und ohne Wartezeit mitnehmen."
+  ],
+  [
+   "Liefern lassen",
+   "Lieferung nach Wiebelskirchen und Umgebung."
+  ],
+  [
+   "Für Gruppen",
+   "Größere Bestellungen fürs Büro oder den Verein vorab anfragen."
+  ],
+  [
+   "Allergene",
+   "Alle Angaben zu Zusatzstoffen und Allergenen auf einen Blick."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Hunger? Ein Anruf genügt.",
+ "hours": [
+  [
+   "Montag bis Samstag",
+   "12:00 bis 22:00 Uhr"
+  ],
+  [
+   "Sonntag",
+   "15:00 bis 22:00 Uhr"
+  ]
+ ],
+ "pill": "Heute ab 12 Uhr geöffnet",
+ "contact": "Wibilo-Kebap-Haus<br>Wibilostraße 12<br>66540 Neunkirchen-Wiebelskirchen<br><br>Telefon 06821 9533808",
+ "audit": [
+  "Die eigene Domain zeigt nur das Lieferando-Logo: keine Speisekarte, keine Öffnungszeiten, kein Telefon",
+  "Die Seite gehört faktisch der Plattform, jede Bestellung darüber kostet Provision",
+  "Google-Schnitt 3,2 bei 232 Bewertungen, ohne sichtbare Antworten. Das drückt die Klickrate gegenüber anderen Dönerläden"
+ ],
+ "hebel": "Döner wird spontan und lokal bestellt. Wer auf 'Döner Wiebelskirchen' tippt, braucht Nummer, Karte und Öffnungszeiten in 3 Sekunden. Jede Bestellung, die per Telefon oder WhatsApp statt über das Portal kommt, spart die Provision (Höhe laut eigenem Vertrag).",
+ "p": [
+  "690 bis 990 €",
+  "1.490 bis 2.290 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Onepager mit Speisekarte als echte Seite, Allergenen, Anruf- und WhatsApp-Knopf, Google-Profil aufgeräumt (Fotos, Zeiten, Menü), Fotoshooting der Top-10-Gerichte",
+ "svc": [
+  "Bewertungs-Turnaround: alle offenen Google-Bewertungen beantworten, KI-Antwortvorlagen, QR-Aufsteller an der Theke (Ziel: Schnitt über 4,0)",
+  "Instagram und TikTok: Kurzvideos vom Spieß, Lahmacun aus dem Ofen, 2 bis 3 pro Woche",
+  "Mittags-Deal für Pendler und Schüler als Google-Beitrag und WhatsApp-Status",
+  "Speisekarte zusätzlich auf Türkisch und Englisch",
+  "Stempelkarte digital (WhatsApp) für Stammkunden"
+ ],
+ "open": "Ich bin Jean, Webdesigner hier aus Neunkirchen. Wenn man Ihre Website aufruft, kommt nur das Lieferando-Logo. Ich hab Ihnen mitgebracht, wie Ihre eigene Seite aussehen könnte, mit Karte und Bestellknopf direkt zu Ihnen.",
+ "obj": "'Lieferando bringt uns doch die Kunden': Für Neukunden ja. Stammkunden bestellen aber auch dort, und für jede dieser Bestellungen zahlen Sie Provision. Die eigene Seite holt genau die Stammkunden zurück ans Telefon.",
+ "obs": [
+  "Wenn man Ihre Website aufruft, erscheint nur das Lieferando-Logo. Speisekarte, Öffnungszeiten und Telefonnummer fehlen.",
+  "Bestellungen über diese Seite laufen über das Portal, das an jeder Bestellung mitverdient.",
+  "Auf Ihre Google-Bewertungen gibt es bisher keine sichtbaren Antworten."
+ ],
+ "neu": [
+  "Eine eigene Seite mit Ihrer Karte, Ihren Zeiten und Ihrer Nummer",
+  "Bestellen per Anruf oder WhatsApp mit einem Tipp, ohne Provision",
+  "Antworten auf Bewertungen mit fertigen Vorlagen, damit neue Gäste Vertrauen fassen"
+ ]
+}

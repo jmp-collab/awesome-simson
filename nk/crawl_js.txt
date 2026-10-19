@@ -1,0 +1,42 @@
+
+() => {
+  const h = document.documentElement.outerHTML;
+  const txt = document.body ? document.body.innerText : '';
+  const q = s => document.querySelector(s);
+  const links = [...document.querySelectorAll('a[href]')].map(a => a.href);
+  const years = (txt.match(/(?:©|copyright|\(c\))\s*[^\n]{0,40}?((?:19|20)\d\d)/gi) || []).join(' ');
+  const allyears = (txt.match(/\b(19[9]\d|20[0-2]\d)\b/g) || []).map(Number);
+  return {
+    title: document.title,
+    desc: (q('meta[name="description"]') || {}).content || '',
+    viewport: !!q('meta[name="viewport"]'),
+    generator: (q('meta[name="generator"]') || {}).content || '',
+    copyright: years,
+    maxyear: allyears.length ? Math.max(...allyears) : null,
+    tables: document.querySelectorAll('table').length,
+    frames: document.querySelectorAll('frame,iframe[src*=".htm"]').length,
+    fonttags: document.querySelectorAll('font,center,marquee').length,
+    flash: /\.swf|shockwave/i.test(h),
+    jquery: (h.match(/jquery[.-]?(\d\.\d+)/i) || [])[1] || '',
+    wp: /wp-content|wp-includes/i.test(h),
+    jimdo: /jimdo/i.test(h), wix: /wix\.com|wixstatic/i.test(h),
+    ionos: /ionos|1und1|1&1|mywebsite|homepagebaukasten|website-builder/i.test(h),
+    strato: /strato/i.test(h),
+    facebook: links.find(l => /facebook\.com/.test(l)) || '',
+    instagram: links.find(l => /instagram\.com/.test(l)) || '',
+    tiktok: links.find(l => /tiktok\.com/.test(l)) || '',
+    gmaps: /google\.[a-z.]+\/maps|maps\.google|goo\.gl\/maps/i.test(h),
+    schema: /schema\.org/i.test(h),
+    localbiz: /"@type"\s*:\s*"(LocalBusiness|Restaurant|Dentist|Attorney|Store|[A-Za-z]*Business|Hotel|FoodEstablishment)"/i.test(h),
+    booking: /termin\s*online|online\s*buchen|jetzt\s*buchen|reservier|bestell|lieferando|opentable|doctolib|treatwell|shore|planity|warenkorb/i.test(txt + h),
+    impressum: /impressum/i.test(txt),
+    datenschutz: /datenschutz/i.test(txt),
+    cookie: /cookie/i.test(txt),
+    words: txt.split(/\s+/).length,
+    imgs: document.images.length,
+    h1: document.querySelectorAll('h1').length,
+    scrollW: document.documentElement.scrollWidth,
+    phoneLink: links.some(l => l.startsWith('tel:')),
+    text: txt.slice(0, 1500)
+  };
+}

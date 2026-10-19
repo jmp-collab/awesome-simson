@@ -1,0 +1,475 @@
+[
+ {
+  "k": "thielen",
+  "name": "Schlüssel Thielen",
+  "branche": "Schlüsseldienst / Sicherheitsfachhandel",
+  "addr": "Hüttenbergstraße 30",
+  "tel": "06821 22510",
+  "url": "https://www.schluessel-thielen.de",
+  "g": "4,6 ★ (15)",
+  "label": "Quick Win",
+  "visit": "Vormittag (nur Mo bis Fr 9 bis 13 Uhr geöffnet)",
+  "audit": [
+   "Startseite besteht fast nur aus einem Bild: Google kann Leistungen, Adresse und Öffnungszeiten kaum lesen (3 Wörter Text erkannt)",
+   "Auf dem Handy ist die Seite 986 px breit: Kunden müssen seitlich wischen und zoomen",
+   "Tabellenlayout mit Grafik-Schriftzügen, Gestaltung etwa aus der Zeit vor 2012"
+  ],
+  "hebel": "Schlüsseldienst wird fast nur über Google gesucht ('Schlüsseldienst Neunkirchen'). Eine lesbare Seite plus gepflegtes Google-Profil entscheidet, ob der Anruf bei Thielen oder bei einem überregionalen Notdienst-Callcenter landet.",
+  "p": [
+   "590 bis 890 €",
+   "990 bis 1.490 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Leistungen, Ladenfoto, Öffnungszeiten, Klick-zum-Anrufen, Google-Profil vervollständigen (Fotos, Leistungen, Öffnungszeiten), Fotoshooting im Laden",
+  "svc": [
+   "Google-Unternehmensprofil als Hauptkanal: Kategorien, Leistungen, 10 neue Fotos, Q&A",
+   "Bewertungs-QR-Aufsteller an der Kasse (aktuell nur 15 Bewertungen trotz 55 Jahren)",
+   "Lokale Einträge vereinheitlichen (Das Örtliche, Gelbe Seiten, 11880) für konsistente NAP-Daten",
+   "Seite 'Tresorberatung' als eigener Suchtreffer für höherwertige Aufträge"
+  ],
+  "open": "Herr Thielen, ich arbeite hier in Neunkirchen als Webdesigner. Ich habe mir Ihre Seite auf dem Handy angeschaut und Ihnen mitgebracht, wie sie in zwei Wochen aussehen könnte.",
+  "obj": "'Die Leute kennen uns doch': Die Stammkunden ja. Wer neu zuzieht oder nachts ausgesperrt ist, googelt. Mit 4,6 Sternen haben Sie das Vertrauen schon, die Seite muss es nur zeigen."
+ },
+ {
+  "k": "asia",
+  "name": "Asia Wok Bistro",
+  "branche": "Restaurant vietnamesisch / Thai mit Heimservice",
+  "addr": "Brückenstraße 26",
+  "tel": "06821 140373",
+  "url": "https://asia-wok-neunkirchen.de",
+  "g": "4,4 ★ (230)",
+  "label": "Umsatzhebel",
+  "visit": "14:45 bis 16:30 Uhr (zwischen Mittag und Abend)",
+  "audit": [
+   "Kein Viewport-Tag: Die Seite ist nicht für Smartphones gebaut, Speisekarte nur als lange Liste",
+   "Gestaltung mit Rahmenmenü links und Schmuckgrafiken, Erscheinungsbild vor 2012",
+   "230 Google-Bewertungen mit Schnitt 4,4 werden auf der Website nicht genutzt, keine Online-Bestellung"
+  ],
+  "hebel": "Heimservice ohne Online-Bestellweg: Jede Bestellung kostet einen Anruf zur Stoßzeit. Ein eigenes Bestellformular ohne Provision entlastet das Telefon und erfasst Stammkunden.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.890 bis 2.890 €",
+   "49 bis 149 €"
+  ],
+  "paket": "Mobile Speisekarte mit Kategorien und Allergenen, provisionsfreie Online-Bestellung für Abholung und Lieferung, Google-Profil mit Speisekarte und Bestelllink",
+  "svc": [
+   "Speisekarte zweisprachig Deutsch und Englisch (Bewertungen zeigen Sprachbarrieren bei Gästen)",
+   "Wochenaktion 'Enten-Tag' als Google-Beitrag und Instagram-Story",
+   "Bewertungsantworten mit KI-Entwurf zur Freigabe, besonders bei Kritik",
+   "Mittagstisch-Seite für Berufstätige in der Innenstadt"
+  ],
+  "open": "Guten Tag, ich bin Webdesigner hier aus Neunkirchen. Sie haben 230 Google-Bewertungen, das ist richtig stark. Ich zeige Ihnen kurz, wie Ihre Seite das auf dem Handy in Bestellungen verwandeln kann.",
+  "obj": "'Die Leute rufen eh an': Genau, und zur Stoßzeit klingelt es ununterbrochen. Online-Bestellungen laufen parallel, ohne dass jemand ans Telefon muss."
+ },
+ {
+  "k": "gondoliere",
+  "name": "Pizzeria Gondoliere Heimservice",
+  "branche": "Pizzeria / Lieferdienst",
+  "addr": "Storchenplatz 1",
+  "tel": "06821 13211",
+  "url": "https://gondoliere-neunkirchen.de",
+  "g": "4,0 ★ (174)",
+  "label": "Umsatzhebel",
+  "visit": "Di bis Fr gegen 16:00 Uhr (vor Öffnung um 17 Uhr)",
+  "audit": [
+   "Ladezeit 21,8 Sekunden bis die Seite vollständig geladen ist",
+   "Besucherzähler, Wordart-Grafiken und blinkende 'NEWS'-Elemente wirken wie aus den 2000ern",
+   "Kein eigener Online-Bestellweg trotz über 40 Jahren Lieferdienst, Stellenanzeige versteckt im Fließtext"
+  ],
+  "hebel": "Beispielrechnung: Wer über Plattformen 23 bis 30 % Provision zahlt (Anbieterangabe, Vertrag prüfen), spart bei 25 verlagerten Bestellungen pro Woche à 22 € rund 6.500 bis 8.500 € im Jahr. Ohne Plattform gilt: Jede Online-Bestellung ist ein Anruf weniger.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.990 bis 3.290 €",
+   "59 bis 179 €"
+  ],
+  "paket": "Neue Website mit Familiengeschichte, digitale Speisekarte, provisionsfreies Bestellsystem, Karriereseite 'Küchenhilfe gesucht', Google-Profil mit Bestelllink",
+  "svc": [
+   "Stammkunden-Stempelkarte digital oder per QR auf dem Pizzakarton",
+   "Personalgewinnung: Stellenanzeige auf Website, Google-Beitrag, Facebook-Gruppen Neunkirchen",
+   "Bewertungsmanagement: 4,0 Schnitt mit Beschwerden über Lieferzeit, Antwortvorlagen und Lieferzeit-Hinweis auf der Seite",
+   "Instagram Reels vom Holzofen und der Familie Abbruzzino, 2 pro Woche"
+  ],
+  "open": "Guten Tag, Familie Abbruzzino? Ich mache Websites für Betriebe hier in Neunkirchen und habe Ihnen etwas mitgebracht: So könnte der Gondoliere nach 40 Jahren online aussehen, mit eigener Bestellung ohne Provision.",
+  "obj": "'Ich hab schon Lieferando': Bleibt auch. Aber Ihre Stammgäste, die seit Jahren bestellen, müssen dafür keine Provision kosten."
+ },
+ {
+  "k": "ornella",
+  "name": "Beauty Nails Ornella",
+  "branche": "Nagelstudio / Kosmetik",
+  "addr": "Ruhstockstraße 10",
+  "tel": "06821 4013600",
+  "url": "https://www.beauty-nails-ornella.de",
+  "g": "nicht eindeutig gefunden",
+  "label": "Quick Win",
+  "visit": "Vormittag oder telefonisch Termin vereinbaren",
+  "audit": [
+   "Serverseitig zuletzt geändert am 21.05.2012, Angebote und Preise auf diesem Stand",
+   "Kein Viewport-Tag, auf dem Handy 920 px breit",
+   "Kein auffindbares eigenes Google-Unternehmensprofil, Suche liefert ein anderes Studio im Saarpark-Center"
+  ],
+  "hebel": "Nagelstudios leben von Wiederholungsterminen und Google-Suche 'Nagelstudio Neunkirchen'. Ohne eigenes Google-Profil gehen Neukundinnen an die Konkurrenz im Saarpark-Center.",
+  "p": [
+   "590 bis 890 €",
+   "890 bis 1.390 €",
+   "29 bis 99 €"
+  ],
+  "paket": "Onepager mit Leistungen, Preisliste, Galerie, Online-Terminanfrage, Google-Unternehmensprofil neu anlegen und verifizieren",
+  "svc": [
+   "Google-Profil neu: Kategorie Nagelstudio, Leistungen mit Preisen, Fotos der Arbeiten",
+   "Instagram mit Vorher-Nachher-Fotos der Nägel (mit Einwilligung), 3 Beiträge pro Woche",
+   "Online-Terminbuchung mit Erinnerung per SMS oder E-Mail",
+   "Gutscheinverkauf online zu Muttertag und Weihnachten"
+  ],
+  "open": "Guten Tag, Frau Lang-Gilcher? Ich bin Webdesigner aus Neunkirchen. Wenn man bei Google 'Nagelstudio Neunkirchen' sucht, findet man Ihr Studio kaum. Ich habe Ihnen mitgebracht, wie das aussehen könnte.",
+  "obj": "'Meine Kundinnen kommen über Empfehlung': Perfekt, dann sollte jede Empfehlung, die Sie googelt, auch sofort einen Termin anfragen können."
+ },
+ {
+  "k": "rutz",
+  "name": "Praxis für Physiotherapie Hermann Rutz",
+  "branche": "Physiotherapie",
+  "addr": "Max-Braun-Straße 1",
+  "tel": "06821 23665",
+  "url": "https://www.krankengymnastik-rutz.de",
+  "g": "5,0 ★ (2)",
+  "label": "Solide Chance",
+  "visit": "Nachmittag Mo bis Do, kurz an der Anmeldung nach dem Inhaber fragen",
+  "audit": [
+   "Kein Viewport-Tag, auf dem Handy 977 px breit",
+   "Sonnenblumen-Grafiken und gelbe Navigationsleiste, zuletzt 2021 geändert",
+   "Nur 2 Google-Bewertungen trotz über 40 Jahren Praxis, keine Hinweise auf Team, Karriere oder Hausbesuche oberhalb der Falz"
+  ],
+  "hebel": "Physiopraxen suchen fast überall Fachkräfte. Eine moderne Seite mit Karrierebereich ist hier oft wertvoller als neue Patienten: eine besetzte Stelle bringt mehr als jede Anzeige.",
+  "p": [
+   "690 bis 1.190 €",
+   "1.190 bis 1.790 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Mehrseitige Website mit Leistungen, Hausbesuche, Team, Karriere, Terminanfrage, Google-Profil mit Leistungen und Fotos",
+  "svc": [
+   "Karriereseite plus Google-Beitrag und Stellenportale für Physiotherapeutinnen und Physiotherapeuten",
+   "Bewertungsbitte per Karte nach Behandlungsserie (Heilmittelwerbegesetz beachten: keine Werbung mit Dankesschreiben)",
+   "Leistungsseiten verständlich erklärt (Bobath, Lymphdrainage, Beckenboden) für lokale Suchtreffer",
+   "Barrierearme Gestaltung für ältere Patientinnen und Patienten"
+  ],
+  "open": "Guten Tag, ich arbeite als Webdesigner hier in Neunkirchen. Ihre Praxis hat einen hervorragenden Ruf, online sieht man davon wenig. Ich habe Ihnen eine Vorschau mitgebracht, inklusive Karrierebereich.",
+  "obj": "'Wir sind voll': Dann ist die Karriereseite der Hebel. Mehr Therapeuten heißt mehr Termine, die Sie annehmen können."
+ },
+ {
+  "k": "marktapo",
+  "name": "Markt Apotheke",
+  "branche": "Apotheke",
+  "addr": "Max-Braun-Straße 1",
+  "tel": "06821 21811",
+  "url": "https://www.markt-apotheke-nk.de",
+  "g": "4,8 ★ (56)",
+  "label": "Solide Chance",
+  "visit": "Nachmittag ab 14:30 Uhr, nach Inhaberin Frau Daniels fragen",
+  "audit": [
+   "Im Kopfbereich steht noch der Platzhalter 'Ihr Name Ihr Slogan' aus dem Website-Baukasten",
+   "Trennlinien aus Bindestrichen im Text, Startseite optisch leer, jQuery 1.7 aus dem Jahr 2011",
+   "E-Rezept, Botendienst und Vorbestellung sind vorhanden, aber nicht prominent: wichtigste Kundenaufgaben fehlen oberhalb der Falz"
+  ],
+  "hebel": "Die Apotheke hat 4,8 Sterne und einen Botendienst. Wenn E-Rezept und Vorbestellung auf der Startseite stehen, landen Rezepte direkt hier statt bei Versandapotheken.",
+  "p": [
+   "990 bis 1.690 €",
+   "1.690 bis 2.690 €",
+   "49 bis 129 €"
+  ],
+  "paket": "Neue Website mit E-Rezept-Anleitung, Vorbestellung, Botendienst, Notdienstanzeige, Team, Google-Profil-Pflege",
+  "svc": [
+   "Notdienst-Widget und Öffnungszeiten-Status live",
+   "Monatliche Aktionen im zulässigen Rahmen (Heilmittelwerbegesetz) als Google-Beitrag",
+   "Große Schrift und hoher Kontrast für ältere Kundschaft (Barrierefreiheit)",
+   "Karriereseite für PTA und Apothekerinnen und Apotheker"
+  ],
+  "open": "Guten Tag, ich bin Webdesigner aus Neunkirchen. Auf Ihrer Website steht oben noch 'Ihr Name Ihr Slogan' aus der Vorlage. Ich habe Ihnen mitgebracht, wie die Seite zum 50-jährigen Bestehen aussehen könnte.",
+  "obj": "'Wir haben doch eine Seite': Ja, und sie zeigt Kundinnen und Kunden gerade einen Vorlagentext. Das ist eine Kleinigkeit mit großer Wirkung auf Vertrauen."
+ },
+ {
+  "k": "roemer",
+  "name": "Wirtshaus Römer, Neinkeijer Steak-House",
+  "branche": "Steakhaus / Wirtshaus",
+  "addr": "Bahnhofstraße 5",
+  "tel": "06821 942756",
+  "url": "https://www.wirtshaus-roemer.de",
+  "g": "4,1 ★ (364)",
+  "label": "Umsatzhebel",
+  "visit": "15:00 bis 16:30 Uhr (vor Öffnung um 17 Uhr), nicht dienstags",
+  "audit": [
+   "Kopfbereich als Bildcollage mit eingebetteter Schrift, Joomla-Seite mit 5,9 Sekunden Ladezeit",
+   "Hochwertige Fotos von Grill, Koch und Gaststube vorhanden, aber klein und versteckt",
+   "Keine Online-Reservierung, keine Feiern-Seite, Rezensionen zeigen unbeantwortete E-Mail-Anfragen"
+  ],
+  "hebel": "364 Bewertungen zeigen viel Nachfrage. Eine Reservierungsfunktion und eine Seite für Weihnachtsfeiern und Gruppen bringt planbare Umsätze im Herbst und Winter.",
+  "p": [
+   "990 bis 1.590 €",
+   "1.890 bis 2.990 €",
+   "49 bis 149 €"
+  ],
+  "paket": "Neue Website mit großen eigenen Fotos, Speisekarte, Online-Reservierung, Feiern und Gruppen, Gutscheinverkauf, Google-Profil mit Reservierungslink",
+  "svc": [
+   "Weihnachtsfeier-Kampagne Oktober bis Dezember: Landingpage, Google-Beitrag, Facebook",
+   "Englische Kurzkarte (Bewertungen von internationalen Gästen ohne Deutschkenntnisse)",
+   "Online-Gutscheine als Weihnachtsgeschenk",
+   "Antwortvorlagen für Bewertungen und E-Mail-Anfragen"
+  ],
+  "open": "Guten Tag, Frau Hau? Ich bin Webdesigner aus Neunkirchen. Sie haben großartige Fotos vom Grill und der Gaststube, nur sieht man sie online kaum. Ich habe Ihnen mitgebracht, wie das aussehen kann, inklusive Online-Reservierung.",
+  "obj": "'Reservierungen kommen telefonisch': Gut so. Online-Anfragen kommen zusätzlich, auch nachts und am Ruhetag, wenn niemand ans Telefon geht."
+ },
+ {
+  "k": "damaskus",
+  "name": "Damaskus Haus",
+  "branche": "Syrisches Restaurant / Imbiss / Döner",
+  "addr": "Bahnhofstraße 39",
+  "tel": "06821 149263",
+  "url": "https://www.damaskus-haus-neunkirchen.de",
+  "g": "3,7 ★ (165)",
+  "label": "Umsatzhebel",
+  "visit": "15:00 bis 17:00 Uhr",
+  "audit": [
+   "Die Website ist eine von Lieferando betriebene Standardseite ('Diese Website wird betrieben und verwaltet durch Lieferando.de')",
+   "Kein eigenes Design, keine Geschichte, keine Fotos vom Laden, keine Mehrsprachigkeit trotz syrischer Küche",
+   "Google-Schnitt 3,7 bei 165 Bewertungen: unbeantwortete Kritik drückt die Klickrate"
+  ],
+  "hebel": "Bei jeder Bestellung über eine Plattformseite fällt Provision an (Höhe laut Vertrag, Anbieterangaben nennen 23 bis 30 % für Marktplatzbestellungen). Eine eigene Seite mit eigenem Bestellweg holt Stammkunden aus dem Provisionsmodell.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.890 bis 2.990 €",
+   "59 bis 179 €"
+  ],
+  "paket": "Eigene Website mit Markenauftritt, Speisekarte Deutsch, Arabisch und Englisch, provisionsfreies Bestellsystem, Google-Profil mit Fotos und Menü",
+  "svc": [
+   "Reputations-Paket: alle Bewertungen professionell beantworten, QR-Bewertungsaufsteller, Ziel 4,2 in 6 Monaten (Ziel, keine Garantie)",
+   "TikTok und Instagram Reels: Schawarma-Spieß, Manakish aus dem Ofen, 3 pro Woche",
+   "Mittagsmenü für Berufstätige und Pendler am Bahnhof",
+   "Mehrsprachiges Google-Profil, Beiträge auch auf Arabisch"
+  ],
+  "open": "Guten Tag, ich bin Webdesigner aus Neunkirchen. Ihre Website gehört gerade eigentlich Lieferando. Ich habe Ihnen mitgebracht, wie das Damaskus Haus mit eigener Seite und eigener Bestellung aussieht.",
+  "obj": "'Lieferando bringt mir Kunden': Stimmt, Neukunden. Für die Stammkunden, die Sie schon kennen, brauchen Sie keinen Vermittler zu bezahlen."
+ },
+ {
+  "k": "tanzwerkstatt",
+  "name": "Die Tanzwerkstatt Susanne Sprung",
+  "branche": "Tanzschule / Musical / Yoga",
+  "addr": "Hüttenbergstraße 6",
+  "tel": "06821 690035",
+  "url": "https://die-tanzwerkstatt.de",
+  "g": "5,0 ★ (11)",
+  "label": "Quick Win",
+  "visit": "Nachmittag vor Kursbeginn, ca. 15:00 Uhr",
+  "audit": [
+   "Ladezeit 11,4 Sekunden, Slider mit Text auf Bild schwer lesbar",
+   "Stundenplan als unübersichtliche Liste, kein Filter nach Alter oder Stil",
+   "Hervorragende Bühnenfotos vorhanden, aber nicht als Hauptargument genutzt, keine Online-Anmeldung zur Probestunde"
+  ],
+  "hebel": "Eltern wählen Kurse am Handy, meist abends. Ein filterbarer Stundenplan mit Probestunden-Anmeldung senkt die Hürde vom Interesse zur Anmeldung deutlich.",
+  "p": [
+   "990 bis 1.590 €",
+   "1.690 bis 2.590 €",
+   "39 bis 99 €"
+  ],
+  "paket": "Neue Website mit Bühnenfotos, filterbarem Stundenplan, Probestunden-Buchung, Online-Kursen, Aufführungen und Ticketinfo",
+  "svc": [
+   "Instagram und TikTok mit Proben- und Bühnenclips (Einwilligungen der Eltern einholen)",
+   "Aufführungs-Landingpage mit Ticketverkauf",
+   "Google-Profil: Kurse als Leistungen, Fotos, Bewertungsbitte an Eltern (aktuell 11 Bewertungen)",
+   "Sommer-Workshops und Ferienkurse als eigene Kampagne"
+  ],
+  "open": "Guten Tag, Frau Sprung? Ich bin Webdesigner aus Neunkirchen. Sie haben fantastische Bühnenfotos. Ich habe Ihnen mitgebracht, wie Ihre Seite mit einem Stundenplan aussieht, über den Eltern direkt eine Probestunde buchen.",
+  "obj": "'Ich hab keine Zeit für Social Media': Das übernehme ich. Sie schicken mir Clips aus dem Training, ich mache daraus Beiträge."
+ },
+ {
+  "k": "ellenfeld",
+  "name": "Hotel Zum Ellenfeld",
+  "branche": "Hotel / Restaurant",
+  "addr": "Zweibrücker Straße 14",
+  "tel": "06821 8169",
+  "url": "https://hotel-ellenfeld.de",
+  "g": "4,2 ★ (149)",
+  "label": "Quick Win",
+  "visit": "Mo bis Do 14:00 bis 16:00 Uhr (nach dem Stammessen)",
+  "audit": [
+   "Ladezeit 23,7 Sekunden",
+   "Stammessen als Fließtext zwischen Strichlinien, keine Zimmerbilder oberhalb der Falz",
+   "Keine Online-Zimmeranfrage auf der Startseite, Nebenzimmer mit Beamer als Umsatzquelle kaum sichtbar"
+  ],
+  "hebel": "Direktbuchungen sparen die Kommission der Buchungsportale. Dazu ist das Nebenzimmer für Feiern und Meetings eine Einnahmequelle, die online kaum jemand findet.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.590 bis 2.490 €",
+   "39 bis 99 €"
+  ],
+  "paket": "Neue Website mit Zimmeranfrage, Zimmerseite mit Preisen und Fotos, pflegbarem Stammessen-Wochenplan, Raumvermietung, Google-Hotelprofil",
+  "svc": [
+   "Stammessen-Wochenplan, den das Team selbst in 2 Minuten pflegt, automatisch als Google-Beitrag",
+   "Raumvermietung für Vereine und Firmen als eigene Landingpage",
+   "Bewertungsantworten (gemischte Hotelbewertungen)",
+   "Fotoshooting der Zimmer"
+  ],
+  "open": "Guten Tag, ich bin Webdesigner aus Neunkirchen. Ihr Stammessen kennt hier jeder, online dauert es über 20 Sekunden, bis man es sieht. Ich habe Ihnen mitgebracht, wie das in Zukunft aussehen kann.",
+  "obj": "'Die Gäste buchen über Portale': Das bleibt so. Jede Direktbuchung über die eigene Seite spart aber die Portalgebühr."
+ },
+ {
+  "name": "Wibilo-Kebap-Haus",
+  "branche": "Döner / Imbiss mit Lieferservice",
+  "url": "https://www.wibilo-kebap-haus.de",
+  "g": "3,2 ★ (232)",
+  "label": "Umsatzhebel",
+  "visit": "Werktags 14 bis 16 Uhr, nach dem Mittagsgeschäft (geöffnet Mo bis Sa ab 12 Uhr)",
+  "audit": [
+   "Die eigene Domain zeigt nur das Lieferando-Logo: keine Speisekarte, keine Öffnungszeiten, kein Telefon",
+   "Die Seite gehört faktisch der Plattform, jede Bestellung darüber kostet Provision",
+   "Google-Schnitt 3,2 bei 232 Bewertungen, ohne sichtbare Antworten. Das drückt die Klickrate gegenüber anderen Dönerläden"
+  ],
+  "hebel": "Döner wird spontan und lokal bestellt. Wer auf 'Döner Wiebelskirchen' tippt, braucht Nummer, Karte und Öffnungszeiten in 3 Sekunden. Jede Bestellung, die per Telefon oder WhatsApp statt über das Portal kommt, spart die Provision (Höhe laut eigenem Vertrag).",
+  "p": [
+   "690 bis 990 €",
+   "1.490 bis 2.290 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Onepager mit Speisekarte als echte Seite, Allergenen, Anruf- und WhatsApp-Knopf, Google-Profil aufgeräumt (Fotos, Zeiten, Menü), Fotoshooting der Top-10-Gerichte",
+  "svc": [
+   "Bewertungs-Turnaround: alle offenen Google-Bewertungen beantworten, KI-Antwortvorlagen, QR-Aufsteller an der Theke (Ziel: Schnitt über 4,0)",
+   "Instagram und TikTok: Kurzvideos vom Spieß, Lahmacun aus dem Ofen, 2 bis 3 pro Woche",
+   "Mittags-Deal für Pendler und Schüler als Google-Beitrag und WhatsApp-Status",
+   "Speisekarte zusätzlich auf Türkisch und Englisch",
+   "Stempelkarte digital (WhatsApp) für Stammkunden"
+  ],
+  "open": "Ich bin Jean, Webdesigner hier aus Neunkirchen. Wenn man Ihre Website aufruft, kommt nur das Lieferando-Logo. Ich hab Ihnen mitgebracht, wie Ihre eigene Seite aussehen könnte, mit Karte und Bestellknopf direkt zu Ihnen.",
+  "obj": "'Lieferando bringt uns doch die Kunden': Für Neukunden ja. Stammkunden bestellen aber auch dort, und für jede dieser Bestellungen zahlen Sie Provision. Die eigene Seite holt genau die Stammkunden zurück ans Telefon.",
+  "k": "wibilo",
+  "addr": "Wibilostraße 12",
+  "tel": "06821 9533808",
+  "welle": 1
+ },
+ {
+  "name": "Dolomiti Pizzeria, Gelateria & Pasticceria",
+  "branche": "Eiscafé / Pizzeria / Pasticceria",
+  "url": "https://www.dolomitipizzeria-neunkirchen.de",
+  "g": "4,3 ★ (358)",
+  "label": "Umsatzhebel",
+  "visit": "Nachmittags kurz nach Öffnung, nicht zur Abendspitze",
+  "audit": [
+   "Die eigene Domain zeigt nur das Lieferando-Logo: keine Eiskarte, keine Zeiten, kein Telefon",
+   "Bei 358 Google-Bewertungen und 4,3 Sternen fehlt eine Seite, die diesen Ruf zeigt",
+   "Saisonbetrieb ohne Ort für Öffnungszeiten, Saisonstart und neue Sorten"
+  ],
+  "hebel": "Ein Eiscafé am Oberen Markt lebt von Laufkundschaft und Spontanbesuchen. Gesucht wird 'Eiscafé Neunkirchen' oder 'Eis in der Nähe'. Eine eigene Seite mit Eiskarte, Fotos und Zeiten plus gepflegtem Google-Profil holt diese Suchen an den eigenen Tisch statt zur Lieferplattform.",
+  "p": [
+   "690 bis 1.190 €",
+   "1.490 bis 2.290 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Onepager mit Eis-, Pizza- und Dolci-Karte, Saison- und Öffnungszeiten-Modul, Google-Profil mit Fotos, Fotoshooting der Eisbecher",
+  "svc": [
+   "Instagram mit Kurzvideos der Eisbecher und 'Sorte der Woche', 3 Beiträge pro Woche in der Saison",
+   "Google-Beiträge zu Saisonstart, neuen Sorten, Ferien",
+   "Eis-Gutscheine online verkaufen (Geschenkidee)",
+   "Bewertungs-QR an der Kasse, Antworten mit KI-Vorlagen",
+   "Karte zusätzlich auf Italienisch und Englisch"
+  ],
+  "open": "Ich bin Jean, Webdesigner hier aus Neunkirchen. Sie haben über 350 Google-Bewertungen, aber wer Ihre Website aufruft, sieht nur das Lieferando-Logo. Ich hab Ihnen mitgebracht, wie Ihre eigene Seite aussehen könnte.",
+  "obj": "'Im Winter ist eh wenig los': Genau deshalb lohnt sich der Start jetzt. Bis zur Saison ist die Seite gefunden, die Bewertungen sind gepflegt und die ersten Gutscheine zu Weihnachten verkauft.",
+  "k": "dolomiti",
+  "addr": "Oberer Markt 10",
+  "tel": "06821 9424024",
+  "welle": 1
+ },
+ {
+  "name": "Hermann Didié Büro- und Zeichenbedarf",
+  "branche": "Bürobedarf / Künstler- und Bastelbedarf",
+  "url": "https://www.hermann-didie.de",
+  "g": "4,6 ★ (190)",
+  "label": "Quick Win",
+  "visit": "Vormittag unter der Woche, wenn wenig Kundschaft im Laden ist",
+  "audit": [
+   "Die Seite ist nicht für Smartphones angepasst und laut Server zuletzt 2011 geändert",
+   "Die Startseite hat zwei Sätze Text, Sortiment und Öffnungszeiten fehlen",
+   "4,6 Sterne bei 190 Bewertungen, auf der Website davon nichts zu sehen"
+  ],
+  "hebel": "Bastel- und Künstlerbedarf wird gezielt gesucht ('Bastelladen Neunkirchen', 'Rayher Saarland'). Mit Sortimentsseiten pro Marke und Thema wird der Laden für diese Suchen sichtbar, auch für Kundschaft aus dem Umland, die bisher zu Online-Shops geht.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Website mit Sortimentsseiten (Büro, Zeichnen, Malen, Basteln, Marken), Öffnungszeiten, Google-Profil mit Fotos aus dem Laden",
+  "svc": [
+   "Saisonaktionen als Google-Beitrag: Schulstart, Ostern, Advent und Weihnachtsbasteln",
+   "Instagram mit Bastelideen und Neuheiten, 2 Beiträge pro Woche",
+   "Workshop-Seite für Bastelkurse im Laden (Anmeldung per Formular)",
+   "Firmenkunden-Seite für Bürobedarf mit Bestellung per Mail",
+   "Bewertungs-QR an der Kasse"
+  ],
+  "open": "Ich bin Jean, Webdesigner hier aus Neunkirchen. Sie haben 4,6 Sterne bei fast 200 Bewertungen, aber Ihre Website ist von 2011 und auf dem Handy kaum lesbar. Ich hab Ihnen mitgebracht, wie sie aussehen könnte.",
+  "obj": "'Unsere Kunden kommen doch in den Laden': Die Stammkunden ja. Wer neu Bastelbedarf sucht, googelt zuerst und landet sonst bei Amazon. Die Seite sorgt dafür, dass Sie in dieser Suche auftauchen.",
+  "k": "didie",
+  "addr": "Bahnhofstraße 1 c",
+  "tel": "06821 22757",
+  "welle": 1
+ },
+ {
+  "name": "MetallDesignMüller",
+  "branche": "Metallbau / Geländer, Treppen, Tore",
+  "url": "https://www.metalldesignmueller.de",
+  "g": "3,7 ★ (9)",
+  "label": "Quick Win",
+  "visit": "Früh morgens 7 bis 8 Uhr oder vorher anrufen (Handwerker oft auf Montage)",
+  "audit": [
+   "Startseite mit Tabellenlayout, Besucherzähler und Kachel-Hintergrund, auf dem Handy nicht nutzbar",
+   "Leistungen stehen nur als Galerie-Überschriften, Google findet keine Texte zu Geländer, Treppe oder Tor",
+   "Keine Anfrage-Möglichkeit außer Mail-Link, keine Fotos im Großformat auf der Startseite"
+  ],
+  "hebel": "Metallbau wird über Leistung plus Ort gesucht ('Geländer Neunkirchen', 'Stahltreppe Saarland'). Eigene Leistungsseiten mit den vorhandenen Projektfotos und ein Anfrageformular mit Foto-Upload bringen vorqualifizierte Anfragen statt Telefonate ohne Maße.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Website mit Leistungsseiten (Geländer, Treppen, Tore, Überdachungen), Referenzgalerie aus den vorhandenen Fotos, Anfrageformular mit Foto-Upload, Google-Profil",
+  "svc": [
+   "Google-Profil mit Projektfotos und Leistungen, Bewertungen nach jedem Auftrag anfragen (QR auf der Rechnung)",
+   "Referenz-Posts auf Instagram und Facebook aus Vorher/Nachher-Fotos der Baustelle",
+   "Einträge bei Branchenportalen vereinheitlichen (MyHammer, Gelbe Seiten, 11880)",
+   "Backlinks über Kooperationen mit Bauträgern, Architekten und Treppenbauern der Region"
+  ],
+  "open": "Herr Müller, ich bin Jean, Webdesigner aus Neunkirchen. Ihre Arbeiten in der Galerie sind richtig stark, aber auf dem Handy sieht man davon kaum etwas. Ich hab Ihnen mitgebracht, wie Ihre Seite mit genau diesen Fotos aussehen könnte.",
+  "obj": "'Ich hab genug Arbeit': Dann bringt die Seite bessere statt mehr Anfragen, mit Fotos und Maßen vorab und weniger Besichtigungen für Aufträge, die nicht passen.",
+  "k": "mdm",
+  "addr": "Mozartstraße 7-9",
+  "tel": "06821 1799757",
+  "welle": 1
+ },
+ {
+  "name": "Schlosserei Heil GmbH",
+  "branche": "Schlosserei / Metallbau / Schmiede",
+  "url": "https://www.schlosserei-heil.de",
+  "g": "2,7 ★ (12)",
+  "label": "Quick Win",
+  "visit": "Früh morgens 7 bis 8 Uhr in der Werkstatt oder vorher anrufen",
+  "audit": [
+   "Nicht für Smartphones angepasst, letzte Änderung laut Seite Dezember 2018",
+   "Fotos nur als 125-Pixel-Vorschaubilder, die starken Projekte gehen unter",
+   "Google-Schnitt 2,7 bei 12 Bewertungen, keine Antworten. Bei Handwerkersuche entscheidet das oft vor dem ersten Anruf"
+  ],
+  "hebel": "Ein Betrieb mit fast 100 Jahren Meistererfahrung, Schweißfachbetrieb und WHG-Zulassung hat starke Vertrauensargumente, die online fehlen. Leistungsseiten mit großen Projektfotos plus aktives Bewertungsmanagement drehen die Wahrnehmung bei Google.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Website mit Leistungsseiten, Referenzgalerie in voller Größe, Qualifikationen (Schweißfachbetrieb, WHG § 19), Anfrageformular mit Foto, Google-Profil",
+  "svc": [
+   "Bewertungs-Turnaround: zufriedene Kunden der letzten 2 Jahre um Bewertung bitten, alle Bewertungen beantworten",
+   "Google-Profil mit Projektfotos und Qualifikationen",
+   "Industriekunden-Seite für WHG-Arbeiten (Tankanlagen, Auffangwannen) als eigener Suchtreffer",
+   "Stellenseite für Metallbauer und Azubis"
+  ],
+  "open": "Herr Heil, ich bin Jean, Webdesigner aus Neunkirchen. Sie sind seit 1930 Meisterbetrieb, aber online sieht man Ihre Arbeiten nur als kleine Vorschaubilder. Ich hab Ihnen mitgebracht, wie Ihre Seite mit Ihren eigenen Fotos aussehen könnte.",
+  "obj": "'Uns kennt man hier': In Wiebelskirchen ja. Wer neu baut oder zugezogen ist, sucht bei Google und sieht zuerst 2,7 Sterne. Mit einer guten Seite und ein paar ehrlichen Bewertungen Ihrer Stammkunden ändert sich das schnell.",
+  "k": "heil",
+  "addr": "Eichendorffstraße 4",
+  "tel": "06821 51362",
+  "welle": 1
+ }
+]

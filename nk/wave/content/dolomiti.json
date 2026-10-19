@@ -1,0 +1,126 @@
+{
+ "slug": "dolomiti-pizzeria-gelateria-pasticceria",
+ "theme": "gelato",
+ "name": "Dolomiti Pizzeria, Gelateria & Pasticceria",
+ "branche": "Eiscafé / Pizzeria / Pasticceria",
+ "addr": "Oberer Markt 10 · 66538 Neunkirchen",
+ "tel": "06821 9424024",
+ "url": "https://www.dolomitipizzeria-neunkirchen.de",
+ "g": "4,3 ★ (358)",
+ "label": "Umsatzhebel",
+ "visit": "Nachmittags kurz nach Öffnung, nicht zur Abendspitze",
+ "logo_a": "Dolomiti",
+ "logo_b": "Neunkirchen",
+ "nav": [
+  "Gelato",
+  "Pizza",
+  "Pasticceria",
+  "Kontakt"
+ ],
+ "eyebrow": "Gelateria, Pizzeria und Pasticceria am Oberen Markt",
+ "h1": "Eis, Pizza und Dolci mitten in Neunkirchen.",
+ "lead": "Hausgemachtes Gelato, Pizza und italienisches Gebäck am Oberen Markt. Zum Genießen vor Ort, zum Mitnehmen oder nach Hause bestellt.",
+ "cta1": "Jetzt anrufen",
+ "cta2": "Karte ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "4,3 ★",
+  "358 Bewertungen bei Google"
+ ],
+ "deco": "Gelato",
+ "hero_img": "",
+ "trust": [
+  "<span class='stars'>★★★★☆</span> <b>4,3</b> bei Google (358 Bewertungen)",
+  "<b>Oberer Markt 10</b>, mitten in der Stadt",
+  "<b>Gelato, Pizza, Pasticceria</b> unter einem Dach"
+ ],
+ "menu_title": "Aus unserer Karte",
+ "menu": [
+  [
+   "Piatto Oreo",
+   "gemischtes Eis, Sahne, Oreo-Crumble, Schokosauce",
+   "10 €"
+  ],
+  [
+   "Piatto Ananas",
+   "gemischtes Eis, Sahne, Ananas, Tropicalsauce",
+   "11 €"
+  ],
+  [
+   "Mela di Biancaneve",
+   "gefüllter Apfel mit Vanille- und Erdbeereis",
+   "10 €"
+  ],
+  [
+   "Pasta Sahne Lachs",
+   "mit Lachs, Sahnesauce und Muskat",
+   "18 €"
+  ]
+ ],
+ "svc_title": "Bei uns",
+ "services": [
+  [
+   "Gelato",
+   "Eisbecher und Kugeln zum Mitnehmen, hausgemacht."
+  ],
+  [
+   "Pizza",
+   "Aus dem Ofen, vor Ort oder zum Mitnehmen."
+  ],
+  [
+   "Pasticceria",
+   "Italienisches Gebäck und Dolci."
+  ],
+  [
+   "Terrasse am Markt",
+   "Sitzen mitten in der Innenstadt."
+  ],
+  [
+   "Bestellen",
+   "Anrufen oder online bestellen, abholen oder liefern lassen."
+  ],
+  [
+   "Gutscheine",
+   "Eis verschenken, zum Geburtstag oder als Dankeschön."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Lust auf Eis? Wir freuen uns auf Sie.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Mitten in der Stadt",
+ "alt_text": "Am Oberen Markt, wenige Schritte von der Fußgängerzone. Aktuelle Öffnungszeiten und Saisonzeiten finden Sie hier immer tagesaktuell.",
+ "contact": "Dolomiti Pizzeria, Gelateria & Pasticceria<br>Oberer Markt 10<br>66538 Neunkirchen<br><br>Telefon 06821 9424024",
+ "audit": [
+  "Die eigene Domain zeigt nur das Lieferando-Logo: keine Eiskarte, keine Zeiten, kein Telefon",
+  "Bei 358 Google-Bewertungen und 4,3 Sternen fehlt eine Seite, die diesen Ruf zeigt",
+  "Saisonbetrieb ohne Ort für Öffnungszeiten, Saisonstart und neue Sorten"
+ ],
+ "hebel": "Ein Eiscafé am Oberen Markt lebt von Laufkundschaft und Spontanbesuchen. Gesucht wird 'Eiscafé Neunkirchen' oder 'Eis in der Nähe'. Eine eigene Seite mit Eiskarte, Fotos und Zeiten plus gepflegtem Google-Profil holt diese Suchen an den eigenen Tisch statt zur Lieferplattform.",
+ "p": [
+  "690 bis 1.190 €",
+  "1.490 bis 2.290 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Onepager mit Eis-, Pizza- und Dolci-Karte, Saison- und Öffnungszeiten-Modul, Google-Profil mit Fotos, Fotoshooting der Eisbecher",
+ "svc": [
+  "Instagram mit Kurzvideos der Eisbecher und 'Sorte der Woche', 3 Beiträge pro Woche in der Saison",
+  "Google-Beiträge zu Saisonstart, neuen Sorten, Ferien",
+  "Eis-Gutscheine online verkaufen (Geschenkidee)",
+  "Bewertungs-QR an der Kasse, Antworten mit KI-Vorlagen",
+  "Karte zusätzlich auf Italienisch und Englisch"
+ ],
+ "open": "Ich bin Jean, Webdesigner hier aus Neunkirchen. Sie haben über 350 Google-Bewertungen, aber wer Ihre Website aufruft, sieht nur das Lieferando-Logo. Ich hab Ihnen mitgebracht, wie Ihre eigene Seite aussehen könnte.",
+ "obj": "'Im Winter ist eh wenig los': Genau deshalb lohnt sich der Start jetzt. Bis zur Saison ist die Seite gefunden, die Bewertungen sind gepflegt und die ersten Gutscheine zu Weihnachten verkauft.",
+ "obs": [
+  "Wenn man Ihre Website aufruft, erscheint nur das Lieferando-Logo. Eiskarte, Öffnungszeiten und Telefonnummer fehlen.",
+  "Ihre 358 Google-Bewertungen mit 4,3 Sternen sieht auf der Website niemand.",
+  "Für Saisonstart, neue Sorten oder geänderte Zeiten gibt es keinen eigenen Ort."
+ ],
+ "neu": [
+  "Eine eigene Seite mit Eis-, Pizza- und Dolci-Karte",
+  "Öffnungs- und Saisonzeiten, die Sie selbst in einer Minute ändern",
+  "Ihre guten Bewertungen sichtbar auf der Startseite"
+ ]
+}

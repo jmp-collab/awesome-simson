@@ -1,0 +1,249 @@
+### B1 · Brief Erstkontakt (ohne fertige Vorschau)
+
+*Brief, kalt, rechtlich unkritisch · Tag 0*
+
+Betreff: **{Betrieb}: Ihre Website auf dem Handy**
+
+```markdown
+{Anrede}
+
+ich bin {Absender}, Webdesigner und KI-Berater hier in Neunkirchen. Ich habe mir {Domain} auf dem Handy angesehen. Dabei ist mir aufgefallen:
+
+{Hook1}
+
+{Winkel}
+
+Deshalb ein Vorschlag: Ich baue Ihnen eine Vorschau Ihrer neuen Startseite, mit Ihren eigenen Texten und Fotos. Das kostet Sie nichts und verpflichtet Sie zu nichts. Ich bringe sie vorbei, Sie schauen sie in Ruhe an. Gefällt sie Ihnen nicht, war es das.
+
+Ein kurzes Ja genügt: QR-Code scannen, anrufen oder per WhatsApp schreiben an {Telefon}.
+
+Falls Sie danach umsteigen möchten: Eine neue Website kostet bei mir {Preis}, die Betreuung {Monat} im Monat. Für Betriebe wie Ihren lohnt sich oft zusätzlich {Extra}.
+
+Viele Grüße aus Neunkirchen
+
+{Absender}
+{Absender_Web}
+
+P.S. {Hook2}
+```
+
+### B2 · Brief Erstkontakt (Vorschau liegt bei)
+
+*Brief, kalt, mit A4 Vorher/Nachher als Anlage · Tag 0*
+
+Betreff: **{Betrieb}: so könnte Ihre Website aussehen**
+
+```markdown
+{Anrede}
+
+ich bin {Absender}, Webdesigner und KI-Berater hier in Neunkirchen. Ich habe Ihre Startseite einmal neu gestaltet, mit Ihren eigenen Texten und Fotos. Das Ergebnis liegt bei: links Ihre Seite heute, rechts der Entwurf.
+
+Warum ich mich melde: {Hook1}
+
+{Winkel}
+
+Der Entwurf ist fertig. Ob Sie ihn nutzen, entscheiden Sie. Wenn Sie ihn auf Ihrem Handy sehen möchten, scannen Sie den QR-Code oder schreiben Sie mir per WhatsApp an {Telefon}. Ich komme auch gern für 15 Minuten vorbei.
+
+Damit Sie nicht raten müssen: {Preis} einmalig, Betreuung {Monat} im Monat. Die zweite Hälfte zahlen Sie erst, wenn die Seite online ist und Ihnen gefällt.
+
+Viele Grüße aus Neunkirchen
+
+{Absender}
+{Absender_Web}
+
+P.S. {Hook2}
+```
+
+### B3 · Brief für Betriebe ohne eigene Website
+
+*Brief, kalt, rechtlich unkritisch · Tag 0*
+
+Betreff: **{Betrieb}: Ihre Kunden suchen Sie bei Google**
+
+```markdown
+{Anrede}
+
+ich bin {Absender}, Webdesigner und KI-Berater hier in Neunkirchen. Wer {Betrieb} bei Google sucht, landet heute auf Facebook oder in einem Branchenverzeichnis. Öffnungszeiten, Angebot und ein direkter Weg zu Ihnen fehlen dort oft oder sind veraltet.
+
+Mein Vorschlag: Ich baue Ihnen eine einfache, schnelle Website mit Ihren eigenen Fotos und Texten. Vorher sehen Sie eine Vorschau, kostenlos und unverbindlich.
+
+Ein kurzes Ja genügt: QR-Code scannen, anrufen oder per WhatsApp schreiben an {Telefon}.
+
+Eine erste Website kostet bei mir ab 590 €, die Betreuung ab 29 € im Monat. Ihr Google-Profil richte ich auf Wunsch gleich mit ein.
+
+Viele Grüße aus Neunkirchen
+
+{Absender}
+{Absender_Web}
+
+P.S. Die Vorschau bleibt auch dann kostenlos, wenn Sie sich am Ende dagegen entscheiden.
+```
+
+### M1 · E-Mail nach Besuch (Vorschau-Mail)
+
+*E-Mail, nur nach Einwilligung im Gespräch · Tag 0, am selben Tag*
+
+Betreff: **{Betrieb}: Ihre Vorschau von heute**
+
+```markdown
+{Anrede}
+
+danke für die paar Minuten heute. Wie besprochen hier die Vorschau für {Betrieb}:
+{Vorschau_Link}
+
+Öffnen Sie sie am besten auf dem Handy, so sehen Ihre Kunden die Seite auch.
+
+Kurz zusammengefasst:
+- Heute: {Hook1}
+- Neu: Alles ist auf das Handy ausgelegt, dazu {Extra}.
+- Ihre Inhalte bleiben. Sie müssen nichts neu schreiben.
+
+Preis: {Preis} einmalig, Betreuung {Monat} im Monat. Die zweite Hälfte zahlen Sie erst nach dem Livegang.
+
+Nächster Schritt: 15 Minuten, in denen wir Fotos und zwei, drei Wünsche durchgehen. Passt Ihnen {Termin_Vorschlag}?
+
+Viele Grüße
+{Absender}
+{Telefon}
+
+Wenn Sie keine weiteren Nachrichten von mir möchten, genügt eine kurze Antwort.
+```
+
+### M2 · Antwort auf Rückmeldung zum Brief
+
+*E-Mail, Einwilligung liegt durch Rückmeldung vor · innerhalb von 2 Stunden*
+
+Betreff: **Re: Vorschau für {Betrieb}**
+
+```markdown
+{Anrede}
+
+schön, dass Sie sich melden. Ich baue die Vorschau jetzt und schicke sie Ihnen bis {Termin_Vorschlag}.
+
+Damit sie möglichst echt aussieht, zwei kurze Fragen:
+1. Haben Sie ein paar aktuelle Fotos (Laden, Team, Produkte)? Handyfotos reichen.
+2. Was soll ein Besucher auf Ihrer Seite als Erstes tun: anrufen, buchen, bestellen oder vorbeikommen?
+
+Wenn Sie dafür gerade keine Zeit haben, nehme ich einfach die Inhalte Ihrer jetzigen Seite.
+
+Viele Grüße
+{Absender}
+{Telefon}
+```
+
+### F1 · Nachfassen 1: Vorschau angesehen?
+
+*E-Mail oder WhatsApp, nach Einwilligung · Tag 3*
+
+Betreff: **Re: {Betrieb}: Ihre Vorschau von heute**
+
+```markdown
+{Anrede}
+
+kurz nachgefragt: Konnten Sie die Vorschau schon auf dem Handy ansehen?
+{Vorschau_Link}
+
+Wenn Sie mögen, setze ich bis Ende der Woche Ihre eigenen Fotos ein. Dann sehen Sie die Seite so, wie sie online gehen würde. Ein kurzes "Ja, machen" genügt.
+
+Viele Grüße
+{Absender}
+
+Wenn Sie keine weiteren Nachrichten von mir möchten, genügt eine kurze Antwort.
+```
+
+### F2 · Nachfassen 2: Tipp mit Mehrwert
+
+*E-Mail, nach Einwilligung · Tag 7*
+
+Betreff: **Ein Tipp für {Betrieb}, auch ohne mich**
+
+```markdown
+{Anrede}
+
+unabhängig davon, ob wir zusammenarbeiten, hier ein Tipp, der in fünf Minuten erledigt ist:
+
+{Tipp}
+
+Die Vorschau Ihrer neuen Seite liegt weiter für Sie bereit: {Vorschau_Link}
+Bei Fragen rufen Sie mich einfach an: {Telefon}
+
+Viele Grüße
+{Absender}
+
+Wenn Sie keine weiteren Nachrichten von mir möchten, genügt eine kurze Antwort.
+```
+
+### F3 · Nachfassen 3: Abschluss
+
+*E-Mail, nach Einwilligung · Tag 14*
+
+Betreff: **Soll ich die Vorschau für {Betrieb} behalten?**
+
+```markdown
+{Anrede}
+
+ich möchte Ihr Postfach nicht füllen, deshalb ist das meine letzte Nachricht dazu.
+
+Den Referenzpreis halte ich für Sie bis {Referenzpreis_Datum}. Danach nehme ich die Vorschau aus dem Netz.
+
+Eine Ziffer als Antwort genügt mir:
+1 = Ja, lassen Sie uns kurz sprechen
+2 = Später, melden Sie sich im neuen Jahr
+3 = Kein Interesse
+
+Danke und viele Grüße
+{Absender}
+```
+
+### W1 · WhatsApp nach Besuch
+
+*WhatsApp, nur wenn Nummer im Gespräch dafür gegeben · Tag 0, direkt nach Besuch*
+
+```markdown
+Hallo, hier ist {Absender} von vorhin. Hier die Vorschau für {Betrieb}, am besten gleich auf dem Handy öffnen: {Vorschau_Link}
+Ich melde mich {Termin_Vorschlag} kurz wegen der Fotos. Viele Grüße
+```
+
+### A1 · Angebots-Mail
+
+*E-Mail nach Gespräch · Tag des Gesprächs*
+
+Betreff: **Angebot neue Website {Betrieb}**
+
+```markdown
+{Anrede}
+
+wie besprochen hier Ihr Angebot. Die Kurzfassung:
+- Neue Website auf Basis der Vorschau: {Preis}
+- Dazu: {Extra}
+- Betreuung mit Hosting, Updates und kleinen Änderungen: {Monat} im Monat
+- Zahlung: 50 % bei Auftrag, 50 % nach Livegang
+- Livegang: etwa zwei Wochen, nachdem Sie Fotos und Texte freigegeben haben
+
+Wenn das für Sie passt, antworten Sie einfach mit "Einverstanden". Dann lege ich los.
+
+Viele Grüße
+{Absender}
+{Telefon}
+
+Wenn Sie keine weiteren Nachrichten von mir möchten, genügt eine kurze Antwort.
+```
+
+### R1 · Nach Livegang: Bewertung und Empfehlung
+
+*E-Mail an Kunden · 1 Woche nach Livegang*
+
+Betreff: **Danke, und eine kleine Bitte**
+
+```markdown
+{Anrede}
+
+Ihre neue Seite ist online, danke für die gute Zusammenarbeit.
+
+Zwei kleine Bitten:
+1. Wenn Sie zufrieden sind, freue ich mich über eine ehrliche Google-Bewertung: {Bewertungslink}
+2. Kennen Sie einen Betrieb in Neunkirchen, dem das auch helfen würde? Für jede Empfehlung, aus der ein Auftrag wird, bedanke ich mich mit {Empfehlungsbonus}.
+
+Viele Grüße
+{Absender}
+```

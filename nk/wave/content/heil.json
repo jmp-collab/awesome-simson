@@ -1,0 +1,109 @@
+{
+ "slug": "heil-schlosserei-gmbh",
+ "theme": "metall",
+ "name": "Schlosserei Heil GmbH",
+ "branche": "Schlosserei / Metallbau / Schmiede",
+ "addr": "Eichendorffstraße 4 · 66540 Neunkirchen-Wiebelskirchen",
+ "tel": "06821 51362",
+ "url": "https://www.schlosserei-heil.de",
+ "g": "2,7 ★ (12)",
+ "label": "Quick Win",
+ "visit": "Früh morgens 7 bis 8 Uhr in der Werkstatt oder vorher anrufen",
+ "logo_a": "Schlosserei",
+ "logo_b": "Heil",
+ "nav": [
+  "Leistungen",
+  "Referenzen",
+  "Über uns",
+  "Kontakt"
+ ],
+ "eyebrow": "Metallbau und Schlosserei in Wiebelskirchen, seit 1930",
+ "h1": "Metallbau mit Meistererfahrung seit 1930.",
+ "lead": "Geländer, Treppen, Tore, Überdachungen und Stahlbalkone, gefertigt in unserer Werkstatt in Wiebelskirchen und vor Ort montiert.",
+ "cta1": "Anfrage mit Foto senden",
+ "cta2": "Referenzen ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "1930",
+  "Meisterbetrieb seit"
+ ],
+ "deco": "",
+ "hero_img": "img/heil_3.jpg",
+ "trust": [
+  "<b>Schweißfachbetrieb</b>",
+  "<b>Fachbetrieb nach WHG § 19</b>",
+  "<b>Eigene Werkstatt</b> in Wiebelskirchen, Montage vor Ort"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Geländer",
+   "Innen- und Außengeländer aus Stahl und Edelstahl."
+  ],
+  [
+   "Treppen",
+   "Treppen für innen und außen, nach Maß gefertigt."
+  ],
+  [
+   "Tore, Gitter und Türen",
+   "Für Grundstück, Hof und Gewerbe."
+  ],
+  [
+   "Überdachungen und Balkone",
+   "Vordächer, Überdachungen und Stahlbalkone."
+  ],
+  [
+   "Industrieller Metallbau",
+   "Stahl-, Blech- und Edelstahlverarbeitung, Schmiedearbeiten."
+  ],
+  [
+   "Zoo- und Gehegebau",
+   "Gehege und Anlagen nach Maß."
+  ]
+ ],
+ "gal_title": "Aus unserer Werkstatt",
+ "gallery": [
+  "img/heil_0.jpg",
+  "img/heil_1.jpg",
+  "img/heil_4.jpg",
+  "img/heil_5.jpg"
+ ],
+ "band": "Projekt geplant? Schicken Sie uns zwei Fotos.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Anfrage mit Foto",
+ "alt_text": "Schicken Sie uns zwei Handyfotos und grobe Maße. Sie bekommen einen Rückruf, nach Aufmaß ein verbindliches Angebot.",
+ "contact": "Schlosserei Heil GmbH<br>Eichendorffstraße 4<br>66540 Neunkirchen-Wiebelskirchen<br><br>Telefon 06821 51362<br>info@schlosserei-heil.de",
+ "audit": [
+  "Nicht für Smartphones angepasst, letzte Änderung laut Seite Dezember 2018",
+  "Fotos nur als 125-Pixel-Vorschaubilder, die starken Projekte gehen unter",
+  "Google-Schnitt 2,7 bei 12 Bewertungen, keine Antworten. Bei Handwerkersuche entscheidet das oft vor dem ersten Anruf"
+ ],
+ "hebel": "Ein Betrieb mit fast 100 Jahren Meistererfahrung, Schweißfachbetrieb und WHG-Zulassung hat starke Vertrauensargumente, die online fehlen. Leistungsseiten mit großen Projektfotos plus aktives Bewertungsmanagement drehen die Wahrnehmung bei Google.",
+ "p": [
+  "690 bis 990 €",
+  "1.190 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Website mit Leistungsseiten, Referenzgalerie in voller Größe, Qualifikationen (Schweißfachbetrieb, WHG § 19), Anfrageformular mit Foto, Google-Profil",
+ "svc": [
+  "Bewertungs-Turnaround: zufriedene Kunden der letzten 2 Jahre um Bewertung bitten, alle Bewertungen beantworten",
+  "Google-Profil mit Projektfotos und Qualifikationen",
+  "Industriekunden-Seite für WHG-Arbeiten (Tankanlagen, Auffangwannen) als eigener Suchtreffer",
+  "Stellenseite für Metallbauer und Azubis"
+ ],
+ "open": "Herr Heil, ich bin Jean, Webdesigner aus Neunkirchen. Sie sind seit 1930 Meisterbetrieb, aber online sieht man Ihre Arbeiten nur als kleine Vorschaubilder. Ich hab Ihnen mitgebracht, wie Ihre Seite mit Ihren eigenen Fotos aussehen könnte.",
+ "obj": "'Uns kennt man hier': In Wiebelskirchen ja. Wer neu baut oder zugezogen ist, sucht bei Google und sieht zuerst 2,7 Sterne. Mit einer guten Seite und ein paar ehrlichen Bewertungen Ihrer Stammkunden ändert sich das schnell.",
+ "obs": [
+  "Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.",
+  "Ihre Projektfotos erscheinen nur als kleine Vorschaubilder.",
+  "Meistererfahrung seit 1930, Schweißfachbetrieb und WHG-Zulassung stehen nur im Fließtext."
+ ],
+ "neu": [
+  "Ihre Arbeiten in großen Bildern, sortiert nach Leistung",
+  "Qualifikationen und Erfahrung gut sichtbar ganz oben",
+  "Anfrage mit Foto-Upload, damit Sie vorher wissen, worum es geht"
+ ]
+}

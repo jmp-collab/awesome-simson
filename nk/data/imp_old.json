@@ -1,0 +1,799 @@
+[
+ {
+  "name": "Asia Wok Bistro",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Bella Italia Pizzaheimservice",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Cems Imbiss",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Coyote Café",
+  "imp_url": "https://coyote.de/impressum/",
+  "emails": [
+   "info@coyote.de"
+  ],
+  "owner": "verantwortlich",
+  "owner_role": "Betreiber"
+ },
+ {
+  "name": "Spencer's Sportsbar",
+  "imp_url": "https://www.spencers-sportsbar.de/impressum",
+  "emails": [
+   "kontakt@spencers-sportsbar.de"
+  ],
+  "owner": "Ferdinand Hirsch ",
+  "owner_role": "Geschäftsführer"
+ },
+ {
+  "name": "Stumm's Brauhaus",
+  "imp_url": "https://stumms-brauhaus.de/impressum/",
+  "emails": [
+   "info@stumms-brauhaus.de",
+   "hi@webext-media.de"
+  ],
+  "owner": "Siegrid Getrey-Hagmaier",
+  "owner_role": "Vertreten durch"
+ },
+ {
+  "name": "Cinetower Neunkirchen",
+  "imp_url": "https://www.kino-neunkirchen.de/impressum",
+  "emails": [
+   "info@kino-neunkirchen.de",
+   "support@kinotickets.online"
+  ],
+  "owner": "der Webseite und des Kinos",
+  "owner_role": "Betreiber"
+ },
+ {
+  "name": "Training Center Wasserturm",
+  "imp_url": "https://wasserturm-nk.de/impressum/",
+  "emails": [
+   "info@wasserturm-nk.de",
+   "marketing@3plus.solutions"
+  ],
+  "owner": "Harald Josef Getrey",
+  "owner_role": "Vertreten durch"
+ },
+ {
+  "name": "Wirtshaus Römer Steakhaus",
+  "imp_url": "https://www.wirtshaus-roemer.de/impressum",
+  "emails": [
+   "info@wirtshaus-roemer.de"
+  ],
+  "owner": "Alevtina Hau",
+  "owner_role": "Inhaberin"
+ },
+ {
+  "name": "Damaskus Haus",
+  "imp_url": "https://www.damaskus-haus-neunkirchen.de/colofon",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Grill au Bois",
+  "imp_url": "https://grill-au-bois.de/impressum.html",
+  "emails": [
+   "info@grill-au-bois.de"
+  ],
+  "owner": "Ilona Folschweiller",
+  "owner_role": "Vertreten durch"
+ },
+ {
+  "name": "LU'S Pinsa Romana",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Hotel Zum Ellenfeld",
+  "imp_url": "https://hotel-ellenfeld.de/impressum/",
+  "emails": [
+   "info@hotel-ellenfeld.de"
+  ],
+  "owner": "der Seiten verantwortlich. Die verlinkten Seiten wurden zum ",
+  "owner_role": "Betreiber"
+ },
+ {
+  "name": "Volkssonnengarten",
+  "imp_url": "https://volkssonnengarten.de/impressum/",
+  "emails": [
+   "info@volkssonnengarten.de",
+   "info@bliescon.de"
+  ],
+  "owner": "Frau Susanne Gebhard",
+  "owner_role": "Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV"
+ },
+ {
+  "name": "Pizza Heimservice Gondoliere",
+  "imp_url": "https://gondoliere-neunkirchen.de/impressum/",
+  "emails": [
+   "info@gondoliere-neunkirchen.de"
+  ],
+  "owner": "Carmen Abbruzzino",
+  "owner_role": "Inhaberin"
+ },
+ {
+  "name": "Orient Grill",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Balkan Bäckerei Prizreni",
+  "imp_url": "https://www.balkanbackerei-neunkirchen.de/colofon",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Deniz Gemüse Döner",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "La Campanella",
+  "imp_url": "https://www.la-campanella-neunkirchen.de/colofon",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Pizza Heimservice Da Enzo",
+  "imp_url": "https://www.pizzaheimservicedaenzoneunkirchen.de/colofon",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Pizzeria Piccobello",
+  "imp_url": "https://www.pizzeria-piccobello-heimservice.de/colofon",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Mondo di Pizza",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Hayat Grill Restaurant",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Indian Tadka",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Scheiber Hof",
+  "imp_url": "https://www.pension-neunkirchen.de/about/",
+  "emails": [
+   "info@pension-neunkirchen.de",
+   "info@pension-stummplatz.de"
+  ],
+  "owner": "Karanjit Singh",
+  "owner_role": "Geschäftsführer"
+ },
+ {
+  "name": "Pension am Stummplatz",
+  "imp_url": "https://www.pension-stummplatz.de/about/",
+  "emails": [
+   "info@pension-stummplatz.de"
+  ],
+  "owner": "Sukhwinder Singh",
+  "owner_role": "Geschäftsführer"
+ },
+ {
+  "name": "Hotel am Zoo",
+  "imp_url": "https://hotelamzoo.de/impressum",
+  "emails": [
+   "info@hotelamzoo.de"
+  ],
+  "owner": "sgesellschaft mbH",
+  "owner_role": "Geschäftsführung"
+ },
+ {
+  "name": "Imbiss an der Falknerei",
+  "imp_url": "https://www.falknerei-gastro-nk.de/index.php?id=Impressum#view",
+  "emails": [
+   "info@falknerei-gastro-nk.de"
+  ],
+  "owner": "Nicole Roie",
+  "owner_role": "Inhaberin"
+ },
+ {
+  "name": "aqua bar lounge club",
+  "imp_url": "",
+  "emails": [
+   "more@plesk.com"
+  ],
+  "owner": ""
+ },
+ {
+  "name": "TuS 1860 Gaststätte",
+  "imp_url": "https://www.tus1860neunkirchen.de/impressum/",
+  "emails": [
+   "info@tus1860neunkirchen.de"
+  ],
+  "owner": "s Präsidium: Arnold Feber (Präsident)",
+  "owner_role": "Vertretungsberechtigte"
+ },
+ {
+  "name": "AC-1 Sport- und Freizeitpark",
+  "imp_url": "https://www.ac1-nk.de/impressum",
+  "emails": [
+   "info@ac1-nk.de"
+  ],
+  "owner": "Dietmar Bär",
+  "owner_role": "Inhaber"
+ },
+ {
+  "name": "Essence Sports- & Wellnessclub",
+  "imp_url": "https://essence-fitness.de/impressum/",
+  "emails": [
+   "neunkirchen@essence-fitness.de",
+   "info@linnebacher.de",
+   "nk@essence-fittness.de"
+  ],
+  "owner": "Michael Linnebacher ",
+  "owner_role": "Vertreten durch"
+ },
+ {
+  "name": "Tanzwerkstatt Susanne Sprung",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Tanzschule Hinsberger",
+  "imp_url": "https://www.tanzen-hinsberger.de/impressum",
+  "emails": [
+   "info@tanzen-hinsberger.de"
+  ],
+  "owner": "Richard Hinsberger",
+  "owner_role": "verantwortlich"
+ },
+ {
+  "name": "Lux Play Casino",
+  "imp_url": "https://www.lux-play.de/impressum/",
+  "emails": [
+   "service@tan-automaten.de",
+   "tan-automaten@outlook.com"
+  ],
+  "owner": "Feyzullah Bozkurt",
+  "owner_role": "Inhaber"
+ },
+ {
+  "name": "Bären Apotheke",
+  "imp_url": "https://www.baerenapothekeimzab.de/impressum/",
+  "emails": [
+   "info@baerenapothekeimzab.de",
+   "datenschutz@baerenapothekeimzab.de",
+   "bms@lindenapotheke-bertram.de"
+  ],
+  "owner": "e ist Herr Thomas Bertram. Sie erreichen unseren Datenschutz",
+  "owner_role": "verantwortlich"
+ },
+ {
+  "name": "Markt Apotheke",
+  "imp_url": "https://www.markt-apotheke-nk.de/Impressum/",
+  "emails": [
+   "info@markt-apotheke-nk.de",
+   "geschaeftsstelle@apothekerkammer-saar.de"
+  ],
+  "owner": "Apothekerin Susanne Daniels e.Kfr",
+  "owner_role": "vertreten durch"
+ },
+ {
+  "name": "Saarpark-Apotheke",
+  "imp_url": "https://saarpark-apo.de/impressum/",
+  "emails": [
+   "saarparkapotheke@t-online.de"
+  ],
+  "owner": "Apotheker Georgios Liabotis e.K",
+  "owner_role": "Inhaber"
+ },
+ {
+  "name": "Alte Hütten-Apotheke",
+  "imp_url": "https://www.altehuettenapotheke.de/impressum.html",
+  "emails": [
+   "info@altehuettenapotheke.de",
+   "mail@verbraucher-schlichter.de",
+   "geschaeftsstelle@apothekerkammer-saar.de"
+  ],
+  "owner": "Christoph Rheinheimer e.Kfm",
+  "owner_role": "Inhaber"
+ },
+ {
+  "name": "Linden Apotheke",
+  "imp_url": "https://www.lindenapotheke-bertram.de/impressum/",
+  "emails": [
+   "info@lindenapotheke-bertram.de",
+   "datenschutz@lindenapotheke-bertram.de",
+   "bms@lindenapotheke-bertram.de"
+  ],
+  "owner": "Caroline Bertram e. K",
+  "owner_role": "Inhaber"
+ },
+ {
+  "name": "Kempf KFZ-Technik",
+  "imp_url": "https://www.kfz-technik-kempf.de/impressum/",
+  "emails": [
+   "info@kfz-technik-kempf.de",
+   "info@hwk-saarland.de",
+   "hi@webext-media.de"
+  ],
+  "owner": ""
+ },
+ {
+  "name": "OSIRIS Bestattungen",
+  "imp_url": "https://osiris-bestattungen.de/impressum/",
+  "emails": [
+   "info@osiris-bestattungen.de"
+  ],
+  "owner": "Sandra Mitius",
+  "owner_role": "Geschäftsführer"
+ },
+ {
+  "name": "Bestattungsinstitut Flunkert",
+  "imp_url": "https://www.bestatter-flunkert.de/impressum-datenschutz.html",
+  "emails": [
+   "info@tripunctum.de",
+   "flunkert.bestattungen@gmail.com"
+  ],
+  "owner": "für die Datenerfassung auf dieser Website?",
+  "owner_role": "verantwortlich"
+ },
+ {
+  "name": "Bestattungen Schneider",
+  "imp_url": "https://www.bestattungenschneider.de/index.php/impressum",
+  "emails": [
+   "info@bestattungenschneider.de"
+  ],
+  "owner": "Christian Schneider",
+  "owner_role": "Geschäftsführer"
+ },
+ {
+  "name": "Blumen Rebel",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Wichelhaus Typografik",
+  "imp_url": "https://www.wichelhaustypografik.de/impressum",
+  "emails": [
+   "mail@wichelhaustypografik.de",
+   "%6d%61%69%6c%40wichelhaustypografik.de",
+   "email@beispiel.com&quot;,"
+  ],
+  "owner": "Gesellschafter: Astrid Wichelhaus und Dirk Wichelhaus",
+  "owner_role": "Vertretungsberechtigte"
+ },
+ {
+  "name": "Hifi Zenit",
+  "imp_url": "https://www.hifi-zenit.de/impressum",
+  "emails": [
+   "info@hifi-zenit.de"
+  ],
+  "owner": "Antonio Perez & Rüdiger Jörg",
+  "owner_role": "Inhaber"
+ },
+ {
+  "name": "Jürgen's Fahrschule",
+  "imp_url": "https://www.juergens-fahrschule.de/impressum/",
+  "emails": [
+   "juergengetrey@web.de"
+  ],
+  "owner": "Jürgen Getrey",
+  "owner_role": "Inhaber"
+ },
+ {
+  "name": "BellaVie Hair und Beauty",
+  "imp_url": "https://www.bellavie-nk.de/impressum",
+  "emails": [
+   "kontakt@bellavie-nk.de"
+  ],
+  "owner": "Natalia Yakymenskyy",
+  "owner_role": "Inhaberin"
+ },
+ {
+  "name": "Coiffeur Team Lieb",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Haircenter Pusse",
+  "imp_url": "https://friseurbedarf-pusse.de/impressum",
+  "emails": [
+   "info@friseurbedarf-pusse.de"
+  ],
+  "owner": "Fachgroßhandel für Friseurbedarf Pusse GmbH",
+  "owner_role": "betreiber"
+ },
+ {
+  "name": "Seiler Friseurteam",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Kurt Ludwig Heizung Sanitär",
+  "imp_url": "https://www.ludwig-nk.de/impressum/",
+  "emails": [
+   "info@ludwig-nk.de"
+  ],
+  "owner": "Eduard Treptau",
+  "owner_role": "VERTRETEN DURCH"
+ },
+ {
+  "name": "Schröder Heizung Sanitär",
+  "imp_url": "https://www.schroeder-heizungen.de/recht/impressum",
+  "emails": [
+   "info@schroeder-heizungen.de",
+   "e-mailinfo@schroeder-heizungen.de",
+   "info@ieq-systems-shk.de"
+  ],
+  "owner": "für Inhalte der mit den Sätzen",
+  "owner_role": "verantwortlich"
+ },
+ {
+  "name": "Kosmetik Rova",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Lena Seller Kosmetik",
+  "imp_url": "https://www.lenaseller-kosmetik.de/impressum/",
+  "emails": [
+   "info@lenaseller-kosmetik.de"
+  ],
+  "owner": "Lena Seller",
+  "owner_role": "Vertreten durch"
+ },
+ {
+  "name": "Beauty Nails Ornella",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Physio Dahlem Vojta",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Deubel Reha",
+  "imp_url": "https://www.deubel-reha.de/impressum",
+  "emails": [
+   "info@deubel-reha.de"
+  ],
+  "owner": "Geschäftsführer: Gunther Deubel",
+  "owner_role": "Vertretungsberechtigter"
+ },
+ {
+  "name": "Physiotherapie Heinz Herrmann",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Therapie Neunkirchen Ergotherapie",
+  "imp_url": "https://www.therapie-neunkirchen.de/about/",
+  "emails": [
+   "ergo.holger.burnikel@gmx.de",
+   "physiotherapie.dieter.schmidt@gmx.de"
+  ],
+  "owner": ""
+ },
+ {
+  "name": "Krankengymnastik Rutz",
+  "imp_url": "https://www.krankengymnastik-rutz.de/impressum.html",
+  "emails": [
+   "hermannrutz@t-online.de"
+  ],
+  "owner": "Hermann Rutz",
+  "owner_role": "verantwortlich"
+ },
+ {
+  "name": "Osteopathie Krämer",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "MALWERK",
+  "imp_url": "https://www.malwerk-nk.de/home/kontakt/",
+  "emails": [
+   "info@malwerk-nk.de"
+  ],
+  "owner": "über das Büro bis zu den Malern vor Ort. Der nächste Auftrag",
+  "owner_role": "Geschäftsführer"
+ },
+ {
+  "name": "Schirra Raumausstattung",
+  "imp_url": "https://www.schirra-creativ.de/impressum/",
+  "emails": [
+   "info@schirra-creativ.de"
+  ],
+  "owner": "Andrzej Szczurkiewicz",
+  "owner_role": "Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV"
+ },
+ {
+  "name": "Geflügel Schlemmerlädchen Lorig",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Opticland Die Brille",
+  "imp_url": "https://www.opticland-die-brille.de/impressum",
+  "emails": [
+   "info@hwk-saarland.de",
+   "gf@opticland-diebrille.de",
+   "marketing@3plus.solutions"
+  ],
+  "owner": "Opticland Die Brille Saar",
+  "owner_role": "betreiber"
+ },
+ {
+  "name": "Jakob & Latz",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "JLS Rechtsanwälte",
+  "imp_url": "https://www.jls-rechtsanwaelte.de/impressum",
+  "emails": [
+   "rae@jls-rechtsanwaelte.de",
+   "zentrale@rak-saar.de",
+   "schlichtungsstelle@brak.de"
+  ],
+  "owner": "Rechtsanwältin Andrea Jung",
+  "owner_role": "Verantwortlich für den Inhalt"
+ },
+ {
+  "name": "1A Rechtsanwälte",
+  "imp_url": "https://1arechtsanwaelte.de/impressum/",
+  "emails": [
+   "info@1arechtsanwaelte.de",
+   "zentrale@rak-saar.de"
+  ],
+  "owner": "der Internetseite",
+  "owner_role": "Betreiber"
+ },
+ {
+  "name": "RA Joachim Brunke",
+  "imp_url": "https://anwalt-brunke.de/privacy-policy.html",
+  "emails": [
+   "info@anwalt-brunke.de",
+   "jb@anwalt-brunke.de",
+   "joachimbrunke@t-online.de"
+  ],
+  "owner": "VERANTWORTLICH. DIE DORTIGEN AUSSAGEN WERDEN NICHT ZU EIGEN ",
+  "owner_role": "BETREIBER"
+ },
+ {
+  "name": "Fried & Müller",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "RA Johannes Friedrich",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "HS Rechtsanwälte",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "RA Schmidt-Jochum",
+  "imp_url": "https://www.kanzlei-schmidt-jochum.de/#",
+  "emails": [
+   "info@schmidt-jochum.de",
+   "zentrale@rak-saar.de\\"
+  ],
+  "owner": ""
+ },
+ {
+  "name": "Holiday Land Reisebüro",
+  "imp_url": "https://www.holidayland-neunkirchen.de/impressum",
+  "emails": [
+   "reisebuero-johann@holidayland.de",
+   "/i.test(h))",
+   "/i,"
+  ],
+  "owner": "Katharina Dörr e.K",
+  "owner_role": "Inhaber"
+ },
+ {
+  "name": "Reisecenter Holiday World",
+  "imp_url": "https://www.holidayworldsaar.de/impressum",
+  "emails": [
+   "info@holidayworldsaar.de",
+   "mail@verbraucher-schlichter.de",
+   "/i.test(h))"
+  ],
+  "owner": ""
+ },
+ {
+  "name": "Schlüssel Thielen",
+  "imp_url": "https://www.schluessel-thielen.de/Kontakt.htm",
+  "emails": [
+   "info@schluessel-thielen.de"
+  ],
+  "owner": ""
+ },
+ {
+  "name": "Infinitysteps",
+  "imp_url": "https://infinitysteps.de/Impressum",
+  "emails": [
+   "info@infinitysteps.de"
+  ],
+  "owner": "Ghazwan Ala Rachi",
+  "owner_role": "Inhaber"
+ },
+ {
+  "name": "TV-Sat-Service Zaffino",
+  "imp_url": "https://www.tp-fernseh-sat-service-zaffino.de/impressum.html",
+  "emails": [
+   "zaffino-tv-sat@t-online.de"
+  ],
+  "owner": "Bruno Zaffino",
+  "owner_role": "Inhaber"
+ },
+ {
+  "name": "R & F Steuerberatung",
+  "imp_url": "https://www.rf-stbg.de/impressum.html",
+  "emails": [
+   "info@rf-stbg.de",
+   "neunkirchen@rf-stbg.de",
+   "marpingen@rf-stbg.de"
+  ],
+  "owner": "Die Geschäftsführer Patrick Fischer und Gabriele Fontaine",
+  "owner_role": "VERTRETEN DURCH"
+ },
+ {
+  "name": "A/M Steuerberatung",
+  "imp_url": "https://steuerberatung-am.de/impressum/",
+  "emails": [
+   "info@steuerberatung-am.de",
+   "julian.armand@steuerberatung-am.de",
+   "stbk@stbk-saarland.de"
+  ],
+  "owner": "Julian Armand",
+  "owner_role": "Vertreten durch"
+ },
+ {
+  "name": "Arminia Steuerberatung",
+  "imp_url": "https://www.arminia-steuerberatung.de/#slide6",
+  "emails": [
+   "info@arminia-steuerberatung.de"
+  ],
+  "owner": "Aktuelles",
+  "owner_role": "Geschäftsführer"
+ },
+ {
+  "name": "Heitschmidt Steuerberater",
+  "imp_url": "https://www.heitschmidt.eu/#kontakt-anfahrt",
+  "emails": [
+   "info@heitschmidt.eu"
+  ],
+  "owner": "als externe Finanzbuchhaltung",
+  "owner_role": "verantwortlich"
+ },
+ {
+  "name": "Holanda Steuerberaterin",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Schneller Steuerberater",
+  "imp_url": "https://www.stb-schneller.de/legal/impressum",
+  "emails": [
+   "info@stb-schneller.de"
+  ],
+  "owner": "Frank Schneller",
+  "owner_role": "verantwortlich"
+ },
+ {
+  "name": "Treuhand Saar",
+  "imp_url": "https://www.treuhand-saar.de/impressum",
+  "emails": [
+   "info@ths-med.tax",
+   "ths@ths-nk.de",
+   "ths@ths-sb.de"
+  ],
+  "owner": "Betreute Rechtsformen",
+  "owner_role": "Geschäftsführung"
+ },
+ {
+  "name": "Westermann Steuerberater",
+  "imp_url": "https://www.stb-h-westermann.de/impressum/",
+  "emails": [
+   "kanzlei@stb-h-westermann.de",
+   "kontakt@wpk.de",
+   "stbk@stbk-saarland.de"
+  ],
+  "owner": "Holger Westermann ",
+  "owner_role": "Vertreten durch"
+ },
+ {
+  "name": "Tierarztpraxis am Storchenplatz",
+  "imp_url": "https://www.tierarzt-am-storchenplatz.de/impressum/",
+  "emails": [
+   "info@tierarzt-am-storchenplatz.de"
+  ],
+  "owner": "der Seiten verantwortlich. Die verlinkten Seiten wurden zum ",
+  "owner_role": "Betreiber"
+ },
+ {
+  "name": "Schmidt Immo Finanz",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Zahnarzt Dr. Höhne",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "Zahnarztpraxis am Markt",
+  "imp_url": "https://zahnarztpraxis-ammarkt-neunkirchen.de/Impressum",
+  "emails": [
+   "zahnarztammarkt@t-online.de"
+  ],
+  "owner": "verantwortlich",
+  "owner_role": "Betreiber"
+ },
+ {
+  "name": "ZMZ Dr. Eisinger",
+  "imp_url": "",
+  "emails": [],
+  "owner": ""
+ },
+ {
+  "name": "KFO Haßdenteufel",
+  "imp_url": "https://www.activemind.de/datenschutz/impressums-generator/",
+  "emails": [
+   "post@dr-hassdenteufel.de"
+  ],
+  "owner": "Personen mit jeweiliger Position (z.B. Geschäftsführer oder ",
+  "owner_role": "Vertretungsberechtigte"
+ },
+ {
+  "name": "KFO Dr. Weyrich",
+  "imp_url": "https://www.kfo-weyrich.de/impressum/",
+  "emails": [
+   "info@kfo-weyrich.de",
+   "info@marketing-thom.de"
+  ],
+  "owner": "Dr. Catharina Weyrich",
+  "owner_role": "Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV"
+ }
+]

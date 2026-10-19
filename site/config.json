@@ -1,0 +1,21 @@
+{
+  "brand": "Saarseiten",
+  "domain": "webdesign-neunkirchen.de",
+  "base_url": "https://webdesign-neunkirchen.de",
+  "first_name": "Jean",
+  "full_name": "",
+  "street": "",
+  "zip_city": "",
+  "phone": "",
+  "phone_display": "",
+  "whatsapp": "",
+  "email": "",
+  "vat_id": "",
+  "kleinunternehmer": true,
+  "cal_link": "",
+  "umami_src": "",
+  "umami_id": "",
+  "psi_api_key": "",
+  "stripe_note": "Rechnung mit Überweisung, Karte, SEPA-Lastschrift oder USDC über den Stripe-Zahllink",
+  "region": "Neunkirchen (Saar) und Umgebung"
+}

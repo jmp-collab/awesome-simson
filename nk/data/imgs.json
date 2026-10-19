@@ -1,0 +1,219 @@
+{
+ "asia": [
+  {
+   "file": "mock/img/asia_0.png",
+   "src": "https://asia-wok-neunkirchen.de/bilder/asia-wok-schiff.png",
+   "w": 451,
+   "h": 320
+  }
+ ],
+ "roemer": [
+  {
+   "file": "mock/img/roemer_0.jpg",
+   "src": "https://wirtshaus-roemer.de/images/slider/standard_01.jpg",
+   "w": 1024,
+   "h": 483
+  },
+  {
+   "file": "mock/img/roemer_1.jpg",
+   "src": "https://wirtshaus-roemer.de/images/slider/raeumlichkeiten_01.jpg",
+   "w": 1024,
+   "h": 465
+  },
+  {
+   "file": "mock/img/roemer_2.jpg",
+   "src": "https://wirtshaus-roemer.de/images/slider/grill_01.jpg",
+   "w": 1024,
+   "h": 465
+  },
+  {
+   "file": "mock/img/roemer_3.jpg",
+   "src": "https://wirtshaus-roemer.de/images/slider/raeumlichkeiten_02.jpg",
+   "w": 1024,
+   "h": 465
+  },
+  {
+   "file": "mock/img/roemer_4.jpg",
+   "src": "https://wirtshaus-roemer.de/images/slider/raeumlichkeiten_05.jpg",
+   "w": 1024,
+   "h": 465
+  },
+  {
+   "file": "mock/img/roemer_5.jpg",
+   "src": "https://wirtshaus-roemer.de/images/slider/ofen_01.jpg",
+   "w": 1024,
+   "h": 465
+  },
+  {
+   "file": "mock/img/roemer_6.jpg",
+   "src": "https://wirtshaus-roemer.de/images/slider/raeumlichkeiten_04.jpg",
+   "w": 1024,
+   "h": 465
+  },
+  {
+   "file": "mock/img/roemer_7.jpg",
+   "src": "https://wirtshaus-roemer.de/images/slider/raeumlichkeiten_03.jpg",
+   "w": 1024,
+   "h": 465
+  }
+ ],
+ "gondoliere": [
+  {
+   "file": "mock/img/gondoliere_0.jpg",
+   "src": "https://gondoliere-neunkirchen.de/wp-content/uploads/2026/09/IMG-20260915-WA0020.jpg",
+   "w": 898,
+   "h": 768
+  },
+  {
+   "file": "mock/img/gondoliere_1.png",
+   "src": "https://gondoliere-neunkirchen.de/wp-content/uploads/2026/03/cropped-cropped-cropped-cropped-file_0000000069e8720aa84cdab451d3e952.png",
+   "w": 482,
+   "h": 473
+  },
+  {
+   "file": "mock/img/gondoliere_2.gif",
+   "src": "https://gondoliere-neunkirchen.de/wp-content/themes/dro-pizza/assets/images/dro-pizza-loader.gif",
+   "w": 0,
+   "h": 0
+  }
+ ],
+ "damaskus": [
+  {
+   "file": "mock/img/damaskus_0.png",
+   "src": "https://www.damaskus-haus-neunkirchen.de/tpl/template1/images/logo/logo_2.png",
+   "w": 2426,
+   "h": 397
+  },
+  {
+   "file": "mock/img/damaskus_1.jpg",
+   "src": "https://static.takeaway.com/images/generic/heroes/271/271_italian_pizza_129.jpg",
+   "w": 0,
+   "h": 0
+  }
+ ],
+ "ellenfeld": [],
+ "luxplay": [
+  {
+   "file": "mock/img/luxplay_0.jpg",
+   "src": "https://www.lux-play.de/wp-content/uploads/go-x/u/225d57eb-0290-4752-a5aa-055d292ae865/l0,t240,w1440,h1440/image-480x480.jpg",
+   "w": 480,
+   "h": 480
+  },
+  {
+   "file": "mock/img/luxplay_1.jpg",
+   "src": "https://www.lux-play.de/wp-content/uploads/go-x/u/b1839f55-2fc6-4f86-abe6-e9ff69d434c4/l0,t267,w1200,h900/image-480x360.jpg",
+   "w": 480,
+   "h": 360
+  },
+  {
+   "file": "mock/img/luxplay_2.jpg",
+   "src": "https://www.lux-play.de/wp-content/uploads/go-x/u/2773b676-da00-4fa1-ab99-6238ec5e03e3/l0,t347,w675,h506/image-480x360.jpg",
+   "w": 480,
+   "h": 360
+  },
+  {
+   "file": "mock/img/luxplay_3.png",
+   "src": "https://www.lux-play.de/wp-content/uploads/go-x/u/4410b4d0-3b74-494f-9914-5200d7fad87d/l755,t457,w487,h365/image-480x360.png",
+   "w": 480,
+   "h": 360
+  },
+  {
+   "file": "mock/img/luxplay_4.png",
+   "src": "https://www.lux-play.de/wp-content/uploads/go-x/u/2b20a17b-bfac-4db2-9586-e1a8994c5af8/l85,t0,w1365,h1024/image-480x360.png",
+   "w": 480,
+   "h": 360
+  }
+ ],
+ "thielen": [
+  {
+   "file": "mock/img/thielen_0.jpg",
+   "src": "https://www.schluessel-thielen.de/index_htm_files/1418.jpg",
+   "w": 543,
+   "h": 346
+  },
+  {
+   "file": "mock/img/thielen_1.png",
+   "src": "https://www.schluessel-thielen.de/index_htm_files/1523.png",
+   "w": 389,
+   "h": 262
+  }
+ ],
+ "marktapo": [
+  {
+   "file": "mock/img/marktapo_0.jpg",
+   "src": "https://www.markt-apotheke-nk.de/.cm4all/uproc.php/0/2025/Okt-Dez2025/.Folie1.JPG/picture-1600?_=19ab4de04f1",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "file": "mock/img/marktapo_1.jpg",
+   "src": "https://www.markt-apotheke-nk.de/.cm4all/uproc.php/0/2026/April-Juni26/.Zuzahlung_neu_05.2026.jpg/picture-1600?_=19dfc4b3e9b",
+   "w": 639,
+   "h": 904
+  },
+  {
+   "file": "mock/img/marktapo_2.jpg",
+   "src": "https://www.markt-apotheke-nk.de/.cm4all/uproc.php/0/nicht%20l%C3%B6schen/.Susanne.jpg/picture-1600?_=17e1501a380",
+   "w": 493,
+   "h": 663
+  }
+ ],
+ "rutz": [
+  {
+   "file": "mock/img/rutz_0.jpg",
+   "src": "https://www.krankengymnastik-rutz.de/designs/design5007/color5/images/theme_left.jpg",
+   "w": 0,
+   "h": 0
+  },
+  {
+   "file": "mock/img/rutz_1.jpg",
+   "src": "https://www.krankengymnastik-rutz.de/designs/design5007/color5/images/theme_right.jpg",
+   "w": 0,
+   "h": 0
+  }
+ ],
+ "tanzwerkstatt": [
+  {
+   "file": "mock/img/tanzwerkstatt_0.jpg",
+   "src": "https://die-tanzwerkstatt.de/wp-content/uploads/2018/02/Viva2017_1.jpg",
+   "w": 0,
+   "h": 0
+  },
+  {
+   "file": "mock/img/tanzwerkstatt_1.jpg",
+   "src": "https://die-tanzwerkstatt.de/wp-content/uploads/2016/09/vivabreakdance.jpg",
+   "w": 0,
+   "h": 0
+  },
+  {
+   "file": "mock/img/tanzwerkstatt_2.jpg",
+   "src": "https://die-tanzwerkstatt.de/wp-content/uploads/2016/09/Susannesprung_background2.jpg",
+   "w": 0,
+   "h": 0
+  },
+  {
+   "file": "mock/img/tanzwerkstatt_3.jpg",
+   "src": "https://die-tanzwerkstatt.de/wp-content/uploads/2016/09/IMG_0974.jpg",
+   "w": 0,
+   "h": 0
+  },
+  {
+   "file": "mock/img/tanzwerkstatt_4.jpg",
+   "src": "https://die-tanzwerkstatt.de/wp-content/uploads/2018/12/night-vintage-music-mikrophone1.jpg",
+   "w": 0,
+   "h": 0
+  },
+  {
+   "file": "mock/img/tanzwerkstatt_5.jpg",
+   "src": "https://die-tanzwerkstatt.de/wp-content/uploads/2020/05/yoga-2959214_1280.jpg",
+   "w": 0,
+   "h": 0
+  },
+  {
+   "file": "mock/img/tanzwerkstatt_6.jpg",
+   "src": "https://die-tanzwerkstatt.de/wp-content/uploads/2016/09/IMG_0979.jpg",
+   "w": 0,
+   "h": 0
+  }
+ ]
+}

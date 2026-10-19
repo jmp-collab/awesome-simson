@@ -1,0 +1,67 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ c.name }}</title>
+<link href="https://fonts.googleapis.com/css2?family={{ t.fontlink }}&display=swap" rel="stylesheet">
+<style>
+:root{--bg:{{t.bg}};--ink:{{t.ink}};--mut:{{t.mut}};--acc:{{t.acc}};--acc-ink:{{t.acc_ink}};--hero:{{t.hero}};--hero-ink:{{t.hero_ink}};--card:{{t.card}};--line:{{t.line}}}
+*{box-sizing:border-box;margin:0;padding:0}html,body{overflow-x:hidden}body{font-family:{{t.body}};color:var(--ink);background:var(--bg)}
+.draft{position:fixed;bottom:14px;left:14px;z-index:9;background:#111c;color:#fff;font:600 11px system-ui;padding:5px 9px;border-radius:20px;letter-spacing:.04em}
+.top{background:var(--ink);color:var(--bg);font-size:13px;padding:8px 6vw;display:flex;justify-content:space-between;opacity:.96}
+.top b{color:var(--acc)}
+header{display:flex;align-items:center;justify-content:space-between;padding:18px 6vw;background:var(--card);border-bottom:1px solid var(--line)}
+.logo{font:{{t.logo}};letter-spacing:-.01em}.logo span{color:var(--acc)}
+nav a{margin-left:26px;color:var(--ink);text-decoration:none;font-weight:500;font-size:15px}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:14px 22px;border-radius:{{t.radius}};font-weight:700;text-decoration:none;font-size:16px}
+.p{background:var(--acc);color:var(--acc-ink)}.o{border:2px solid currentColor;color:var(--hero-ink)}
+.hero{display:grid;grid-template-columns:{% if c.hero_img %}minmax(0,1.05fr) minmax(0,1fr){% else %}minmax(0,1fr){% endif %};min-height:540px;background:var(--hero);color:var(--hero-ink);position:relative;overflow:hidden}
+.hero .t{padding:70px 6vw 60px;display:flex;flex-direction:column;justify-content:center;position:relative;z-index:1}
+{% if not c.hero_img %}.hero .t{max-width:1100px}.hero::after{content:"{{ c.deco }}";position:absolute;right:-2vw;bottom:-60px;font:{{t.deco}};color:var(--acc);opacity:.08;line-height:.8;pointer-events:none;white-space:nowrap}{% endif %}
+.eyebrow{color:var(--acc);font-weight:700;font-size:14px;letter-spacing:.12em;text-transform:uppercase;margin-bottom:18px}
+h1{font:{{t.h1}};letter-spacing:-.02em;margin-bottom:20px;max-width:16ch}
+.hero p{opacity:.85;font-size:18px;line-height:1.55;max-width:540px;margin-bottom:30px}
+.hero .img{background:url({{c.hero_img}}) center/cover;position:relative}
+.badge{position:absolute;left:-36px;bottom:40px;background:var(--acc);color:var(--acc-ink);border-radius:16px;padding:18px 22px;box-shadow:0 20px 40px #0005}
+.badge b{font:{{t.badge}};display:block;line-height:1}.badge small{font-weight:600}
+.hb{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;margin-top:26px;background:#ffffff14;border:1px solid #ffffff2a;border-radius:14px;padding:12px 16px;font-size:15px;width:fit-content;max-width:100%}
+.hb b{font:{{t.badge}};color:var(--acc)}
+.cta{display:flex;gap:12px;flex-wrap:wrap}
+.trust{display:flex;gap:40px;padding:22px 6vw;background:var(--card);border-bottom:1px solid var(--line);font-size:15px;color:var(--mut);flex-wrap:wrap}
+.trust b{color:var(--ink)}.stars{color:#e8a400}
+section{padding:70px 6vw}h2{font:{{t.h2}};margin-bottom:28px;letter-spacing:-.01em}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.card{background:var(--card);border-radius:14px;padding:26px;border:1px solid var(--line)}
+.card .ic{width:44px;height:44px;border-radius:10px;background:var(--hero);color:var(--acc);display:grid;place-items:center;font-weight:800;font-size:19px;margin-bottom:14px}
+.card h3{font-size:19px;margin-bottom:6px}.card p{color:var(--mut);font-size:15px;line-height:1.5}
+.menu{display:grid;grid-template-columns:repeat(2,1fr);gap:0 40px}
+.mi{display:flex;justify-content:space-between;gap:12px;padding:14px 0;border-bottom:1px dashed var(--line)}
+.mi b{display:block;font-size:17px}.mi small{color:var(--mut);font-size:14px}.mi .pr{font-weight:800;color:var(--acc);white-space:nowrap;font-size:17px}
+.gal{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.gal div{aspect-ratio:4/3;border-radius:12px;background:center/cover}
+.info{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.hours td{padding:7px 0;font-size:16px}.hours td:first-child{width:170px;color:var(--mut)}
+.pill{display:inline-block;background:#e9f7ef;color:#1b7a3d;font-weight:700;font-size:13px;padding:5px 10px;border-radius:20px;margin-bottom:14px}
+.band{background:var(--hero);color:var(--hero-ink);display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap}
+.band h2{margin:0}
+footer{background:var(--ink);color:var(--bg);opacity:.92;padding:30px 6vw;font-size:13px;display:flex;justify-content:space-between}
+.mbar{display:none}
+@media(max-width:700px){.hero{grid-template-columns:minmax(0,1fr)!important}h1{max-width:none}nav,.top span:last-child{display:none}.hero{grid-template-columns:1fr;min-height:0}.hero .img{height:230px;order:-1}.badge{left:16px;bottom:-26px;padding:12px 16px}
+h1{font-size:{{t.h1m}}}.hero .t{padding:46px 20px 40px}.hero::after{font-size:150px;bottom:-30px}.trust{flex-direction:column;gap:6px;padding:18px 20px}section{padding:46px 20px}.grid,.info,.menu{grid-template-columns:1fr}.gal{grid-template-columns:1fr 1fr}
+.mbar{display:flex;position:fixed;bottom:0;left:0;right:0;gap:8px;padding:10px;background:var(--card);box-shadow:0 -6px 20px #0002;z-index:5}.mbar a{flex:1;justify-content:center;padding:13px 10px}.mbar .o{color:var(--ink)}body{padding-bottom:72px}.draft{bottom:84px}footer{flex-direction:column;gap:6px}}
+</style></head><body>
+<div class="draft">ENTWURF · Vorschau</div>
+<div class="top"><span>{{ c.addr }}</span><span>Telefon <b>{{ c.tel }}</b></span></div>
+<header><div class="logo">{{ c.logo_a }} <span>{{ c.logo_b }}</span></div><nav>{% for n in c.nav %}<a href="#">{{ n }}</a>{% endfor %}</nav></header>
+<div class="hero"><div class="t"><div class="eyebrow">{{ c.eyebrow }}</div><h1>{{ c.h1 }}</h1><p>{{ c.lead }}</p>
+<div class="cta"><a class="btn p" href="#">{{ c.cta1 }}</a><a class="btn o" href="#">{{ c.cta2 }}</a></div>
+{% if c.badge and not c.hero_img %}<div class="hb"><b>{{ c.badge[0] }}</b><span>{{ c.badge[1] }}</span></div>{% endif %}</div>
+{% if c.hero_img %}<div class="img">{% if c.badge %}<div class="badge"><b>{{ c.badge[0] }}</b><small>{{ c.badge[1] }}</small></div>{% endif %}</div>{% endif %}</div>
+<div class="trust">{% for x in c.trust %}<span>{{ x|safe }}</span>{% endfor %}</div>
+{% if c.menu %}<section><h2>{{ c.menu_title }}</h2><div class="menu">{% for m in c.menu %}<div class="mi"><div><b>{{ m[0] }}</b>{% if m[1] %}<small>{{ m[1] }}</small>{% endif %}</div>{% if m[2] %}<span class="pr">{{ m[2] }}</span>{% endif %}</div>{% endfor %}</div></section>{% endif %}
+<section{% if c.menu %} style="padding-top:0"{% endif %}><h2>{{ c.svc_title }}</h2><div class="grid">{% for s in c.services %}<div class="card"><div class="ic">{{ loop.index }}</div><h3>{{ s[0] }}</h3><p>{{ s[1] }}</p></div>{% endfor %}</div></section>
+{% if c.gallery %}<section style="padding-top:0"><h2>{{ c.gal_title }}</h2><div class="gal">{% for g in c.gallery %}<div style="background-image:url({{ g }})"></div>{% endfor %}</div></section>{% endif %}
+<section class="band"><h2>{{ c.band }}</h2><a class="btn p" href="#">{{ c.cta1 }}</a></section>
+<section><div class="info">
+<div class="card">{% if c.hours %}{% if c.pill %}<span class="pill">{{ c.pill }}</span>{% endif %}<h3 style="margin-bottom:10px">Öffnungszeiten</h3><table class="hours">{% for h in c.hours %}<tr><td>{{ h[0] }}</td><td>{{ h[1] }}</td></tr>{% endfor %}</table>{% else %}<h3 style="margin-bottom:10px">{{ c.alt_title }}</h3><p style="font-size:16px;line-height:1.7;color:var(--mut)">{{ c.alt_text }}</p>{% endif %}</div>
+<div class="card"><h3 style="margin-bottom:10px">So finden Sie uns</h3><p style="font-size:16px;line-height:1.7">{{ c.contact|safe }}</p></div>
+</div></section>
+<footer><span>© {{ c.name }}</span><span>Impressum · Datenschutz</span></footer>
+<div class="mbar"><a class="btn p" href="#">{{ c.mcta }}</a><a class="btn o" href="#">Route</a></div>
+</body></html>

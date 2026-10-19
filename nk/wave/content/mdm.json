@@ -1,0 +1,109 @@
+{
+ "slug": "mdm-metalldesignm-ller-innovativer-metal",
+ "theme": "metall",
+ "name": "MetallDesignMüller",
+ "branche": "Metallbau / Geländer, Treppen, Tore",
+ "addr": "Mozartstraße 7-9 · 66538 Neunkirchen",
+ "tel": "06821 1799757",
+ "url": "https://www.metalldesignmueller.de",
+ "g": "3,7 ★ (9)",
+ "label": "Quick Win",
+ "visit": "Früh morgens 7 bis 8 Uhr oder vorher anrufen (Handwerker oft auf Montage)",
+ "logo_a": "MetallDesign",
+ "logo_b": "Müller",
+ "nav": [
+  "Leistungen",
+  "Referenzen",
+  "Über mich",
+  "Kontakt"
+ ],
+ "eyebrow": "Metallbaumeister Christian Müller, Neunkirchen",
+ "h1": "Geländer, Treppen und Tore nach Maß.",
+ "lead": "Vom Balkongeländer bis zur Überdachung: geplant, gefertigt und montiert vom Metallbaumeister aus der Mozartstraße.",
+ "cta1": "Anfrage mit Foto senden",
+ "cta2": "Referenzen ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "Meister",
+  "Metallbau aus Neunkirchen"
+ ],
+ "deco": "",
+ "hero_img": "img/mdm_1.jpg",
+ "trust": [
+  "<b>Metallbaumeister</b> Christian Müller",
+  "<b>Fertigung</b> und Montage aus einer Hand",
+  "<b>Mobil</b> 0178 5342330"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Geländer",
+   "Absturz-, Balkon- und Treppengeländer, Handläufe."
+  ],
+  [
+   "Treppen",
+   "Stahltreppen für innen und außen."
+  ],
+  [
+   "Balkone und Terrassen",
+   "Stahlbalkone und Terrassenkonstruktionen."
+  ],
+  [
+   "Tore und Gitter",
+   "Tore, Gitter und Gittertüren nach Maß."
+  ],
+  [
+   "Überdachungen",
+   "Vordächer und Überdachungen für Eingang und Terrasse."
+  ],
+  [
+   "Stahlbau und Sichtschutz",
+   "Stahlbau, Sichtschutz und Sonderanfertigungen."
+  ]
+ ],
+ "gal_title": "Aus unseren Projekten",
+ "gallery": [
+  "img/mdm_0.jpg",
+  "img/mdm_2.jpg",
+  "img/mdm_3.jpg",
+  "img/mdm_4.jpg"
+ ],
+ "band": "Projekt geplant? Schicken Sie uns zwei Fotos.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Anfrage mit Foto",
+ "alt_text": "Schicken Sie uns zwei Handyfotos und grobe Maße. Sie bekommen einen Rückruf und, nach Aufmaß vor Ort, ein Festpreisangebot.",
+ "contact": "MetallDesignMüller<br>Christian Müller, Metallbaumeister<br>Mozartstraße 7-9<br>66538 Neunkirchen<br><br>Telefon 06821 1799757<br>Mobil 0178 5342330<br>info@metalldesignmueller.de",
+ "audit": [
+  "Startseite mit Tabellenlayout, Besucherzähler und Kachel-Hintergrund, auf dem Handy nicht nutzbar",
+  "Leistungen stehen nur als Galerie-Überschriften, Google findet keine Texte zu Geländer, Treppe oder Tor",
+  "Keine Anfrage-Möglichkeit außer Mail-Link, keine Fotos im Großformat auf der Startseite"
+ ],
+ "hebel": "Metallbau wird über Leistung plus Ort gesucht ('Geländer Neunkirchen', 'Stahltreppe Saarland'). Eigene Leistungsseiten mit den vorhandenen Projektfotos und ein Anfrageformular mit Foto-Upload bringen vorqualifizierte Anfragen statt Telefonate ohne Maße.",
+ "p": [
+  "690 bis 990 €",
+  "1.190 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Website mit Leistungsseiten (Geländer, Treppen, Tore, Überdachungen), Referenzgalerie aus den vorhandenen Fotos, Anfrageformular mit Foto-Upload, Google-Profil",
+ "svc": [
+  "Google-Profil mit Projektfotos und Leistungen, Bewertungen nach jedem Auftrag anfragen (QR auf der Rechnung)",
+  "Referenz-Posts auf Instagram und Facebook aus Vorher/Nachher-Fotos der Baustelle",
+  "Einträge bei Branchenportalen vereinheitlichen (MyHammer, Gelbe Seiten, 11880)",
+  "Backlinks über Kooperationen mit Bauträgern, Architekten und Treppenbauern der Region"
+ ],
+ "open": "Herr Müller, ich bin Jean, Webdesigner aus Neunkirchen. Ihre Arbeiten in der Galerie sind richtig stark, aber auf dem Handy sieht man davon kaum etwas. Ich hab Ihnen mitgebracht, wie Ihre Seite mit genau diesen Fotos aussehen könnte.",
+ "obj": "'Ich hab genug Arbeit': Dann bringt die Seite bessere statt mehr Anfragen, mit Fotos und Maßen vorab und weniger Besichtigungen für Aufträge, die nicht passen.",
+ "obs": [
+  "Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.",
+  "Ihre Leistungen stehen nur als Überschriften in der Galerie. Google findet dazu kaum Text.",
+  "Ihre Projektfotos sind stark, auf der Startseite aber nicht zu sehen."
+ ],
+ "neu": [
+  "Ihre Projektfotos groß im Mittelpunkt",
+  "Eine eigene Seite für Geländer, Treppen, Tore und Überdachungen",
+  "Anfrage mit Foto-Upload, damit Sie vorher wissen, worum es geht"
+ ]
+}
