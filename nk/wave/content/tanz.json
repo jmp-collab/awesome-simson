@@ -1,0 +1,128 @@
+{
+ "slug": "tanzschule-hinsberger",
+ "theme": "event",
+ "name": "Tanzschule Hinsberger",
+ "branche": "Tanzschule",
+ "addr": "Steinwaldstraße 61 · 66538 Neunkirchen",
+ "tel": "0176 22226726",
+ "url": "https://www.tanzen-hinsberger.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Quick Win",
+ "visit": "Abends vor einem Kurs, Richard Hinsberger direkt ansprechen",
+ "logo_a": "Tanzschule",
+ "logo_b": "Hinsberger",
+ "nav": [
+  "Kurse",
+  "Team",
+  "Hochzeitstanz",
+  "Schnupperstunde"
+ ],
+ "eyebrow": "Tanzschule in Neunkirchen",
+ "h1": "Tanzen ohne Leistungsdruck. Mit ganz viel Spaß.",
+ "lead": "Standard und Latein, Discofox, Salsa und Bachata, Linedance ü40 und ein Discofox-Kurs für Singles. Die erste Schnupperstunde ist kostenlos.",
+ "cta1": "Kostenlose Schnupperstunde",
+ "cta2": "Kursprogramm",
+ "mcta": "Schnuppern",
+ "badge": [
+  "50 €",
+  "pro Person im Monat, monatlich kündbar"
+ ],
+ "deco": "",
+ "hero_img": "img/tanz_3.jpg",
+ "trust": [
+  "<b>Kostenlose</b> Schnupperstunde",
+  "<b>Monatlich kündbar</b>, 50 € pro Person",
+  "<b>Für Paare und Singles</b>"
+ ],
+ "menu_title": "Nächste Kurse",
+ "menu": [
+  [
+   "Standard und Latein",
+   "Dienstag 03.11.",
+   "19 Uhr"
+  ],
+  [
+   "Discofox",
+   "Freitag 06.11.",
+   "18 Uhr"
+  ],
+  [
+   "Linedance ü40",
+   "montags, ab sofort",
+   "20 Uhr"
+  ],
+  [
+   "Discofox Singlekurs",
+   "dienstags, ab sofort",
+   "18 Uhr"
+  ]
+ ],
+ "svc_title": "Kurse",
+ "services": [
+  [
+   "Standard und Latein",
+   "Mehrere Level, vom Einstieg bis Fortgeschritten."
+  ],
+  [
+   "Discofox",
+   "Paarkurse und Singlekurs."
+  ],
+  [
+   "Salsa und Bachata",
+   "Latin für Einsteiger und Fortgeschrittene."
+  ],
+  [
+   "Linedance ü40",
+   "Montags, ohne Partner."
+  ],
+  [
+   "Hochzeitstanz",
+   "Als Online-Kurs im Baukastensystem."
+  ],
+  [
+   "Team",
+   "Richard Hinsberger, Sarah Denne, Jason Conrad, Josie Roth."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [
+  "img/tanz_6.jpg",
+  "img/tanz_5.png"
+ ],
+ "band": "Einfach vorbeikommen: Die erste Stunde kostet nichts.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "So funktioniert's",
+ "alt_text": "Nach der kostenlosen Schnupperstunde laufen die Kurse fortlaufend. Die Mitgliedschaft kostet 50 € pro Person im Monat und ist monatlich kündbar.",
+ "contact": "Tanzschule Hinsberger<br>Steinwaldstraße 61<br>66538 Neunkirchen<br><br>Telefon 0176 22226726<br>info@tanzen-hinsberger.de",
+ "audit": [
+  "Die Startadresse zeigt die Cookie-Richtlinie in blasser Schrift, der Seitentitel lautet 'COOKIES | Holzland' (Rest einer Vorlage)",
+  "Zwei verschiedene Telefonnummern: oben 0155-60545214, im Impressum 0176 22226726",
+  "Kursprogramm nur als Bild, Tippfehler auf der Hochzeitstanz-Seite ('Gesaltet', 'entsapnnt')"
+ ],
+ "hebel": "Wer 'Tanzschule Neunkirchen' sucht, landet auf der Cookie-Richtlinie und springt ab. Dabei hat die Schule genau, was neue Kunden wollen: kostenlose Schnupperstunde, faire 50 € im Monat und aktuelle Kurse. Eine Startseite, die das sofort zeigt, füllt die Kurse.",
+ "p": [
+  "690 bis 990 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Startseite mit Kursen, Preis und Schnupperstunden-Anmeldung, Kursprogramm als Text, eine Telefonnummer, Seitentitel und Google-Profil",
+ "svc": [
+  "Anmeldung zur Schnupperstunde mit Kurs und Wunschtermin",
+  "Landingpages 'Discofox Neunkirchen' und 'Hochzeitstanz Saarland'",
+  "Kursplan als Text, für Google lesbar",
+  "Instagram-Reels aus dem Unterricht auf der Seite"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Wenn man Ihre Adresse eintippt, erscheint die Cookie-Richtlinie, und im Seitentitel steht 'Holzland'. Ich habe Ihnen mitgebracht, wie die Startseite Ihre Schnupperstunde zeigen könnte.",
+ "obj": "'Die meisten kommen über Instagram': Gut, und die schauen danach auf die Website. Wenn dort die Cookie-Richtlinie steht, melden sie sich nicht an.",
+ "obs": [
+  "Auf Ihrer Startseite erscheint die Cookie-Richtlinie, im Seitentitel steht 'Holzland'.",
+  "Oben steht eine andere Telefonnummer als im Impressum.",
+  "Ihr Kursprogramm ist nur ein Bild."
+ ],
+ "neu": [
+  "Startseite mit kostenloser Schnupperstunde ganz oben",
+  "Kurse, Preis und Team auf einen Blick",
+  "Eine Telefonnummer, überall gleich"
+ ]
+}

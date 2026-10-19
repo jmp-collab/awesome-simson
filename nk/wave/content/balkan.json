@@ -1,0 +1,140 @@
+{
+ "slug": "balkan-b-ckerei-prizreni",
+ "theme": "doener",
+ "name": "Balkan Bäckerei Prizreni",
+ "branche": "Bäckerei mit Burek, Pizza und Gebäck",
+ "addr": "Oberer Markt 9 · 66538 Neunkirchen",
+ "tel": "0155 10932660",
+ "url": "https://www.balkanbackerei-neunkirchen.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Quick Win",
+ "visit": "Vormittags im Laden, ruhige Zeit vor dem Mittagsgeschäft",
+ "logo_a": "Balkan Bäckerei",
+ "logo_b": "Prizreni",
+ "nav": [
+  "Burek",
+  "Pizza",
+  "Süßes",
+  "Bestellen"
+ ],
+ "eyebrow": "Balkan Bäckerei am Oberen Markt",
+ "h1": "Burek, Pizza und Baklava. Frisch vom Oberen Markt.",
+ "lead": "Herzhafter Burek mit dünnem Teig, Pizza in 32 und 50 cm, Mini-Pizza auf die Hand und süßes Gebäck wie Baklava, Tulumba und Kifle.",
+ "cta1": "Jetzt bestellen",
+ "cta2": "Karte ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "50 cm",
+  "Familienpizza"
+ ],
+ "deco": "BUREK",
+ "hero_img": "",
+ "trust": [
+  "<b>Burek</b> mit dünnem Teig",
+  "<b>Familienpizza</b> 50 cm",
+  "<b>Lieferung</b> täglich 11:30 bis 19:30 Uhr"
+ ],
+ "menu_title": "Auszug aus der Karte",
+ "menu": [
+  [
+   "Burek",
+   "herzhaft, mit dünnem Teig",
+   "5,20 €"
+  ],
+  [
+   "Mini-Pizza Margherita",
+   "1 Stück",
+   "4,50 €"
+  ],
+  [
+   "Pizza Margherita",
+   "32 cm",
+   "10,40 €"
+  ],
+  [
+   "Familienpizza Salami",
+   "50 cm",
+   "27,30 €"
+  ],
+  [
+   "Baklava",
+   "Schichtgebäck mit Nüssen und Sirup",
+   "1,90 €"
+  ],
+  [
+   "Tulumba",
+   "süßes Gebäck in Sirup",
+   "3,20 €"
+  ]
+ ],
+ "svc_title": "Bei uns",
+ "services": [
+  [
+   "Burek",
+   "Herzhaft und frisch, mit dünnem Teig."
+  ],
+  [
+   "Pizza",
+   "32 cm oder als Familienpizza mit 50 cm."
+  ],
+  [
+   "Mini-Pizza",
+   "Für den Hunger zwischendurch."
+  ],
+  [
+   "Süßes",
+   "Baklava, Tulumba, Kifle, Kuchen und Schokobowle."
+  ],
+  [
+   "Abholen",
+   "Direkt am Oberen Markt."
+  ],
+  [
+   "Liefern",
+   "Täglich von 11:30 bis 19:30 Uhr."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Direkt bei uns bestellen. Ohne Umweg.",
+ "hours": [
+  [
+   "Montag bis Sonntag",
+   "11:30 bis 19:30 (Lieferzeiten)"
+  ]
+ ],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "contact": "Balkan Bäckerei Prizreni<br>Oberer Markt 9<br>66538 Neunkirchen<br><br>Telefon 0155 10932660",
+ "audit": [
+  "Die eigene Domain zeigt eine Seite, die laut Hinweis oben von Lieferando betrieben wird",
+  "Jede Bestellung über diese Seite läuft über Lieferando, keine Telefonnummer und keine Ladenöffnungszeiten sichtbar",
+  "Kein eigenes Foto, keine Geschichte, keine Angaben zur Bäckerei selbst"
+ ],
+ "hebel": "Wer die eigene Domain eintippt, kennt die Bäckerei schon und bestellt trotzdem über das Portal. Eine eigene Seite mit Karte, Telefon- und WhatsApp-Bestellung und Abholung holt diese Stammkunden zurück und spart Provision.",
+ "p": [
+  "690 bis 990 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Onepager mit Karte als echte Seite, Bestellknopf zu Telefon und WhatsApp, Abholhinweis, Ladenöffnungszeiten, Google-Profil",
+ "svc": [
+  "WhatsApp-Bestellung für Abholung",
+  "Fotoshooting von Burek und Gebäck",
+  "Google-Profil mit Karte und Fotos",
+  "Lieferando nur noch als Zusatzkanal statt auf der eigenen Domain"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer eigenen Domain steht oben, dass die Seite von Lieferando betrieben wird. Jede Bestellung von Leuten, die Sie schon kennen, geht so über das Portal. Ich habe Ihnen mitgebracht, wie Ihre eigene Seite aussehen könnte.",
+ "obj": "'Lieferando bringt uns Kunden': Ja, neue. Die eigene Domain tippt aber nur ein, wer Sie schon kennt. Für diese Bestellungen müssen Sie keine Provision zahlen.",
+ "obs": [
+  "Ihre Domain zeigt eine Seite, die Lieferando betreibt.",
+  "Es gibt dort keine Telefonnummer und keine Ladenöffnungszeiten.",
+  "Man sieht kein eigenes Foto von Ihnen oder Ihrem Laden."
+ ],
+ "neu": [
+  "Ihre eigene Seite auf Ihrer Domain",
+  "Bestellen per Telefon und WhatsApp, ohne Provision",
+  "Burek und Gebäck mit eigenen Fotos"
+ ]
+}

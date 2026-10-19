@@ -1,0 +1,108 @@
+{
+ "slug": "wfa-weinfachagentur-benkert-gmbh",
+ "theme": "beauty",
+ "name": "WFA Weinfachagentur Benkert GmbH",
+ "branche": "Weinimport und Weinhandel",
+ "addr": "Geißenbrünnchen 52 · 66539 Neunkirchen-Furpach",
+ "tel": "06821 401746-0",
+ "url": "https://www.wfa-benkert.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Solide Chance",
+ "visit": "Vorher anrufen, Termin mit Geschäftsführung",
+ "logo_a": "Weinfachagentur",
+ "logo_b": "Benkert",
+ "nav": [
+  "Weine",
+  "Weingüter",
+  "Gastronomie",
+  "Kontakt"
+ ],
+ "eyebrow": "Weine aus Frankreich, Spanien und Italien",
+ "h1": "Weine, die wir selbst verkostet haben.",
+ "lead": "Familienunternehmen in zweiter Generation, seit Mitte der 1980er Jahre. Jedes Weingut im Sortiment haben wir selbst besucht, heute füllt das Angebot einen fast 50-seitigen Katalog.",
+ "cta1": "Katalog anfragen",
+ "cta2": "Zum Endverbraucherportal",
+ "mcta": "Anrufen",
+ "badge": [
+  "30+",
+  "Jahre in Familienhand"
+ ],
+ "deco": "",
+ "hero_img": "img/wfa_2.jpg",
+ "trust": [
+  "<b>Import</b> aus Frankreich, Spanien, Italien",
+  "<b>Jedes Weingut</b> persönlich besucht",
+  "<b>Fast 50 Seiten</b> Katalog"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Für wen",
+ "services": [
+  [
+   "Gastronomie",
+   "Weinkarte zusammenstellen, Weine aus erster Hand."
+  ],
+  [
+   "Fachhandel",
+   "Handelsvertretungen und Import."
+  ],
+  [
+   "Privatkunden",
+   "Über unser Endverbraucherportal."
+  ],
+  [
+   "Frankreich",
+   "Unser Ursprung: französische Weine seit den 1980ern."
+  ],
+  [
+   "Spanien und Italien",
+   "Stetig erweitertes Sortiment."
+  ],
+  [
+   "Deutschland",
+   "Auch deutsche Weine im Portfolio."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [
+  "img/wfa_3.jpg",
+  "img/wfa_0.jpg",
+  "img/wfa_1.jpg"
+ ],
+ "band": "Neue Weinkarte geplant? Sprechen Sie mit uns.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Persönlich",
+ "alt_text": "Der direkte Kontakt zu unseren Lieferanten ist uns wichtig. Jeder Wein in unserer Liste wurde sorgfältig geprüft und verkostet.",
+ "contact": "WFA Weinfachagentur Benkert GmbH<br>Geißenbrünnchen 52<br>66539 Neunkirchen-Furpach<br><br>Telefon 06821 401746-0<br>info@wfa-benkert.de",
+ "audit": [
+  "Wix-Seite mit nur einer Startseite, kein Sortiment, keine Weingüter, kein Katalog online",
+  "Englische Reste ('Skip to Main Content', 'Scroll'), auf dem Handy wiederholen sich Bilder",
+  "Endverbraucherportal liegt auf einer zweiten Domain ohne klare Verbindung"
+ ],
+ "hebel": "Gastronomen suchen Weinlieferanten mit Profil. Eine Seite mit Weingütern, Regionen und einem Katalog-Download (gegen Kontaktdaten) wird zum Vertriebswerkzeug für Außendienst und Neukunden.",
+ "p": [
+  "1.190 bis 1.690 €",
+  "1.990 bis 2.790 €",
+  "49 bis 99 €"
+ ],
+ "paket": "Neue Website mit Weingut-Profilen, Regionen, Katalog-Download mit Anfrage, Bereich Gastronomie, Verbindung zum Endverbraucherportal",
+ "svc": [
+  "Katalog-Download gegen Kontaktdaten (Leads für den Außendienst)",
+  "Weingut-Seiten mit Fotos von den Besuchen",
+  "Bereich 'Weinkarte für Gastronomen' mit Anfrage",
+  "Newsletter mit Neuheiten im Sortiment"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Sie haben einen fast 50-seitigen Katalog, aber auf der Website sieht man keinen einzigen Wein. Ich habe Ihnen mitgebracht, wie Ihre Weingüter dort aussehen könnten.",
+ "obj": "'Unser Geschäft läuft über den Außendienst': Genau dafür ist die Seite da. Der Außendienst schickt den Link, und der Katalog-Download liefert neue Kontakte.",
+ "obs": [
+  "Auf Ihrer Seite sieht man keine Weine und keine Weingüter.",
+  "Oben steht 'Skip to Main Content' und 'Scroll' auf Englisch.",
+  "Ihr Endverbraucherportal liegt auf einer anderen Domain."
+ ],
+ "neu": [
+  "Weingüter und Regionen mit eigenen Fotos",
+  "Katalog-Download, der neue Kontakte bringt",
+  "Bereich für Gastronomen"
+ ]
+}

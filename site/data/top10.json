@@ -1430,5 +1430,165 @@
   "addr": "Bahnhofstraße 1b",
   "tel": "06821 919650",
   "welle": 7
+ },
+ {
+  "name": "Balkan Bäckerei Prizreni",
+  "branche": "Bäckerei mit Burek, Pizza und Gebäck",
+  "url": "https://www.balkanbackerei-neunkirchen.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Vormittags im Laden, ruhige Zeit vor dem Mittagsgeschäft",
+  "audit": [
+   "Die eigene Domain zeigt eine Seite, die laut Hinweis oben von Lieferando betrieben wird",
+   "Jede Bestellung über diese Seite läuft über Lieferando, keine Telefonnummer und keine Ladenöffnungszeiten sichtbar",
+   "Kein eigenes Foto, keine Geschichte, keine Angaben zur Bäckerei selbst"
+  ],
+  "hebel": "Wer die eigene Domain eintippt, kennt die Bäckerei schon und bestellt trotzdem über das Portal. Eine eigene Seite mit Karte, Telefon- und WhatsApp-Bestellung und Abholung holt diese Stammkunden zurück und spart Provision.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Karte als echte Seite, Bestellknopf zu Telefon und WhatsApp, Abholhinweis, Ladenöffnungszeiten, Google-Profil",
+  "svc": [
+   "WhatsApp-Bestellung für Abholung",
+   "Fotoshooting von Burek und Gebäck",
+   "Google-Profil mit Karte und Fotos",
+   "Lieferando nur noch als Zusatzkanal statt auf der eigenen Domain"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer eigenen Domain steht oben, dass die Seite von Lieferando betrieben wird. Jede Bestellung von Leuten, die Sie schon kennen, geht so über das Portal. Ich habe Ihnen mitgebracht, wie Ihre eigene Seite aussehen könnte.",
+  "obj": "'Lieferando bringt uns Kunden': Ja, neue. Die eigene Domain tippt aber nur ein, wer Sie schon kennt. Für diese Bestellungen müssen Sie keine Provision zahlen.",
+  "k": "balkan",
+  "addr": "Oberer Markt 9",
+  "tel": "0155 10932660",
+  "welle": 8
+ },
+ {
+  "name": "Luu Asien Bistro",
+  "branche": "Asiatisches und vietnamesisches Bistro",
+  "url": "https://www.luu-asien-bistro.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Nachmittags vor 16:30 Uhr, vor der Öffnung",
+  "audit": [
+   "Die eigene Domain zeigt eine Seite, die laut Hinweis oben von Lieferando betrieben wird",
+   "Keine Telefonnummer auf der Seite, Bestellung nur über das Portal",
+   "Kein eigenes Foto der Gerichte oder des Bistros"
+  ],
+  "hebel": "Stammkunden, die die Domain des Bistros kennen, bestellen dort über Lieferando und lösen Provision aus. Eine eigene Seite mit Karte und Telefon- oder WhatsApp-Bestellung zur Abholung holt diese Bestellungen zurück.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Speisekarte als echte Seite, Bestellknopf zu Telefon und WhatsApp, Allergene, Google-Profil",
+  "svc": [
+   "Speisekarte mit Filter vegetarisch und scharf",
+   "Fotoshooting der Top-Gerichte",
+   "Google-Profil mit Karte und Fotos",
+   "Lieferando nur noch als Zusatzkanal"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Wer Ihre Domain eintippt, landet auf einer Seite, die Lieferando betreibt, und bestellt mit Provision. Ich habe Ihnen mitgebracht, wie Ihre eigene Seite aussehen könnte.",
+  "obj": "'Ohne Lieferando keine Bestellungen': Lieferando bleibt für neue Kunden. Die eigene Seite ist für die, die Sie schon kennen.",
+  "k": "luu",
+  "addr": "Untere Bliesstraße 73",
+  "tel": "06821 9140902",
+  "welle": 8
+ },
+ {
+  "name": "Tanzschule Hinsberger",
+  "branche": "Tanzschule",
+  "url": "https://www.tanzen-hinsberger.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Abends vor einem Kurs, Richard Hinsberger direkt ansprechen",
+  "audit": [
+   "Die Startadresse zeigt die Cookie-Richtlinie in blasser Schrift, der Seitentitel lautet 'COOKIES | Holzland' (Rest einer Vorlage)",
+   "Zwei verschiedene Telefonnummern: oben 0155-60545214, im Impressum 0176 22226726",
+   "Kursprogramm nur als Bild, Tippfehler auf der Hochzeitstanz-Seite ('Gesaltet', 'entsapnnt')"
+  ],
+  "hebel": "Wer 'Tanzschule Neunkirchen' sucht, landet auf der Cookie-Richtlinie und springt ab. Dabei hat die Schule genau, was neue Kunden wollen: kostenlose Schnupperstunde, faire 50 € im Monat und aktuelle Kurse. Eine Startseite, die das sofort zeigt, füllt die Kurse.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Startseite mit Kursen, Preis und Schnupperstunden-Anmeldung, Kursprogramm als Text, eine Telefonnummer, Seitentitel und Google-Profil",
+  "svc": [
+   "Anmeldung zur Schnupperstunde mit Kurs und Wunschtermin",
+   "Landingpages 'Discofox Neunkirchen' und 'Hochzeitstanz Saarland'",
+   "Kursplan als Text, für Google lesbar",
+   "Instagram-Reels aus dem Unterricht auf der Seite"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Wenn man Ihre Adresse eintippt, erscheint die Cookie-Richtlinie, und im Seitentitel steht 'Holzland'. Ich habe Ihnen mitgebracht, wie die Startseite Ihre Schnupperstunde zeigen könnte.",
+  "obj": "'Die meisten kommen über Instagram': Gut, und die schauen danach auf die Website. Wenn dort die Cookie-Richtlinie steht, melden sie sich nicht an.",
+  "k": "tanz",
+  "addr": "Steinwaldstraße 61",
+  "tel": "0176 22226726",
+  "welle": 8
+ },
+ {
+  "name": "Morrone & Partner",
+  "branche": "Versicherungsmakler und Baufinanzierung",
+  "url": "https://www.versicherungsmakler-morrone.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Termin telefonisch vereinbaren",
+  "audit": [
+   "Menüpunkt 'PKV Beitragsreduzierung 2018' auf der Startseite, Baukasten-Seite ohne eigenes Foto des Beraters",
+   "Startseite mit langer Statistik zu KMU statt klarer Leistungen, Hauptbild ist ein Ortsschild 'Krise / Ausweg'",
+   "Zwei Adressen im Umlauf: Seite nennt Grünewaldstraße 2, Branchenverzeichnis Geßbachstraße 27"
+  ],
+  "hebel": "Versicherung und Finanzierung sind Vertrauenssache. Wer einen Makler sucht, will den Menschen sehen und schnell einen Termin buchen. Ein klares Foto, Leistungen auf einen Blick und Online-Terminbuchung machen aus Besuchern Beratungsgespräche.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.290 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Neue Website mit Berater-Profil, Leistungsseiten, Online-Terminbuchung, eingebundenen Tarifrechnern, Google-Profil",
+  "svc": [
+   "Online-Terminbuchung für Erst- und Online-Beratung",
+   "Landingpages 'Berufsunfähigkeit Selbständige' und 'Baufinanzierung Neunkirchen'",
+   "Profil mit Foto und Zulassung",
+   "Adressen in allen Verzeichnissen vereinheitlichen"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht noch 'PKV Beitragsreduzierung 2018', und man sieht Sie nicht. Ich habe Ihnen mitgebracht, wie eine Seite aussehen könnte, auf der Interessenten direkt einen Termin buchen.",
+  "obj": "'Meine Kunden kommen über Empfehlung': Dann prüft der Empfohlene Sie online. Ein Foto und eine klare Seite machen den ersten Anruf leichter.",
+  "k": "morrone",
+  "addr": "Grünewaldstraße 2",
+  "tel": "06821 52091",
+  "welle": 8
+ },
+ {
+  "name": "WFA Weinfachagentur Benkert GmbH",
+  "branche": "Weinimport und Weinhandel",
+  "url": "https://www.wfa-benkert.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Vorher anrufen, Termin mit Geschäftsführung",
+  "audit": [
+   "Wix-Seite mit nur einer Startseite, kein Sortiment, keine Weingüter, kein Katalog online",
+   "Englische Reste ('Skip to Main Content', 'Scroll'), auf dem Handy wiederholen sich Bilder",
+   "Endverbraucherportal liegt auf einer zweiten Domain ohne klare Verbindung"
+  ],
+  "hebel": "Gastronomen suchen Weinlieferanten mit Profil. Eine Seite mit Weingütern, Regionen und einem Katalog-Download (gegen Kontaktdaten) wird zum Vertriebswerkzeug für Außendienst und Neukunden.",
+  "p": [
+   "1.190 bis 1.690 €",
+   "1.990 bis 2.790 €",
+   "49 bis 99 €"
+  ],
+  "paket": "Neue Website mit Weingut-Profilen, Regionen, Katalog-Download mit Anfrage, Bereich Gastronomie, Verbindung zum Endverbraucherportal",
+  "svc": [
+   "Katalog-Download gegen Kontaktdaten (Leads für den Außendienst)",
+   "Weingut-Seiten mit Fotos von den Besuchen",
+   "Bereich 'Weinkarte für Gastronomen' mit Anfrage",
+   "Newsletter mit Neuheiten im Sortiment"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Sie haben einen fast 50-seitigen Katalog, aber auf der Website sieht man keinen einzigen Wein. Ich habe Ihnen mitgebracht, wie Ihre Weingüter dort aussehen könnten.",
+  "obj": "'Unser Geschäft läuft über den Außendienst': Genau dafür ist die Seite da. Der Außendienst schickt den Link, und der Katalog-Download liefert neue Kontakte.",
+  "k": "wfa",
+  "addr": "Geißenbrünnchen 52",
+  "tel": "06821 401746-0",
+  "welle": 8
  }
 ]

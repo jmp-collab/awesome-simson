@@ -1,0 +1,144 @@
+{
+ "slug": "asien-bistro-luu",
+ "theme": "gelato",
+ "name": "Luu Asien Bistro",
+ "branche": "Asiatisches und vietnamesisches Bistro",
+ "addr": "Untere Bliesstraße 73 · 66539 Neunkirchen",
+ "tel": "06821 9140902",
+ "url": "https://www.luu-asien-bistro.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Quick Win",
+ "visit": "Nachmittags vor 16:30 Uhr, vor der Öffnung",
+ "logo_a": "Luu",
+ "logo_b": "Asien Bistro",
+ "nav": [
+  "Karte",
+  "Vietnamesisch",
+  "Vegetarisch",
+  "Bestellen"
+ ],
+ "eyebrow": "Asien Bistro in Neunkirchen",
+ "h1": "Wok, Curry und vietnamesische Spezialitäten.",
+ "lead": "Gebratene Nudeln und Reis aus dem Wok, Currys mit Thai-, Mango- oder Erdnusssauce, Tauxi-Sauce, vegetarische Gerichte mit Tofu und vietnamesische Spezialitäten.",
+ "cta1": "Jetzt bestellen",
+ "cta2": "Karte ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "Mo bis Sa",
+  "16:30 bis 20:30 Uhr"
+ ],
+ "deco": "WOK",
+ "hero_img": "",
+ "trust": [
+  "<b>Vietnamesische</b> Spezialitäten",
+  "<b>Vegetarisch</b> mit Tofu und Gemüse",
+  "<b>Lieferung</b> Montag bis Samstag"
+ ],
+ "menu_title": "Auszug aus der Karte",
+ "menu": [
+  [
+   "Gebratene Nudeln Vegetarisch",
+   "mit bunter Gemüsemischung und Sojasoße",
+   "7,50 €"
+  ],
+  [
+   "Gebratene Nudeln mit krosser Ente",
+   "Wok-Nudeln mit Gemüse und Ei",
+   "12,90 €"
+  ],
+  [
+   "Gebratener Reis Hühnerfleisch",
+   "mit Gemüse und Ei",
+   "9,90 €"
+  ],
+  [
+   "Tofu und Gemüse mit Erdnusssauce",
+   "mit Beilage nach Wahl",
+   "11,90 €"
+  ],
+  [
+   "Garnelen mit Tauxi-Sauce",
+   "schwarze Bohnensauce",
+   "13,90 €"
+  ],
+  [
+   "Krosse Ente mit Thai-Currysauce",
+   "Kokosmilch, Gemüse, Beilage",
+   "13,90 €"
+  ]
+ ],
+ "svc_title": "Unsere Küche",
+ "services": [
+  [
+   "Wok",
+   "Gebratene Nudeln und gebratener Reis, immer mit Gemüse und Ei."
+  ],
+  [
+   "Currys",
+   "Thai-, Mango-, Erdnuss-Curry und Zitronengras."
+  ],
+  [
+   "Tauxi-Sauce",
+   "Schwarze Bohnensauce mit Chinakohl, Zucchini und Brechbohnen."
+  ],
+  [
+   "Vegetarisch",
+   "Tofu und Gemüse in vielen Saucen."
+  ],
+  [
+   "Vietnamesisch",
+   "Spezialitäten aus Vietnam."
+  ],
+  [
+   "Suppen",
+   "Warm und würzig."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Direkt bei uns bestellen. Ohne Umweg.",
+ "hours": [
+  [
+   "Montag bis Samstag",
+   "16:30 bis 20:30"
+  ],
+  [
+   "Sonntag",
+   "geschlossen"
+  ]
+ ],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "contact": "Luu Asien Bistro<br>Untere Bliesstraße 73<br>66539 Neunkirchen<br><br>Telefon 06821 9140902",
+ "audit": [
+  "Die eigene Domain zeigt eine Seite, die laut Hinweis oben von Lieferando betrieben wird",
+  "Keine Telefonnummer auf der Seite, Bestellung nur über das Portal",
+  "Kein eigenes Foto der Gerichte oder des Bistros"
+ ],
+ "hebel": "Stammkunden, die die Domain des Bistros kennen, bestellen dort über Lieferando und lösen Provision aus. Eine eigene Seite mit Karte und Telefon- oder WhatsApp-Bestellung zur Abholung holt diese Bestellungen zurück.",
+ "p": [
+  "690 bis 990 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Onepager mit Speisekarte als echte Seite, Bestellknopf zu Telefon und WhatsApp, Allergene, Google-Profil",
+ "svc": [
+  "Speisekarte mit Filter vegetarisch und scharf",
+  "Fotoshooting der Top-Gerichte",
+  "Google-Profil mit Karte und Fotos",
+  "Lieferando nur noch als Zusatzkanal"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Wer Ihre Domain eintippt, landet auf einer Seite, die Lieferando betreibt, und bestellt mit Provision. Ich habe Ihnen mitgebracht, wie Ihre eigene Seite aussehen könnte.",
+ "obj": "'Ohne Lieferando keine Bestellungen': Lieferando bleibt für neue Kunden. Die eigene Seite ist für die, die Sie schon kennen.",
+ "obs": [
+  "Ihre Domain zeigt eine Seite, die Lieferando betreibt.",
+  "Auf der Seite steht keine Telefonnummer.",
+  "Es gibt kein eigenes Foto Ihrer Gerichte."
+ ],
+ "neu": [
+  "Ihre eigene Seite auf Ihrer Domain",
+  "Bestellen per Telefon oder WhatsApp, ohne Provision",
+  "Karte mit Filter für vegetarisch"
+ ]
+}
