@@ -3,6 +3,7 @@ Aufruf: python3 wave/audit2.py [KURZ ...]   (ohne Argumente: alle aus site/data/
 Ergebnis: wave/audit/<k>.json"""
 import asyncio, json, os, re, sys, time, subprocess
 from playwright.async_api import async_playwright
+sys.path.insert(0, "/home/claude/nk/wave"); import httpfix
 
 B = "/home/claude/nk/wave"
 OUT = f"{B}/audit"; os.makedirs(OUT, exist_ok=True)
@@ -48,6 +49,7 @@ async def measure(browser, url, mobile):
         viewport={"width": 390, "height": 844} if mobile else {"width": 1366, "height": 850},
         device_scale_factor=2 if mobile else 1, is_mobile=mobile, has_touch=mobile,
         user_agent=UA_M if mobile else UA, locale="de-DE", ignore_https_errors=False)
+    await ctx.route("http://**/*", httpfix.async_handler)
     pg = await ctx.new_page()
     errs, sizes, reqs = [], [], []
     pg.on("pageerror", lambda e: errs.append(str(e)[:160]))

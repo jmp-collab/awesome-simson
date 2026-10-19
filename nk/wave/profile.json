@@ -461,5 +461,35 @@
   2500,
   "Auftrag",
   4
+ ],
+ "hoechst": [
+  "auftrag",
+  6000,
+  "Auftrag",
+  3
+ ],
+ "schaefer": [
+  "auftrag",
+  3500,
+  "Auftrag",
+  3
+ ],
+ "kirsch": [
+  "auftrag",
+  6000,
+  "Auftrag",
+  3
+ ],
+ "mayer": [
+  "auftrag",
+  2500,
+  "Neukunde",
+  4
+ ],
+ "ecker": [
+  "auftrag",
+  3000,
+  "Auftrag",
+  3
  ]
 }

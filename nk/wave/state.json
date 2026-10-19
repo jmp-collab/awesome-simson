@@ -282,9 +282,19 @@
   "socacel-fleischtechnologie-gmbh",
   "s-a-s-gmbh-kfz-meisterbetrieb",
   "schuler-nikolaus-bausanierung",
-  "mauermann-peter-elektro-k-lte-klima"
+  "mauermann-peter-elektro-k-lte-klima",
+  "h-chst-horst-bedachungen",
+  "sch-fer-frank-schreinermeister",
+  "heizung-sanit-r-kirsch-ug-haftungsbeschr",
+  "mayer-peter-fahrschule",
+  "ecker-arno-metallbaumontage",
+  "h-chst-horst-bedachungen",
+  "sch-fer-frank-schreinermeister",
+  "heizung-sanit-r-kirsch-ug-haftungsbeschr",
+  "mayer-peter-fahrschule",
+  "ecker-arno-metallbaumontage"
  ],
- "wave": 14,
+ "wave": 15,
  "deferred": {
   "l-a-nails-nagelstudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
   "nieland-julia-pasta": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
@@ -354,19 +364,22 @@
   "bestattungsinstitut-flunkert": "gepflegte Seite, sensibles Thema"
  },
  "queue_neu": [
-  "sch-fer-frank-schreinermeister",
-  "lung-fung-gastronomie-partyservice",
-  "mayer-peter-fahrschule",
+  "brill-rosen",
+  "vkv-kartoffelvertriebsgesellschaft-mbh-l",
+  "herz-hair-hairdesign",
   "seiler-friseurteam-friseur",
-  "rajvinder-pal-singh-ghotra-restaurant",
-  "m-ller-ludwig-augenoptik"
+  "aloys-lambert-garten-und-landschaftsbau",
+  "gilges-daniel-friseursalon"
  ],
  "hinweis": "Neue Leads kommen aus wave/harvest_gs.py (Gelbe Seiten, Ort x Branche) + wave/screen.py (Alterssignale); Kandidaten in wave/new_near.json/screen.json",
- "queue_neu_hinweis": "Slugs aus new_near.json, noch NICHT in data/all_v2.json. Screening hatte bei diesen 2 bis 3 Wörter (wohl Abruffehler): erst neu screenen. Müller Augenoptik: Domain leitet auf Spam-Klickseite um, nur nehmen wenn Betrieb sicher identifizierbar, dann Thema Domain-Verlust. Wenn zu wenig: harvest_gs.py mit neuen Orten (Illingen, Merchweiler, Eppelborn, Bexbach) und Branchen.",
+ "queue_neu_hinweis": "Slugs aus new_near.json. brill-rosen: Frameset (http://www.rosen-brill.de/, final setzen). vkv: Seite im Wartungsmodus. herz-hair: Domain zeigt fremdes News-Portal (Domain verloren?), nur wenn Betrieb sicher identifizierbar. seiler/lambert: http-only, wenig Text, prüfen. Danach harvest_gs.py in Illingen, Merchweiler, Eppelborn, Bexbach.",
  "skip": [
   "naturfreundehaus",
   "zickwolff-garten-und-landschaftsbau",
-  "holiday-inn-express-neunkirchen"
+  "holiday-inn-express-neunkirchen",
+  "bella-italia-pizzaheimservice",
+  "s-oliver-store",
+  "born-blumenhaus-fleuropdienst"
  ],
- "skip_grund": "naturfreundehaus: nur Unterseite im Bundesverbandsportal; zickwolff: Seite liefert auch per curl 403, nicht prüfbar; holiday-inn: Kette"
+ "skip_grund": "naturfreundehaus: nur Unterseite im Bundesverbandsportal; zickwolff: Seite liefert auch per curl 403, nicht prüfbar; holiday-inn: Kette; bella-italia: in leads_slim als Dublette markiert; s-oliver: Kette; born: Fleurop-Portalseite"
 }

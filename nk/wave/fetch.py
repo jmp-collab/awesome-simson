@@ -2,6 +2,7 @@
 Aufruf: python3 wave/fetch.py KEY1 KEY2 ...   (KEY = slug aus data/all_v2.json)"""
 import json, os, sys, re, urllib.request, ssl
 from playwright.sync_api import sync_playwright
+sys.path.insert(0, "/home/claude/nk/wave"); import httpfix
 B = "/home/claude/nk"
 D = {r["slug"]: r for r in json.load(open(f"{B}/data/all_v2.json"))}
 PROXY = os.environ.get("HTTPS_PROXY")
@@ -28,7 +29,7 @@ with sync_playwright() as p:
         out = {"key": k, "url": url}
         for vw, vh, suf, dsf in [(1366, 850, "desk", 1), (390, 844, "mob", 2)]:
             ctx = b.new_context(viewport={"width": vw, "height": vh}, device_scale_factor=dsf, locale="de-DE", ignore_https_errors=True, user_agent=os.environ.get("UA") or None)
-            pg = ctx.new_page()
+            ctx.route("http://**/*", httpfix.sync_handler); pg = ctx.new_page()
             try:
                 pg.goto(url, timeout=45000, wait_until="load"); pg.wait_for_timeout(2500)
                 for sel in ["text=Alle akzeptieren", "text=Akzeptieren", "text=Alle zulassen", "text=Zustimmen", "text=Einverstanden", "text=OK"]:

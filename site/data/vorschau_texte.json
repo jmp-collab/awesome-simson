@@ -922,5 +922,65 @@
    "Telefon mit einem Fingertipp",
    "Anfrage mit Foto"
   ]
+ },
+ "hoechst": {
+  "obs": [
+   "Browser zeigt 'Nicht sicher'.",
+   "Keine Handy-Einstellung, Nummer nicht antippbar.",
+   "Impressum mit veralteten Gesetzen."
+  ],
+  "neu": [
+   "Sichere Verbindung ohne Warnung",
+   "Leistungen und Referenzen am Handy",
+   "Anfrage mit Foto"
+  ]
+ },
+ "schaefer": {
+  "obs": [
+   "Browser zeigt 'Nicht sicher', am Handy ist Zoomen gesperrt.",
+   "'Einige Seiten werden noch ergänzt' und ein Gästebuch.",
+   "Impressum mit veraltetem Gesetz."
+  ],
+  "neu": [
+   "Sichere Verbindung",
+   "Große Fotos fertiger Arbeiten",
+   "Anfrage mit Maßen"
+  ]
+ },
+ "kirsch": {
+  "obs": [
+   "Browser zeigt 'Nicht sicher', auch beim Kontaktformular.",
+   "Telefonnummer nur im Logo-Bild.",
+   "Wärmepumpe und Zuschüsse gehen im Text unter."
+  ],
+  "neu": [
+   "Sichere Verbindung",
+   "Heizungs-Anfrage mit Baujahr",
+   "Wärmepumpe und Zuschüsse vorne"
+  ]
+ },
+ "mayer": {
+  "obs": [
+   "Website ist ein einziges Bild.",
+   "Kein Text für Google, Nummer nicht antippbar.",
+   "Keine sichere Verbindung."
+  ],
+  "neu": [
+   "Klassen und Standorte als Text",
+   "Online-Anmeldung",
+   "Sichere Verbindung"
+  ]
+ },
+ "ecker": {
+  "obs": [
+   "Nur 'Hier entsteht eine neue Homepage'.",
+   "Kein Name, keine Nummer.",
+   "Keine sichere Verbindung."
+  ],
+  "neu": [
+   "Leistungen und Fotos",
+   "Anruf mit einem Fingertipp",
+   "Anfrage mit Foto"
+  ]
  }
 }

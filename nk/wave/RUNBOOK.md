@@ -6,6 +6,7 @@ Ziel: Jede Stunde 5 neue Leads aus der Queue mit Vorher/Nachher, Preis, Zusatzle
 3. Pro Lead `wave/content/KURZ.json` schreiben (Felder wie wave/content/heil.json; Themes: doener, gelato, papier, metall, beauty, praxis). Preise nie unter 690 €.
 4. `python3 wave/render.py WELLE KURZ...` -> out/welle_NN/, out/Welle_NN_Vorher-Nachher.zip, site/dist neu gebaut.
 4a. IONOS/Webador-Seiten sperren teils den Desktop-Abruf (403): analyse.py nimmt dann automatisch die Handy-Werte. Vorher-Screenshots aus fetch.py zeigen Desktop-Layout auch im Handy-Format; Aussagen zum Handy nur aus audit2 (iPhone-Abruf) übernehmen.
+4d. Seiten nur per http laufen jetzt direkt: wave/httpfix.py leitet http-Anfragen des Browsers über requests um (fetch, imgs, screen, audit2). In data/all_v2.json final auf die http-Adresse setzen. HeadlessChrome-UA wird dabei ersetzt (manche Server sperren ihn). screen.py nimmt optional eine Ausgabedatei als 2. Argument.
 4c. Seiten nur per http (kein https): audit2 misst automatisch über das Weiterleitungsziel (measured_url), http-Prüfung bleibt auf der Originaladresse.
 4b. `bash wave/post_wave.sh WELLE KURZ...` -> Technik-Check (audit2.py, gemessen), Befunde und Nutzen (analyse.py, profile.json: Typ, Beispielwert, Anzahl je Lead ergänzen!), Vorschauseiten mit Website-Check und Rechner, druckbarer Website-Check je Betrieb (out/checks/*.pdf), Analyse-Mappe und Prioritätenliste; alles in die Wellen-ZIP.
 5. Kontrollblatt rendern und ansehen (Mobil-Überlauf, leere Bereiche), ggf. korrigieren und neu rendern.

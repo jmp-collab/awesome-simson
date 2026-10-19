@@ -107,7 +107,7 @@ def findings(k, t, a):
             "Anfrage per Formular und WhatsApp, rund um die Uhr")
     if d.get("http_res"):
         add("mixed", "mittel", "Unsichere Inhalte auf der Seite",
-            f"{len(d['http_res'])} Dateien werden unverschlüsselt (http) geladen.",
+            (f"{len(d['http_res'])} Dateien werden" if len(d['http_res']) != 1 else "1 Datei wird") + " unverschlüsselt (http) geladen.",
             "Browser blockieren solche Inhalte teilweise oder warnen.", "Alle Inhalte über https")
     if not d.get("localbiz"):
         add("schema", "niedrig", "Google erkennt Adresse und Öffnungszeiten nicht automatisch",

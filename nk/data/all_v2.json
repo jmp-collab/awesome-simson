@@ -84,7 +84,7 @@
   "https_error": "status 502",
   "load_s": 5.5,
   "status": 502,
-  "final": "https://web.archive.org/web/2026if_/http://www.bellagusto.net",
+  "final": "http://www.bellagusto.net/",
   "https": false,
   "lastmod": "",
   "server": "",
@@ -30106,6 +30106,72 @@
   "final": "https://www.elektro-mauermann.de/",
   "tel": "06821 96 21 71",
   "slug": "mauermann-peter-elektro-k-lte-klima",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Höchst Horst Bedachungen",
+  "branch": "Dachdeckereien",
+  "addr": "Karlstr. 63, 66578 Schiffweiler (Heiligenwald)",
+  "plz": "66578",
+  "url": "http://www.bedachung-hoechst.de",
+  "final": "http://www.bedachung-hoechst.de/",
+  "tel": "06821 3 09 81 70",
+  "slug": "h-chst-horst-bedachungen",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Schäfer Frank Schreinermeister",
+  "branch": "Tischlereien",
+  "addr": "Grüner Flur 31, 66564 Ottweiler (Steinbach)",
+  "plz": "66564",
+  "url": "http://www.schreinermeister-schaefer.de",
+  "final": "http://www.schreinermeister-schaefer.de/",
+  "tel": "06858 6 99 81 88",
+  "slug": "sch-fer-frank-schreinermeister",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Heizung-Sanitär Kirsch UG (haftungsbeschränkt)",
+  "branch": "Heizungs- und Lüftungsbau",
+  "addr": "Bauernstr. 33, 66578 Schiffweiler",
+  "plz": "66578",
+  "url": "http://www.b-kirsch.de",
+  "final": "http://www.b-kirsch.de/",
+  "tel": "06821 9 64 10",
+  "slug": "heizung-sanit-r-kirsch-ug-haftungsbeschr",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Ecker Arno Metallbaumontage",
+  "branch": "Metallbau",
+  "addr": "Weiherstr. 14, 66564 Ottweiler (Fürth)",
+  "plz": "66564",
+  "url": "http://metallbau-ecker.de",
+  "final": "http://metallbau-ecker.de/",
+  "tel": "06858 9 00 50 85",
+  "slug": "ecker-arno-metallbaumontage",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Mayer Peter Fahrschule",
+  "branch": "Fahrschulen",
+  "addr": "Zum Spitzen Stein 6, 66583 Spiesen-Elversberg (Elversberg)",
+  "plz": "66583",
+  "url": "http://www.Mayers-fahrschule.net",
+  "final": "http://www.mayers-fahrschule.net/",
+  "tel": "06821 79 06 79",
+  "slug": "mayer-peter-fahrschule",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Brill Rosen",
+  "branch": "Gartenbaubetriebe",
+  "addr": "Am Kastelberg 59, 66578 Schiffweiler",
+  "plz": "66578",
+  "url": "http://www.rosen-brill.de",
+  "final": "http://www.rosen-brill.de/",
+  "tel": "06821 62 23",
+  "slug": "brill-rosen",
   "src": "gelbeseiten"
  }
 ]

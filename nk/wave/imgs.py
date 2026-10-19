@@ -1,11 +1,12 @@
 """Sammelt Fotos von mehreren Seiten eines Betriebs. Aufruf: python3 wave/imgs.py KEY MAX URL1 URL2 ..."""
 import os,sys,re,hashlib
 from playwright.sync_api import sync_playwright
+sys.path.insert(0, "/home/claude/nk/wave"); import httpfix
 k,mx,urls=sys.argv[1],int(sys.argv[2]),sys.argv[3:]
 B="/home/claude/nk/mock/img"; P=os.environ.get("HTTPS_PROXY")
 seen=set(); n=0; out=[]
 with sync_playwright() as p:
-    b=p.chromium.launch(proxy={"server":P}); ctx=b.new_context(ignore_https_errors=True); pg=ctx.new_page()
+    b=p.chromium.launch(proxy={"server":P}); ctx=b.new_context(ignore_https_errors=True); ctx.route("http://**/*", httpfix.sync_handler); pg=ctx.new_page()
     for u in urls:
         try:
             pg.goto(u,timeout=40000,wait_until="load"); pg.wait_for_timeout(1500)

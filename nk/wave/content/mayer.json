@@ -1,0 +1,104 @@
+{
+ "slug": "mayer-peter-fahrschule",
+ "theme": "gelato",
+ "name": "Mayers Fahrschule",
+ "branche": "Fahrschule",
+ "addr": "Zum Spitzen Stein 6 · 66583 Spiesen-Elversberg",
+ "tel": "06821 790679",
+ "url": "http://www.mayers-fahrschule.net",
+ "g": "keine Google-Daten erfasst",
+ "label": "Quick Win",
+ "visit": "Vorher anrufen, mobil 0172 6830198",
+ "logo_a": "Mayers",
+ "logo_b": "Fahrschule",
+ "nav": [
+  "Klassen",
+  "Standorte",
+  "Anmelden",
+  "Kontakt"
+ ],
+ "eyebrow": "Fahrschule in Spiesen-Elversberg und Schönenberg-Kübelberg",
+ "h1": "Clever und sicher zum Führerschein.",
+ "lead": "Fahrschule Peter Mayer: Ausbildung aller Klassen, in Spiesen-Elversberg und Schönenberg-Kübelberg.",
+ "cta1": "Jetzt anmelden",
+ "cta2": "Anrufen: 0172 6830198",
+ "mcta": "Anrufen",
+ "badge": [
+  "Alle",
+  "Klassen"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Ausbildung</b> aller Klassen",
+  "<b>Zwei Standorte</b>: Spiesen-Elversberg und Schönenberg-Kübelberg",
+  "<b>Anmeldung</b> direkt online"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Führerscheinklassen",
+ "services": [
+  [
+   "Klasse B",
+   "Auto."
+  ],
+  [
+   "Motorrad",
+   "Von A1 bis A."
+  ],
+  [
+   "Weitere Klassen",
+   "Ausbildung aller Klassen, fragen Sie uns."
+  ],
+  [
+   "Standort Spiesen-Elversberg",
+   "Zum Spitzen Stein 6."
+  ],
+  [
+   "Standort Schönenberg-Kübelberg",
+   "Zweiter Standort in der Pfalz."
+  ],
+  [
+   "Online-Anmeldung",
+   "Klasse wählen, Daten schicken, wir melden uns."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Führerschein geplant? Klasse wählen und anmelden.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "alt_text": "Theoriezeiten, Preise und Fahrzeuge setze ich mit Ihnen gemeinsam ein. Bisher stehen sie nirgends online.",
+ "contact": "Mayers Fahrschule<br>Peter Mayer<br>Zum Spitzen Stein 6<br>66583 Spiesen-Elversberg<br><br>Telefon 06821 790679<br>Mobil 0172 6830198",
+ "audit": [
+  "Die ganze Website besteht aus einem einzigen Bild (Werbeschild 700 mal 336 Pixel), es gibt keinen lesbaren Text",
+  "Google findet deshalb weder Klassen noch Standorte noch Theoriezeiten, die Nummer im Bild ist nicht antippbar",
+  "Die Seite hat keine sichere Verbindung (nur http), der Browser zeigt 'Nicht sicher'"
+ ],
+ "hebel": "Fahrschüler sind jung und suchen ausschließlich am Handy: 'Fahrschule Spiesen-Elversberg', 'Motorradführerschein Neunkirchen'. Eine Seite, die nur aus einem Bild besteht, taucht dort nicht auf. Klassen, Theoriezeiten und eine Online-Anmeldung holen diese Anmeldungen.",
+ "p": [
+  "690 bis 990 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Onepager mit Klassen, beiden Standorten, Theoriezeiten, Online-Anmeldung, sicherer Verbindung, Google-Profil",
+ "svc": [
+  "Online-Anmeldung mit Klasse und Standort",
+  "Theoriezeiten, die Sie selbst pflegen",
+  "Instagram-Anbindung für Prüfungserfolge",
+  "Google-Profil für beide Standorte"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Website besteht aus einem einzigen Bild, Google kann davon nichts lesen. Ich habe Ihnen mitgebracht, wie die Seite mit Klassen und Online-Anmeldung aussehen könnte.",
+ "obj": "'Die Schüler kommen über Mundpropaganda': Die Empfehlung kommt von Freunden, nachgeschaut wird am Handy. Dort entscheidet sich, ob angerufen wird.",
+ "obs": [
+  "Website ist ein einziges Bild.",
+  "Kein Text für Google, Nummer nicht antippbar.",
+  "Keine sichere Verbindung."
+ ],
+ "neu": [
+  "Klassen und Standorte als Text",
+  "Online-Anmeldung",
+  "Sichere Verbindung"
+ ]
+}

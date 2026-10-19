@@ -1,6 +1,7 @@
 """Schnell-Screening neuer Leads: Alterssignale je Website. Aufruf: python3 wave/screen.py wave/new_near.json -> wave/screen.json"""
 import asyncio, json, os, re, sys, time
 from playwright.async_api import async_playwright
+sys.path.insert(0, "/home/claude/nk/wave"); import httpfix
 PROXY = os.environ.get("HTTPS_PROXY")
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36"
 JS = r"""()=>{const t=(document.body?document.body.innerText:'')||'';const h=document.documentElement.innerHTML;
@@ -14,9 +15,9 @@ lieferando:/verwaltet durch\s*Lieferando/i.test(t),text0:t.slice(0,300)}}"""
 async def one(sem, b, r, out):
     async with sem:
         ctx = await b.new_context(viewport={"width": 390, "height": 844}, user_agent=UA, locale="de-DE", ignore_https_errors=True)
-        pg = await ctx.new_page(); d = {"slug": r["slug"]}
+        await ctx.route("http://**/*", httpfix.async_handler); pg = await ctx.new_page(); d = {"slug": r["slug"]}
         try:
-            u = "https://" + re.sub(r"^https?://", "", r["url"])
+            u = r.get("final") or r["url"]
             resp = await pg.goto(u, timeout=30000, wait_until="load"); await pg.wait_for_timeout(1500)
             d.update(await pg.evaluate(JS)); d["final"] = pg.url; d["status"] = resp.status if resp else None
             d["scrollW"] = await pg.evaluate("Math.max(document.documentElement.scrollWidth, window.innerWidth)")
@@ -30,6 +31,6 @@ async def main():
         sem = asyncio.Semaphore(6)
         await asyncio.gather(*(one(sem, b, r, out) for r in L))
         await b.close()
-    json.dump(out, open("/home/claude/nk/wave/screen.json", "w"), ensure_ascii=False, indent=0)
+    json.dump(out, open(sys.argv[2] if len(sys.argv) > 2 else "/home/claude/nk/wave/screen.json", "w"), ensure_ascii=False, indent=0)
     print("gescreent", len(out))
 asyncio.run(main())
