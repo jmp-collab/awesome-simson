@@ -5287,5 +5287,522 @@
    "woerter": 76,
    "titel": "Felicita Catering | Catering Saarland | Friedrich-Ebert-Straße 33, 66538 Neunkirchen, Deutschland"
   }
+ },
+ "welzow": {
+  "score": 15,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 1001 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 39 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "bild_kaputt",
+    "sev": "hoch",
+    "titel": "Ein Bild lädt nicht",
+    "beleg": "Nicht geladen: Leonard Bala und sein Bruder - heißen Sie recht herzlich Willkommen in den Welzo",
+    "folge": "Leere Kästen oder fehlende Logos wirken, als sei der Betrieb nicht mehr aktiv.",
+    "fix": "Alle Bilder geprüft und neu eingebunden"
+   },
+   {
+    "id": "https_redirect",
+    "sev": "mittel",
+    "titel": "Ohne 'https' eingetippt erscheint 'Nicht sicher'",
+    "beleg": "Die Adresse http://www.welzower-stuben.de leitet nicht auf die sichere Version weiter.",
+    "folge": "Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.",
+    "fix": "Automatische Weiterleitung auf https"
+   },
+   {
+    "id": "jahr",
+    "sev": "mittel",
+    "titel": "Copyright 2020: wirkt nicht gepflegt",
+    "beleg": "Im Fußbereich steht das Jahr 2020.",
+    "folge": "Ein altes Jahr lässt Besucher zweifeln, ob Angaben wie Öffnungszeiten oder Preise noch stimmen.",
+    "fix": "Aktuelle Seite, die Sie selbst pflegen können"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   }
+  ],
+  "sicht": [
+   "Auf Ihrer Startseite lädt ein Foto nicht, man sieht nur den Ersatztext.",
+   "Am Handy muss man zoomen, das Copyright steht bei 2020.",
+   "Ihr Partyservice steht nur in einem kleinen roten Kasten."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Alle Bilder und das Logo laden zuverlässig",
+   "Buffet und Feiern mit eigener Anfrage",
+   "Gasträume mit großen Fotos"
+  ],
+  "hebel": "Buffets ab 20 Personen und Feiern sind die großen Umsätze. Wer eine Feier plant, sucht 'Partyservice Schiffweiler' oder 'Buffet Neunkirchen' und fragt dort an, wo Angebot und Anfrage klar sind. Eine eigene Seite für Buffet und Feiern mit Anfrageformular holt diese Aufträge.",
+  "extra": [
+   "Anfrage Buffet und Feier mit Datum und Personenzahl",
+   "Wochenkarte Mittagstisch, die das Team selbst pflegt",
+   "Google-Profil mit Fotos der Gasträume",
+   "Seite für Vereine und Firmen in der Klinkenthalhalle"
+  ],
+  "rechner": {
+   "typ": "gast",
+   "wert": 25,
+   "einheit": "Gast",
+   "anzahl": 40,
+   "preis": 990,
+   "jahr": 12000,
+   "breakeven_m": 1
+  },
+  "gemessen": {
+   "load_m": 2.6,
+   "mb": 3.0,
+   "breite_m": 1001,
+   "woerter": 220,
+   "titel": "Startseite - Welzower Stuben - Klinkenthalhalle - Essen - Trinken - Schiffweiler - Saarland"
+  }
+ },
+ "schappert": {
+  "score": 15,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "titel",
+    "sev": "hoch",
+    "titel": "Google zeigt einen nichtssagenden Titel",
+    "beleg": "Seitentitel: '(leer)'",
+    "folge": "Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.",
+    "fix": "Titel mit Leistung und Ort, z. B. 'Ihr Betrieb in Neunkirchen | Leistung'"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 0 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "https_redirect",
+    "sev": "mittel",
+    "titel": "Ohne 'https' eingetippt erscheint 'Nicht sicher'",
+    "beleg": "Die Adresse http://www.schappert-dach.de leitet nicht auf die sichere Version weiter.",
+    "folge": "Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.",
+    "fix": "Automatische Weiterleitung auf https"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Ihre Domain zeigt nur eine Platzhalterseite des Hosters.",
+   "Dort steht weder Ihre Telefonnummer noch Ihr Name.",
+   "Wer Sie bei Google sucht, findet eine leere Seite."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Bei Google mit Leistung und Ort sichtbar statt ganz ohne Titel",
+   "Eine fertige Seite mit Ihrem Namen und Telefon",
+   "Anfrage mit Foto vom Dach"
+  ],
+  "hebel": "Wer einen Dachdecker sucht, prüft online, ob es den Betrieb gibt und was er macht. Eine leere Platzhalterseite kostet jeden dieser Anrufe. Schon ein einfacher Onepager mit Leistungen, Telefon und Anfrage per Foto macht die Domain zum Auftragsbringer.",
+  "extra": [
+   "Anfrage mit Foto vom Schaden",
+   "Referenzgalerie, die Sie vom Handy befüllen",
+   "Google-Profil mit Fotos und Leistungen",
+   "Karriereseite für Dachdecker-Gesellen und Azubis"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 6000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 690,
+   "breakeven": 1,
+   "jahr": 18000
+  },
+  "gemessen": {
+   "load_m": 1.3,
+   "mb": 0.1,
+   "breite_m": 980,
+   "woerter": 0,
+   "titel": ""
+  }
+ },
+ "laluna": {
+  "score": 15,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "titel",
+    "sev": "hoch",
+    "titel": "Google zeigt einen nichtssagenden Titel",
+    "beleg": "Seitentitel: 'Eingang'",
+    "folge": "Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.",
+    "fix": "Titel mit Leistung und Ort, z. B. 'Ihr Betrieb in Neunkirchen | Leistung'"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 17 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "https_redirect",
+    "sev": "mittel",
+    "titel": "Ohne 'https' eingetippt erscheint 'Nicht sicher'",
+    "beleg": "Die Adresse http://www.ristorante-laluna.de leitet nicht auf die sichere Version weiter.",
+    "folge": "Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.",
+    "fix": "Automatische Weiterleitung auf https"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Adresse, Telefon und Öffnungszeiten stehen nur als Bild auf der Seite.",
+   "Auf der Startseite gibt es kaum lesbaren Text.",
+   "Am Handy ist die Seite nicht lesbar."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Bei Google mit Leistung und Ort sichtbar statt mit 'Eingang'",
+   "Anrufen mit einem Tipp"
+  ],
+  "hebel": "Wer am Abend 'Pizza Schiffweiler' oder 'Heimservice Schiffweiler' sucht, braucht Karte, Telefon und Zeiten sofort am Handy. Heute steht alles als Bild. Eine lesbare Karte mit Anruf-Knopf bringt Bestellungen, ohne Provision an ein Portal.",
+  "extra": [
+   "Speisekarte als echte Seite, Allergene sauber gekennzeichnet",
+   "Bestellknopf zu Telefon und WhatsApp",
+   "Google-Profil mit Karte und Fotos",
+   "Fotoshooting der Top-Gerichte"
+  ],
+  "rechner": {
+   "typ": "gast",
+   "wert": 25,
+   "einheit": "Gast",
+   "anzahl": 40,
+   "preis": 690,
+   "jahr": 12000,
+   "breakeven_m": 1
+  },
+  "gemessen": {
+   "load_m": 1.6,
+   "mb": 0.7,
+   "breite_m": 980,
+   "woerter": 17,
+   "titel": "Eingang"
+  }
+ },
+ "droeschel": {
+  "score": 21,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 1001 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 39 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 20 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Ihre Leistungen stehen nur als Bild auf der Startseite.",
+   "Am Handy ist die Seite nicht lesbar.",
+   "Es gibt keine Fotos Ihrer Wintergärten und Überdachungen."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen",
+   "Jede Leistung mit eigener Seite und Fotos",
+   "Anfrage mit Foto der Hauswand"
+  ],
+  "hebel": "Wintergärten und Überdachungen sind Aufträge im vier- bis fünfstelligen Bereich, die Kunden lange online vergleichen. Referenzfotos und eine Anfrage mit Foto der Hauswand bringen passende Beratungstermine statt Preisanfragen.",
+  "extra": [
+   "Anfrage mit Foto und grobem Maß",
+   "Referenzgalerie Wintergärten und Überdachungen",
+   "Landingpage 'Terrassenüberdachung Neunkirchen'",
+   "Google-Profil mit Montagefotos"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 4000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 990,
+   "breakeven": 1,
+   "jahr": 12000
+  },
+  "gemessen": {
+   "load_m": 1.7,
+   "mb": 0.1,
+   "breite_m": 1001,
+   "woerter": 20,
+   "titel": "Aluminiumprofil- und Glastechnik Marco Dröschel"
+  }
+ },
+ "schafb": {
+  "score": 41,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   }
+  ],
+  "sicht": [
+   "Am Handy ist die Seite verkleinert und schwer lesbar.",
+   "Zimmerpreise sieht man erst auf einer Unterseite.",
+   "Für Zimmer und Feiern gibt es keine Online-Anfrage."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Anfragen auch abends und am Wochenende, per Formular oder WhatsApp",
+   "Zimmer, Preise und Räume auf einen Blick",
+   "Anfrage mit Datum für Zimmer und Feiern"
+  ],
+  "hebel": "Wanderer, Monteure und Feiergesellschaften buchen dort, wo sie Zimmer, Preis und Räume sofort sehen. Zimmer ab 40 € sind ein starkes Argument, das heute versteckt ist. Eine Seite mit Zimmeranfrage und Feier-Anfrage bringt direkte Buchungen ohne Portalprovision.",
+  "extra": [
+   "Zimmeranfrage mit An- und Abreise",
+   "Seite 'Feiern und Tagungen' mit Raumgrößen",
+   "Wander- und Ausflugsseite für Google",
+   "Google-Profil mit Fotos von Zimmern und Saal"
+  ],
+  "rechner": {
+   "typ": "unterkunft",
+   "wert": 60,
+   "einheit": "Nacht",
+   "anzahl": 15,
+   "preis": 990,
+   "prov": 15,
+   "jahr": 1620,
+   "breakeven_m": 8
+  },
+  "gemessen": {
+   "load_m": 3.3,
+   "mb": 0.3,
+   "breite_m": 980,
+   "woerter": 236,
+   "titel": "Hotel-Restaurant \"Schafbrücker Mühle\""
+  }
  }
 }

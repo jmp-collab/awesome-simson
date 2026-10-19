@@ -1,0 +1,134 @@
+{
+ "slug": "alte-schafbr-cker-m-hle-hotelrestaurant",
+ "theme": "spa",
+ "name": "Hotel-Restaurant Schafbrücker Mühle",
+ "branche": "Hotel und Restaurant",
+ "addr": "Schafbrücker Mühle 9 · 66564 Ottweiler",
+ "tel": "06824 3237",
+ "url": "https://www.schafbruecker-muehle.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Solide Chance",
+ "visit": "Nachmittags nach 14 Uhr, nicht freitags",
+ "logo_a": "Schafbrücker",
+ "logo_b": "Mühle",
+ "nav": [
+  "Restaurant",
+  "Zimmer",
+  "Feiern",
+  "Wandern"
+ ],
+ "eyebrow": "Hotel-Restaurant bei Ottweiler, seit 1973",
+ "h1": "Gutbürgerlich essen, ruhig übernachten. Seit 1973.",
+ "lead": "Familie Alles führt das Hotel-Restaurant seit 1973. Täglich wechselnde Tagesmenüs, Räume für Feiern und Tagungen mit rund 180 Plätzen, 16 Zimmer und Wanderwege wie der Schauinslandweg direkt vor der Tür.",
+ "cta1": "Zimmer anfragen",
+ "cta2": "Tisch reservieren",
+ "mcta": "Anrufen",
+ "badge": [
+  "1973",
+  "in Familienhand"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Tagesmenü</b> mit Suppe, Hauptgericht, Dessert",
+  "<b>180 Plätze</b> für Feiern und Tagungen",
+  "<b>16 Zimmer</b>, WLAN kostenlos"
+ ],
+ "menu_title": "Zimmer und Preise",
+ "menu": [
+  [
+   "Einzelzimmer",
+   "Dusche, WC, Telefon, TV, WLAN",
+   "40 €"
+  ],
+  [
+   "Doppelzimmer",
+   "Dusche, WC, Telefon, TV, WLAN",
+   "60 €"
+  ],
+  [
+   "Frühstück",
+   "pro Person, ab 6:00 Uhr",
+   "7 €"
+  ],
+  [
+   "Zustellbett",
+   "pro Zimmer",
+   "12 €"
+  ]
+ ],
+ "svc_title": "Unser Haus",
+ "services": [
+  [
+   "Restaurant",
+   "Abwechslungsreiche, gutbürgerliche Küche."
+  ],
+  [
+   "Tagesmenü",
+   "Montag bis Donnerstag und Samstag, Suppe, Hauptgericht, Dessert."
+  ],
+  [
+   "Feiern und Tagungen",
+   "Mehrere Räume mit insgesamt rund 180 Plätzen."
+  ],
+  [
+   "Busgruppen",
+   "Eigene Karte für einen schnellen Ablauf."
+  ],
+  [
+   "Hotel",
+   "26 Betten in 6 Einzel- und 10 Doppelzimmern."
+  ],
+  [
+   "Wandern",
+   "Schauinslandweg und Ottweiler Altstadt in der Nähe."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Familienfeier oder Tagung geplant? Fragen Sie uns.",
+ "hours": [
+  [
+   "Warme Küche Mo bis So",
+   "11:30 bis 14:00"
+  ],
+  [
+   "Freitag",
+   "Ruhetag"
+  ]
+ ],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "contact": "Hotel-Restaurant Schafbrücker Mühle<br>Familie Alles<br>Schafbrücker Mühle 9<br>66564 Ottweiler<br><br>Telefon 06824 3237<br>info@schafbruecker-muehle.de",
+ "audit": [
+  "Baukasten-Seite (IONOS), auf dem Handy auf 960 Pixel Breite verkleinert",
+  "Zimmerpreise und Ausstattung erst auf der Unterseite, keine Online-Anfrage für Zimmer oder Feiern",
+  "Besucherzähler und kleine Bilder, Seite wirkt nicht gepflegt"
+ ],
+ "hebel": "Wanderer, Monteure und Feiergesellschaften buchen dort, wo sie Zimmer, Preis und Räume sofort sehen. Zimmer ab 40 € sind ein starkes Argument, das heute versteckt ist. Eine Seite mit Zimmeranfrage und Feier-Anfrage bringt direkte Buchungen ohne Portalprovision.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.290 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit Zimmern und Preisen, Anfrage mit Datum, Seite Feiern und Tagungen, Wander-Seite, Google-Profil",
+ "svc": [
+  "Zimmeranfrage mit An- und Abreise",
+  "Seite 'Feiern und Tagungen' mit Raumgrößen",
+  "Wander- und Ausflugsseite für Google",
+  "Google-Profil mit Fotos von Zimmern und Saal"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Zimmer ab 40 € und 180 Plätze für Feiern sind starke Argumente, aber man findet sie erst auf Unterseiten. Ich habe Ihnen mitgebracht, wie das auf einen Blick aussehen könnte.",
+ "obj": "'Wir sind seit 1973 bekannt': Das ist Ihr Vorteil. Wanderer und Monteure von außerhalb kennen Sie aber nicht und buchen dort, wo sie Zimmer und Preis direkt sehen.",
+ "obs": [
+  "Am Handy ist die Seite verkleinert und schwer lesbar.",
+  "Zimmerpreise sieht man erst auf einer Unterseite.",
+  "Für Zimmer und Feiern gibt es keine Online-Anfrage."
+ ],
+ "neu": [
+  "Zimmer, Preise und Räume auf einen Blick",
+  "Anfrage mit Datum für Zimmer und Feiern",
+  "Wanderwege und Ausflüge für Gäste von außerhalb"
+ ]
+}

@@ -1974,5 +1974,165 @@
   "addr": "Friedrich-Ebert-Straße 33",
   "tel": "0152 22333003",
   "welle": 11
+ },
+ {
+  "name": "Welzower Stuben",
+  "branche": "Restaurant und Partyservice",
+  "url": "https://www.welzower-stuben.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Nachmittags zwischen 14 und 18 Uhr, Chef Leonard Bala direkt ansprechen",
+  "audit": [
+   "Auf der Startseite fehlt ein Bild, stattdessen steht der Ersatztext 'Leonard Bala und sein Bruder heißen Sie recht herzlich willkommen' im leeren Feld",
+   "Nicht für Smartphones angepasst, Copyright 2014 bis 2020",
+   "Der Willkommenstext steht auf jeder Unterseite noch einmal über dem eigentlichen Inhalt, Partyservice nur als roter Kasten"
+  ],
+  "hebel": "Buffets ab 20 Personen und Feiern sind die großen Umsätze. Wer eine Feier plant, sucht 'Partyservice Schiffweiler' oder 'Buffet Neunkirchen' und fragt dort an, wo Angebot und Anfrage klar sind. Eine eigene Seite für Buffet und Feiern mit Anfrageformular holt diese Aufträge.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Neue Website mit Speisekarte als Text, Mittagstisch, Seite Partyservice und Feiern mit Anfrage (Datum, Personen), Google-Profil",
+  "svc": [
+   "Anfrage Buffet und Feier mit Datum und Personenzahl",
+   "Wochenkarte Mittagstisch, die das Team selbst pflegt",
+   "Google-Profil mit Fotos der Gasträume",
+   "Seite für Vereine und Firmen in der Klinkenthalhalle"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite lädt das Foto von Ihnen und Ihrem Bruder nicht, dort steht nur der Text. Ich habe Ihnen mitgebracht, wie Ihre Seite mit Buffet-Anfrage aussehen könnte.",
+  "obj": "'Bei uns kommen die Leute aus dem Ort': Für das Restaurant ja. Für Buffets und Feiern suchen auch Leute aus Neunkirchen und Umgebung, und die finden Sie heute online kaum.",
+  "k": "welzow",
+  "addr": "Marktstraße 1",
+  "tel": "06821 690943",
+  "welle": 12
+ },
+ {
+  "name": "Dachdeckerei Schappert GmbH",
+  "branche": "Dachdeckerei",
+  "url": "https://www.schappert-dach.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Früh morgens oder vorher anrufen",
+  "audit": [
+   "Die Domain zeigt nur eine Hosting-Platzhalterseite: 'In Kürze erwartet Sie hier eine neue Internetpräsenz'",
+   "Keine Telefonnummer, keine Leistungen, kein Name des Betriebs auf der Seite",
+   "Wer bei Google nach der Dachdeckerei sucht, landet auf einer leeren Seite"
+  ],
+  "hebel": "Wer einen Dachdecker sucht, prüft online, ob es den Betrieb gibt und was er macht. Eine leere Platzhalterseite kostet jeden dieser Anrufe. Schon ein einfacher Onepager mit Leistungen, Telefon und Anfrage per Foto macht die Domain zum Auftragsbringer.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Leistungen, Referenzfotos, Anruf-Knopf, Anfrage mit Foto vom Dach, Google-Profil",
+  "svc": [
+   "Anfrage mit Foto vom Schaden",
+   "Referenzgalerie, die Sie vom Handy befüllen",
+   "Google-Profil mit Fotos und Leistungen",
+   "Karriereseite für Dachdecker-Gesellen und Azubis"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf schappert-dach.de steht seit einer Weile nur 'In Kürze erwartet Sie hier eine neue Internetpräsenz'. Ich habe Ihnen mitgebracht, wie die Seite aussehen könnte.",
+  "obj": "'Wir haben genug Arbeit': Dann reicht ein schlanker Onepager. Er kostet wenig und sorgt dafür, dass Kunden und Bewerber sehen, dass es Sie gibt.",
+  "k": "schappert",
+  "addr": "Zur Kipp 9",
+  "tel": "06824 7325",
+  "welle": 12
+ },
+ {
+  "name": "Ristorante Pizzeria La Luna",
+  "branche": "Ristorante und Pizzeria mit Heimservice",
+  "url": "https://www.ristorante-laluna.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Nachmittags vor 17:30 Uhr, nicht mittwochs",
+  "audit": [
+   "Adresse, Telefonnummer und Öffnungszeiten stehen nur als Bild im Kopf der Seite, Google und Handy-Nutzer können sie nicht als Text lesen",
+   "Startseite mit 17 lesbaren Wörtern, Speisekarte und Heimservice als Bilder oder Unterseiten im alten Rahmen-Layout",
+   "Nicht für Smartphones angepasst"
+  ],
+  "hebel": "Wer am Abend 'Pizza Schiffweiler' oder 'Heimservice Schiffweiler' sucht, braucht Karte, Telefon und Zeiten sofort am Handy. Heute steht alles als Bild. Eine lesbare Karte mit Anruf-Knopf bringt Bestellungen, ohne Provision an ein Portal.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Speise- und Heimservice-Karte als Text, Öffnungszeiten, Anruf- und WhatsApp-Knopf, Google-Profil",
+  "svc": [
+   "Speisekarte als echte Seite, Allergene sauber gekennzeichnet",
+   "Bestellknopf zu Telefon und WhatsApp",
+   "Google-Profil mit Karte und Fotos",
+   "Fotoshooting der Top-Gerichte"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite stehen Adresse, Telefon und Öffnungszeiten nur als Bild, das kann Google nicht lesen. Ich habe Ihnen mitgebracht, wie Ihre Karte am Handy aussehen könnte.",
+  "obj": "'Die Leute kennen uns': Die Stammgäste ja. Neue Gäste suchen am Handy und rufen den an, dessen Karte sie lesen können.",
+  "k": "laluna",
+  "addr": "Comeniusstraße 1-4",
+  "tel": "06821 9839560",
+  "welle": 12
+ },
+ {
+  "name": "Aluminiumprofil- und Glastechnik Marco Dröschel",
+  "branche": "Metallbau, Aluminium und Glas",
+  "url": "https://www.metallbau-droeschel.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Morgens früh oder nachmittags, vorher anrufen",
+  "audit": [
+   "Startseite mit 20 lesbaren Wörtern, Leistungen nur als Liste in einem Bild",
+   "Altes Layout mit Bildleisten, nicht für Smartphones angepasst",
+   "Keine Referenzfotos von Wintergärten oder Überdachungen, Telefon nicht antippbar"
+  ],
+  "hebel": "Wintergärten und Überdachungen sind Aufträge im vier- bis fünfstelligen Bereich, die Kunden lange online vergleichen. Referenzfotos und eine Anfrage mit Foto der Hauswand bringen passende Beratungstermine statt Preisanfragen.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Neue Website mit Leistungsseiten (Vordach, Überdachung, Wintergarten, Fenster), Referenzen, Anfrage mit Foto, Google-Profil",
+  "svc": [
+   "Anfrage mit Foto und grobem Maß",
+   "Referenzgalerie Wintergärten und Überdachungen",
+   "Landingpage 'Terrassenüberdachung Neunkirchen'",
+   "Google-Profil mit Montagefotos"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite stehen Ihre Leistungen nur in einem Bild, Google sieht davon 20 Wörter. Ich habe Ihnen mitgebracht, wie Wintergärten und Überdachungen dort aussehen könnten.",
+  "obj": "'Wir leben von Empfehlungen': Die Empfohlenen schauen online nach. Mit Referenzfotos ist der Auftrag halb verkauft.",
+  "k": "droeschel",
+  "addr": "Gewerbegebiet Klinkenthal 4B",
+  "tel": "06821 2902675",
+  "welle": 12
+ },
+ {
+  "name": "Hotel-Restaurant Schafbrücker Mühle",
+  "branche": "Hotel und Restaurant",
+  "url": "https://www.schafbruecker-muehle.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Nachmittags nach 14 Uhr, nicht freitags",
+  "audit": [
+   "Baukasten-Seite (IONOS), auf dem Handy auf 960 Pixel Breite verkleinert",
+   "Zimmerpreise und Ausstattung erst auf der Unterseite, keine Online-Anfrage für Zimmer oder Feiern",
+   "Besucherzähler und kleine Bilder, Seite wirkt nicht gepflegt"
+  ],
+  "hebel": "Wanderer, Monteure und Feiergesellschaften buchen dort, wo sie Zimmer, Preis und Räume sofort sehen. Zimmer ab 40 € sind ein starkes Argument, das heute versteckt ist. Eine Seite mit Zimmeranfrage und Feier-Anfrage bringt direkte Buchungen ohne Portalprovision.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.290 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Neue Website mit Zimmern und Preisen, Anfrage mit Datum, Seite Feiern und Tagungen, Wander-Seite, Google-Profil",
+  "svc": [
+   "Zimmeranfrage mit An- und Abreise",
+   "Seite 'Feiern und Tagungen' mit Raumgrößen",
+   "Wander- und Ausflugsseite für Google",
+   "Google-Profil mit Fotos von Zimmern und Saal"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Zimmer ab 40 € und 180 Plätze für Feiern sind starke Argumente, aber man findet sie erst auf Unterseiten. Ich habe Ihnen mitgebracht, wie das auf einen Blick aussehen könnte.",
+  "obj": "'Wir sind seit 1973 bekannt': Das ist Ihr Vorteil. Wanderer und Monteure von außerhalb kennen Sie aber nicht und buchen dort, wo sie Zimmer und Preis direkt sehen.",
+  "k": "schafb",
+  "addr": "Schafbrücker Mühle 9",
+  "tel": "06824 3237",
+  "welle": 12
  }
 ]

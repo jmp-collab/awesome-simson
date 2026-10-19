@@ -1,0 +1,41 @@
+{
+ "key": "khan-pizzeria-la-luna-m-hlbachhalle",
+ "url": "https://www.ristorante-laluna.de/",
+ "title": "Eingang",
+ "text": "\n\n \n\n\n\n    Eingang         Speisekarte         Weinkarte         Heimservice         Kontakt/Impressum   \n\n\t\t\n\n \n\n\n\t\n\nUnsere Heimservice Karte finden Sie hier: HEIMSERVICE.\nIhr La Luna Team\n\n\t",
+ "imgs": [],
+ "bg": [
+  "https://www.ristorante-laluna.de/assets/images/P1930342.jpg",
+  "https://www.ristorante-laluna.de/assets/images/Logo.jpg",
+  "https://www.ristorante-laluna.de/assets/images/Hintergrund_eingang.jpg"
+ ],
+ "tel": [],
+ "mail": [],
+ "links": [
+  {
+   "t": "Speisekarte",
+   "h": "https://www.ristorante-laluna.de/html/speisekarte.html"
+  },
+  {
+   "t": "Weinkarte",
+   "h": "https://www.ristorante-laluna.de/html/weinkarte.html"
+  },
+  {
+   "t": "Heimservice",
+   "h": "https://www.ristorante-laluna.de/html/heimservice.html"
+  },
+  {
+   "t": "Kontakt/Impressum",
+   "h": "https://www.ristorante-laluna.de/html/kontakt_impressum.html"
+  },
+  {
+   "t": "HEIMSERVICE",
+   "h": "https://www.ristorante-laluna.de/html/heimservice.html"
+  }
+ ],
+ "saved": [
+  "img/khan-pizzeria-la-luna-m-hlbachhalle_0.jpg",
+  "img/khan-pizzeria-la-luna-m-hlbachhalle_1.jpg",
+  "img/khan-pizzeria-la-luna-m-hlbachhalle_2.jpg"
+ ]
+}

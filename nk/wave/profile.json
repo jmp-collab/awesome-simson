@@ -1,65 +1,405 @@
 {
  "_typen": "auftrag: Wert je Auftrag | gast: Wert je Gast | portal: Bestellung ueber Portal-Domain | unterkunft: Naechte | abo: Monatsbeitrag | zeit: Telefonzeit",
- "thielen": ["auftrag", 150, "Auftrag (Schlüssel, Schloss, Tresor)", 6],
- "asia": ["portal", 25, "Bestellung", 60],
- "gondoliere": ["portal", 25, "Bestellung", 80],
- "ornella": ["auftrag", 45, "Termin", 30],
- "rutz": ["zeit", 0, "Anruf", 10],
- "marktapo": ["zeit", 0, "Anruf", 15],
- "roemer": ["gast", 35, "Gast", 40],
- "damaskus": ["portal", 22, "Bestellung", 80],
- "tanzwerkstatt": ["abo", 50, "Mitglied", 6],
- "ellenfeld": ["unterkunft", 90, "Nacht", 15],
- "wibilo": ["portal", 18, "Bestellung", 60],
- "dolomiti": ["gast", 15, "Gast", 60],
- "didie": ["auftrag", 40, "Einkauf", 40],
- "mdm": ["auftrag", 2500, "Auftrag", 4],
- "heil": ["auftrag", 1500, "Auftrag", 4],
- "ratzky": ["auftrag", 6000, "Auftrag", 3],
- "hvoltage": ["auftrag", 1200, "Auftrag", 6],
- "hobler": ["auftrag", 900, "Auftrag", 6],
- "asiahaus": ["auftrag", 60, "Behandlung", 30],
- "koble": ["auftrag", 50, "Termin", 30],
- "sehte": ["auftrag", 5000, "Auftrag", 3],
- "vsv": ["auftrag", 8000, "Auftrag", 2],
- "divna": ["auftrag", 50, "Termin", 30],
- "lattrich": ["zeit", 0, "Anruf", 15],
- "schneider": ["abo", 80, "Schüler", 4],
- "praxiswell": ["zeit", 0, "Anruf", 20],
- "decker": ["auftrag", 4000, "Auftrag", 4],
- "rebel": ["auftrag", 80, "Auftrag", 20],
- "lembcke": ["auftrag", 80, "Termin", 20],
- "forster": ["auftrag", 900, "Auftrag", 8],
- "htb": ["auftrag", 1200, "Auftrag", 6],
- "kirschhock": ["auftrag", 300, "Auftrag", 12],
- "hegi": ["auftrag", 4000, "Auftrag", 4],
- "campanella": ["portal", 25, "Bestellung", 60],
- "hofmann": ["auftrag", 3000, "Auftrag", 4],
- "mtrucks": ["auftrag", 1500, "Auftrag", 6],
- "pemotec": ["auftrag", 2000, "Auftrag", 4],
- "kurz": ["auftrag", 60, "Vermietung", 30],
- "hausamberg": ["unterkunft", 75, "Nacht", 10],
- "karate": ["abo", 25, "Mitglied", 6],
- "hifi": ["auftrag", 1500, "Auftrag", 4],
- "stein": ["auftrag", 600, "Auftrag", 6],
- "stoerr": ["auftrag", 3500, "Auftrag", 4],
- "grill": ["gast", 60, "Gast", 40],
- "musik": ["abo", 80, "Schüler", 6],
- "balkan": ["portal", 20, "Bestellung", 60],
- "luu": ["portal", 25, "Bestellung", 60],
- "tanz": ["abo", 50, "Mitglied", 8],
- "morrone": ["auftrag", 400, "Neukunde", 6],
- "wfa": ["auftrag", 2000, "Gastronomie-Kunde (Jahresumsatz)", 2],
- "daenzo": ["portal", 25, "Bestellung", 60],
- "tobae": ["auftrag", 4000, "Auftrag", 3],
- "audeh": ["auftrag", 2500, "Auftrag", 4],
- "flick": ["auftrag", 400, "Neukunde", 6],
- "brech": ["auftrag", 150, "Vermietung", 12],
- "maerz": ["unterkunft", 49, "Nacht", 10],
- "gleich": ["auftrag", 2500, "Auftrag", 4],
- "scheiber": ["unterkunft", 60, "Nacht", 20],
- "juwel": ["auftrag", 1200, "Auftrag", 6],
- "schwenk": ["auftrag", 2500, "Auftrag", 6],
- "bogro": ["auftrag", 2000, "Auftrag", 4],
- "felicita": ["auftrag", 2500, "Auftrag", 4]
+ "thielen": [
+  "auftrag",
+  150,
+  "Auftrag (Schlüssel, Schloss, Tresor)",
+  6
+ ],
+ "asia": [
+  "portal",
+  25,
+  "Bestellung",
+  60
+ ],
+ "gondoliere": [
+  "portal",
+  25,
+  "Bestellung",
+  80
+ ],
+ "ornella": [
+  "auftrag",
+  45,
+  "Termin",
+  30
+ ],
+ "rutz": [
+  "zeit",
+  0,
+  "Anruf",
+  10
+ ],
+ "marktapo": [
+  "zeit",
+  0,
+  "Anruf",
+  15
+ ],
+ "roemer": [
+  "gast",
+  35,
+  "Gast",
+  40
+ ],
+ "damaskus": [
+  "portal",
+  22,
+  "Bestellung",
+  80
+ ],
+ "tanzwerkstatt": [
+  "abo",
+  50,
+  "Mitglied",
+  6
+ ],
+ "ellenfeld": [
+  "unterkunft",
+  90,
+  "Nacht",
+  15
+ ],
+ "wibilo": [
+  "portal",
+  18,
+  "Bestellung",
+  60
+ ],
+ "dolomiti": [
+  "gast",
+  15,
+  "Gast",
+  60
+ ],
+ "didie": [
+  "auftrag",
+  40,
+  "Einkauf",
+  40
+ ],
+ "mdm": [
+  "auftrag",
+  2500,
+  "Auftrag",
+  4
+ ],
+ "heil": [
+  "auftrag",
+  1500,
+  "Auftrag",
+  4
+ ],
+ "ratzky": [
+  "auftrag",
+  6000,
+  "Auftrag",
+  3
+ ],
+ "hvoltage": [
+  "auftrag",
+  1200,
+  "Auftrag",
+  6
+ ],
+ "hobler": [
+  "auftrag",
+  900,
+  "Auftrag",
+  6
+ ],
+ "asiahaus": [
+  "auftrag",
+  60,
+  "Behandlung",
+  30
+ ],
+ "koble": [
+  "auftrag",
+  50,
+  "Termin",
+  30
+ ],
+ "sehte": [
+  "auftrag",
+  5000,
+  "Auftrag",
+  3
+ ],
+ "vsv": [
+  "auftrag",
+  8000,
+  "Auftrag",
+  2
+ ],
+ "divna": [
+  "auftrag",
+  50,
+  "Termin",
+  30
+ ],
+ "lattrich": [
+  "zeit",
+  0,
+  "Anruf",
+  15
+ ],
+ "schneider": [
+  "abo",
+  80,
+  "Schüler",
+  4
+ ],
+ "praxiswell": [
+  "zeit",
+  0,
+  "Anruf",
+  20
+ ],
+ "decker": [
+  "auftrag",
+  4000,
+  "Auftrag",
+  4
+ ],
+ "rebel": [
+  "auftrag",
+  80,
+  "Auftrag",
+  20
+ ],
+ "lembcke": [
+  "auftrag",
+  80,
+  "Termin",
+  20
+ ],
+ "forster": [
+  "auftrag",
+  900,
+  "Auftrag",
+  8
+ ],
+ "htb": [
+  "auftrag",
+  1200,
+  "Auftrag",
+  6
+ ],
+ "kirschhock": [
+  "auftrag",
+  300,
+  "Auftrag",
+  12
+ ],
+ "hegi": [
+  "auftrag",
+  4000,
+  "Auftrag",
+  4
+ ],
+ "campanella": [
+  "portal",
+  25,
+  "Bestellung",
+  60
+ ],
+ "hofmann": [
+  "auftrag",
+  3000,
+  "Auftrag",
+  4
+ ],
+ "mtrucks": [
+  "auftrag",
+  1500,
+  "Auftrag",
+  6
+ ],
+ "pemotec": [
+  "auftrag",
+  2000,
+  "Auftrag",
+  4
+ ],
+ "kurz": [
+  "auftrag",
+  60,
+  "Vermietung",
+  30
+ ],
+ "hausamberg": [
+  "unterkunft",
+  75,
+  "Nacht",
+  10
+ ],
+ "karate": [
+  "abo",
+  25,
+  "Mitglied",
+  6
+ ],
+ "hifi": [
+  "auftrag",
+  1500,
+  "Auftrag",
+  4
+ ],
+ "stein": [
+  "auftrag",
+  600,
+  "Auftrag",
+  6
+ ],
+ "stoerr": [
+  "auftrag",
+  3500,
+  "Auftrag",
+  4
+ ],
+ "grill": [
+  "gast",
+  60,
+  "Gast",
+  40
+ ],
+ "musik": [
+  "abo",
+  80,
+  "Schüler",
+  6
+ ],
+ "balkan": [
+  "portal",
+  20,
+  "Bestellung",
+  60
+ ],
+ "luu": [
+  "portal",
+  25,
+  "Bestellung",
+  60
+ ],
+ "tanz": [
+  "abo",
+  50,
+  "Mitglied",
+  8
+ ],
+ "morrone": [
+  "auftrag",
+  400,
+  "Neukunde",
+  6
+ ],
+ "wfa": [
+  "auftrag",
+  2000,
+  "Gastronomie-Kunde (Jahresumsatz)",
+  2
+ ],
+ "daenzo": [
+  "portal",
+  25,
+  "Bestellung",
+  60
+ ],
+ "tobae": [
+  "auftrag",
+  4000,
+  "Auftrag",
+  3
+ ],
+ "audeh": [
+  "auftrag",
+  2500,
+  "Auftrag",
+  4
+ ],
+ "flick": [
+  "auftrag",
+  400,
+  "Neukunde",
+  6
+ ],
+ "brech": [
+  "auftrag",
+  150,
+  "Vermietung",
+  12
+ ],
+ "maerz": [
+  "unterkunft",
+  49,
+  "Nacht",
+  10
+ ],
+ "gleich": [
+  "auftrag",
+  2500,
+  "Auftrag",
+  4
+ ],
+ "scheiber": [
+  "unterkunft",
+  60,
+  "Nacht",
+  20
+ ],
+ "juwel": [
+  "auftrag",
+  1200,
+  "Auftrag",
+  6
+ ],
+ "schwenk": [
+  "auftrag",
+  2500,
+  "Auftrag",
+  6
+ ],
+ "bogro": [
+  "auftrag",
+  2000,
+  "Auftrag",
+  4
+ ],
+ "felicita": [
+  "auftrag",
+  2500,
+  "Auftrag",
+  4
+ ],
+ "welzow": [
+  "gast",
+  25,
+  "Gast",
+  40
+ ],
+ "schappert": [
+  "auftrag",
+  6000,
+  "Auftrag",
+  3
+ ],
+ "laluna": [
+  "gast",
+  25,
+  "Gast",
+  40
+ ],
+ "droeschel": [
+  "auftrag",
+  4000,
+  "Auftrag",
+  3
+ ],
+ "schafb": [
+  "unterkunft",
+  60,
+  "Nacht",
+  15
+ ]
 }

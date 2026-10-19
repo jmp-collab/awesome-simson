@@ -1,0 +1,117 @@
+{
+ "slug": "khan-pizzeria-la-luna-m-hlbachhalle",
+ "theme": "doener",
+ "name": "Ristorante Pizzeria La Luna",
+ "branche": "Ristorante und Pizzeria mit Heimservice",
+ "addr": "Comeniusstraße 1-4 · 66578 Schiffweiler",
+ "tel": "06821 9839560",
+ "url": "https://www.ristorante-laluna.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Quick Win",
+ "visit": "Nachmittags vor 17:30 Uhr, nicht mittwochs",
+ "logo_a": "La Luna",
+ "logo_b": "Mühlbachhalle",
+ "nav": [
+  "Speisekarte",
+  "Weinkarte",
+  "Heimservice",
+  "Reservieren"
+ ],
+ "eyebrow": "Ristorante Pizzeria in der Mühlbachhalle, Schiffweiler",
+ "h1": "Italienische Küche in der Mühlbachhalle.",
+ "lead": "Ristorante und Pizzeria mit Speise- und Weinkarte, dazu Heimservice. Bitte reservieren Sie Ihren Tisch.",
+ "cta1": "Tisch reservieren",
+ "cta2": "Heimservice-Karte",
+ "mcta": "Anrufen",
+ "badge": [
+  "Mi",
+  "Ruhetag"
+ ],
+ "deco": "LUNA",
+ "hero_img": "",
+ "trust": [
+  "<b>Ristorante</b> und Pizzeria",
+  "<b>Heimservice</b>",
+  "<b>Weinkarte</b>"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Bei uns",
+ "services": [
+  [
+   "Ristorante",
+   "Italienische Küche im Restaurant."
+  ],
+  [
+   "Pizzeria",
+   "Pizza aus der Küche des La Luna."
+  ],
+  [
+   "Weinkarte",
+   "Weine zur italienischen Küche."
+  ],
+  [
+   "Heimservice",
+   "Eigene Heimservice-Karte."
+  ],
+  [
+   "Reservierung",
+   "Bitte reservieren Sie Ihren Tisch."
+  ],
+  [
+   "Lage",
+   "In der Mühlbachhalle in Schiffweiler."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Tisch reservieren oder Heimservice bestellen: ein Anruf genügt.",
+ "hours": [
+  [
+   "Donnerstag bis Dienstag",
+   "17:30 bis 22:00"
+  ],
+  [
+   "Mittwoch",
+   "geschlossen"
+  ],
+  [
+   "Sonn- und Feiertage",
+   "11:30 bis 14:00 und 17:30 bis 22:00"
+  ]
+ ],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "contact": "Ristorante Pizzeria La Luna<br>Mühlbachhalle<br>Comeniusstraße 1-4<br>66578 Schiffweiler<br><br>Telefon 06821 9839560",
+ "audit": [
+  "Adresse, Telefonnummer und Öffnungszeiten stehen nur als Bild im Kopf der Seite, Google und Handy-Nutzer können sie nicht als Text lesen",
+  "Startseite mit 17 lesbaren Wörtern, Speisekarte und Heimservice als Bilder oder Unterseiten im alten Rahmen-Layout",
+  "Nicht für Smartphones angepasst"
+ ],
+ "hebel": "Wer am Abend 'Pizza Schiffweiler' oder 'Heimservice Schiffweiler' sucht, braucht Karte, Telefon und Zeiten sofort am Handy. Heute steht alles als Bild. Eine lesbare Karte mit Anruf-Knopf bringt Bestellungen, ohne Provision an ein Portal.",
+ "p": [
+  "690 bis 990 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Onepager mit Speise- und Heimservice-Karte als Text, Öffnungszeiten, Anruf- und WhatsApp-Knopf, Google-Profil",
+ "svc": [
+  "Speisekarte als echte Seite, Allergene sauber gekennzeichnet",
+  "Bestellknopf zu Telefon und WhatsApp",
+  "Google-Profil mit Karte und Fotos",
+  "Fotoshooting der Top-Gerichte"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite stehen Adresse, Telefon und Öffnungszeiten nur als Bild, das kann Google nicht lesen. Ich habe Ihnen mitgebracht, wie Ihre Karte am Handy aussehen könnte.",
+ "obj": "'Die Leute kennen uns': Die Stammgäste ja. Neue Gäste suchen am Handy und rufen den an, dessen Karte sie lesen können.",
+ "obs": [
+  "Adresse, Telefon und Öffnungszeiten stehen nur als Bild auf der Seite.",
+  "Auf der Startseite gibt es kaum lesbaren Text.",
+  "Am Handy ist die Seite nicht lesbar."
+ ],
+ "neu": [
+  "Karte und Heimservice am Handy lesbar",
+  "Anrufen mit einem Tipp",
+  "Bei Google mit Zeiten und Karte sichtbar"
+ ]
+}

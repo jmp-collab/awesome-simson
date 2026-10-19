@@ -1,0 +1,55 @@
+{
+ "key": "dr-schel-marco",
+ "url": "https://www.metallbau-droeschel.de/",
+ "title": "Aluminiumprofil- und Glastechnik Marco Dröschel",
+ "text": "Vordächer & Überdachungen\nGlaselemente & Wintergärten\nFenster & Türen\nStart\nImpressum / Datenschutz\nKontakt\n\n\nGewerbegebiet Klinkenthal 4B\n66578 Schiffweiler\n\n\nTel. 0 68 21 / 290 26 75\nFax. 0 68 21 / 290 26 76\n\nE-Mail\nmail@metallbau-droeschel.de",
+ "imgs": [
+  {
+   "src": "https://www.metallbau-droeschel.de/images/start.jpg",
+   "w": 481,
+   "h": 350
+  }
+ ],
+ "bg": [
+  "https://www.metallbau-droeschel.de/images/site.jpg",
+  "https://www.metallbau-droeschel.de/images/back_top.jpg",
+  "https://www.metallbau-droeschel.de/images/top_01.jpg",
+  "https://www.metallbau-droeschel.de/images/list_menu1.jpg",
+  "https://www.metallbau-droeschel.de/images/top_02.jpg",
+  "https://www.metallbau-droeschel.de/images/center.jpg",
+  "https://www.metallbau-droeschel.de/images/right.jpg"
+ ],
+ "tel": [],
+ "mail": [],
+ "links": [
+  {
+   "t": "Vordächer & Überdachungen",
+   "h": "https://www.metallbau-droeschel.de/vordaecher.htm"
+  },
+  {
+   "t": "Glaselemente & Wintergärten",
+   "h": "https://www.metallbau-droeschel.de/glaselemente.htm"
+  },
+  {
+   "t": "Fenster & Türen",
+   "h": "https://www.metallbau-droeschel.de/fenster.htm"
+  },
+  {
+   "t": "Start",
+   "h": "https://www.metallbau-droeschel.de/index.htm"
+  },
+  {
+   "t": "Impressum / Datenschutz",
+   "h": "https://www.metallbau-droeschel.de/impressum.htm"
+  },
+  {
+   "t": "Kontakt",
+   "h": "https://www.metallbau-droeschel.de/kontakt.htm"
+  }
+ ],
+ "saved": [
+  "img/dr-schel-marco_0.jpg",
+  "img/dr-schel-marco_1.jpg",
+  "img/dr-schel-marco_2.jpg"
+ ]
+}

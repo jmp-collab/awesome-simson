@@ -1,5 +1,8 @@
 nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
+64;schappert;Dachdeckerei Schappert GmbH;Dachdeckerei;15;7;3;18000;690;84;7s5ilq;06824 7325;Früh morgens oder vorher anrufen
+65;laluna;Ristorante Pizzeria La Luna;Ristorante und Pizzeria mit Heimservice;15;7;3;12000;690;84;k4337j;06821 9839560;Nachmittags vor 17:30 Uhr, nicht mittwochs
 14;mdm;MetallDesignMüller;Metallbau / Geländer, Treppen, Tore;15;6;3;10000;690;72;lmn7fq;06821 1799757;Früh morgens 7 bis 8 Uhr oder vorher anrufen (Handwerker oft auf Montage)
+63;welzow;Welzower Stuben;Restaurant und Partyservice;15;6;3;12000;990;72;72a3z2;06821 690943;Nachmittags zwischen 14 und 18 Uhr, Chef Leonard Bala direkt ansprechen
 12;dolomiti;Dolomiti Pizzeria, Gelateria & Pasticceria;Eiscafé / Pizzeria / Pasticceria;15;6;2;10800;690;66;ihd7wc;06821 9424024;Nachmittags kurz nach Öffnung, nicht zur Abendspitze
 17;hvoltage;HIGH VOLTAGE Veranstaltungstechnik;Veranstaltungstechnik / Bühnen-, Ton-, Licht- und Videotechnik;17;5;4;7200;990;66;7zza4y;06821 983161;Vorher anrufen, Lager und Büro sind nicht immer besetzt (Veranstaltungen oft abends und am Wochenende)
 22;vsv;VSV Abbruch GmbH;Abbruch / Entkernung / Schadstoffsanierung;15;6;2;16000;990;66;odr2ap;06821 590721;Vorher anrufen, Büro werktags vormittags
@@ -8,6 +11,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 27;decker;Fensterbau Decker GmbH;Fenster, Haustüren, Rollläden (Hersteller);21;6;1;16000;1490;60;eaxoh6;06821 361524;Werktags vormittags in der Ausstellung
 35;hofmann;Viktor Hofmann Fliesen Granit Mosaik;Fliesenleger / Spanndecken;21;5;3;12000;690;60;qyw5z7;06821 87797;Vorher anrufen, morgens vor Baustellenbeginn
 37;pemotec;Pemotec GmbH;Motoreninstandsetzung und Kfz-Werkstatt;21;5;3;8000;990;60;sr52zb;06821 2902680;Vormittags zwischen 9 und 12 Uhr, vorher anrufen
+66;droeschel;Aluminiumprofil- und Glastechnik Marco Dröschel;Metallbau, Aluminium und Glas;21;6;1;12000;990;60;m56tnv;06821 2902675;Morgens früh oder nachmittags, vorher anrufen
 30;forster;Lackierservice Forster;KFZ-Lackiererei / Karosseriebau / Smart Repair;31;5;2;7200;690;54;3hy5xw;06821 9729239;Werktags zwischen 8 und 9 Uhr oder nachmittags gegen 16 Uhr in der Werkstatt
 18;hobler;Elektro Hobler UG;Elektroinstallation / Elektriker;41;5;1;5400;690;48;khjgpu;06821 952063;Morgens zwischen 7 und 9 Uhr (Büro Mo bis Fr 6 bis 13 Uhr erreichbar)
 32;kirschhock;Haus- und Montage Service Kirschhock;Hausmeister- und Montageservice;35;4;3;3600;690;48;6vsmks;06821 306991;Vorher anrufen (mobil 0175 4147742), am besten früh morgens
@@ -55,6 +59,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 21;sehte;Horst Sehte GmbH;Dachdecker;73;3;0;15000;690;18;kmvidf;06821 51356;Früh morgens 7 bis 8 Uhr oder vorher anrufen (Mobil laut Impressum vorhanden)
 38;kurz;Anhängerverleih Manfred Kurz;Anhängerverleih;55;4;1;1800;990;16.9;wco5zb;06821 88317;Vormittags 10 bis 12 Uhr während der Öffnungszeit
 6;marktapo;Markt Apotheke;Apotheke;55;4;1;1575;990;15.5;nkn7bl;06821 21811;Nachmittag ab 14:30 Uhr, nach Inhaberin Frau Daniels fragen
+67;schafb;Hotel-Restaurant Schafbrücker Mühle;Hotel und Restaurant;41;5;1;810;990;14.5;idsn53;06824 3237;Nachmittags nach 14 Uhr, nicht freitags
 24;lattrich;Lattrich Orthopädie GmbH;Sanitätshaus / Orthopädie- und Rehatechnik;42;4;2;1575;1490;14.4;smesnd;06821 22476;Werktags vormittags im Sanitätshaus Hebbelstraße, nach der Geschäftsführung fragen
 40;karate;Karate Dojo Neunkirchen e.V.;Karateverein (Shotokan);63;3;1;1800;690;14.4;lz3jib;;Vor oder nach dem Training (Mo, Mi, Fr abends), Ansprechpartner Vorstand
 10;ellenfeld;Hotel Zum Ellenfeld;Hotel / Restaurant;52;4;1;1215;990;13.4;xk36qa;06821 8169;Mo bis Do 14:00 bis 16:00 Uhr (nach dem Stammessen)

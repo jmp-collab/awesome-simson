@@ -257,9 +257,19 @@
   "karosserie-lack-juwel-gmbh-lackierbetrie",
   "fliesenmarkt-schwenk-gmbh",
   "bogro-heib-bodenbelagsgro-handel",
-  "felicita-catering"
+  "felicita-catering",
+  "welzower-stuben",
+  "dachdeckerei-schappert-gmbh-dachdeckerei",
+  "khan-pizzeria-la-luna-m-hlbachhalle",
+  "dr-schel-marco",
+  "alte-schafbr-cker-m-hle-hotelrestaurant",
+  "welzower-stuben",
+  "dachdeckerei-schappert-gmbh-dachdeckerei",
+  "khan-pizzeria-la-luna-m-hlbachhalle",
+  "dr-schel-marco",
+  "alte-schafbr-cker-m-hle-hotelrestaurant"
  ],
- "wave": 11,
+ "wave": 12,
  "deferred": {
   "l-a-nails-nagelstudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
   "nieland-julia-pasta": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
@@ -327,5 +337,13 @@
   "die-burgerbraterei": "gepflegte Seite mit Shop",
   "coyote-caf": "Kette (Franchise)",
   "bestattungsinstitut-flunkert": "gepflegte Seite, sensibles Thema"
- }
+ },
+ "queue_neu": [
+  "malburg-gmbh-schreiner-bestattungen",
+  "jung-steven-dachdeckerei",
+  "jollytherm-gmbh-heizungsbau",
+  "mf-marascia-gmbh",
+  "carsten-lander-gmbh"
+ ],
+ "hinweis": "Neue Leads kommen aus wave/harvest_gs.py (Gelbe Seiten, Ort x Branche) + wave/screen.py (Alterssignale); Kandidaten in wave/new_near.json/screen.json"
 }

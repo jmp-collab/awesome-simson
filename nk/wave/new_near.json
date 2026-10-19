@@ -1,0 +1,1622 @@
+[
+{
+"name": "Klaus Haag GmbH Maler- und Stuckateurmeister",
+"branch": "Malerbetriebe",
+"addr": "Hüttenstr. 22a, 66583 Spiesen-Elversberg (Elversberg)",
+"tel": "06821 7 98 80",
+"url": "http://www.haag-malerstucki.de",
+"slug": "klaus-haag-gmbh-maler-und-stuckateurmeis",
+"ort": "spiesen-elversberg",
+"q": "maler"
+},
+{
+"name": "Jung Thomas, Maler- u. Stuckateurbetrieb",
+"branch": "Malerbetriebe",
+"addr": "Industriestr. 5a, 66583 Spiesen-Elversberg (Spiesen)",
+"tel": "06821 7 49 86 30",
+"url": "http://www.maler-boden-jung.de",
+"slug": "jung-thomas-maler-u-stuckateurbetrieb",
+"ort": "spiesen-elversberg",
+"q": "maler"
+},
+{
+"name": "Lorschiedter Jörg Malermeisterbetrieb",
+"branch": "Malerbetriebe",
+"addr": "Waldstr. 54, 66583 Spiesen-Elversberg (Elversberg)",
+"tel": "06821 7 23 89",
+"url": "http://www.lorschiedter.de",
+"slug": "lorschiedter-j-rg-malermeisterbetrieb",
+"ort": "spiesen-elversberg",
+"q": "maler"
+},
+{
+"name": "A. Westrich GmbH Dachdeckermeisterbetrieb und Kaminbau",
+"branch": "Dachdeckereien",
+"addr": "Hauptstr. 78, 66583 Spiesen-Elversberg (Spiesen) 473 m",
+"tel": "06821 9 71 00",
+"url": "http://www.dachdeckerei-westrich.de",
+"slug": "a-westrich-gmbh-dachdeckermeisterbetrieb",
+"ort": "spiesen-elversberg",
+"q": "dachdecker"
+},
+{
+"name": "Schmitt Hans GmbH Dächer und Fassaden",
+"branch": "Dachdeckereien",
+"addr": "Elversberger Str. 43, 66583 Spiesen-Elversberg (Spiesen) 1 km",
+"tel": "06821 7 05 39",
+"url": "http://www.dachdecker-schmitt.de",
+"slug": "schmitt-hans-gmbh-d-cher-und-fassaden",
+"ort": "spiesen-elversberg",
+"q": "dachdecker"
+},
+{
+"name": "Holzer Albert GmbH Heizung-Sanitär-Dachdeckerei",
+"branch": "Dachdeckereien",
+"addr": "Kreisstr. 11, 66578 Schiffweiler",
+"tel": "06821 6 31 35",
+"url": "https://albert-holzer.de/",
+"slug": "holzer-albert-gmbh-heizung-sanit-r-dachd",
+"ort": "spiesen-elversberg",
+"q": "dachdecker"
+},
+{
+"name": "Jung Steven Dachdeckerei",
+"branch": "Dachdeckereien",
+"addr": "Lauerstr. 6, 66578 Schiffweiler (Landsweiler)",
+"tel": "06821 9 64 99 37",
+"url": "https://www.stevenjung-dachdeckermeister.de",
+"slug": "jung-steven-dachdeckerei",
+"ort": "spiesen-elversberg",
+"q": "dachdecker"
+},
+{
+"name": "Höchst Horst Bedachungen",
+"branch": "Dachdeckereien",
+"addr": "Karlstr. 63, 66578 Schiffweiler (Heiligenwald)",
+"tel": "06821 3 09 81 70",
+"url": "http://www.bedachung-hoechst.de",
+"slug": "h-chst-horst-bedachungen",
+"ort": "spiesen-elversberg",
+"q": "dachdecker"
+},
+{
+"name": "Malburg GmbH Schreiner-Bestattungen",
+"branch": "Tischlereien",
+"addr": "Saarbrücker Str. 1-3, 66578 Schiffweiler (Landsweiler)",
+"tel": "06821 62 78",
+"url": "http://www.schreinerei-malburg.de",
+"slug": "malburg-gmbh-schreiner-bestattungen",
+"ort": "spiesen-elversberg",
+"q": "schreiner"
+},
+{
+"name": "EMI GmbH Elektroinstallationen",
+"branch": "Elektroinstallationen",
+"addr": "Hauptstr. 78, 66583 Spiesen-Elversberg (Spiesen) 473 m",
+"tel": "06821 97 29 10",
+"url": "http://www.emi-gmbh.de",
+"slug": "emi-gmbh-elektroinstallationen",
+"ort": "spiesen-elversberg",
+"q": "elektriker"
+},
+{
+"name": "Reiss Elektro GmbH",
+"branch": "Elektroinstallationen",
+"addr": "Am Zankwald 12, 66583 Spiesen-Elversberg (Spiesen)",
+"tel": "06821 7 11 10",
+"url": "http://www.elektro-reiss.de",
+"slug": "reiss-elektro-gmbh",
+"ort": "spiesen-elversberg",
+"q": "elektriker"
+},
+{
+"name": "Trapp Axel Elektro-Anlagenbau GmbH & Co. KG Elektroanlagenbau",
+"branch": "Elektroinstallationen",
+"addr": "Gewerbepark 28, 66583 Spiesen-Elversberg (Spiesen)",
+"tel": "06821 7 72 74",
+"url": "http://www.axel-trapp.de",
+"slug": "trapp-axel-elektro-anlagenbau-gmbh-co-kg",
+"ort": "spiesen-elversberg",
+"q": "elektriker"
+},
+{
+"name": "Meyer Frank Elektroinstallationen",
+"branch": "Elektroinstallationen",
+"addr": "Zum Brünnchen 13, 66583 Spiesen-Elversberg (Elversberg) 2 km",
+"tel": "06821 74 97 91",
+"url": "http://www.elektro-sema.de/",
+"slug": "meyer-frank-elektroinstallationen",
+"ort": "spiesen-elversberg",
+"q": "elektriker"
+},
+{
+"name": "Mauermann Peter Elektro - Kälte - Klima",
+"branch": "Elektroinstallationen",
+"addr": "Ulmenstr. 9, 66578 Schiffweiler",
+"tel": "06821 96 21 71",
+"url": "http://www.elektro-mauermann.de",
+"slug": "mauermann-peter-elektro-k-lte-klima",
+"ort": "spiesen-elversberg",
+"q": "elektriker"
+},
+{
+"name": "PFEIFFER & MAY Dillingen KG",
+"branch": "Sanitärbedarf",
+"addr": "Betzenhölle 25, 66538 Neunkirchen",
+"tel": "06821 9 08 50",
+"url": "http://www.pfeiffer-may.de",
+"slug": "pfeiffer-may-dillingen-kg",
+"ort": "spiesen-elversberg",
+"q": "sanitär"
+},
+{
+"name": "Heizung Sanitär Solar Samson",
+"branch": "Sanitärinstallationen",
+"addr": "Im Geisbrunnen 18, 66578 Schiffweiler (Landsweiler)",
+"tel": "06821 3 62 69 60",
+"url": "http://www.heizung-samson.de",
+"slug": "heizung-sanit-r-solar-samson",
+"ort": "spiesen-elversberg",
+"q": "sanitär"
+},
+{
+"name": "Martin Bresselschmidt Installateur- und Heizungsbauerhandwerk",
+"branch": "Sanitärinstallationen",
+"addr": "Am Itzenplitzer Weiher 4, 66578 Schiffweiler (Heiligenwald)",
+"tel": "01522 8 55 36 17",
+"url": "http://www.heizung-bresselschmidt.de",
+"slug": "martin-bresselschmidt-installateur-und-h",
+"ort": "spiesen-elversberg",
+"q": "sanitär"
+},
+{
+"name": "Betz Klaus GmbH Heizung Sanitär",
+"branch": "Heizungs- und Lüftungsbau",
+"addr": "Am Zankwald 28, 66583 Spiesen-Elversberg (Spiesen)",
+"tel": "06821 7 04 90",
+"url": "http://www.bad-betz.de",
+"slug": "betz-klaus-gmbh-heizung-sanit-r",
+"ort": "spiesen-elversberg",
+"q": "sanitär"
+},
+{
+"name": "Düpre Philipp Meisterbetrieb Heizung & Sanitär",
+"branch": "Heizungs- und Lüftungsbau",
+"addr": "Elisabethstr. 21, 66583 Spiesen-Elversberg (Elversberg)",
+"tel": "06821 2 95 98 95 00",
+"url": "http://www.duepre-shk.de",
+"slug": "d-pre-philipp-meisterbetrieb-heizung-san",
+"ort": "spiesen-elversberg",
+"q": "sanitär"
+},
+{
+"name": "Heizung Sanitär Michael Hoffmann GmbH",
+"branch": "Heizungs- und Lüftungsbau",
+"addr": "Hüttenstr. 18, 66583 Spiesen-Elversberg (Elversberg)",
+"tel": "06821 97 32 81",
+"url": "http://www.hoffmann-shk.de",
+"slug": "heizung-sanit-r-michael-hoffmann-gmbh",
+"ort": "spiesen-elversberg",
+"q": "sanitär"
+},
+{
+"name": "Haustechnik",
+"branch": "Heizungs- und Lüftungsbau",
+"addr": "Redener Str. 52, 66578 Schiffweiler (Landsweiler) 5 km",
+"tel": "06821 9 20 86 60",
+"url": "http://www.haustechnik-saarland.de",
+"slug": "haustechnik",
+"ort": "spiesen-elversberg",
+"q": "heizung"
+},
+{
+"name": "Günter Bosel GmbH",
+"branch": "Heizungs- und Lüftungsbau",
+"addr": "Gewerbepark Klinkenthal 15, 66578 Schiffweiler (Heiligenwald)",
+"tel": "06821 9 52 80 32",
+"url": "http://www.boselgmbh.de",
+"slug": "g-nter-bosel-gmbh",
+"ort": "spiesen-elversberg",
+"q": "heizung"
+},
+{
+"name": "Jollytherm GmbH Heizungsbau",
+"branch": "Heizungs- und Lüftungsbau",
+"addr": "Gewerbepark Klinkenthal 23, 66578 Schiffweiler (Heiligenwald)",
+"tel": "06821 96 49 30",
+"url": "http://www.jollytherm.de",
+"slug": "jollytherm-gmbh-heizungsbau",
+"ort": "spiesen-elversberg",
+"q": "heizung"
+},
+{
+"name": "Schuler Nikolaus Bausanierung",
+"branch": "Bausanierungen",
+"addr": "Im Vogelschlag 17, 66578 Schiffweiler 5 km",
+"tel": "06821 63 30 75",
+"url": "http://www.bausanierung-schuler.de",
+"slug": "schuler-nikolaus-bausanierung",
+"ort": "spiesen-elversberg",
+"q": "fliesenleger"
+},
+{
+"name": "Dröschel Marco",
+"branch": "Metallbau",
+"addr": "Gewerbepark Klinkenthal 4B, 66578 Schiffweiler (Heiligenwald)",
+"tel": "06821 2 90 26 75",
+"url": "http://www.metallbau-droeschel.de",
+"slug": "dr-schel-marco",
+"ort": "spiesen-elversberg",
+"q": "metallbau"
+},
+{
+"name": "Kohler & Wagner GmbH Metallbau",
+"branch": "Metallbau",
+"addr": "Gewerbepark Klinkenthal 24, 66578 Schiffweiler (Heiligenwald)",
+"tel": "06821 69 11 36",
+"url": "http://www.kohler-wagner.de",
+"slug": "kohler-wagner-gmbh-metallbau",
+"ort": "spiesen-elversberg",
+"q": "metallbau"
+},
+{
+"name": "Hermann-Josef COLLE GmbH Metallbau-Schlosserei Metallbauschlosserei",
+"branch": "Bauschlossereien",
+"addr": "Gewerbepark 4, 66583 Spiesen-Elversberg (Spiesen)",
+"tel": "06821 79 00 74",
+"url": "https://colle.net/",
+"slug": "hermann-josef-colle-gmbh-metallbau-schlo",
+"ort": "spiesen-elversberg",
+"q": "metallbau"
+},
+{
+"name": "Fuchs Fenster und Metallbau GmbH Fenster und Türen",
+"branch": "Rollläden",
+"addr": "Hauptstr. 39, 66578 Schiffweiler (Landsweiler)",
+"tel": "06821 61 60",
+"url": "http://www.fuchsfenster.de",
+"slug": "fuchs-fenster-und-metallbau-gmbh-fenster",
+"ort": "spiesen-elversberg",
+"q": "metallbau"
+},
+{
+"name": "Michael Veith Einbau von Bauelementen",
+"branch": "Montagearbeiten",
+"addr": "Am Bergwerk Reden 1, 66578 Schiffweiler (Landsweiler)",
+"tel": "06821 9 43 02 17",
+"url": "http://www.veith-michael.de",
+"slug": "michael-veith-einbau-von-bauelementen",
+"ort": "spiesen-elversberg",
+"q": "schlosserei"
+},
+{
+"name": "H & W Dach GmbH",
+"branch": "Zimmereien",
+"addr": "Industriestr. 1, 66583 Spiesen-Elversberg (Spiesen)",
+"tel": "06821 7 42 78 40",
+"url": "http://www.h-w-dachgmbh.de",
+"slug": "h-w-dach-gmbh",
+"ort": "spiesen-elversberg",
+"q": "zimmerei"
+},
+{
+"name": "Krammes Paul GmbH",
+"branch": "Zimmereien",
+"addr": "Gewerbepark Klinkenthal 4b, 66578 Schiffweiler",
+"tel": "06821 96 36 00",
+"url": "http://www.dachdecker-krammes.de",
+"slug": "krammes-paul-gmbh",
+"ort": "spiesen-elversberg",
+"q": "zimmerei"
+},
+{
+"name": "Garten der Schönheit GmbH  Sascha Schmidt",
+"branch": "Garten- und Landschaftsbau",
+"addr": "Brückenstr. 31, 66564 Ottweiler (Fürth) 13 km",
+"tel": "06858 9 71 99 84",
+"url": "http://www.gartenderschoenheit.de",
+"slug": "garten-der-sch-nheit-gmbh-sascha-schmidt",
+"ort": "spiesen-elversberg",
+"q": "gartenbau"
+},
+{
+"name": "Bielefeld Frank Landschaftsgestalter",
+"branch": "Garten- und Landschaftsbau",
+"addr": "Gewerbepark 15, 66583 Spiesen-Elversberg (Spiesen)",
+"tel": "06821 74 19 52",
+"url": "http://www.saarländischer-zaunhandel.de",
+"slug": "bielefeld-frank-landschaftsgestalter",
+"ort": "spiesen-elversberg",
+"q": "gartenbau"
+},
+{
+"name": "Raphael Kihm Garten- und Landschaftsbau",
+"branch": "Garten- und Landschaftsbau",
+"addr": "Glück-Auf-Str. 17, 66583 Spiesen-Elversberg (Elversberg) 2 km",
+"tel": "0171 2 97 64 32",
+"url": "http://gartenbaukihm.de",
+"slug": "raphael-kihm-garten-und-landschaftsbau",
+"ort": "spiesen-elversberg",
+"q": "gartenbau"
+},
+{
+"name": "Mergenthaler Heiko Garten- und Landschaftsbau",
+"branch": "Garten- und Landschaftsbau",
+"addr": "Schiffweilerstr. 5, 66578 Schiffweiler",
+"tel": "06821 69 01 84",
+"url": "http://www.mergenthaler-bau.de",
+"slug": "mergenthaler-heiko-garten-und-landschaft",
+"ort": "spiesen-elversberg",
+"q": "gartenbau"
+},
+{
+"name": "Aloys Lambert Garten- und Landschaftsbau",
+"branch": "Garten- und Landschaftsbau",
+"addr": "Pfarrbrunnenstr. 7, 66578 Schiffweiler",
+"tel": "06821 69 19 10",
+"url": "http://www.der-lambert-pflastert.de",
+"slug": "aloys-lambert-garten-und-landschaftsbau",
+"ort": "spiesen-elversberg",
+"q": "gartenbau"
+},
+{
+"name": "Sergej Hahn Garten- und Landschaftsbau",
+"branch": "Garten- und Landschaftsbau",
+"addr": "Leopoldstr. 98, 66578 Schiffweiler 7 km",
+"tel": "0163 3 80 41 05",
+"url": "http://www.steinteppich-saar.com",
+"slug": "sergej-hahn-garten-und-landschaftsbau",
+"ort": "spiesen-elversberg",
+"q": "gartenbau"
+},
+{
+"name": "Brill Rosen",
+"branch": "Gartenbaubetriebe",
+"addr": "Am Kastelberg 59, 66578 Schiffweiler",
+"tel": "06821 62 23",
+"url": "http://www.rosen-brill.de",
+"slug": "brill-rosen",
+"ort": "spiesen-elversberg",
+"q": "gartenbau"
+},
+{
+"name": "Kuljeet Singh Schankwirtschaft",
+"branch": "Gaststätten und Restaurants",
+"addr": "Neunkircher Str. 70, 66583 Spiesen-Elversberg (Elversberg)",
+"tel": "06821 74 08 80",
+"url": "http://www.portaromana.de",
+"slug": "kuljeet-singh-schankwirtschaft",
+"ort": "spiesen-elversberg",
+"q": "restaurants"
+},
+{
+"name": "Carmelo Palermo Bistro",
+"branch": "Gaststätten und Restaurants",
+"addr": "Hauptstr. 211, 66583 Spiesen-Elversberg (Spiesen) 463 m",
+"tel": "06821 9 14 63 06",
+"url": "http://www.gusto-sud.de",
+"slug": "carmelo-palermo-bistro",
+"ort": "spiesen-elversberg",
+"q": "restaurants"
+},
+{
+"name": "Rebell Café/Bistro",
+"branch": "Gaststätten und Restaurants",
+"addr": "Am Ring 39, 66583 Spiesen-Elversberg (Elversberg)",
+"tel": "0157 39 67 16 52",
+"url": "https://rebell-cafe.eatbu.com/?lang=de",
+"slug": "rebell-caf-bistro",
+"ort": "spiesen-elversberg",
+"q": "restaurants"
+},
+{
+"name": "Manfred Winter Glückauf-Halle",
+"branch": "Gaststätten und Restaurants",
+"addr": "St. Ingberter Str. 10, 66583 Spiesen-Elversberg (Elversberg)",
+"tel": "06821 9 14 59 55",
+"url": "http://spiesen-elversberg.info",
+"slug": "manfred-winter-gl-ckauf-halle",
+"ort": "spiesen-elversberg",
+"q": "restaurants"
+},
+{
+"name": "Welzower Stuben",
+"branch": "Gaststätten und Restaurants",
+"addr": "Marktstr. 11, 66578 Schiffweiler (Landsweiler)",
+"tel": "06821 69 09 43",
+"url": "http://www.welzower-stuben.de",
+"slug": "welzower-stuben",
+"ort": "spiesen-elversberg",
+"q": "restaurants"
+},
+{
+"name": "Bella Italia Pizzaheimservice",
+"branch": "Gaststätten: Pizzaservice",
+"addr": "Feldstr. 3, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 17 75 35",
+"url": "http://www.bellagusto.net",
+"slug": "bella-italia-pizzaheimservice",
+"ort": "spiesen-elversberg",
+"q": "restaurants"
+},
+{
+"name": "Italia Uno Pizzeria & Heimservice",
+"branch": "Gaststätten: Pizzaservice",
+"addr": "Itzenplitzstr. 29, 66578 Schiffweiler (Heiligenwald)",
+"tel": "06821 69 26 76",
+"url": "https://www.italiauno-heiligenwald.de",
+"slug": "italia-uno-pizzeria-heimservice",
+"ort": "spiesen-elversberg",
+"q": "restaurants"
+},
+{
+"name": "Melissa Vullo Schank- und Speisewirtschaft",
+"branch": "Gaststätten und Restaurants",
+"addr": "Zweibrücker Str. 86, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 6 36 18 88",
+"url": "http://www.neunkirchen-villamedici.de",
+"slug": "melissa-vullo-schank-und-speisewirtschaf",
+"ort": "spiesen-elversberg",
+"q": "restaurants"
+},
+{
+"name": "Kentucky Fried Chicken",
+"branch": "Gaststätten: Burger",
+"addr": "Westspange 2a, 66538 Neunkirchen",
+"tel": "0172 6 63 18 73",
+"url": "https://www.kfc.de/find-a-kfc/kfc-Neunkirchen-Westspange-2a-Koenigsbahnstrasse?y_source=1_Mjg5Mzg4OTktNjUxLWxvY2F0aW9uLndlYnNpdGU%3D",
+"slug": "kentucky-fried-chicken",
+"ort": "spiesen-elversberg",
+"q": "restaurants"
+},
+{
+"name": "Christian Dietzen Tanzlokal",
+"branch": "Gaststätten und Restaurants",
+"addr": "Max-Braun-Str. 3, 66538 Neunkirchen (Innenstadt)",
+"tel": "0170 2 97 56 12",
+"url": "http://www.zum-goldenen-drachen.de",
+"slug": "christian-dietzen-tanzlokal",
+"ort": "spiesen-elversberg",
+"q": "restaurants"
+},
+{
+"name": "Cems Imbiss",
+"branch": "Imbissbetriebe",
+"addr": "Brückenstr. 7, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 21 06 37",
+"url": "https://www.cemsimbissneunkirchensaar.de/",
+"slug": "cems-imbiss",
+"ort": "spiesen-elversberg",
+"q": "restaurants"
+},
+{
+"name": "Schnitzelhaus",
+"branch": "Gaststätten und Restaurants",
+"addr": "Wellesweilerstr. 14, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 8 69 03 91",
+"url": "http://www.schnitzelhaus-neunkirchen.de",
+"slug": "schnitzelhaus",
+"ort": "spiesen-elversberg",
+"q": "restaurants"
+},
+{
+"name": "Naturfreundehaus",
+"branch": "Gaststätten und Restaurants",
+"addr": "Zoostr. 10, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 2 13 10",
+"url": "http://www.naturfreunde.de/haus/naturfreundehaus-neunkirchen",
+"slug": "naturfreundehaus",
+"ort": "spiesen-elversberg",
+"q": "restaurants"
+},
+{
+"name": "Pizzeria Primarvera",
+"branch": "Gaststätten: Pizzerias",
+"addr": "Donnersbergstr. 20, 66578 Schiffweiler",
+"tel": "06821 63 50 35",
+"url": "http://www.speisekarte24.de/Heimservice_Primavera_in_Schiffweiler_644/",
+"slug": "pizzeria-primarvera",
+"ort": "spiesen-elversberg",
+"q": "pizzeria"
+},
+{
+"name": "Ristorante Pizzeria Carpe Diem Heimservice",
+"branch": "Gaststätten: Italienisch",
+"addr": "Neunkircher Str. 104, 66583 Spiesen-Elversberg (Spiesen) 574 m",
+"tel": "06821 9 99 97 87",
+"url": "http://www.carpediemristorante-pizzeriaspiesen-elversberg.de",
+"slug": "ristorante-pizzeria-carpe-diem-heimservi",
+"ort": "spiesen-elversberg",
+"q": "pizzeria"
+},
+{
+"name": "Khan, Pizzeria La Luna Mühlbachhalle",
+"branch": "Gaststätten: Italienisch",
+"addr": "Comeniusstr. 1, 66578 Schiffweiler 6 km",
+"tel": "06821 9 83 95 60",
+"url": "http://www.ristorante-laluna.de",
+"slug": "khan-pizzeria-la-luna-m-hlbachhalle",
+"ort": "spiesen-elversberg",
+"q": "pizzeria"
+},
+{
+"name": "Coyote Café",
+"branch": "Gaststätten: Mexikanisch",
+"addr": "Saarbrücker Str. 16, 66538 Neunkirchen (Innenstadt) 4 km",
+"tel": "06821 2 25 30",
+"url": "http://www.iguana-restaurant.de",
+"slug": "coyote-caf",
+"ort": "spiesen-elversberg",
+"q": "gaststätten"
+},
+{
+"name": "Asia Wok Bistro",
+"branch": "Gaststätten: Asiatisch",
+"addr": "Brückenstr. 26, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 14 03 73",
+"url": "http://www.asia-restaurant-neunkirchen.de",
+"slug": "asia-wok-bistro",
+"ort": "spiesen-elversberg",
+"q": "gaststätten"
+},
+{
+"name": "EAT HAPPY",
+"branch": "Gaststätten: Sushispezialitäten",
+"addr": "Lindenstraße 19, 66583 Spiesen-Elversberg",
+"tel": "0221 6 69 93 60",
+"url": "https://www.eathappy.de/standorte/?q=66583",
+"slug": "eat-happy",
+"ort": "spiesen-elversberg",
+"q": "gaststätten"
+},
+{
+"name": "Café Pusteblume",
+"branch": "Cafés",
+"addr": "Wibilostr. 5, 66540 Neunkirchen (Wiebelskirchen)",
+"tel": "06821 9 14 80 03",
+"url": "http://www.cafepusteblume.com",
+"slug": "caf-pusteblume",
+"ort": "spiesen-elversberg",
+"q": "café"
+},
+{
+"name": "\"Frühstücks-Kaffee\" Götzinger",
+"branch": "Cafés",
+"addr": "Hauptstr. 26, 66578 Schiffweiler",
+"tel": "06821 2 92 76 97",
+"url": "http://www.kaffee-götzinger-schiffweiler.de",
+"slug": "fr-hst-cks-kaffee-g-tzinger",
+"ort": "spiesen-elversberg",
+"q": "café"
+},
+{
+"name": "Stuppi Oskar, Stuppi Ulrike",
+"branch": "Cafés",
+"addr": "Ottweilerstr. 62, 66578 Schiffweiler",
+"tel": "06821 96 24 38",
+"url": "https://oskar-stuppi.business.site",
+"slug": "stuppi-oskar-stuppi-ulrike",
+"ort": "spiesen-elversberg",
+"q": "café"
+},
+{
+"name": "Barbarossa Bäckerei GmbH & Co KG - Cafe Neunkirchen Bäckerei",
+"branch": "Bäckereien",
+"addr": "Wellesweilerstr. 184, 66538 Neunkirchen (Innenstadt) 5 km",
+"tel": "06821 1 79 96 61",
+"url": "http://www.barbarossa-baeckerei.de",
+"slug": "barbarossa-b-ckerei-gmbh-co-kg-cafe-neun",
+"ort": "spiesen-elversberg",
+"q": "café"
+},
+{
+"name": "Markt-Bäckerei",
+"branch": "Bäckereien",
+"addr": "Hauptstr. 82-84, 66583 Spiesen-Elversberg (Spiesen) 341 m",
+"tel": "06821 74 03 66",
+"url": "https://www.markt-baeckerei.de/",
+"slug": "markt-b-ckerei",
+"ort": "spiesen-elversberg",
+"q": "bäckerei"
+},
+{
+"name": "Biebelhausener Mühle GmbH & Co. KG",
+"branch": "Bäckereien",
+"addr": "Kirkeler Str. 50, 66538 Neunkirchen (Innenstadt) 3 km",
+"tel": "06861 9 93 22 82",
+"url": "https://www.biebelhausener-muehle.com",
+"slug": "biebelhausener-m-hle-gmbh-co-kg",
+"ort": "spiesen-elversberg",
+"q": "bäckerei"
+},
+{
+"name": "Bäckerei Ziegler AG",
+"branch": "Bäckereien",
+"addr": "Bahnhofstr. 51, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 7 90 06 10",
+"url": "http://www.baecker-ziegler.de",
+"slug": "b-ckerei-ziegler-ag",
+"ort": "spiesen-elversberg",
+"q": "bäckerei"
+},
+{
+"name": "Schaefer Roland Bäckerei",
+"branch": "Bäckereien",
+"addr": "Kreisstr. 29, 66578 Schiffweiler (Landsweiler)",
+"tel": "06821 6 30 65 07",
+"url": "http://www.baeckereischaefer.de",
+"slug": "schaefer-roland-b-ckerei",
+"ort": "spiesen-elversberg",
+"q": "bäckerei"
+},
+{
+"name": "Maaß Gerhard GmbH Metzgerei",
+"branch": "Fleischereien",
+"addr": "Hauptstr. 14, 66578 Schiffweiler",
+"tel": "06821 61 22",
+"url": "http://metzgerei-maass.de/",
+"slug": "maa-gerhard-gmbh-metzgerei",
+"ort": "spiesen-elversberg",
+"q": "metzgerei"
+},
+{
+"name": "Fritz Hirtle GmbH",
+"branch": "Fleischereien",
+"addr": "Stummplatz 1, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 9 12 31 11",
+"url": "http://www.hirtle.de/home.html#home",
+"slug": "fritz-hirtle-gmbh",
+"ort": "spiesen-elversberg",
+"q": "metzgerei"
+},
+{
+"name": "Socacel Fleischtechnologie GmbH",
+"branch": "Fleisch- und Wurstwaren",
+"addr": "Zu den Grenzsteinen 7a, 66539 Neunkirchen (Kohlhof)",
+"tel": "06821 3 33 93",
+"url": "http://www.socacel.de",
+"slug": "socacel-fleischtechnologie-gmbh",
+"ort": "spiesen-elversberg",
+"q": "metzgerei"
+},
+{
+"name": "Lothschütz Martin Frisör",
+"branch": "Friseure",
+"addr": "Fichtenstr. 5, 66583 Spiesen-Elversberg (Elversberg)",
+"tel": "06821 7 17 76",
+"url": "https://www.frisör-lothschütz.de/",
+"slug": "lothsch-tz-martin-fris-r",
+"ort": "spiesen-elversberg",
+"q": "friseur"
+},
+{
+"name": "Wallacher Joachim Frisör Salon",
+"branch": "Friseure",
+"addr": "St. Ingberter Str. 20, 66583 Spiesen-Elversberg",
+"tel": "06821 75 33",
+"url": "https://friseur-wallacher.de/",
+"slug": "wallacher-joachim-fris-r-salon",
+"ort": "spiesen-elversberg",
+"q": "friseur"
+},
+{
+"name": "Hair Express - Essanelle Hair Group AG Friseursalon",
+"branch": "Friseure",
+"addr": "Kirkeler Str. 50, 66538 Neunkirchen (Innenstadt) 3 km",
+"tel": "06821 8 69 10 70",
+"url": "http://www.hairxpress.de",
+"slug": "hair-express-essanelle-hair-group-ag-fri",
+"ort": "spiesen-elversberg",
+"q": "friseur"
+},
+{
+"name": "essanelle",
+"branch": "Friseure",
+"addr": "Stummplatz 1, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 2 64 66",
+"url": "https://www.essanelle.de/",
+"slug": "essanelle",
+"ort": "spiesen-elversberg",
+"q": "friseur"
+},
+{
+"name": "Hair Flair",
+"branch": "Friseure",
+"addr": "Bahnhofstr. 21, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 3 09 03 99",
+"url": "http://www.salon-hairflair.de",
+"slug": "hair-flair",
+"ort": "spiesen-elversberg",
+"q": "friseur"
+},
+{
+"name": "Ioanna Johann Frisörsalon",
+"branch": "Friseure",
+"addr": "Bahnhofstr. 21, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 3 09 03 99",
+"url": "http://www.salon-hairflair-ij.de",
+"slug": "ioanna-johann-fris-rsalon",
+"ort": "spiesen-elversberg",
+"q": "friseur"
+},
+{
+"name": "Seiler Friseurteam Friseur",
+"branch": "Friseure",
+"addr": "Bahnhofstr. 9, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 2 21 71",
+"url": "http://www.friseur-team-seiler.de",
+"slug": "seiler-friseurteam-friseur",
+"ort": "spiesen-elversberg",
+"q": "friseur"
+},
+{
+"name": "Kosmetikstudio Kleopatra",
+"branch": "Kosmetikstudios",
+"addr": "In der Haberdell 9a, 66583 Spiesen-Elversberg (Spiesen) 712 m",
+"tel": "06821 97 25 24",
+"url": "http://www.kosmetikstudio-kleopatra.com",
+"slug": "kosmetikstudio-kleopatra",
+"ort": "spiesen-elversberg",
+"q": "kosmetik"
+},
+{
+"name": "Kosmetik Rova",
+"branch": "Kosmetikstudios",
+"addr": "Unterer Markt 5, 66538 Neunkirchen (Innenstadt) 4 km",
+"tel": "06821 7 90 97 19",
+"url": "http://www.rova-kosmetik.de",
+"slug": "kosmetik-rova",
+"ort": "spiesen-elversberg",
+"q": "kosmetik"
+},
+{
+"name": "Rituals",
+"branch": "Kosmetikartikel",
+"addr": "Stummplatz 1, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 7 90 76 84",
+"url": "http://www.rituals.com",
+"slug": "rituals",
+"ort": "spiesen-elversberg",
+"q": "kosmetik"
+},
+{
+"name": "Benefit Cosmetics BrowBar Douglas Neunkirchen",
+"branch": "Kosmetikstudios",
+"addr": "Ekz Saarpark-Center, 66538 Neunkirchen",
+"tel": "0177 9 56 01 03",
+"url": "http://www.benefitcosmetics.com",
+"slug": "benefit-cosmetics-browbar-douglas-neunki",
+"ort": "spiesen-elversberg",
+"q": "kosmetik"
+},
+{
+"name": "cosmetic-roth",
+"branch": "Kosmetikstudios",
+"addr": "Rombachstr. 86, 66539 Neunkirchen (Wellesweiler)",
+"tel": "0157 57 98 57 67",
+"url": "http://www.cosmetic-roth.de",
+"slug": "cosmetic-roth",
+"ort": "spiesen-elversberg",
+"q": "kosmetik"
+},
+{
+"name": "Douglas Parfümerie",
+"branch": "Parfümeriewaren",
+"addr": "Stummplatz 1, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 2 31 46",
+"url": "http://www.douglas.de",
+"slug": "douglas-parf-merie",
+"ort": "spiesen-elversberg",
+"q": "kosmetik"
+},
+{
+"name": "Lehnen & Co GmbH KFZ-Meisterbetrieb",
+"branch": "Autoreparaturen",
+"addr": "Neunkircher Str. 75A, 66583 Spiesen-Elversberg (Elversberg)",
+"tel": "06821 75 12",
+"url": "http://www.zweiradcenter-Lehnen.de",
+"slug": "lehnen-co-gmbh-kfz-meisterbetrieb",
+"ort": "spiesen-elversberg",
+"q": "autowerkstatt"
+},
+{
+"name": "pitstop.de GmbH",
+"branch": "Autoreparaturen",
+"addr": "Westspange 3, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 2 90 27 97",
+"url": "http://www.pitstop.de",
+"slug": "pitstop-de-gmbh",
+"ort": "spiesen-elversberg",
+"q": "autowerkstatt"
+},
+{
+"name": "Ziegler Joachim",
+"branch": "Autoreparaturen",
+"addr": "Industriestr. 9, 66583 Spiesen-Elversberg (Spiesen)",
+"tel": "06821 7 84 14",
+"url": "http://www.sportwagenservice.de",
+"slug": "ziegler-joachim",
+"ort": "spiesen-elversberg",
+"q": "autowerkstatt"
+},
+{
+"name": "S-A-S GmbH KFZ-Meisterbetrieb",
+"branch": "Autoreparaturen",
+"addr": "Gewerbepark 0, 66583 Spiesen-Elversberg (Spiesen)",
+"tel": "06821 7 20 37",
+"url": "http://www.vespa-saar.de",
+"slug": "s-a-s-gmbh-kfz-meisterbetrieb",
+"ort": "spiesen-elversberg",
+"q": "autowerkstatt"
+},
+{
+"name": "Linden-Garage GmbH KFZ-Meisterwerkstatt",
+"branch": "Autoreparaturen",
+"addr": "Lindenstr. 14-18, 66583 Spiesen-Elversberg (Elversberg)",
+"tel": "06821 79 00 79-0",
+"url": "http://www.lindengarage.de",
+"slug": "linden-garage-gmbh-kfz-meisterwerkstatt",
+"ort": "spiesen-elversberg",
+"q": "autowerkstatt"
+},
+{
+"name": "Carglass GmbH Neunkirchen",
+"branch": "Autoreparaturen",
+"addr": "Westspange 3, 66538 Neunkirchen",
+"tel": "06821 2 90 04 59",
+"url": "https://standorte.carglass.de/standorte/neunkirchen/westspange-3.html?utm_source=directories&utm_medium=organic&utm_campaign=Neunkirchen&y_source=1_MzM2MzMwOS02NTEtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+"slug": "carglass-gmbh-neunkirchen",
+"ort": "spiesen-elversberg",
+"q": "autowerkstatt"
+},
+{
+"name": "Autohaus Walter Zimmer e.K.",
+"branch": "Autoreparaturen",
+"addr": "Kreisstr. 1, 66578 Schiffweiler (Landsweiler)",
+"tel": "06821 6 30 00",
+"url": "https://zimmer.go1a.de",
+"slug": "autohaus-walter-zimmer-e-k",
+"ort": "spiesen-elversberg",
+"q": "autowerkstatt"
+},
+{
+"name": "Hebenthal GmbH",
+"branch": "Autoreparaturen",
+"addr": "Untere Bliesstr. 1, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 6 36 36 44",
+"url": "http://www.boschcarservice.com/de/de/werkstatt/hebenthal-neunkirchen",
+"slug": "hebenthal-gmbh",
+"ort": "spiesen-elversberg",
+"q": "autowerkstatt"
+},
+{
+"name": "Löffels Car Service Frank",
+"branch": "Autoreparaturen",
+"addr": "Gasstr. 41, 66578 Schiffweiler",
+"tel": "06821 9 20 68 33",
+"url": "http://www.autoreparaturen.de",
+"slug": "l-ffels-car-service-frank",
+"ort": "spiesen-elversberg",
+"q": "autowerkstatt"
+},
+{
+"name": "Kräber Peter Autolackiererei",
+"branch": "Autolackierereien",
+"addr": "Gewerbepark 30, 66583 Spiesen-Elversberg (Spiesen)",
+"tel": "06821 74 24 74",
+"url": "http://www.autolackiererei-Kraeber.de",
+"slug": "kr-ber-peter-autolackiererei",
+"ort": "spiesen-elversberg",
+"q": "autolackiererei"
+},
+{
+"name": "CFK - Centrum für Freizeit und Kommunikation der Lebenshilfe gGmbH Hotel Restaurant",
+"branch": "Hotels",
+"addr": "Zum Nassenwald 1, 66583 Spiesen-Elversberg (Spiesen)",
+"tel": "06821 95 97 90",
+"url": "http://www.cfk-freizeitcentrum.de",
+"slug": "cfk-centrum-f-r-freizeit-und-kommunikati",
+"ort": "spiesen-elversberg",
+"q": "hotel"
+},
+{
+"name": "Holiday Inn Express Neunkirchen",
+"branch": "Hotels",
+"addr": "Zum Eisenwerk 3, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 9 99 77 90",
+"url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/neunkirchen/cgnnk/hoteldetail?cm_mmc=YextLocal-_-EX-_-DE-_-CGNNK",
+"slug": "holiday-inn-express-neunkirchen",
+"ort": "spiesen-elversberg",
+"q": "hotel"
+},
+{
+"name": "Scherer Martin Gasthaus",
+"branch": "Hotels",
+"addr": "Klosterstr. 3, 66578 Schiffweiler",
+"tel": "06821 6 97 38",
+"url": "http://www.rosenhotel-scherer.de",
+"slug": "scherer-martin-gasthaus",
+"ort": "spiesen-elversberg",
+"q": "hotel"
+},
+{
+"name": "DERTOUR Reisebüro",
+"branch": "Ferienhäuser und -wohnungen",
+"addr": "Stummplatz 1, 66538 Neunkirchen",
+"tel": "06821 29 02 80",
+"url": "http://www.dertour-reisebuero.de/neunkirchen1",
+"slug": "dertour-reiseb-ro",
+"ort": "spiesen-elversberg",
+"q": "hotel"
+},
+{
+"name": "Pension Geheimrat Inh. Bernd Altendorf u. Waltraud Haßdenteufel-Altendorf",
+"branch": "Pensionen",
+"addr": "Leopoldstr. 17, 66578 Schiffweiler",
+"tel": "06821 63 31 83",
+"url": "http://www.Pension-Geheimrat.de",
+"slug": "pension-geheimrat-inh-bernd-altendorf-u-",
+"ort": "spiesen-elversberg",
+"q": "pension"
+},
+{
+"name": "Born Therese u. Agnes Blumenhaus Fleuropdienst",
+"branch": "Blumen und Pflanzen",
+"addr": "Hauptstr. 116A, 66583 Spiesen-Elversberg (Spiesen) 90 m",
+"tel": "06821 75 81",
+"url": "https://www.fleurop.de/partnerfloristen/fleurop-filialen/66583-spiesen-elversberg/born-therese-und-agnes-hauptstr-116",
+"slug": "born-therese-u-agnes-blumenhaus-fleuropd",
+"ort": "spiesen-elversberg",
+"q": "blumen"
+},
+{
+"name": "Born Blumenhaus Fleuropdienst",
+"branch": "Blumen und Pflanzen",
+"addr": "Fichtenstr. 6, 66583 Spiesen-Elversberg (Elversberg)",
+"tel": "06821 7 13 96",
+"url": "http://florist.fleurop.de/born.spiesenelversberg",
+"slug": "born-blumenhaus-fleuropdienst",
+"ort": "spiesen-elversberg",
+"q": "blumen"
+},
+{
+"name": "Blume 2000",
+"branch": "Blumen und Pflanzen",
+"addr": "Stummplatz 1, 66538 Neunkirchen (Innenstadt)",
+"tel": "040 52 86 81 58",
+"url": "http://www.blume2000.de",
+"slug": "blume-2000",
+"ort": "spiesen-elversberg",
+"q": "blumen"
+},
+{
+"name": "Kathrin's Blumenstübchen",
+"branch": "Blumen und Pflanzen",
+"addr": "Zu den Grenzsteinen, 66539 Neunkirchen (Kohlhof)",
+"tel": "06821 3 15 92",
+"url": "http://www.diiicard.de/partner.php?id=1102",
+"slug": "kathrin-s-blumenst-bchen",
+"ort": "spiesen-elversberg",
+"q": "blumen"
+},
+{
+"name": "Raumtex-Biehl GmbH Raumausstattung Bodenbau",
+"branch": "Raumausstattung",
+"addr": "Klosterstr. 10A, 66578 Schiffweiler",
+"tel": "06821 60 31",
+"url": "https://www.raumtex-biehl.de",
+"slug": "raumtex-biehl-gmbh-raumausstattung-boden",
+"ort": "spiesen-elversberg",
+"q": "raumausstatter"
+},
+{
+"name": "Heimdecor Stummbillig Dekorationsgeschäft",
+"branch": "Gardinen und Zubehör",
+"addr": "Hüttenbergstr. 59, 66538 Neunkirchen",
+"tel": "06821 2 22 06",
+"url": "http://www.heimdecor-stummbillig.de",
+"slug": "heimdecor-stummbillig-dekorationsgesch-f",
+"ort": "spiesen-elversberg",
+"q": "raumausstatter"
+},
+{
+"name": "MF Marascia GmbH",
+"branch": "Fenster",
+"addr": "Fichtenstr. 4, 66583 Spiesen-Elversberg (Elversberg)",
+"tel": "06821 7 90 12 91",
+"url": "http://www.mf-fenster-tor-tür.de",
+"slug": "mf-marascia-gmbh",
+"ort": "spiesen-elversberg",
+"q": "rollladen"
+},
+{
+"name": "D & G Industriemontage GmbH",
+"branch": "Industriemontagen",
+"addr": "Elisabethstr. 2, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 98 31 50",
+"url": "http://www.dg-ims.de",
+"slug": "d-g-industriemontage-gmbh",
+"ort": "spiesen-elversberg",
+"q": "umzüge"
+},
+{
+"name": "Jan-Erik Johann Verkauf von Imbissgerichten",
+"branch": "Catering",
+"addr": "Thomas-Mann-Str. 25, 66583 Spiesen-Elversberg (Elversberg) 867 m",
+"tel": "0177 7 39 48 51",
+"url": "http://www.die-johanns.de",
+"slug": "jan-erik-johann-verkauf-von-imbissgerich",
+"ort": "spiesen-elversberg",
+"q": "catering"
+},
+{
+"name": "Gaststätte Mühlwiesstube",
+"branch": "Gaststätten und Restaurants",
+"addr": "Ottweilerstr. 42, 66540 Neunkirchen (Wiebelskirchen)",
+"tel": "06821 4 01 85 99",
+"url": "http://muehlwiesstube.eatbu.com",
+"slug": "gastst-tte-m-hlwiesstube",
+"ort": "spiesen-elversberg",
+"q": "catering"
+},
+{
+"name": "eyes and more GmbH",
+"branch": "Augenoptik",
+"addr": "Stummplatz 1, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 7 90 78 88",
+"url": "http://www.eyesandmore.de",
+"slug": "eyes-and-more-gmbh",
+"ort": "spiesen-elversberg",
+"q": "optiker"
+},
+{
+"name": "Mayer Peter Fahrschule",
+"branch": "Fahrschulen",
+"addr": "Zum Spitzen Stein 6, 66583 Spiesen-Elversberg (Elversberg)",
+"tel": "06821 79 06 79",
+"url": "http://www.Mayers-fahrschule.net",
+"slug": "mayer-peter-fahrschule",
+"ort": "spiesen-elversberg",
+"q": "fahrschule"
+},
+{
+"name": "CrazyDrive Fahrschule",
+"branch": "Fahrschulen",
+"addr": "Zweibrücker Str. 48, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 9 53 90 53",
+"url": "https://www.fahrschule-crazydrive.de/filialen/fahrschule-neunkirchen/f-1442//",
+"slug": "crazydrive-fahrschule",
+"ort": "spiesen-elversberg",
+"q": "fahrschule"
+},
+{
+"name": "Academy Fahrschule Zimmer",
+"branch": "Fahrschulen",
+"addr": "Lindenallee 15, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 9 42 66 14",
+"url": "http://www.academy-fahrschule-zimmer.de",
+"slug": "academy-fahrschule-zimmer",
+"ort": "spiesen-elversberg",
+"q": "fahrschule"
+},
+{
+"name": "Deichmann-Schuhe GmbH & Co. KG",
+"branch": "Schuhwaren",
+"addr": "Stummplatz 1, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 17 70 77",
+"url": "http://www.deichmann.com",
+"slug": "deichmann-schuhe-gmbh-co-kg",
+"ort": "spiesen-elversberg",
+"q": "schuhe"
+},
+{
+"name": "Schuh Marke GmbH & Co.KG",
+"branch": "Schuhwaren",
+"addr": "Stummplatz 1, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 17 73 44",
+"url": "http://www.schuh-marke.de",
+"slug": "schuh-marke-gmbh-co-kg",
+"ort": "spiesen-elversberg",
+"q": "schuhe"
+},
+{
+"name": "Tamaris",
+"branch": "Schuhwaren",
+"addr": "Stummplatz 1, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 8 69 05 08",
+"url": "http://www.tamaris.de",
+"slug": "tamaris",
+"ort": "spiesen-elversberg",
+"q": "schuhe"
+},
+{
+"name": "Tally Weijl",
+"branch": "Damenmoden",
+"addr": "Stummplatz 1, 66538 Neunkirchen (Innenstadt)",
+"tel": "06821 2 90 20 61",
+"url": "http://www.tally-weijl.com",
+"slug": "tally-weijl",
+"ort": "spiesen-elversberg",
+"q": "schuhe"
+},
+{
+"name": "s.Oliver Store",
+"branch": "Bekleidung",
+"addr": "Stummstraße 1, 66538 Neunkirchen",
+"tel": "06821 17 72 80",
+"url": "https://stores.soliver.com/neunkirchen/stummstra%C3%9Fe-1",
+"slug": "s-oliver-store",
+"ort": "spiesen-elversberg",
+"q": "schuhe"
+},
+{
+"name": "VKV Kartoffelvertriebsgesellschaft mbH Lebensmittelgroßhandel",
+"branch": "Landwirtschaftliche Erzeugnisse",
+"addr": "Güterbahnhof 1, 66538 Neunkirchen (Innenstadt) 5 km",
+"tel": "06821 14 94 06",
+"url": "http://www.vkv-gmbh.de",
+"slug": "vkv-kartoffelvertriebsgesellschaft-mbh-l",
+"ort": "spiesen-elversberg",
+"q": "landwirtschaft"
+},
+{
+"name": "Kiefer-Biewer Jutta Steinmetz- u. Bildhauermeisterin",
+"branch": "Steinmetzbetriebe",
+"addr": "Pestalozzistr. 107, 66578 Schiffweiler (Heiligenwald)",
+"tel": "06821 6 55 44",
+"url": "http://www.natursteine-biewer.de",
+"slug": "kiefer-biewer-jutta-steinmetz-u-bildhaue",
+"ort": "spiesen-elversberg",
+"q": "steinmetz"
+},
+{
+"name": "Thome & Gross GmbH",
+"branch": "Grabmale",
+"addr": "Forsthaus Landerthal 1, 66539 Neunkirchen 4 km",
+"tel": "06821 17 88 77",
+"url": "http://www.grabmale-gross-neunkirchen.de",
+"slug": "thome-gross-gmbh",
+"ort": "spiesen-elversberg",
+"q": "steinmetz"
+},
+{
+"name": "Carsten Lander GmbH",
+"branch": "Malerbetriebe",
+"addr": "Josefstr. 9, 66578 Schiffweiler (Stennweiler)",
+"tel": "0160 96 81 62 79",
+"url": "http://www.carsten-lander.de",
+"slug": "carsten-lander-gmbh",
+"ort": "ottweiler",
+"q": "maler"
+},
+{
+"name": "Broccos Malerarbeiten",
+"branch": "Malerbetriebe",
+"addr": "Wetschhauser Hof 3, 66564 Ottweiler (Steinbach)",
+"tel": "06824 3 02 92 72",
+"url": "http://www.brocco.de",
+"slug": "broccos-malerarbeiten",
+"ort": "ottweiler",
+"q": "maler"
+},
+{
+"name": "Eckert H. J. GmbH Putzarbeiten",
+"branch": "Stuckateurbetriebe",
+"addr": "Gewerbepark Klinkenthal 18, 66578 Schiffweiler (Heiligenwald)",
+"tel": "06821 97 25 70",
+"url": "http://www.hj-eckertgruppe.de",
+"slug": "eckert-h-j-gmbh-putzarbeiten",
+"ort": "ottweiler",
+"q": "maler"
+},
+{
+"name": "Becker Bernd GmbH Bedachungen",
+"branch": "Dachdeckereien",
+"addr": "Goethestr. 2, 66564 Ottweiler 49 m",
+"tel": "06824 9 10 77",
+"url": "http://www.bb-dachdecker.de",
+"slug": "becker-bernd-gmbh-bedachungen",
+"ort": "ottweiler",
+"q": "dachdecker"
+},
+{
+"name": "Gros Jens Zimmerei",
+"branch": "Dachdeckereien",
+"addr": "Fürther Str. 5, 66564 Ottweiler 775 m",
+"tel": "06824 9 31 55 40",
+"url": "http://www.jens-gros.de",
+"slug": "gros-jens-zimmerei",
+"ort": "ottweiler",
+"q": "dachdecker"
+},
+{
+"name": "Dachdeckerei Schappert GmbH Dachdeckerei",
+"branch": "Dachdeckereien",
+"addr": "Zur Kipp 9, 66578 Schiffweiler (Stennweiler)",
+"tel": "06824 73 25",
+"url": "http://www.schappert-dach.de",
+"slug": "dachdeckerei-schappert-gmbh-dachdeckerei",
+"ort": "ottweiler",
+"q": "dachdecker"
+},
+{
+"name": "Steinmetz Bernd Dachdeckermeisterbetrieb",
+"branch": "Dachdeckereien",
+"addr": "Petersheckstr. 4, 66564 Ottweiler (Fürth)",
+"tel": "06858 60 01 19",
+"url": "http://www.dachdeckerei-steinmetz.de",
+"slug": "steinmetz-bernd-dachdeckermeisterbetrieb",
+"ort": "ottweiler",
+"q": "dachdecker"
+},
+{
+"name": "Kaspar Christian Schreinerei",
+"branch": "Tischlereien",
+"addr": "In der Etzwies 2-4, 66564 Ottweiler",
+"tel": "06824 9 12 44",
+"url": "http://www.schreinerei-kaspar.de",
+"slug": "kaspar-christian-schreinerei",
+"ort": "ottweiler",
+"q": "schreiner"
+},
+{
+"name": "Schäfer Frank Schreinermeister",
+"branch": "Tischlereien",
+"addr": "Grüner Flur 31, 66564 Ottweiler (Steinbach)",
+"tel": "06858 6 99 81 88",
+"url": "http://www.schreinermeister-schaefer.de",
+"slug": "sch-fer-frank-schreinermeister",
+"ort": "ottweiler",
+"q": "schreiner"
+},
+{
+"name": "Schreiner GmbH Elektrohaus",
+"branch": "Elektrogeräte und -bedarf",
+"addr": "Schloßstr. 5-7, 66564 Ottweiler 72 m",
+"tel": "06824 22 54",
+"url": "http://www.elektrohaus-schreiner.de",
+"slug": "schreiner-gmbh-elektrohaus",
+"ort": "ottweiler",
+"q": "schreiner"
+},
+{
+"name": "Michael Brücher GmbH",
+"branch": "Bäder",
+"addr": "Friedrich-Ebert-Str. 29, 66564 Ottweiler",
+"tel": "06824 45 30",
+"url": "http://www.bruechergmbh.de",
+"slug": "michael-br-cher-gmbh",
+"ort": "ottweiler",
+"q": "sanitär"
+},
+{
+"name": "Heizung-Sanitär Kirsch UG (haftungsbeschränkt)",
+"branch": "Heizungs- und Lüftungsbau",
+"addr": "Bauernstr. 33, 66578 Schiffweiler 4 km",
+"tel": "06821 9 64 10",
+"url": "http://www.b-kirsch.de",
+"slug": "heizung-sanit-r-kirsch-ug-haftungsbeschr",
+"ort": "ottweiler",
+"q": "sanitär"
+},
+{
+"name": "Böcker Fliesen & Bäder GmbH",
+"branch": "Fliesen",
+"addr": "Fürther Str. 9, 66564 Ottweiler 880 m",
+"tel": "06824 74 83",
+"url": "http://www.fliesen-boecker.de",
+"slug": "b-cker-fliesen-b-der-gmbh",
+"ort": "ottweiler",
+"q": "sanitär"
+},
+{
+"name": "regena Regenerative Heiz- und Sanitärtechnik",
+"branch": "Heizungs- und Lüftungsbau",
+"addr": "Waldstr. 4, 66564 Ottweiler",
+"tel": "06824 5 06 99 29",
+"url": "http://www.regena-saarpfalz.de",
+"slug": "regena-regenerative-heiz-und-sanit-rtech",
+"ort": "ottweiler",
+"q": "heizung"
+},
+{
+"name": "Jörg Rossek GmbH Fliesenverlegung",
+"branch": "Fliesenverlegungen",
+"addr": "Süßbachweg 60, 66540 Neunkirchen (Hangard) 4 km",
+"tel": "0177 7 75 73 37",
+"url": "http://www.fliesenrossek.de",
+"slug": "j-rg-rossek-gmbh-fliesenverlegung",
+"ort": "ottweiler",
+"q": "fliesenleger"
+},
+{
+"name": "Ecker Arno Metallbaumontage",
+"branch": "Metallbau",
+"addr": "Weiherstr. 14, 66564 Ottweiler (Fürth)",
+"tel": "06858 9 00 50 85",
+"url": "http://metallbau-ecker.de",
+"slug": "ecker-arno-metallbaumontage",
+"ort": "ottweiler",
+"q": "metallbau"
+},
+{
+"name": "MarTom Montagetechnik Leichtmetallbau",
+"branch": "Metallbau",
+"addr": "Brunnenstr. 16, 66578 Schiffweiler (Heiligenwald)",
+"tel": "06824 70 13 39",
+"url": "http://www.martom-montagetechnik.de",
+"slug": "martom-montagetechnik-leichtmetallbau",
+"ort": "ottweiler",
+"q": "metallbau"
+},
+{
+"name": "Schneider Andreas Schlosserei",
+"branch": "Schlossereien",
+"addr": "Herrengartenstr. 7, 66564 Ottweiler 212 m",
+"tel": "06824 49 66",
+"url": "http://www.schneider-otw.de",
+"slug": "schneider-andreas-schlosserei",
+"ort": "ottweiler",
+"q": "schlosserei"
+},
+{
+"name": "Henrichs André Gartenbau",
+"branch": "Garten- und Landschaftsbau",
+"addr": "Saarbrücker Str. 52b, 66564 Ottweiler 951 m",
+"tel": "06824 9 31 59 06",
+"url": "http://www.henrichsgarten.de",
+"slug": "henrichs-andr-gartenbau",
+"ort": "ottweiler",
+"q": "gartenbau"
+},
+{
+"name": "Zickwolff Garten- und Landschaftsbau",
+"branch": "Garten- und Landschaftsbau",
+"addr": "Spitalstr. 87, 66564 Ottweiler",
+"tel": "06824 7 02 89 75",
+"url": "http://www.gaertnerei-zickwolff.de",
+"slug": "zickwolff-garten-und-landschaftsbau",
+"ort": "ottweiler",
+"q": "gartenbau"
+},
+{
+"name": "Fritz LUF Landschafts & Forstbau Forstwirtschaftliche Dienstleistungen",
+"branch": "Garten- und Landschaftsbau",
+"addr": "Brunnenwies 13, 66564 Ottweiler (Steinbach)",
+"tel": "0174 5 42 06 83",
+"url": "http://www.fritz-luf.de",
+"slug": "fritz-luf-landschafts-forstbau-forstwirt",
+"ort": "ottweiler",
+"q": "gartenbau"
+},
+{
+"name": "Rajvinder Pal Singh-Ghotra Restaurant",
+"branch": "Gaststätten und Restaurants",
+"addr": "Kuseler Str. 3, 66564 Ottweiler (Steinbach)",
+"tel": "06858 62 70",
+"url": "http://taj-service.de",
+"slug": "rajvinder-pal-singh-ghotra-restaurant",
+"ort": "ottweiler",
+"q": "restaurants"
+},
+{
+"name": "Maria Pizza Pasta Foodtruck",
+"branch": "Gaststätten: Pizzaservice",
+"addr": "St.-Barbara-Str. 20, 66539 Neunkirchen (Wellesweiler)",
+"tel": "0152 23 20 93 17",
+"url": "https://www.mariapizzapasta.de",
+"slug": "maria-pizza-pasta-foodtruck",
+"ort": "ottweiler",
+"q": "restaurants"
+},
+{
+"name": "Da Toni Ristorante",
+"branch": "Gaststätten: Pizzerias",
+"addr": "Schönbachstr. 7, 66564 Ottweiler (Lautenbach)",
+"tel": "06858 6 98 07 07",
+"url": "http://www.ristorante-datoni-ottweiler.de",
+"slug": "da-toni-ristorante",
+"ort": "ottweiler",
+"q": "pizzeria"
+},
+{
+"name": "Alte Schafbrücker Mühle Hotelrestaurant",
+"branch": "Gaststätten: Bürgerlich",
+"addr": "Schafbrücker Mühle 9, 66564 Ottweiler",
+"tel": "06824 32 37",
+"url": "http://www.schafbruecker-muehle.de",
+"slug": "alte-schafbr-cker-m-hle-hotelrestaurant",
+"ort": "ottweiler",
+"q": "gaststätten"
+},
+{
+"name": "Café Maria",
+"branch": "Cafés",
+"addr": "Steinstr. 2, 66578 Schiffweiler (Stennweiler) 4 km",
+"tel": "06824 5 08 41 38",
+"url": "http://www.cafe-maria.com",
+"slug": "caf-maria",
+"ort": "ottweiler",
+"q": "café"
+},
+{
+"name": "Ditsch Neunkirchen Saarpark-Center",
+"branch": "Backwaren",
+"addr": "Stummstraße 1, 66538 Neunkirchen",
+"tel": "06821 1 79 92 32",
+"url": "https://www.ditsch.de/",
+"slug": "ditsch-neunkirchen-saarpark-center",
+"ort": "ottweiler",
+"q": "bäckerei"
+},
+{
+"name": "Feinkost Jacob Landmetzgerei",
+"branch": "Fleischereien",
+"addr": "Schönbachstr. 3, 66564 Ottweiler (Lautenbach)",
+"tel": "06858 2 10",
+"url": "http://www.feinkostjacob.de",
+"slug": "feinkost-jacob-landmetzgerei",
+"ort": "ottweiler",
+"q": "metzgerei"
+},
+{
+"name": "Friseursalon Art Of Hair Inh. Daniel Hoffmann",
+"branch": "Friseure",
+"addr": "Hohlstr. 13, 66564 Ottweiler 522 m",
+"tel": "06824 45 10",
+"url": "http://www.friseursalon-artofhair.de",
+"slug": "friseursalon-art-of-hair-inh-daniel-hoff",
+"ort": "ottweiler",
+"q": "friseur"
+},
+{
+"name": "Hoffmann Desirée Ihr Frisör im Hessehaus Friseursalon",
+"branch": "Friseure",
+"addr": "Schloßhof 5, 66564 Ottweiler 11 m",
+"tel": "06824 44 03",
+"url": "http://www.friseur-ottweiler.de",
+"slug": "hoffmann-desir-e-ihr-fris-r-im-hessehaus",
+"ort": "ottweiler",
+"q": "friseur"
+},
+{
+"name": "Herz Hair Hairdesign",
+"branch": "Friseure",
+"addr": "Rathausplatz 2, 66564 Ottweiler 104 m",
+"tel": "06824 65 55",
+"url": "http://www.herz-hair-design.de",
+"slug": "herz-hair-hairdesign",
+"ort": "ottweiler",
+"q": "friseur"
+},
+{
+"name": "Prestige Haarstudio",
+"branch": "Friseure",
+"addr": "Welschbacher Str. 12, 66578 Schiffweiler (Stennweiler)",
+"tel": "06824 9 31 92 92",
+"url": "http://www.prestige-haarstudio.de",
+"slug": "prestige-haarstudio",
+"ort": "ottweiler",
+"q": "friseur"
+},
+{
+"name": "Gilges Daniel Friseursalon",
+"branch": "Friseure",
+"addr": "Brückenstr. 2, 66578 Schiffweiler",
+"tel": "06821 96 33 66",
+"url": "http://www.friseur-gilges.de",
+"slug": "gilges-daniel-friseursalon",
+"ort": "ottweiler",
+"q": "friseur"
+},
+{
+"name": "Wolf Brigitte Friseursalon",
+"branch": "Friseure",
+"addr": "Bergstr. 2, 66578 Schiffweiler (Landsweiler)",
+"tel": "06821 62 12",
+"url": "http://www.salon-wolf.de",
+"slug": "wolf-brigitte-friseursalon",
+"ort": "ottweiler",
+"q": "friseur"
+},
+{
+"name": "Schmid Marco Friseur",
+"branch": "Friseure",
+"addr": "Lautenbacher Str. 28, 66540 Neunkirchen (Münchwies) 6 km",
+"tel": "0176 55 50 32 23",
+"url": "http://crehairdrive.de",
+"slug": "schmid-marco-friseur",
+"ort": "ottweiler",
+"q": "friseur"
+},
+{
+"name": "Autozentrum Ottweiler Autowerkstätten",
+"branch": "Autoreparaturen",
+"addr": "In der Etzwies 5, 66564 Ottweiler",
+"tel": "06824 9 84 99 14",
+"url": "http://autozentrum-ottweiler.de",
+"slug": "autozentrum-ottweiler-autowerkst-tten",
+"ort": "ottweiler",
+"q": "autowerkstatt"
+},
+{
+"name": "Goethe",
+"branch": "Hotels",
+"addr": "Goethestr. 9, 66564 Ottweiler 105 m",
+"tel": "06824 9 18 22",
+"url": "http://www.hotelgoetheottweiler.de",
+"slug": "goethe",
+"ort": "ottweiler",
+"q": "hotel"
+},
+{
+"name": "Waldhotel",
+"branch": "Hotels",
+"addr": "Humesweg 4, 66540 Neunkirchen (Wiebelskirchen)",
+"tel": "06821 5 18 56",
+"url": "http://www.wald-hotel-garni.de",
+"slug": "waldhotel",
+"ort": "ottweiler",
+"q": "hotel"
+},
+{
+"name": "Therese Christierson TC-Hotel.Marketing",
+"branch": "Unternehmensberatung",
+"addr": "Hangarder Weg 12, 66564 Ottweiler",
+"tel": "0170 9 19 32 22",
+"url": "http://tc-hotelmarketing.de",
+"slug": "therese-christierson-tc-hotel-marketing",
+"ort": "ottweiler",
+"q": "hotel"
+},
+{
+"name": "Klebeheld.de",
+"branch": "Raumausstattung",
+"addr": "Ottweilerstr. 18, 66564 Ottweiler (Steinbach)",
+"tel": "06858 2 02 43 81",
+"url": "https://klebeheld.de",
+"slug": "klebeheld-de",
+"ort": "ottweiler",
+"q": "raumausstatter"
+},
+{
+"name": "Müller Ludwig Augenoptik",
+"branch": "Augenoptik",
+"addr": "Wilhelm-Heinrich-Str. 39, 66564 Ottweiler 353 m",
+"tel": "06824 14 22",
+"url": "http://www.optik-mueller-ottweiler.de",
+"slug": "m-ller-ludwig-augenoptik",
+"ort": "ottweiler",
+"q": "optiker"
+},
+{
+"name": "Lung Fung Gastronomie Partyservice",
+"branch": "Gaststätten: Asiatisch",
+"addr": "Stummplatz 1, 66538 Neunkirchen (Innenstadt) 29 m",
+"tel": "06821 17 06 88",
+"url": "http://www.lungfung.de",
+"slug": "lung-fung-gastronomie-partyservice",
+"ort": "neunkirchen-saar",
+"q": "gaststätten"
+},
+{
+"name": "NORDSEE GmbH",
+"branch": "Gaststätten: Fischspezialitäten",
+"addr": "Stummplatz 1, 66538 Neunkirchen (Innenstadt) 29 m",
+"tel": "06821 2 25 03",
+"url": "http://www.nordsee.com",
+"slug": "nordsee-gmbh",
+"ort": "neunkirchen-saar",
+"q": "gaststätten"
+},
+{
+"name": "Pizza Hut",
+"branch": "Gaststätten: Schnellrestaurants",
+"addr": "Stummplatz 1, 66538 Neunkirchen (Innenstadt) 29 m",
+"tel": "06821 9 83 05 01",
+"url": "http://www.pizzahut.de",
+"slug": "pizza-hut",
+"ort": "neunkirchen-saar",
+"q": "gaststätten"
+}
+]

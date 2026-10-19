@@ -1,5 +1,6 @@
 # Stündliche Lead-Welle (Runbook für Claude)
 Ziel: Jede Stunde 5 neue Leads aus der Queue mit Vorher/Nachher, Preis, Zusatzleistungen und Vorschau-Seite.
+0. Wenn die Queue leer ist: `python3 wave/harvest_gs.py ORTE BRANCHEN > wave/new_leads.jsonl` (Gelbe Seiten per curl, Website-Link base64), nach PLZ filtern -> wave/new_near.json, `python3 wave/screen.py wave/new_near.json` (immer https, Browser-http scheitert am Proxy), nach Alterssignalen ranken, Auswahl in data/all_v2.json ergänzen.
 1. `cat wave/state.json` -> nächste 5 Slugs aus `queue` (Reihenfolge = Ranking). Domain-Kaperungen/geparkte Seiten nur nehmen, wenn sich der Betrieb sicher identifizieren lässt.
 2. `python3 wave/fetch.py SLUG...` (Vorher-Screenshots, Text). Danach `python3 wave/deep.py URL...` und `python3 wave/imgs.py KURZ MAX URL...` für Inhalte und Fotos. Fehlende Fakten per WebSearch/WebFetch (Das Örtliche, Gelbe Seiten, speisekarte.menu, Lieferando-Verzeichnisse). Nichts erfinden: unbekannte Zeiten/Preise weglassen.
 3. Pro Lead `wave/content/KURZ.json` schreiben (Felder wie wave/content/heil.json; Themes: doener, gelato, papier, metall, beauty, praxis). Preise nie unter 690 €.

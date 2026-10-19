@@ -1,0 +1,125 @@
+{
+ "slug": "welzower-stuben",
+ "theme": "spa",
+ "name": "Welzower Stuben",
+ "branche": "Restaurant und Partyservice",
+ "addr": "Marktstraße 1 · 66578 Schiffweiler",
+ "tel": "06821 690943",
+ "url": "https://www.welzower-stuben.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Solide Chance",
+ "visit": "Nachmittags zwischen 14 und 18 Uhr, Chef Leonard Bala direkt ansprechen",
+ "logo_a": "Welzower",
+ "logo_b": "Stuben",
+ "nav": [
+  "Speisekarte",
+  "Mittagstisch",
+  "Buffet",
+  "Reservieren"
+ ],
+ "eyebrow": "Restaurant in der Klinkenthalhalle, Schiffweiler",
+ "h1": "Bürgerliche Küche, Steaks und saarländische Spezialitäten.",
+ "lead": "Von Nudelgerichten und Salaten bis zu südamerikanischen Steaks, mit besonderem Augenmerk auf saarländische Spezialitäten. Mittagstisch an fast allen Tagen, Buffets ab 20 Personen direkt zu Ihnen nach Hause.",
+ "cta1": "Tisch reservieren",
+ "cta2": "Speisekarte",
+ "mcta": "Anrufen",
+ "badge": [
+  "ab 20",
+  "Personen: Buffet nach Hause"
+ ],
+ "deco": "",
+ "hero_img": "img/welzower-stuben_0.png",
+ "trust": [
+  "<b>Mittagstisch</b> unter der Woche",
+  "<b>Buffet</b> kalt und warm, ab 20 Personen",
+  "<b>Feiern</b> auch an Ruhetagen ab 10 Personen"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Bei uns",
+ "services": [
+  [
+   "Restaurant",
+   "Großzügige Gasträume in der Klinkenthalhalle."
+  ],
+  [
+   "Mittagstisch",
+   "Mittags von 11:30 bis 14:00 Uhr."
+  ],
+  [
+   "Steaks",
+   "Südamerikanische Steakvariationen."
+  ],
+  [
+   "Saarländisch",
+   "Spezialitäten aus der Region."
+  ],
+  [
+   "Partyservice",
+   "Kaltes und warmes Buffet ab 20 Personen, geliefert."
+  ],
+  [
+   "Feiern",
+   "Ab 10 Personen auch an Ruhetagen."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Feier geplant? Buffet ab 20 Personen, direkt zu Ihnen.",
+ "hours": [
+  [
+   "Montag, Dienstag",
+   "11:30 bis 14:00 und 18:00 bis 22:00"
+  ],
+  [
+   "Mittwoch",
+   "11:30 bis 14:00"
+  ],
+  [
+   "Donnerstag, Freitag",
+   "11:30 bis 14:00 und 18:00 bis 22:00"
+  ],
+  [
+   "Samstag",
+   "18:00 bis 22:00"
+  ],
+  [
+   "Sonntag",
+   "11:30 bis 14:00"
+  ]
+ ],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "contact": "Welzower Stuben<br>In der Klinkenthalhalle<br>Marktstraße 1<br>66578 Schiffweiler<br><br>Telefon 06821 690943",
+ "audit": [
+  "Auf der Startseite fehlt ein Bild, stattdessen steht der Ersatztext 'Leonard Bala und sein Bruder heißen Sie recht herzlich willkommen' im leeren Feld",
+  "Nicht für Smartphones angepasst, Copyright 2014 bis 2020",
+  "Der Willkommenstext steht auf jeder Unterseite noch einmal über dem eigentlichen Inhalt, Partyservice nur als roter Kasten"
+ ],
+ "hebel": "Buffets ab 20 Personen und Feiern sind die großen Umsätze. Wer eine Feier plant, sucht 'Partyservice Schiffweiler' oder 'Buffet Neunkirchen' und fragt dort an, wo Angebot und Anfrage klar sind. Eine eigene Seite für Buffet und Feiern mit Anfrageformular holt diese Aufträge.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit Speisekarte als Text, Mittagstisch, Seite Partyservice und Feiern mit Anfrage (Datum, Personen), Google-Profil",
+ "svc": [
+  "Anfrage Buffet und Feier mit Datum und Personenzahl",
+  "Wochenkarte Mittagstisch, die das Team selbst pflegt",
+  "Google-Profil mit Fotos der Gasträume",
+  "Seite für Vereine und Firmen in der Klinkenthalhalle"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite lädt das Foto von Ihnen und Ihrem Bruder nicht, dort steht nur der Text. Ich habe Ihnen mitgebracht, wie Ihre Seite mit Buffet-Anfrage aussehen könnte.",
+ "obj": "'Bei uns kommen die Leute aus dem Ort': Für das Restaurant ja. Für Buffets und Feiern suchen auch Leute aus Neunkirchen und Umgebung, und die finden Sie heute online kaum.",
+ "obs": [
+  "Auf Ihrer Startseite lädt ein Foto nicht, man sieht nur den Ersatztext.",
+  "Am Handy muss man zoomen, das Copyright steht bei 2020.",
+  "Ihr Partyservice steht nur in einem kleinen roten Kasten."
+ ],
+ "neu": [
+  "Buffet und Feiern mit eigener Anfrage",
+  "Mittagstisch und Öffnungszeiten am Handy lesbar",
+  "Gasträume mit großen Fotos"
+ ]
+}

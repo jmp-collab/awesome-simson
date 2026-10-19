@@ -1,0 +1,104 @@
+{
+ "k": "welzow",
+ "url": "https://www.welzower-stuben.de",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 3.8,
+  "status": 200,
+  "final": "https://www.welzower-stuben.de/",
+  "title": "Startseite - Welzower Stuben - Klinkenthalhalle - Essen - Trinken - Schiffweiler - Saarland",
+  "desc": "Das Bistro und Restaurant mit gutbürgerlicher deutscher Küche in der Klinkenthalhalle in Schiffweiler im Saarland.",
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": "Joomla! - Open Source Content Management",
+  "h1": [],
+  "words": 220,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 1,
+  "broken": [
+   {
+    "src": "https://www.welzower-stuben.de/images/content/startseite/wirte.png",
+    "alt": "Leonard Bala und sein Bruder - heißen Sie recht herzlich Willkommen in den Welzo"
+   }
+  ],
+  "noalt": 0,
+  "big": [],
+  "years": [
+   2020
+  ],
+  "small": 3,
+  "total": 56,
+  "taps": 4,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Failed to load resource: the server responded with a status of 403 (Forbidden)"
+  ],
+  "requests": 20,
+  "bytes": 3025714,
+  "img_bytes": 2899790
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 2.6,
+  "status": 200,
+  "final": "https://www.welzower-stuben.de/",
+  "title": "Startseite - Welzower Stuben - Klinkenthalhalle - Essen - Trinken - Schiffweiler - Saarland",
+  "desc": "Das Bistro und Restaurant mit gutbürgerlicher deutscher Küche in der Klinkenthalhalle in Schiffweiler im Saarland.",
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": "Joomla! - Open Source Content Management",
+  "h1": [],
+  "words": 220,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 1,
+  "broken": [
+   {
+    "src": "https://www.welzower-stuben.de/images/content/startseite/wirte.png",
+    "alt": "Leonard Bala und sein Bruder - heißen Sie recht herzlich Willkommen in den Welzo"
+   }
+  ],
+  "noalt": 0,
+  "big": [],
+  "years": [
+   2020
+  ],
+  "small": 3,
+  "total": 56,
+  "taps": 4,
+  "placeholders": [],
+  "scrollW": 1001,
+  "innerW": 1001,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Failed to load resource: the server responded with a status of 403 (Forbidden)"
+  ],
+  "requests": 20,
+  "bytes": 3025712,
+  "img_bytes": 2899790
+ },
+ "http_to": "http://www.welzower-stuben.de/",
+ "http_code": "200",
+ "http_redirects_to_https": false
+}

@@ -742,5 +742,65 @@
    "Anfrage mit Datum und Gästezahl",
    "Eigene E-Mail-Adresse mit Domain"
   ]
+ },
+ "welzow": {
+  "obs": [
+   "Auf Ihrer Startseite lädt ein Foto nicht, man sieht nur den Ersatztext.",
+   "Am Handy muss man zoomen, das Copyright steht bei 2020.",
+   "Ihr Partyservice steht nur in einem kleinen roten Kasten."
+  ],
+  "neu": [
+   "Buffet und Feiern mit eigener Anfrage",
+   "Mittagstisch und Öffnungszeiten am Handy lesbar",
+   "Gasträume mit großen Fotos"
+  ]
+ },
+ "schappert": {
+  "obs": [
+   "Ihre Domain zeigt nur eine Platzhalterseite des Hosters.",
+   "Dort steht weder Ihre Telefonnummer noch Ihr Name.",
+   "Wer Sie bei Google sucht, findet eine leere Seite."
+  ],
+  "neu": [
+   "Eine fertige Seite mit Ihrem Namen und Telefon",
+   "Anfrage mit Foto vom Dach",
+   "Referenzen aus der Region"
+  ]
+ },
+ "laluna": {
+  "obs": [
+   "Adresse, Telefon und Öffnungszeiten stehen nur als Bild auf der Seite.",
+   "Auf der Startseite gibt es kaum lesbaren Text.",
+   "Am Handy ist die Seite nicht lesbar."
+  ],
+  "neu": [
+   "Karte und Heimservice am Handy lesbar",
+   "Anrufen mit einem Tipp",
+   "Bei Google mit Zeiten und Karte sichtbar"
+  ]
+ },
+ "droeschel": {
+  "obs": [
+   "Ihre Leistungen stehen nur als Bild auf der Startseite.",
+   "Am Handy ist die Seite nicht lesbar.",
+   "Es gibt keine Fotos Ihrer Wintergärten und Überdachungen."
+  ],
+  "neu": [
+   "Jede Leistung mit eigener Seite und Fotos",
+   "Anfrage mit Foto der Hauswand",
+   "Am Handy lesbar, Anrufen mit einem Tipp"
+  ]
+ },
+ "schafb": {
+  "obs": [
+   "Am Handy ist die Seite verkleinert und schwer lesbar.",
+   "Zimmerpreise sieht man erst auf einer Unterseite.",
+   "Für Zimmer und Feiern gibt es keine Online-Anfrage."
+  ],
+  "neu": [
+   "Zimmer, Preise und Räume auf einen Blick",
+   "Anfrage mit Datum für Zimmer und Feiern",
+   "Wanderwege und Ausflüge für Gäste von außerhalb"
+  ]
  }
 }
