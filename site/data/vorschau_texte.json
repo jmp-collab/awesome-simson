@@ -982,5 +982,65 @@
    "Anruf mit einem Fingertipp",
    "Anfrage mit Foto"
   ]
+ },
+ "lambert": {
+  "obs": [
+   "Gebaut mit Apple iWeb, seit 2011 eingestellt.",
+   "Browser zeigt 'Nicht sicher'.",
+   "Telefon und Mobil nicht antippbar."
+  ],
+  "neu": [
+   "Große Vorher-nachher-Fotos",
+   "Anfrage mit Foto",
+   "Sichere Verbindung"
+  ]
+ },
+ "niklas": {
+  "obs": [
+   "Kontakt-Link führt auf eine Fehlerseite.",
+   "Copyright 2012, keine sichere Verbindung.",
+   "Am Handy 960 Pixel breit."
+  ],
+  "neu": [
+   "Anfrage mit Maßen, die funktioniert",
+   "Referenzen groß",
+   "Am Handy lesbar"
+  ]
+ },
+ "fischer": {
+  "obs": [
+   "Eine einzige Seite ohne Menü und ohne Fotos.",
+   "Browser zeigt 'Nicht sicher'.",
+   "Keine Adresse auf der Seite."
+  ],
+  "neu": [
+   "Referenzgalerie",
+   "Anfrage mit Maßen",
+   "Sichere Verbindung"
+  ]
+ },
+ "doerr": {
+  "obs": [
+   "Über 20 Spam-Links 'Merchweiler ...' unten auf der Seite.",
+   "Keine sichere Verbindung, am Handy 1100 Pixel breit.",
+   "Zwei Schreibweisen des Namens."
+  ],
+  "neu": [
+   "Saubere Ortsseiten",
+   "Sturmschaden-Anfrage mit Foto",
+   "Sichere Verbindung"
+  ]
+ },
+ "brill": {
+  "obs": [
+   "Frames und .php3, Technik der späten 90er.",
+   "Sortenfotos nur 243 Pixel breit.",
+   "Keine englische Version, keine sichere Verbindung."
+  ],
+  "neu": [
+   "Sortenkatalog mit großen Fotos",
+   "Deutsch und englisch",
+   "Sichere Verbindung"
+  ]
  }
 }

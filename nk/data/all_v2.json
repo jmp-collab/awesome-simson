@@ -30173,5 +30173,93 @@
   "tel": "06821 62 23",
   "slug": "brill-rosen",
   "src": "gelbeseiten"
+ },
+ {
+  "name": "VKV Kartoffelvertriebsgesellschaft mbH Lebensmittelgroßhandel",
+  "branch": "Landwirtschaftliche Erzeugnisse",
+  "addr": "Güterbahnhof 1, 66538 Neunkirchen (Innenstadt)",
+  "plz": "66538",
+  "url": "http://www.vkv-gmbh.de",
+  "final": "https://vkv-gmbh.de/",
+  "tel": "06821 14 94 06",
+  "slug": "vkv-kartoffelvertriebsgesellschaft-mbh-l",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Herz Hair Hairdesign",
+  "branch": "Friseure",
+  "addr": "Rathausplatz 2, 66564 Ottweiler",
+  "plz": "66564",
+  "url": "http://www.herz-hair-design.de",
+  "final": "http://www.herz-hair-design.de/",
+  "tel": "06824 65 55",
+  "slug": "herz-hair-hairdesign",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Seiler Friseurteam Friseur",
+  "branch": "Friseure",
+  "addr": "Bahnhofstr. 9, 66538 Neunkirchen (Innenstadt)",
+  "plz": "66538",
+  "url": "http://www.friseur-team-seiler.de",
+  "final": "http://www.friseur-team-seiler.de/",
+  "tel": "06821 2 21 71",
+  "slug": "seiler-friseurteam-friseur",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Aloys Lambert Garten- und Landschaftsbau",
+  "branch": "Garten- und Landschaftsbau",
+  "addr": "Pfarrbrunnenstr. 7, 66578 Schiffweiler",
+  "plz": "66578",
+  "url": "http://www.der-lambert-pflastert.de",
+  "final": "http://www.der-lambert-pflastert.de/",
+  "tel": "06821 69 19 10",
+  "slug": "aloys-lambert-garten-und-landschaftsbau",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Gilges Daniel Friseursalon",
+  "branch": "Friseure",
+  "addr": "Brückenstr. 2, 66578 Schiffweiler",
+  "plz": "66578",
+  "url": "http://www.friseur-gilges.de",
+  "final": "https://gilges.info/",
+  "tel": "06821 96 33 66",
+  "slug": "gilges-daniel-friseursalon",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Erwin Niklas GmbH",
+  "branch": "Fenster",
+  "addr": "Provinzialstr. 12, 66557 Illingen (Hüttigweiler)",
+  "plz": "66557",
+  "url": "http://www.fensterbau-niklas.de",
+  "final": "http://www.fensterbau-niklas.de/",
+  "tel": "06825 24 86",
+  "slug": "erwin-niklas-gmbh",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Bernd Fischer Schreinerei Montage Dienstleistungen",
+  "branch": "Tischlereien",
+  "addr": "Im Linnengarten 3, 66557 Illingen (Wustweiler)",
+  "plz": "66557",
+  "url": "http://www.schreinerei-berndfischer.de",
+  "final": "http://www.schreinerei-berndfischer.de/",
+  "tel": "06825 49 97 80",
+  "slug": "bernd-fischer-schreinerei-montage-dienst",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Dörrenbächer Dachdeckerei Dörrenbecher Jürgen",
+  "branch": "Dachdeckereien",
+  "addr": "Zum Bruchborn 16, 66589 Merchweiler (Wemmetsweiler)",
+  "plz": "66589",
+  "url": "http://www.dachdeckerei-doerrenbaecher.de",
+  "final": "http://www.dachdeckerei-doerrenbaecher.de/",
+  "tel": "06825 4 04 90 82",
+  "slug": "d-rrenb-cher-dachdeckerei-d-rrenbecher-j",
+  "src": "gelbeseiten"
  }
 ]

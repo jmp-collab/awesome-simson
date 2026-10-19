@@ -442,14 +442,6 @@
     "fix": "Titel mit Leistung und Ort, z. B. 'Ihr Betrieb in Neunkirchen | Leistung'"
    },
    {
-    "id": "bild_kaputt",
-    "sev": "hoch",
-    "titel": "Ein Bild lädt nicht",
-    "beleg": "Nicht geladen: https://www.livepages.de/activities/i?p=581450",
-    "folge": "Leere Kästen oder fehlende Logos wirken, als sei der Betrieb nicht mehr aktiv.",
-    "fix": "Alle Bilder geprüft und neu eingebunden"
-   },
-   {
     "id": "https_redirect",
     "sev": "mittel",
     "titel": "Ohne 'https' eingetippt erscheint 'Nicht sicher'",
@@ -7166,6 +7158,579 @@
    "breite_m": 980,
    "woerter": 12,
    "titel": "Hier entsteht eine neue Homepage"
+  }
+ },
+ "lambert": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 700 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 56 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.der-lambert-pflastert.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "titel",
+    "sev": "hoch",
+    "titel": "Google zeigt einen nichtssagenden Titel",
+    "beleg": "Seitentitel: 'Home'",
+    "folge": "Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.",
+    "fix": "Titel mit Leistung und Ort, z. B. 'Ihr Betrieb in Neunkirchen | Leistung'"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 24 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Gebaut mit Apple iWeb, seit 2011 eingestellt.",
+   "Browser zeigt 'Nicht sicher'.",
+   "Telefon und Mobil nicht antippbar."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Große Vorher-nachher-Fotos",
+   "Anfrage mit Foto"
+  ],
+  "hebel": "Einfahrten und Terrassen werden im Frühjahr geplant, und die Leute suchen 'Pflasterarbeiten Schiffweiler' oder 'Einfahrt pflastern Neunkirchen'. Eine sichere Seite mit großen Vorher-nachher-Fotos und Anfrage mit Foto holt diese Aufträge, bevor die Saison voll ist.",
+  "extra": [
+   "Anfrage mit Foto und ungefährer Fläche",
+   "Vorher-nachher-Galerie, die Sie vom Handy befüllen",
+   "Google-Profil mit Fotos Ihrer Arbeiten",
+   "Frühjahrs-Aktion für Einfahrten und Terrassen"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 4000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 690,
+   "breakeven": 1,
+   "jahr": 12000
+  },
+  "gemessen": {
+   "load_m": 1.5,
+   "mb": 0.3,
+   "breite_m": 700,
+   "woerter": 24,
+   "titel": "Home"
+  }
+ },
+ "niklas": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.fensterbau-niklas.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "jahr",
+    "sev": "mittel",
+    "titel": "Copyright 2012: wirkt nicht gepflegt",
+    "beleg": "Im Fußbereich steht das Jahr 2012.",
+    "folge": "Ein altes Jahr lässt Besucher zweifeln, ob Angaben wie Öffnungszeiten oder Preise noch stimmen.",
+    "fix": "Aktuelle Seite, die Sie selbst pflegen können"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   }
+  ],
+  "sicht": [
+   "Kontakt-Link führt auf eine Fehlerseite.",
+   "Copyright 2012, keine sichere Verbindung.",
+   "Am Handy 960 Pixel breit."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Anfrage mit Maßen, die funktioniert",
+   "Referenzen groß"
+  ],
+  "hebel": "Fenster, Haustüren und Wintergärten sind Aufträge im vier- bis fünfstelligen Bereich, und Kunden holen mehrere Angebote ein. Wer bei Ihnen auf 'Kontakt' klickt, landet auf einer Fehlerseite und fragt beim Nächsten an. Eine sichere Seite mit Referenzen und Anfrage nach Maßen holt diese Anfragen zurück.",
+  "extra": [
+   "Anfrage mit Maßen und Foto der alten Fenster",
+   "Referenzgalerie vorher und nachher",
+   "Seite zu Fördermitteln für Fenstertausch, mit Ihnen abgestimmt",
+   "Karriereseite für Schreiner und Monteure"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 8000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 990,
+   "breakeven": 1,
+   "jahr": 24000
+  },
+  "gemessen": {
+   "load_m": 2.4,
+   "mb": 3.4,
+   "breite_m": 980,
+   "woerter": 134,
+   "titel": "Erwin Niklas - Schreinerei & Fensterbau GmbH | Ansprechpartner für Fenster, Türen, Rollläden, Markisen, Wintergärten und Sonderbauten im Saarland | Illingen | Hüttigweiler"
+  }
+ },
+ "fischer": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.schreinerei-berndfischer.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "text",
+    "sev": "mittel",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 95 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "js",
+    "sev": "niedrig",
+    "titel": "Technische Fehler im Hintergrund",
+    "beleg": "2 Fehlermeldungen beim Laden der Startseite.",
+    "folge": "Fehler können Formulare, Karten oder Menüs unbemerkt lahmlegen.",
+    "fix": "Saubere, geprüfte Technik"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Eine einzige Seite ohne Menü und ohne Fotos.",
+   "Browser zeigt 'Nicht sicher'.",
+   "Keine Adresse auf der Seite."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Referenzgalerie",
+   "Anfrage mit Maßen"
+  ],
+  "hebel": "Innenausbau und Möbel nach Maß verkaufen sich über Bilder. Eine Seite ohne ein einziges Foto zeigt nicht, was der Meisterbetrieb kann. Eine Referenzgalerie und eine Anfrage mit Maßen machen aus Besuchern Aufträge.",
+  "extra": [
+   "Referenzgalerie, die Sie vom Handy befüllen",
+   "Anfrage mit Maßen und Foto",
+   "Google-Profil mit Fotos Ihrer Arbeiten",
+   "Reparatur-Anfrage als eigener Knopf"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 3500,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 790,
+   "breakeven": 1,
+   "jahr": 10500
+  },
+  "gemessen": {
+   "load_m": 2.0,
+   "mb": 0.0,
+   "breite_m": 980,
+   "woerter": 95,
+   "titel": "Schreinerei Bernd Fischer - Ihr Meisterbetrieb im Illtal"
+  }
+ },
+ "doerr": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 1101 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 35 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.dachdeckerei-doerrenbaecher.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Über 20 Spam-Links 'Merchweiler ...' unten auf der Seite.",
+   "Keine sichere Verbindung, am Handy 1100 Pixel breit.",
+   "Zwei Schreibweisen des Namens."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Saubere Ortsseiten",
+   "Sturmschaden-Anfrage mit Foto"
+  ],
+  "hebel": "Sturmschäden und Dachsanierungen sind dringend und groß, und wer sucht, ruft den ersten seriösen Betrieb an. Die Linkliste unten kann Ihr Ranking eher schaden als nützen. Eine saubere, sichere Seite mit Sturmschaden-Anfrage per Foto holt diese Anrufe.",
+  "extra": [
+   "Sturmschaden-Anfrage mit Foto",
+   "Referenzgalerie, die Sie vom Handy befüllen",
+   "Saubere Seiten für Merchweiler, Illingen und Umgebung statt Linkliste",
+   "Google-Profil mit Fotos und Leistungen"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 6000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 790,
+   "breakeven": 1,
+   "jahr": 18000
+  },
+  "gemessen": {
+   "load_m": 4.1,
+   "mb": 0.5,
+   "breite_m": 1101,
+   "woerter": 1706,
+   "titel": "Dachdeckerei Jürgen Dörrenbächer - Startseite - Ihr Dachdecker Fachbetrieb im Saarland"
+  }
+ },
+ "brill": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.rosen-brill.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "titel",
+    "sev": "hoch",
+    "titel": "Google zeigt einen nichtssagenden Titel",
+    "beleg": "Seitentitel: 'Rosen Brill'",
+    "folge": "Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.",
+    "fix": "Titel mit Leistung und Ort, z. B. 'Ihr Betrieb in Neunkirchen | Leistung'"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 0 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Frames und .php3, Technik der späten 90er.",
+   "Sortenfotos nur 243 Pixel breit.",
+   "Keine englische Version, keine sichere Verbindung."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Sortenkatalog mit großen Fotos",
+   "Deutsch und englisch"
+  ],
+  "hebel": "Rosenzüchter verkaufen an Gärtnereien und Händler weltweit, und die schauen sich Sorten online an. Ein Sortenkatalog mit großen Fotos, Datenblättern und englischer Version macht jede neue Züchtung international sichtbar und unterstützt die Vertretungen.",
+  "extra": [
+   "Sortenkatalog mit Datenblatt je Sorte",
+   "Englische Version für Vertretungen und Händler",
+   "Neuheiten-Seite für Messen",
+   "Vertretungskarte nach Ländern"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 3000,
+   "einheit": "Neukunde",
+   "anzahl": 3,
+   "preis": 1490,
+   "breakeven": 1,
+   "jahr": 9000
+  },
+  "gemessen": {
+   "load_m": 2.3,
+   "mb": 0.1,
+   "breite_m": 980,
+   "woerter": 0,
+   "titel": "Rosen Brill"
   }
  }
 }

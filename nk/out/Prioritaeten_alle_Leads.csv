@@ -1,4 +1,6 @@
 nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
+83;lambert;der Lambert pflastert;Pflaster- und Verbundsteinarbeiten;15;8;2;12000;690;90;d2rwpk;06821 691910;Früh morgens oder vorher anrufen, mobil 0173 3192298
+87;brill;Rosen Brill;Rosenzüchtung;15;8;2;9000;1490;90;qame3l;06821 6223;Vorher anrufen, Peter Brill
 64;schappert;Dachdeckerei Schappert GmbH;Dachdeckerei;15;7;3;18000;690;84;7s5ilq;06824 7325;Früh morgens oder vorher anrufen
 65;laluna;Ristorante Pizzeria La Luna;Ristorante und Pizzeria mit Heimservice;15;7;3;12000;690;84;k4337j;06821 9839560;Nachmittags vor 17:30 Uhr, nicht mittwochs
 81;mayer;Mayers Fahrschule;Fahrschule;15;7;3;10000;690;84;kpifiq;06821 790679;Vorher anrufen, mobil 0172 6830198
@@ -7,11 +9,14 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 14;mdm;MetallDesignMüller;Metallbau / Geländer, Treppen, Tore;15;6;3;10000;690;72;lmn7fq;06821 1799757;Früh morgens 7 bis 8 Uhr oder vorher anrufen (Handwerker oft auf Montage)
 63;welzow;Welzower Stuben;Restaurant und Partyservice;15;6;3;12000;990;72;72a3z2;06821 690943;Nachmittags zwischen 14 und 18 Uhr, Chef Leonard Bala direkt ansprechen
 77;mauermann;Elektro Mauermann;Elektro, Kälte und Klima;15;6;3;10000;790;72;tmfe33;06821 962171;Früh morgens oder vorher anrufen
+84;niklas;Erwin Niklas Schreinerei & Fensterbau GmbH;Fenster, Türen und Wintergärten;15;6;3;24000;990;72;fiozdz;06825 2486;Vormittags, vorher anrufen
+85;fischer;Schreinerei Bernd Fischer;Schreinerei;15;6;3;10500;790;72;xsxonq;06825 499780;Vorher anrufen, mobil 0172 6838252
 12;dolomiti;Dolomiti Pizzeria, Gelateria & Pasticceria;Eiscafé / Pizzeria / Pasticceria;15;6;2;10800;690;66;ihd7wc;06821 9424024;Nachmittags kurz nach Öffnung, nicht zur Abendspitze
 17;hvoltage;HIGH VOLTAGE Veranstaltungstechnik;Veranstaltungstechnik / Bühnen-, Ton-, Licht- und Videotechnik;17;5;4;7200;990;66;7zza4y;06821 983161;Vorher anrufen, Lager und Büro sind nicht immer besetzt (Veranstaltungen oft abends und am Wochenende)
 22;vsv;VSV Abbruch GmbH;Abbruch / Entkernung / Schadstoffsanierung;15;6;2;16000;990;66;odr2ap;06821 590721;Vorher anrufen, Büro werktags vormittags
 42;stein;Sven Stein Garten-, Haus- und Hofservice;Gartenpflege, Winterdienst, Hausmeisterservice;15;6;2;3600;690;66;ysrh3e;06821 9148107;Abends oder per Anruf, Einzelunternehmer ist tagsüber beim Kunden
 78;hoechst;Bedachungen Höchst;Dachdeckerei;17;6;2;18000;790;66;fp5pdo;06821 3098170;Früh morgens oder vorher anrufen, mobil 0176 44506830
+86;doerr;Dachdeckerei Jürgen Dörrenbächer;Dachdeckerei;15;6;2;18000;790;66;nb3pnu;06825 4049082;Früh morgens oder vorher anrufen
 16;ratzky;Ratzky GmbH Bedachungen;Dachdecker / Bedachungen;24;6;1;18000;990;60;rvoffe;06821 93010;Früh morgens 7 bis 8 Uhr oder vorher anrufen, Dachdecker sind tagsüber auf der Baustelle
 27;decker;Fensterbau Decker GmbH;Fenster, Haustüren, Rollläden (Hersteller);21;6;1;16000;1490;60;eaxoh6;06821 361524;Werktags vormittags in der Ausstellung
 35;hofmann;Viktor Hofmann Fliesen Granit Mosaik;Fliesenleger / Spanndecken;21;5;3;12000;690;60;qyw5z7;06821 87797;Vorher anrufen, morgens vor Baustellenbeginn
@@ -49,7 +54,6 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 47;luu;Luu Asien Bistro;Asiatisches und vietnamesisches Bistro;38;5;1;2340;690;35.1;utcsjg;06821 9140902;Nachmittags vor 16:30 Uhr, vor der Öffnung
 51;daenzo;Pizza Heimservice Da Enzo;Pizzeria und Lieferdienst;38;5;1;2340;690;35.1;amsjox;06821 9316899;Nachmittags vor 17 Uhr, montags geschlossen
 2;asia;Asia Wok Bistro;Restaurant vietnamesisch / Thai mit Heimservice;21;5;3;2340;990;33.6;kr24if;06821 140373;14:45 bis 16:30 Uhr (zwischen Mittag und Abend)
-5;rutz;Praxis für Physiotherapie Hermann Rutz;Physiotherapie;15;7;2;1050;690;32.8;wp7grp;06821 23665;Nachmittag Mo bis Do, kurz an der Anmeldung nach dem Inhaber fragen
 7;roemer;Wirtshaus Römer, Neinkeijer Steak-House;Steakhaus / Wirtshaus;53;4;0;16800;990;30;f6kqsc;06821 942756;15:00 bis 16:30 Uhr (vor Öffnung um 17 Uhr), nicht dienstags
 43;stoerr;Rollladen Störr;Fenster, Haustüren und Rollläden;59;4;0;14000;990;30;qocotn;06821 51700;Nach den Betriebsferien (ab 20.10.), vormittags in der Ausstellung
 53;audeh;Audeh Trockenbau;Trockenbau, Fliesen- und Bodenverlegung;56;3;2;10000;690;30;bnf6t4;0157 59621497;Abends anrufen, Inhaber ist tagsüber auf Baustellen
@@ -60,6 +64,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 23;divna;Institut DIVNA;Podologie / Kosmetik / Wellness;31;5;2;1500;690;28.6;5dpx2a;06821 983190;Dienstag bis Freitag zwischen den Terminen, vorher anrufen
 26;praxiswell;Hausarztpraxis Wellesweiler;Hausarztpraxis / Allgemeinmedizin;31;5;2;2100;990;28.1;a7yt7z;06821 4311;Nicht in der Sprechstunde: am besten anrufen und um 10 Minuten mit der Praxismanagerin bitten (Mittwoch oder Freitag nachmittags)
 1;thielen;Schlüssel Thielen;Schlüsseldienst / Sicherheitsfachhandel;15;7;1;900;690;27.7;eglxtn;06821 22510;Vormittag (nur Mo bis Fr 9 bis 13 Uhr geöffnet)
+5;rutz;Praxis für Physiotherapie Hermann Rutz;Physiotherapie;15;6;2;1050;690;27.7;wp7grp;06821 23665;Nachmittag Mo bis Do, kurz an der Anmeldung nach dem Inhaber fragen
 54;flick;Versicherungsbüro Roland Flick;Versicherungsmakler;35;4;3;2400;990;27.4;ppadlc;06821 4017830;Vormittags zwischen 9 und 12 Uhr im Büro
 55;brech;Brech-Motors;Autovermietung, Kfz-Service, Fahrzeughandel;39;4;2;1800;690;25.3;ten4qe;0177 6922223;Vormittags zwischen 8 und 15 Uhr
 45;musik;Musikwelt Neunkirchen;Musikschule;63;3;1;5760;990;24;sc5zbc;06821 919650;Nachmittags vor dem Unterricht, vorher anrufen

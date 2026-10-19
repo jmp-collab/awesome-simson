@@ -1,0 +1,108 @@
+{
+ "slug": "brill-rosen",
+ "theme": "beauty",
+ "name": "Rosen Brill",
+ "branche": "Rosenzüchtung",
+ "addr": "Am Kastelberg 59 · 66578 Schiffweiler",
+ "tel": "06821 6223",
+ "url": "http://www.rosen-brill.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Großes Projekt",
+ "visit": "Vorher anrufen, Peter Brill",
+ "logo_a": "Rosen",
+ "logo_b": "Brill",
+ "nav": [
+  "Sorten",
+  "Neuheiten",
+  "Über uns",
+  "Vertretungen"
+ ],
+ "eyebrow": "Schnittrosen-Züchtung aus Schiffweiler",
+ "h1": "A rose is a rose is a rose. Neue Sorten aus dem Saarland.",
+ "lead": "Seit mehr als 25 Jahren züchtet die Gärtnerei Rosen Brill Schnittrosen: neue Sorten mit guter Produktion, Haltbarkeit und Transportstabilität, selbst getestet in Deutschland und mit Partnern weltweit vermarktet.",
+ "cta1": "Sorten ansehen",
+ "cta2": "Vertretung finden",
+ "mcta": "Anrufen",
+ "badge": [
+  "25+",
+  "Jahre Rosenzüchtung"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Eigene Züchtung</b> und Tests in Deutschland",
+  "<b>Vertretungen</b> in Europa und Afrika",
+  "<b>Fachhandel</b> und Einzelhandel"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Rosen Brill",
+ "services": [
+  [
+   "Sortenkatalog",
+   "Suche nach Farbe und Blütengröße."
+  ],
+  [
+   "Neuheiten",
+   "Aktuell Rasta (orange) und Cinder (gelb-orange)."
+  ],
+  [
+   "Züchtung",
+   "Neue Sorten mit guter Haltbarkeit."
+  ],
+  [
+   "Tests",
+   "Unter realen Bedingungen in Deutschland."
+  ],
+  [
+   "Vertretungen",
+   "Italien, Niederlande, Kenia und weitere."
+  ],
+  [
+   "Fachhandel",
+   "Direkt ab Gärtnerei, rund 1 ha Fläche."
+  ]
+ ],
+ "gal_title": "Aus dem Sortiment",
+ "gallery": [
+  "img/brill-rosen_1.jpg",
+  "img/brill-rosen_15.jpg",
+  "img/brill-rosen_5.jpg"
+ ],
+ "band": "Neue Sorte testen? Muster und Lizenz direkt anfragen.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "contact": "Rosen Brill<br>Peter Brill<br>Am Kastelberg 59<br>66578 Schiffweiler<br><br>Telefon 06821 6223<br>info@rosenbrill.de",
+ "audit": [
+  "Die Seite ist noch mit Frames gebaut (Technik der späten 90er), Unterseiten enden auf .php3",
+  "Google sieht auf der Startseite fast keinen Text, die Sortenfotos sind nur 243 Pixel breit",
+  "Keine sichere Verbindung (nur http), keine englische Version, obwohl Vertretungen in Italien, den Niederlanden und Kenia arbeiten"
+ ],
+ "hebel": "Rosenzüchter verkaufen an Gärtnereien und Händler weltweit, und die schauen sich Sorten online an. Ein Sortenkatalog mit großen Fotos, Datenblättern und englischer Version macht jede neue Züchtung international sichtbar und unterstützt die Vertretungen.",
+ "p": [
+  "1.490 bis 2.190 €",
+  "2.190 bis 3.290 €",
+  "39 bis 79 €"
+ ],
+ "paket": "Neue zweisprachige Website (deutsch und englisch) mit Sortenkatalog, Filter nach Farbe und Blütengröße, Datenblatt je Sorte, Vertretungskarte, sicherer Verbindung",
+ "svc": [
+  "Sortenkatalog mit Datenblatt je Sorte",
+  "Englische Version für Vertretungen und Händler",
+  "Neuheiten-Seite für Messen",
+  "Vertretungskarte nach Ländern"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite läuft noch mit Frames und .php3-Seiten, und die Rosenfotos sind sehr klein. Ich habe Ihnen mitgebracht, wie ein Sortenkatalog für Händler weltweit aussehen könnte.",
+ "obj": "'Unsere Kunden kennen uns aus der Branche': Die heutigen ja. Neue Händler und Gärtnereien im Ausland finden Sie über die Sorten, und die müssen online groß und auf Englisch zu sehen sein.",
+ "obs": [
+  "Frames und .php3, Technik der späten 90er.",
+  "Sortenfotos nur 243 Pixel breit.",
+  "Keine englische Version, keine sichere Verbindung."
+ ],
+ "neu": [
+  "Sortenkatalog mit großen Fotos",
+  "Deutsch und englisch",
+  "Sichere Verbindung"
+ ]
+}

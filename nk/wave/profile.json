@@ -491,5 +491,35 @@
   3000,
   "Auftrag",
   3
+ ],
+ "lambert": [
+  "auftrag",
+  4000,
+  "Auftrag",
+  3
+ ],
+ "niklas": [
+  "auftrag",
+  8000,
+  "Auftrag",
+  3
+ ],
+ "fischer": [
+  "auftrag",
+  3500,
+  "Auftrag",
+  3
+ ],
+ "doerr": [
+  "auftrag",
+  6000,
+  "Auftrag",
+  3
+ ],
+ "brill": [
+  "auftrag",
+  3000,
+  "Neukunde",
+  3
  ]
 }

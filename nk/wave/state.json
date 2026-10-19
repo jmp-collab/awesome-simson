@@ -292,9 +292,14 @@
   "sch-fer-frank-schreinermeister",
   "heizung-sanit-r-kirsch-ug-haftungsbeschr",
   "mayer-peter-fahrschule",
-  "ecker-arno-metallbaumontage"
+  "ecker-arno-metallbaumontage",
+  "aloys-lambert-garten-und-landschaftsbau",
+  "erwin-niklas-gmbh",
+  "bernd-fischer-schreinerei-montage-dienst",
+  "d-rrenb-cher-dachdeckerei-d-rrenbecher-j",
+  "brill-rosen"
  ],
- "wave": 15,
+ "wave": 16,
  "deferred": {
   "l-a-nails-nagelstudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
   "nieland-julia-pasta": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
@@ -364,22 +369,29 @@
   "bestattungsinstitut-flunkert": "gepflegte Seite, sensibles Thema"
  },
  "queue_neu": [
-  "brill-rosen",
+  "ke-ler-christoph-elektro-und-solartechni",
+  "mendel-silke",
+  "pink-und-schmitt-haustechnik",
+  "weiskircher-gmbh",
+  "stahl-u-metallbau-paulus-gmbh",
+  "siegel-ute-augenoptik",
+  "christian-niklas-gmbh-fenster-t-ren-roll",
+  "wagner-karlheinz-stahl-und-metallbau",
+  "prinz-christof-friseur",
   "vkv-kartoffelvertriebsgesellschaft-mbh-l",
-  "herz-hair-hairdesign",
-  "seiler-friseurteam-friseur",
-  "aloys-lambert-garten-und-landschaftsbau",
   "gilges-daniel-friseursalon"
  ],
  "hinweis": "Neue Leads kommen aus wave/harvest_gs.py (Gelbe Seiten, Ort x Branche) + wave/screen.py (Alterssignale); Kandidaten in wave/new_near.json/screen.json",
- "queue_neu_hinweis": "Slugs aus new_near.json. brill-rosen: Frameset (http://www.rosen-brill.de/, final setzen). vkv: Seite im Wartungsmodus. herz-hair: Domain zeigt fremdes News-Portal (Domain verloren?), nur wenn Betrieb sicher identifizierbar. seiler/lambert: http-only, wenig Text, prüfen. Danach harvest_gs.py in Illingen, Merchweiler, Eppelborn, Bexbach.",
+ "queue_neu_hinweis": "Pool aus Harvest Merchweiler/Eppelborn/Bexbach (new_near.json + screen.json, 181 brauchbare). Keßler, Mendel, Christian Niklas: Platzhalter \"Hier entsteht eine neue Homepage\". Pink und Schmitt: Titel \"Serverinfo\". Paulus: Titel \"blank\". Gilges: eher modern, nur kleine Mängel (leerer mailto, Plugin-Fehler auf Preisseite, TMG/RStV). VKV: Wartungsmodus.",
  "skip": [
   "naturfreundehaus",
   "zickwolff-garten-und-landschaftsbau",
   "holiday-inn-express-neunkirchen",
   "bella-italia-pizzaheimservice",
   "s-oliver-store",
-  "born-blumenhaus-fleuropdienst"
+  "born-blumenhaus-fleuropdienst",
+  "seiler-friseurteam-friseur",
+  "herz-hair-hairdesign"
  ],
- "skip_grund": "naturfreundehaus: nur Unterseite im Bundesverbandsportal; zickwolff: Seite liefert auch per curl 403, nicht prüfbar; holiday-inn: Kette; bella-italia: in leads_slim als Dublette markiert; s-oliver: Kette; born: Fleurop-Portalseite"
+ "skip_grund": "naturfreundehaus: nur Unterseite im Bundesverbandsportal; zickwolff: Seite liefert auch per curl 403, nicht prüfbar; holiday-inn: Kette; bella-italia: in leads_slim als Dublette markiert; s-oliver: Kette; born: Fleurop-Portalseite; seiler: Geschäftsaufgabe 31.03.2026; herz-hair: Domain geparkt/zu verkaufen, Betrieb nicht verifiziert"
 }
