@@ -15,6 +15,14 @@ def code_for(k):
     h = hashlib.sha256(f"{salt}:{k}".encode()).digest()
     return base64.b32encode(h).decode().lower()[:6]
 
+def small(p, w=900):
+    from PIL import Image
+    import io
+    if not os.path.exists(p): return ""
+    im = Image.open(p).convert("RGB"); im.thumbnail((w, w * 2))
+    buf = io.BytesIO(); im.save(buf, "JPEG", quality=72, optimize=True)
+    return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
+
 def b64(p, mime):
     return f"data:{mime};base64," + base64.b64encode(open(p, "rb").read()).decode() if os.path.exists(p) else ""
 
@@ -75,7 +83,7 @@ def page(nr, t):
     lows = ", ".join(E(f["titel"]) for f in low)
     sicht = "".join(f"<li>{E(x)}</li>" for x in a.get("sicht", [])[:3])
     nutzen = "".join(f"<li>{E(x)}</li>" for x in a.get("nutzen", []))
-    vd = b64(f"{SITE}/dist/assets/v/{k}-vorher-desk.webp", "image/webp"); nd = b64(f"{SITE}/dist/assets/v/{k}-nachher-desk.webp", "image/webp")
+    vd = small(f"{SITE}/dist/assets/v/{k}-vorher-desk.webp"); nd = small(f"{SITE}/dist/assets/v/{k}-nachher-desk.webp")
     qr = next((f"{SITE}/qr/{q}" for q in os.listdir(f"{SITE}/qr") if q.startswith(k + "_")), "")
     qri = b64(qr, "image/png") if qr else ""
     url = f"{C['base_url'].replace('https://', '')}/v/{code}"
