@@ -1,0 +1,106 @@
+{
+ "k": "bogro",
+ "url": "https://www.bogro-bodenbelaege.de",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 3.6,
+  "status": 200,
+  "final": "https://www.bogro-bodenbelaege.de/",
+  "title": "BoGro - Fachhandel für Bodenbeläge in Neunkirchen Saar - Start",
+  "desc": null,
+  "viewport": "width=device-width, initial-scale=1",
+  "ogimg": "https://www.bogro-bodenbelaege.de/uploads/7uJcN4yF/IMG_3300.JPG",
+  "ogtitle": "BoGro - Fachhandel für Bodenbeläge in Neunkirchen Saar - Start",
+  "generator": null,
+  "h1": [
+   "BoGro - Fachhandel für Bodenbeläge aus Neunkirchen Saar"
+  ],
+  "words": 446,
+  "tel": 2,
+  "mail": [
+   "bogro@t-online.de",
+   "bogro@t-online.de"
+  ],
+  "wa": 0,
+  "forms": 1,
+  "maps": false,
+  "localbiz": true,
+  "favicon": true,
+  "imgs": 5,
+  "broken": [],
+  "noalt": 2,
+  "big": [
+   {
+    "src": "https://www.bogro-bodenbelaege.de/uploads/c2XRmxHF/707x0_360x0/BoGro-Logo.webp",
+    "nat": 5376,
+    "shown": 360
+   }
+  ],
+  "years": [],
+  "small": 0,
+  "total": 62,
+  "taps": 8,
+  "placeholders": [
+   "[#"
+  ],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 50,
+  "bytes": 2279726,
+  "img_bytes": 1038297
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 2.0,
+  "status": 200,
+  "final": "https://www.bogro-bodenbelaege.de/",
+  "title": "BoGro - Fachhandel für Bodenbeläge in Neunkirchen Saar - Start",
+  "desc": null,
+  "viewport": "width=device-width, initial-scale=1",
+  "ogimg": "https://www.bogro-bodenbelaege.de/uploads/7uJcN4yF/IMG_3300.JPG",
+  "ogtitle": "BoGro - Fachhandel für Bodenbeläge in Neunkirchen Saar - Start",
+  "generator": null,
+  "h1": [
+   "BoGro - Fachhandel für Bodenbeläge aus Neunkirchen Saar"
+  ],
+  "words": 450,
+  "tel": 2,
+  "mail": [
+   "bogro@t-online.de",
+   "bogro@t-online.de"
+  ],
+  "wa": 0,
+  "forms": 1,
+  "maps": false,
+  "localbiz": true,
+  "favicon": true,
+  "imgs": 5,
+  "broken": [],
+  "noalt": 0,
+  "big": [],
+  "years": [],
+  "small": 0,
+  "total": 61,
+  "taps": 7,
+  "placeholders": [
+   "[#"
+  ],
+  "scrollW": 390,
+  "innerW": 390,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 46,
+  "bytes": 2418917,
+  "img_bytes": 1004558
+ },
+ "http_to": "https://www.bogro-bodenbelaege.de/",
+ "http_redirects_to_https": true,
+ "http_code": "200"
+}

@@ -1,0 +1,109 @@
+{
+ "k": "musik",
+ "url": "https://www.musikwelt-nk.de",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 7.8,
+  "status": 200,
+  "final": "https://www.musikwelt-nk.de/",
+  "title": "Musikwelt Neunkirchen - Die Musikschule",
+  "desc": "Musikwelt Neunkirchen - Die Musikschule",
+  "viewport": "width=device-width, initial-scale=1.0",
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": "Joomla! - Open Source Content Management",
+  "h1": [
+   "Die Musikschule Musikwelt bietet qualitativ hochwertigen Musikunterricht in Neun"
+  ],
+  "words": 207,
+  "tel": 1,
+  "mail": [
+   "info@musikwelt-nk.de"
+  ],
+  "wa": 0,
+  "forms": 1,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 8,
+  "broken": [],
+  "noalt": 0,
+  "big": [],
+  "years": [
+   2017
+  ],
+  "small": 0,
+  "total": 32,
+  "taps": 3,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Refused to apply style from 'https://www.musikwelt-nk.de/templates/ja_builder/fonts/css?family=Roboto:regular' because its MIME type ('text/html') is not a supp",
+   "Refused to apply style from 'https://www.musikwelt-nk.de/templates/ja_builder/fonts/css?family=Roboto:regular' because its MIME type ('text/html') is not a supp",
+   "requestStorageAccess: Permission denied.",
+   "requestStorageAccess: Permission denied."
+  ],
+  "requests": 70,
+  "bytes": 5535904,
+  "img_bytes": 599375
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 7.0,
+  "status": 200,
+  "final": "https://www.musikwelt-nk.de/",
+  "title": "Musikwelt Neunkirchen - Die Musikschule",
+  "desc": "Musikwelt Neunkirchen - Die Musikschule",
+  "viewport": "width=device-width, initial-scale=1.0",
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": "Joomla! - Open Source Content Management",
+  "h1": [
+   "Die Musikschule Musikwelt bietet qualitativ hochwertigen Musikunterricht in Neun"
+  ],
+  "words": 195,
+  "tel": 1,
+  "mail": [
+   "info@musikwelt-nk.de"
+  ],
+  "wa": 0,
+  "forms": 1,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 8,
+  "broken": [],
+  "noalt": 0,
+  "big": [],
+  "years": [
+   2017
+  ],
+  "small": 0,
+  "total": 26,
+  "taps": 3,
+  "placeholders": [],
+  "scrollW": 390,
+  "innerW": 390,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Refused to apply style from 'https://www.musikwelt-nk.de/templates/ja_builder/fonts/css?family=Roboto:regular' because its MIME type ('text/html') is not a supp",
+   "Refused to apply style from 'https://www.musikwelt-nk.de/templates/ja_builder/fonts/css?family=Roboto:regular' because its MIME type ('text/html') is not a supp",
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "requestStorageAccess: Permission denied."
+  ],
+  "requests": 69,
+  "bytes": 5363440,
+  "img_bytes": 551967
+ },
+ "http_to": "https://www.musikwelt-nk.de/",
+ "http_redirects_to_https": true,
+ "http_code": "200"
+}

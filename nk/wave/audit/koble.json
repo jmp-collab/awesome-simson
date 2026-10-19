@@ -1,0 +1,106 @@
+{
+ "k": "koble",
+ "url": "https://www.koble-hair.de",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 3.1,
+  "status": 200,
+  "final": "https://www.koble-hair.de/",
+  "title": ":: Hair-Design-Cosmetic Koble - 66540 Neunkirchen Tel. 06821 9838460 ::",
+  "desc": "Hair-Design-Cosmetic Koble - 66540 Neunkirchen Tel. 06821 9838460",
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [],
+  "words": 154,
+  "tel": 0,
+  "mail": [
+   "info@koble-hair.de"
+  ],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 9,
+  "broken": [
+   {
+    "src": "https://www.koble-hair.de/pix/leer.gif",
+    "alt": ""
+   }
+  ],
+  "noalt": 4,
+  "big": [],
+  "years": [],
+  "small": 5,
+  "total": 17,
+  "taps": 10,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Failed to load resource: the server responded with a status of 404 (Not Found)",
+   "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "requests": 23,
+  "bytes": 122469,
+  "img_bytes": 111624
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 3.0,
+  "status": 200,
+  "final": "https://www.koble-hair.de/",
+  "title": ":: Hair-Design-Cosmetic Koble - 66540 Neunkirchen Tel. 06821 9838460 ::",
+  "desc": "Hair-Design-Cosmetic Koble - 66540 Neunkirchen Tel. 06821 9838460",
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [],
+  "words": 154,
+  "tel": 0,
+  "mail": [
+   "info@koble-hair.de"
+  ],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 9,
+  "broken": [
+   {
+    "src": "https://www.koble-hair.de/pix/leer.gif",
+    "alt": ""
+   }
+  ],
+  "noalt": 4,
+  "big": [],
+  "years": [],
+  "small": 5,
+  "total": 17,
+  "taps": 10,
+  "placeholders": [],
+  "scrollW": 980,
+  "innerW": 980,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Failed to load resource: the server responded with a status of 404 (Not Found)",
+   "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "requests": 23,
+  "bytes": 127334,
+  "img_bytes": 116489
+ },
+ "http_to": "https://www.koble-hair.de/",
+ "http_redirects_to_https": true,
+ "http_code": "200"
+}

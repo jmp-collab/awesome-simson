@@ -1,0 +1,131 @@
+{
+ "k": "grill",
+ "url": "https://grill-au-bois.de",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 7.8,
+  "status": 200,
+  "final": "https://grill-au-bois.de/",
+  "title": "Grill au Bois – Grill au Bois",
+  "desc": "Grill au Bois - Die Steakresidenz\nGenießen Sie die einzigartige Atmosphäre unseres französischen Grillrestaurants in Neunkirchen. Unsere erfahrenen Köche verwen",
+  "viewport": "width=device-width, initial-scale=1.0",
+  "ogimg": null,
+  "ogtitle": "Grill au Bois – Grill au Bois",
+  "generator": "Joomla! - Open Source Content Management",
+  "h1": [
+   "45 Jahre Meisterhaft!"
+  ],
+  "words": 111,
+  "tel": 1,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": true,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 31,
+  "broken": [],
+  "noalt": 10,
+  "big": [
+   {
+    "src": "https://grill-au-bois.de/images/nicepage-images/Top502026.webp",
+    "nat": 1920,
+    "shown": 360
+   },
+   {
+    "src": "https://grill-au-bois.de/images/nicepage-images/top502025.webp",
+    "nat": 1920,
+    "shown": 360
+   },
+   {
+    "src": "https://grill-au-bois.de/images/nicepage-images/38028ec976f60da246196892ffaf9e4b.webp",
+    "nat": 2552,
+    "shown": 278
+   },
+   {
+    "src": "https://grill-au-bois.de/images/nicepage-images/fb60b0b5048a3892b38615a3fbd4b21d.webp",
+    "nat": 1920,
+    "shown": 278
+   },
+   {
+    "src": "https://grill-au-bois.de/images/nicepage-images/19c6c686d34c611973b5581c4af1fa80.webp",
+    "nat": 3584,
+    "shown": 278
+   }
+  ],
+  "years": [],
+  "small": 0,
+  "total": 63,
+  "taps": 3,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Permissions policy violation: accelerometer is not allowed in this document."
+  ],
+  "requests": 116,
+  "bytes": 7673743,
+  "img_bytes": 5863800
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 6.4,
+  "status": 200,
+  "final": "https://grill-au-bois.de/",
+  "title": "Grill au Bois – Grill au Bois",
+  "desc": "Grill au Bois - Die Steakresidenz\nGenießen Sie die einzigartige Atmosphäre unseres französischen Grillrestaurants in Neunkirchen. Unsere erfahrenen Köche verwen",
+  "viewport": "width=device-width, initial-scale=1.0",
+  "ogimg": null,
+  "ogtitle": "Grill au Bois – Grill au Bois",
+  "generator": "Joomla! - Open Source Content Management",
+  "h1": [
+   "45 Jahre Meisterhaft!"
+  ],
+  "words": 112,
+  "tel": 1,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": true,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 31,
+  "broken": [],
+  "noalt": 6,
+  "big": [
+   {
+    "src": "https://grill-au-bois.de/images/nicepage-images/Top502026.webp",
+    "nat": 1920,
+    "shown": 340
+   },
+   {
+    "src": "https://grill-au-bois.de/images/nicepage-images/top502025.webp",
+    "nat": 1920,
+    "shown": 340
+   }
+  ],
+  "years": [],
+  "small": 0,
+  "total": 64,
+  "taps": 2,
+  "placeholders": [],
+  "scrollW": 390,
+  "innerW": 390,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Permissions policy violation: accelerometer is not allowed in this document."
+  ],
+  "requests": 93,
+  "bytes": 3884988,
+  "img_bytes": 2087497
+ },
+ "http_to": "https://grill-au-bois.de/",
+ "http_redirects_to_https": true,
+ "http_code": "200"
+}

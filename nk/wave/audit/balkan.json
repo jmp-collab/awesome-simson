@@ -1,0 +1,102 @@
+{
+ "k": "balkan",
+ "url": "https://www.balkanbackerei-neunkirchen.de",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 6.0,
+  "status": 200,
+  "final": "https://www.balkanbackerei-neunkirchen.de/",
+  "title": "Balkan Bäckerei Prizreni - Essen online bestellen in Neunkirchen",
+  "desc": "Wähle deine Lieblingsgerichte von der Balkan Bäckerei Prizreni Speisekarte in Neunkirchen und bestelle einfach online. Genieße leckeres Essen, schnell geliefert!",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [
+   "BALKAN BäCKEREI PRIZRENI"
+  ],
+  "words": 306,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 3,
+  "broken": [],
+  "noalt": 2,
+  "big": [
+   {
+    "src": "https://www.balkanbackerei-neunkirchen.de/tpl/template1/images/logo/logo_2.png",
+    "nat": 2426,
+    "shown": 183
+   }
+  ],
+  "years": [],
+  "small": 18,
+  "total": 102,
+  "taps": 8,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 25,
+  "bytes": 1496794,
+  "img_bytes": 636684
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 4.0,
+  "status": 200,
+  "final": "https://www.balkanbackerei-neunkirchen.de/",
+  "title": "Balkan Bäckerei Prizreni - Essen online bestellen in Neunkirchen",
+  "desc": "Wähle deine Lieblingsgerichte von der Balkan Bäckerei Prizreni Speisekarte in Neunkirchen und bestelle einfach online. Genieße leckeres Essen, schnell geliefert!",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [
+   "BALKAN BäCKEREI PRIZRENI"
+  ],
+  "words": 288,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 3,
+  "broken": [],
+  "noalt": 2,
+  "big": [
+   {
+    "src": "https://www.balkanbackerei-neunkirchen.de/tpl/template1/images/logo/logo_2.png",
+    "nat": 2426,
+    "shown": 183
+   }
+  ],
+  "years": [],
+  "small": 18,
+  "total": 90,
+  "taps": 1,
+  "placeholders": [],
+  "scrollW": 390,
+  "innerW": 390,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 24,
+  "bytes": 1598259,
+  "img_bytes": 636684
+ },
+ "http_to": "https://www.balkanbackerei-neunkirchen.de/",
+ "http_redirects_to_https": true,
+ "http_code": "200"
+}

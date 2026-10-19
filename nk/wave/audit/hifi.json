@@ -1,0 +1,120 @@
+{
+ "k": "hifi",
+ "url": "https://www.hifi-zenit.de",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 6.4,
+  "status": 200,
+  "final": "https://www.hifi-zenit.de/",
+  "title": "Hifi-Zenit - Startseite",
+  "desc": "Home Hifi, Car Hifi, Heimkino, Elektrostaten",
+  "viewport": "width=device-width, initial-scale=1.0",
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": "MYOB",
+  "h1": [],
+  "words": 242,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 2,
+  "broken": [],
+  "noalt": 2,
+  "big": [
+   {
+    "src": "https://www.hifi-zenit.de/images/Logo.png",
+    "nat": 3637,
+    "shown": 541
+   }
+  ],
+  "years": [
+   2016
+  ],
+  "small": 0,
+  "total": 43,
+  "taps": 13,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Function statements require a function name",
+   "Function statements require a function name",
+   "Class is not defined",
+   "Refused to load the script 'https://www.google-analytics.com/analytics.js' because it violates the following Content Security Policy directive: \"default-src 'se",
+   "Refused to load the script 'https://www.googletagmanager.com/gtag/js?id=AW-1069889645' because it violates the following Content Security Policy directive: \"def",
+   "Refused to load the font 'data:application/x-font-woff;charset=utf-8;base64,d09GRk9UVE8AAAbMAAsAAAAACvgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABDRkYgAAABCAAAA28AAAX1hreQ",
+   "Refused to load the font 'data:application/x-font-ttf;charset=utf-8;base64,AAEAAAANAIAAAwBQRkZUTWNkihAAAAeUAAAAHEdERUYAOAAGAAAHdAAAACBPUy8yUB/cHwAAAVgAAABWY21hc",
+   "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "requests": 48,
+  "bytes": 2086647,
+  "img_bytes": 1750681
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 4.9,
+  "status": 200,
+  "final": "https://www.hifi-zenit.de/",
+  "title": "Hifi-Zenit - Startseite",
+  "desc": "Home Hifi, Car Hifi, Heimkino, Elektrostaten",
+  "viewport": "width=device-width, initial-scale=1.0",
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": "MYOB",
+  "h1": [],
+  "words": 232,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 2,
+  "broken": [],
+  "noalt": 2,
+  "big": [
+   {
+    "src": "https://www.hifi-zenit.de/images/Logo.png",
+    "nat": 3637,
+    "shown": 336
+   }
+  ],
+  "years": [
+   2016
+  ],
+  "small": 3,
+  "total": 18,
+  "taps": 5,
+  "placeholders": [],
+  "scrollW": 390,
+  "innerW": 390,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Function statements require a function name",
+   "Function statements require a function name",
+   "Class is not defined",
+   "Refused to load the script 'https://www.google-analytics.com/analytics.js' because it violates the following Content Security Policy directive: \"default-src 'se",
+   "Refused to load the script 'https://www.googletagmanager.com/gtag/js?id=AW-1069889645' because it violates the following Content Security Policy directive: \"def",
+   "Refused to load the font 'data:application/x-font-woff;charset=utf-8;base64,d09GRk9UVE8AAAbMAAsAAAAACvgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABDRkYgAAABCAAAA28AAAX1hreQ",
+   "Refused to load the font 'data:application/x-font-ttf;charset=utf-8;base64,AAEAAAANAIAAAwBQRkZUTWNkihAAAAeUAAAAHEdERUYAOAAGAAAHdAAAACBPUy8yUB/cHwAAAVgAAABWY21hc",
+   "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "requests": 48,
+  "bytes": 2086647,
+  "img_bytes": 1750681
+ },
+ "http_to": "https://www.hifi-zenit.de/",
+ "http_redirects_to_https": true,
+ "http_code": "200"
+}

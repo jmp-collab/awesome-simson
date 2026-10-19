@@ -1,0 +1,1976 @@
+# Analyse-Mappe: Was bei jedem Betrieb kaputt ist und was er davon hat
+
+Stand: automatisch gemessen (Handy und Computer) plus Sichtprüfung. Rechenbeispiele sind vorsichtige Beispielwerte, keine Zusagen.
+
+Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältnis zum Preis).
+
+## 1. MetallDesignMüller (Lead 14, Score 15/100)
+
+- Metallbau / Geländer, Treppen, Tore · Tel. 06821 1799757 · Besuch: Früh morgens 7 bis 8 Uhr oder vorher anrufen (Handwerker oft auf Montage)
+- Vorschau: webdesign-neunkirchen.de/v/lmn7fq · Website-Check-PDF: checks/14_mdm_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Zu wenig Text für Google: Auf der Startseite stehen nur 0 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.metalldesignmueller.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+
+**Sichtprüfung:**
+- Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.
+- Ihre Leistungen stehen nur als Überschriften in der Galerie. Google findet dazu kaum Text.
+- Ihre Projektfotos sind stark, auf der Startseite aber nicht zu sehen.
+
+**Größter Hebel:** Metallbau wird über Leistung plus Ort gesucht ('Geländer Neunkirchen', 'Stahltreppe Saarland'). Eigene Leistungsseiten mit den vorhandenen Projektfotos und ein Anfrageformular mit Foto-Upload bringen vorqualifizierte Anfragen statt Telefonate ohne Maße.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Ihre Projektfotos groß im Mittelpunkt
+- Eine eigene Seite für Geländer, Treppen, Tore und Überdachungen
+
+**Rechenbeispiel:** 4 zusätzliche Aufträge im Jahr zu je 2.500 € sind 10.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Google-Profil mit Projektfotos und Leistungen, Bewertungen nach jedem Auftrag anfragen (QR auf der Rechnung)
+- Referenz-Posts auf Instagram und Facebook aus Vorher/Nachher-Fotos der Baustelle
+- Einträge bei Branchenportalen vereinheitlichen (MyHammer, Gelbe Seiten, 11880)
+- Backlinks über Kooperationen mit Bauträgern, Architekten und Treppenbauern der Region
+
+## 2. Dolomiti Pizzeria, Gelateria & Pasticceria (Lead 12, Score 15/100)
+
+- Eiscafé / Pizzeria / Pasticceria · Tel. 06821 9424024 · Besuch: Nachmittags kurz nach Öffnung, nicht zur Abendspitze
+- Vorschau: webdesign-neunkirchen.de/v/ihd7wc · Website-Check-PDF: checks/12_dolomiti_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Zu wenig Text für Google: Auf der Startseite stehen nur 0 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Wenn man Ihre Website aufruft, erscheint nur das Lieferando-Logo. Eiskarte, Öffnungszeiten und Telefonnummer fehlen.
+- Ihre 358 Google-Bewertungen mit 4,3 Sternen sieht auf der Website niemand.
+- Für Saisonstart, neue Sorten oder geänderte Zeiten gibt es keinen eigenen Ort.
+
+**Größter Hebel:** Ein Eiscafé am Oberen Markt lebt von Laufkundschaft und Spontanbesuchen. Gesucht wird 'Eiscafé Neunkirchen' oder 'Eis in der Nähe'. Eine eigene Seite mit Eiskarte, Fotos und Zeiten plus gepflegtem Google-Profil holt diese Suchen an den eigenen Tisch statt zur Lieferplattform.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Eine eigene Seite mit Eis-, Pizza- und Dolci-Karte
+- Öffnungs- und Saisonzeiten, die Sie selbst in einer Minute ändern
+
+**Rechenbeispiel:** 60 zusätzliche Gäste im Monat zu je 15 € bringen 900 € im Monat, 10.800 € im Jahr. Der Website-Preis entspricht 46 Gästen.
+
+**Zusatzleistungen zum Anbieten:**
+- Instagram mit Kurzvideos der Eisbecher und 'Sorte der Woche', 3 Beiträge pro Woche in der Saison
+- Google-Beiträge zu Saisonstart, neuen Sorten, Ferien
+- Eis-Gutscheine online verkaufen (Geschenkidee)
+- Bewertungs-QR an der Kasse, Antworten mit KI-Vorlagen
+- Karte zusätzlich auf Italienisch und Englisch
+
+## 3. HIGH VOLTAGE Veranstaltungstechnik (Lead 17, Score 17/100)
+
+- Veranstaltungstechnik / Bühnen-, Ton-, Licht- und Videotechnik · Tel. 06821 983161 · Besuch: Vorher anrufen, Lager und Büro sind nicht immer besetzt (Veranstaltungen oft abends und am Wochenende)
+- Vorschau: webdesign-neunkirchen.de/v/7zza4y · Website-Check-PDF: checks/17_hvoltage_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 1001 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 39 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.hvoltage.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 60 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+
+**Sichtprüfung:**
+- Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.
+- Ihre Leistungen stehen nur als Stichworte da, Bilder Ihrer Events fehlen.
+- Es gibt keine Anfrage mit Datum, Ort und Gästezahl und keine Mietpakete.
+
+**Größter Hebel:** Veranstaltungstechnik wird mit Datum im Kopf gesucht ('Bühne mieten Saarland', 'PA mieten Neunkirchen'). Ein Mietkatalog mit Paketpreisen und eine Anfrage mit Datum bringen planbare Dry-Hire-Umsätze, die heute an Verleihportale gehen.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Keine 'Nicht sicher'-Warnung mehr im Browser
+- Ihre Events in großen Bildern
+- Mietpakete für Ton, Licht und Bühne mit klarer Anfrage
+
+**Rechenbeispiel:** 6 zusätzliche Aufträge im Jahr zu je 1.200 € sind 7.200 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Instagram und TikTok mit Kurzvideos vom Aufbau und den Shows
+- Mietpakete als Google-Produkte im Unternehmensprofil
+- Referenzseiten pro Event-Location als Suchtreffer ('Technik für Hochzeit in ...')
+- Kooperationslinks mit Locations, DJs und Bands der Region
+
+## 4. VSV Abbruch GmbH (Lead 22, Score 15/100)
+
+- Abbruch / Entkernung / Schadstoffsanierung · Tel. 06821 590721 · Besuch: Vorher anrufen, Büro werktags vormittags
+- Vorschau: webdesign-neunkirchen.de/v/odr2ap · Website-Check-PDF: checks/22_vsv_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Google zeigt einen nichtssagenden Titel: Seitentitel: 'Home' → Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.
+- [mittel] Copyright 2023: wirkt nicht gepflegt: Im Fußbereich steht das Jahr 2023. → Ein altes Jahr lässt Besucher zweifeln, ob Angaben wie Öffnungszeiten oder Preise noch stimmen.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Auf dem Handy bleibt Ihre Startseite bei meinem Test leer, es erscheinen weder Text noch Bilder.
+- Auf Ihrer Startseite steht fast kein Text. Google kann dadurch kaum erkennen, was Sie anbieten.
+- Ihre Zulassung für Asbestsanierung steht nur auf einer Unterseite.
+
+**Größter Hebel:** Asbestsanierung ist ein Spezialgebiet mit wenigen zugelassenen Betrieben und hoher Nachfrage durch Hausverkäufe und Sanierungen. Eine eigene Seite 'Asbestsanierung Saarland' mit Zulassungen und Anfrageformular bringt hochwertige Privat- und Gewerbeaufträge.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Bei Google mit Leistung und Ort sichtbar statt mit 'Home'
+- Eine Seite, die auf Handy und Rechner gleich gut funktioniert, mit Ihren großen Baustellenfotos
+- Projektanfrage mit Foto- und Plan-Upload
+
+**Rechenbeispiel:** 2 zusätzliche Aufträge im Jahr zu je 8.000 € sind 16.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Landingpage Asbestsanierung mit Zulassungen und FAQ für Privatkunden
+- Google-Profil mit Projektfotos, Bewertungen von Bauherren anfragen
+- Einträge in Ausschreibungs- und Handwerkerportalen
+- Kooperationen mit Maklern und Gutachtern (Backlinks und Empfehlungen)
+
+## 5. Sven Stein Garten-, Haus- und Hofservice (Lead 42, Score 15/100)
+
+- Gartenpflege, Winterdienst, Hausmeisterservice · Tel. 06821 9148107 · Besuch: Abends oder per Anruf, Einzelunternehmer ist tagsüber beim Kunden
+- Vorschau: webdesign-neunkirchen.de/v/ysrh3e · Website-Check-PDF: checks/42_stein_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Google zeigt einen nichtssagenden Titel: Seitentitel: 'My CMS - Service aus einer Hand - Ihr Spezialist für den Garten und Arbeiten rund ums Haus im Saarland' → Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.
+- [hoch] Platzhalter aus der Vorlage sind sichtbar: Gefunden: 'my cms' → Platzhalter zeigen Besuchern, dass die Seite nie fertig gemacht wurde.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 103 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+
+**Sichtprüfung:**
+- Bei Google und oben auf Ihrer Seite steht 'My CMS' statt Ihr Name.
+- Ihre Referenzen sind von 2018, die Bilder sind Blumenfotos statt Ihrer Arbeit.
+- Für den Winterdienst kann man nichts direkt anfragen.
+
+**Größter Hebel:** Es ist Oktober: Hauseigentümer und Hausverwaltungen suchen jetzt 'Winterdienst Neunkirchen', um die Räumpflicht abzugeben. Eine Seite mit Winterdienst-Anfrage und echten Fotos bringt Saisonverträge, die sich jeden Winter wiederholen.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Bei Google mit Leistung und Ort sichtbar statt mit 'My CMS - Service aus einer Hand ...'
+- Eine fertige, gepflegte Seite statt sichtbarer Vorlagenreste
+- Winterdienst-Anfrage vor der Saison
+- Ihre echten Arbeiten als Referenzen
+
+**Rechenbeispiel:** 6 zusätzliche Aufträge im Jahr zu je 600 € sind 3.600 € Mehrumsatz. Der Website-Preis entspricht 2 Aufträgen.
+
+**Zusatzleistungen zum Anbieten:**
+- Winterdienst-Anfrage mit Adresse und Flächengröße, ideal vor der Saison
+- Landingpages 'Winterdienst Neunkirchen' und 'Gartenpflege Neunkirchen'
+- Referenzen mit Vorher-Nachher-Fotos vom Handy
+- Google-Profil, Bewertungen nach jedem Auftrag anfragen
+
+## 6. Ratzky GmbH Bedachungen (Lead 16, Score 24/100)
+
+- Dachdecker / Bedachungen · Tel. 06821 93010 · Besuch: Früh morgens 7 bis 8 Uhr oder vorher anrufen, Dachdecker sind tagsüber auf der Baustelle
+- Vorschau: webdesign-neunkirchen.de/v/rvoffe · Website-Check-PDF: checks/16_ratzky_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Zu wenig Text für Google: Auf der Startseite stehen nur 20 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.
+- Die Seite 'Unternehmen' zeigt derzeit nur den Hinweis 'In Bearbeitung'.
+- Ihre Vorher/Nachher-Fotos sind stark, auf der Startseite aber nicht zu sehen.
+
+**Größter Hebel:** Dachdecker werden über Leistung plus Ort gesucht ('Dachdecker Neunkirchen', 'Flachdach abdichten Saarland') und immer öfter wegen Solar und Dämmung. Leistungsseiten mit den vorhandenen Vorher/Nachher-Fotos und eine Anfrage mit Foto-Upload bringen vorqualifizierte Aufträge. Dazu hilft die Seite beim Thema Fachkräfte.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Ihre Baustellenfotos groß im Mittelpunkt
+- Eigene Seiten für Steildach, Flachdach, Dämmung und Solar
+
+**Rechenbeispiel:** 3 zusätzliche Aufträge im Jahr zu je 6.000 € sind 18.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Karriereseite mit Google-Jobdaten für Dachdecker und Azubis, dazu Social-Recruiting-Posts
+- Google-Profil mit Baustellenfotos, Bewertung nach jedem Auftrag per QR auf der Rechnung
+- Ratgeberseiten zu Förderung von Dachsanierung und Solar als Suchtreffer
+- Herstellerpartner-Links (Hersteller-Fachbetriebsverzeichnisse) als Backlinks
+
+## 7. Fensterbau Decker GmbH (Lead 27, Score 21/100)
+
+- Fenster, Haustüren, Rollläden (Hersteller) · Tel. 06821 361524 · Besuch: Werktags vormittags in der Ausstellung
+- Vorschau: webdesign-neunkirchen.de/v/eaxoh6 · Website-Check-PDF: checks/27_decker_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Google zeigt einen nichtssagenden Titel: Seitentitel: 'Startseite' → Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.
+- [mittel] Copyright 2018: wirkt nicht gepflegt: Im Fußbereich steht das Jahr 2018. → Ein altes Jahr lässt Besucher zweifeln, ob Angaben wie Öffnungszeiten oder Preise noch stimmen.
+
+**Sichtprüfung:**
+- Beim Aufruf überdecken ein Cookie-Hinweis und ein Werbe-Fenster Ihre Startseite.
+- Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.
+- Dass Sie selbst im Saarland fertigen, steht nur im Fließtext.
+
+**Größter Hebel:** Fenster und Haustüren sind Zehntausend-Euro-Entscheidungen, die online beginnen ('Fenster kaufen Saarland', 'Haustür Neunkirchen'). Als Hersteller mit Ausstellung gewinnt Decker gegen Online-Konfiguratoren mit Nähe, Fertigung vor Ort und Aufmaß. Dazu Förderung für Fenstertausch als Suchtreffer.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Bei Google mit Leistung und Ort sichtbar statt mit 'Startseite'
+- Ihre eigene Fertigung und Ausstellung groß auf der Startseite
+- Angebotsanfrage mit Maßen und Foto
+
+**Rechenbeispiel:** 4 zusätzliche Aufträge im Jahr zu je 4.000 € sind 16.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Ratgeber Förderung Fenstertausch und Einbruchschutz als lokale Suchtreffer
+- Google-Profil mit Ausstellungsfotos und Bewertungen nach Montage (QR auf der Rechnung)
+- Händler-Bereich für den Fachhandel
+- Instagram mit Vorher/Nachher-Montagen
+
+## 8. Viktor Hofmann Fliesen Granit Mosaik (Lead 35, Score 21/100)
+
+- Fliesenleger / Spanndecken · Tel. 06821 87797 · Besuch: Vorher anrufen, morgens vor Baustellenbeginn
+- Vorschau: webdesign-neunkirchen.de/v/qyw5z7 · Website-Check-PDF: checks/35_hofmann_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Zu wenig Text für Google: Auf der Startseite stehen nur 18 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.fliesen-neunkirchen.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+- [mittel] Unsichere Inhalte auf der Seite: 1 Dateien werden unverschlüsselt (http) geladen. → Browser blockieren solche Inhalte teilweise oder warnen.
+
+**Sichtprüfung:**
+- Ihre Startseite besteht nur aus einem Bild mit Menüpunkten. Google kann dort keinen Text lesen.
+- Ihre schönen Badfotos stehen nur klein in der Galerie.
+- Eine Anfrage-Möglichkeit und ein Google-Profil mit Bewertungen habe ich nicht gefunden.
+
+**Größter Hebel:** Badsanierung ist eine der meistgesuchten Handwerksleistungen ('Badsanierung Neunkirchen', 'Fliesenleger Neunkirchen'). Mit Text auf der Startseite, großen Galeriebildern und einer Seite Spanndecken (selten im Kreis angeboten) wird Hofmann für beide Suchen sichtbar.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Keine 'Nicht sicher'-Warnung mehr im Browser
+- Ihre Bäder in großen Bildern auf der Startseite
+- Eigene Seiten für Bad, Boden und Spanndecken
+
+**Rechenbeispiel:** 4 zusätzliche Aufträge im Jahr zu je 3.000 € sind 12.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Google-Profil anlegen mit Galeriefotos, Bewertungen nach Abnahme anfragen
+- Eigene Seite Spanndecken als Suchtreffer
+- Vorher/Nachher-Bäder auf Instagram und Pinterest
+- Kooperation mit Sanitär- und Heizungsbetrieben (Empfehlungen, Links)
+
+## 9. Pemotec GmbH (Lead 37, Score 21/100)
+
+- Motoreninstandsetzung und Kfz-Werkstatt · Tel. 06821 2902680 · Besuch: Vormittags zwischen 9 und 12 Uhr, vorher anrufen
+- Vorschau: webdesign-neunkirchen.de/v/sr52zb · Website-Check-PDF: checks/37_pemotec_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Google zeigt einen nichtssagenden Titel: Seitentitel: '(leer)' → Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.pemotec.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Auf Ihrer Startseite steht noch der Hinweis zu Rosenmontag 2024.
+- Ihre Seite hat keinen Seitentitel, bei Google erscheint dann nur die Adresse.
+- Für einen Kostenvoranschlag muss der Kunde mehrere Nummern abtippen und mailen.
+
+**Größter Hebel:** Motoreninstandsetzung ist ein Nischenthema mit hohem Auftragswert: Wer 'Motor instandsetzen Saarland' sucht, steht vor der Wahl Tauschmotor oder Reparatur. Eine Seite mit klarer Erklärung und einer Anfrage per Foto vom Fahrzeugschein macht aus Besuchern Kostenvoranschläge.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Bei Google mit Leistung und Ort sichtbar statt ganz ohne Titel
+- Keine 'Nicht sicher'-Warnung mehr im Browser
+- Kostenvoranschlag per Foto vom Fahrzeugschein
+- Motor, Getriebe und Motorsport klar getrennt
+
+**Rechenbeispiel:** 4 zusätzliche Aufträge im Jahr zu je 2.000 € sind 8.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Formular 'Kostenvoranschlag': Fahrzeugschein fotografieren, Problem beschreiben, fertig
+- Landingpage 'Getriebeölspülung DSG Saarland'
+- Motorsport-Referenzseite mit Fotos und Video
+- Google-Profil mit Werkstattfotos
+
+## 10. Lackierservice Forster (Lead 30, Score 31/100)
+
+- KFZ-Lackiererei / Karosseriebau / Smart Repair · Tel. 06821 9729239 · Besuch: Werktags zwischen 8 und 9 Uhr oder nachmittags gegen 16 Uhr in der Werkstatt
+- Vorschau: webdesign-neunkirchen.de/v/3hy5xw · Website-Check-PDF: checks/30_forster_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 507 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 77 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Ein Bild lädt nicht: Nicht geladen: https://beulenfrei.com/ → Leere Kästen oder fehlende Logos wirken, als sei der Betrieb nicht mehr aktiv.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Seite lädt langsam: Die Startseite lädt 17,3 MB Daten. → Jede Sekunde Wartezeit kostet Besucher, besonders im Mobilfunknetz.
+
+**Sichtprüfung:**
+- Auf dem Handy ist Ihre Seite breiter als der Bildschirm. Man muss seitlich wischen, um alles zu sehen.
+- Ihre 52 Google-Bewertungen mit 4,9 Sternen sieht auf der Website niemand.
+- Einen Schaden mit Foto melden ist online nicht möglich.
+
+**Größter Hebel:** Smart Repair vor Leasing-Rückgabe ist ein wachsendes, planbares Geschäft. Wer bei 'Smart Repair Neunkirchen' sucht, will sofort einen Preis. Ein Foto-Upload mit Rückmeldung innerhalb eines Tages macht aus der Suche einen Werkstatttermin, die 4,9 Sterne geben den Ausschlag.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Alle Bilder und das Logo laden zuverlässig
+- Schaden mit Foto melden, Rückmeldung mit Preisrahmen
+- Ihre Bewertungen gut sichtbar auf der Startseite
+- Eigene Seite für Smart Repair vor der Leasing-Rückgabe
+
+**Rechenbeispiel:** 8 zusätzliche Aufträge im Jahr zu je 900 € sind 7.200 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Landingpage 'Smart Repair vor Leasing-Rückgabe' plus Ansprache von Autohäusern
+- Vorher/Nachher-Reels auf Instagram aus der Werkstatt
+- Google-Profil mit Leistungen und Preisen ab, Bewertungs-QR bei Fahrzeugübergabe
+- Einträge bei Autoreparatur-Portalen vereinheitlichen
+
+## 11. Elektro Hobler UG (Lead 18, Score 41/100)
+
+- Elektroinstallation / Elektriker · Tel. 06821 952063 · Besuch: Morgens zwischen 7 und 9 Uhr (Büro Mo bis Fr 6 bis 13 Uhr erreichbar)
+- Vorschau: webdesign-neunkirchen.de/v/khjgpu · Website-Check-PDF: checks/18_hobler_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 102 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+
+**Sichtprüfung:**
+- Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.
+- Die Startseite zeigt kaum etwas von Ihrer Arbeit, Leistungen stehen nur auf einer Unterseite.
+- Ihre Prüfung nach DGUV V3 für Betriebe ist kaum zu finden.
+
+**Größter Hebel:** DGUV-V3-Prüfungen sind Pflicht für jeden Betrieb und wiederkehrend. Eine eigene Seite 'DGUV V3 Prüfung Neunkirchen' mit Anfrageformular bringt planbare Firmenkunden. Dazu Ausbildungsplätze, die Bewerber online suchen.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Ihre Leistungen klar sortiert, Anruf mit einem Fingertipp
+- Eine eigene Seite zur DGUV-V3-Prüfung mit Anfrage für Betriebe
+
+**Rechenbeispiel:** 6 zusätzliche Aufträge im Jahr zu je 900 € sind 5.400 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- DGUV-V3-Landingpage plus Anschreiben an Betriebe der Umgebung (Brief, rechtssicher)
+- Google-Profil mit Leistungen und Fotos, Bewertungs-QR auf der Rechnung
+- Ausbildungsseite mit Google-Jobdaten und Posts für Azubis
+- Firmeneinträge in Branchenverzeichnissen vereinheitlichen
+
+## 12. Haus- und Montage Service Kirschhock (Lead 32, Score 35/100)
+
+- Hausmeister- und Montageservice · Tel. 06821 306991 · Besuch: Vorher anrufen (mobil 0175 4147742), am besten früh morgens
+- Vorschau: webdesign-neunkirchen.de/v/6vsmks · Website-Check-PDF: checks/32_kirschhock_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.hausmeisterservice-kirschhock.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 73 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Auf dem Handy ist Ihre Seite breiter als der Bildschirm. Man muss seitlich wischen, um alles zu sehen.
+- Oben steht 'seit über 10 Jahren', laut Ihrer eigenen Seite sind Sie seit 2003 im Einsatz.
+- Auf der Startseite sind vor allem Symbolbilder zu sehen, Ihre eigenen Arbeiten kaum.
+
+**Größter Hebel:** Hausmeister- und Montageservice wird oft über Hausverwaltungen vergeben, aber Privatkunden suchen 'Entrümpelung Neunkirchen' oder 'Möbelmontage Neunkirchen'. Eigene Leistungsseiten und Anfrage mit Foto bringen planbare Kleinaufträge, Referenzen mit echten Fotos schaffen Vertrauen.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Keine 'Nicht sicher'-Warnung mehr im Browser
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Ihre echten Arbeiten als Referenzen
+- Anfrage mit Foto-Upload
+
+**Rechenbeispiel:** 12 zusätzliche Aufträge im Jahr zu je 300 € sind 3.600 € Mehrumsatz. Der Website-Preis entspricht 3 Aufträgen.
+
+**Zusatzleistungen zum Anbieten:**
+- Google-Profil anlegen (bisher keine Bewertungen gefunden), Bewertungs-QR nach jedem Auftrag
+- Leistungsseiten Entrümpelung, Möbelmontage, Pflaster als lokale Suchtreffer
+- Infoblatt für Hausverwaltungen (Rahmenvertrag)
+- Vorher/Nachher-Fotos aus Aufträgen als Referenzen
+
+## 13. Hermann Didié Büro- und Zeichenbedarf (Lead 13, Score 15/100)
+
+- Bürobedarf / Künstler- und Bastelbedarf · Tel. 06821 22757 · Besuch: Vormittag unter der Woche, wenn wenig Kundschaft im Laden ist
+- Vorschau: webdesign-neunkirchen.de/v/322wzl · Website-Check-PDF: checks/13_didie_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Google zeigt einen nichtssagenden Titel: Seitentitel: '(leer)' → Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.
+- [hoch] Zu wenig Text für Google: Auf der Startseite stehen nur 21 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.hermann-didie.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+
+**Sichtprüfung:**
+- Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.
+- Laut Server wurde Ihre Startseite zuletzt 2011 geändert. Sortiment und Öffnungszeiten fehlen.
+- Ihre 4,6 Sterne bei 190 Google-Bewertungen kommen auf der Website nicht vor.
+
+**Größter Hebel:** Bastel- und Künstlerbedarf wird gezielt gesucht ('Bastelladen Neunkirchen', 'Rayher Saarland'). Mit Sortimentsseiten pro Marke und Thema wird der Laden für diese Suchen sichtbar, auch für Kundschaft aus dem Umland, die bisher zu Online-Shops geht.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Bei Google mit Leistung und Ort sichtbar statt ganz ohne Titel
+- Eigene Seiten für Büro, Zeichnen, Malen und Basteln, damit Google Sie bei diesen Suchen zeigt
+- Öffnungszeiten und Anfahrt auf einen Blick, am Handy gut lesbar
+
+**Rechenbeispiel:** 40 zusätzliche Einkäufe im Jahr zu je 40 € sind 1.600 € Mehrumsatz. Der Website-Preis entspricht 18 Einkäufen.
+
+**Zusatzleistungen zum Anbieten:**
+- Saisonaktionen als Google-Beitrag: Schulstart, Ostern, Advent und Weihnachtsbasteln
+- Instagram mit Bastelideen und Neuheiten, 2 Beiträge pro Woche
+- Workshop-Seite für Bastelkurse im Laden (Anmeldung per Formular)
+- Firmenkunden-Seite für Bürobedarf mit Bestellung per Mail
+- Bewertungs-QR an der Kasse
+
+## 14. Blumen Rebel (Lead 28, Score 15/100)
+
+- Blumengeschäft / Gärtnerei / Grabpflege · Tel. 06821 86217 · Besuch: Vormittags in der Gärtnerei, nicht vor Muttertag, Allerheiligen oder Weihnachten
+- Vorschau: webdesign-neunkirchen.de/v/vh4jxx · Website-Check-PDF: checks/28_rebel_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Google zeigt einen nichtssagenden Titel: Seitentitel: '(leer)' → Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.
+- [hoch] Zu wenig Text für Google: Auf der Startseite stehen nur 0 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.blumen-rebel.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+
+**Sichtprüfung:**
+- Beim Aufruf verdeckt ein großer Cookie-Dialog Ihre Startseite.
+- Ihre Seite ist laut meinem Test nicht für Smartphones angepasst.
+- Sie bitten um frühzeitige Vorbestellung, online ist das aber nicht möglich.
+
+**Größter Hebel:** Blumen werden spontan und anlassbezogen gekauft, vor Muttertag, Valentinstag und Allerheiligen massiv. Eine Vorbestellung online mit Abholzeit verkürzt die Schlange (das wünscht sich die Seite selbst) und holt Bestellungen, die heute an Fleurop und Online-Floristen gehen. Grabpflege ist planbares Abo-Geschäft und gehört als eigene Seite nach vorne.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Bei Google mit Leistung und Ort sichtbar statt ganz ohne Titel
+- Strauß online vorbestellen mit Abholzeit
+- Blumengeschäft, Gärtnerei und Grabpflege klar getrennt
+
+**Rechenbeispiel:** 20 zusätzliche Aufträge im Jahr zu je 80 € sind 1.600 € Mehrumsatz. Der Website-Preis entspricht 9 Aufträgen.
+
+**Zusatzleistungen zum Anbieten:**
+- Vorbestellformular für Anlässe (Muttertag, Valentinstag, Allerheiligen) mit Abholzeit
+- Grabpflege-Seite mit Anfrage, je Friedhof als Suchtreffer
+- Instagram mit saisonalen Sträußen, 2 bis 3 Beiträge pro Woche
+- Zwei Google-Profile sauber trennen (Geschäft und Gärtnerei)
+
+## 15. La Campanella (Lead 34, Score 24/100)
+
+- Pizzeria / Lieferdienst · Tel. 06821 3624333 · Besuch: Nachmittags zwischen 15 und 17 Uhr, nicht zur Essenszeit
+- Vorschau: webdesign-neunkirchen.de/v/4qyb27 · Website-Check-PDF: checks/34_campanella_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Ihre eigene Domain zeigt eine Lieferando-Seite: Oben auf der Seite steht: 'Diese Website wird betrieben und verwaltet durch Lieferando.de' → Gäste, die Ihre Adresse schon kennen, bestellen dort mit Provision. Diese Stammkunden-Bestellungen kosten Sie Geld, obwohl Sie sie selbst gewonnen haben.
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 669 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 58 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Ihre Website wird von Lieferando betrieben, nicht von Ihnen.
+- Bestellungen über diese Seite laufen über das Portal, das an jeder Bestellung mitverdient.
+- Auf dem Handy ist die Seite breiter als der Bildschirm, Öffnungszeiten und Bilder vom Laden fehlen.
+
+**Größter Hebel:** Wie bei Damaskus Haus und Wibilo: Stammkunden bestellen über die eigene Domain, zahlen aber Provision an das Portal. Eine eigene Seite mit Karte und Bestellknopf zu Telefon und WhatsApp holt genau diese Bestellungen zurück. Halal-Pizza ist ein klares Alleinstellungsmerkmal für die Suche.
+
+**Was der Betrieb davon hat:**
+- Stammkunden bestellen direkt bei Ihnen, ohne Provision
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Eine eigene Seite mit Ihrer Karte und Ihren Preisen
+- Halal-Pizza als eigenes Thema, damit man Sie dafür findet
+
+**Rechenbeispiel:** Bei 60 Bestellungen im Monat über Ihre Domain zu je 25 € und 13 % Provision sparen Sie rund 195 € im Monat, 2.340 € im Jahr. Die Website ist nach etwa 4 Monaten bezahlt.
+
+**Zusatzleistungen zum Anbieten:**
+- Google-Profil mit Speisekarte, Fotos und Öffnungszeiten
+- Instagram und TikTok mit Kurzvideos aus dem Ofen
+- Seite 'Halal Pizza Neunkirchen' als Suchtreffer
+- Mittagsangebot als Google-Beitrag und WhatsApp-Status
+
+## 16. Schlosserei Heil GmbH (Lead 15, Score 42/100)
+
+- Schlosserei / Metallbau / Schmiede · Tel. 06821 51362 · Besuch: Früh morgens 7 bis 8 Uhr in der Werkstatt oder vorher anrufen
+- Vorschau: webdesign-neunkirchen.de/v/jj6gjo · Website-Check-PDF: checks/15_heil_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+
+**Sichtprüfung:**
+- Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.
+- Ihre Projektfotos erscheinen nur als kleine Vorschaubilder.
+- Meistererfahrung seit 1930, Schweißfachbetrieb und WHG-Zulassung stehen nur im Fließtext.
+
+**Größter Hebel:** Ein Betrieb mit fast 100 Jahren Meistererfahrung, Schweißfachbetrieb und WHG-Zulassung hat starke Vertrauensargumente, die online fehlen. Leistungsseiten mit großen Projektfotos plus aktives Bewertungsmanagement drehen die Wahrnehmung bei Google.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Ihre Arbeiten in großen Bildern, sortiert nach Leistung
+- Qualifikationen und Erfahrung gut sichtbar ganz oben
+- Anfrage mit Foto-Upload, damit Sie vorher wissen, worum es geht
+
+**Rechenbeispiel:** 4 zusätzliche Aufträge im Jahr zu je 1.500 € sind 6.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Bewertungs-Turnaround: zufriedene Kunden der letzten 2 Jahre um Bewertung bitten, alle Bewertungen beantworten
+- Google-Profil mit Projektfotos und Qualifikationen
+- Industriekunden-Seite für WHG-Arbeiten (Tankanlagen, Auffangwannen) als eigener Suchtreffer
+- Stellenseite für Metallbauer und Azubis
+
+## 17. Musikunterricht Birgit Schneider (Lead 25, Score 45/100)
+
+- Musikunterricht · Tel. 06821 42184 · Besuch: Vormittags vor dem Unterricht, vorher anrufen
+- Vorschau: webdesign-neunkirchen.de/v/7khn4s · Website-Check-PDF: checks/25_schneider_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.musikunterricht-neunkirchen.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.
+- Ihre besten Argumente, keine Kündigungsfrist und kostenfreie Ferien, stehen im Fließtext.
+- Ein Google-Profil, über das Eltern Sie finden, habe ich nicht gefunden.
+
+**Größter Hebel:** Eltern suchen 'Klavierunterricht Neunkirchen' am Handy. Die Argumente sind stark und preislich unschlagbar. Aber: Bei 10 € pro Stunde ist das Budget klein. Hier eher das Startpaket oder nur Google-Profil anbieten.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Keine 'Nicht sicher'-Warnung mehr im Browser
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Instrumente und Kosten auf einen Blick, auch am Handy
+- Probestunde anfragen mit einem Tipp
+
+**Rechenbeispiel:** 4 zusätzliche Anmeldungen im Jahr zu 80 € monatlich bringen 3.840 € im ersten Jahr. Die Website ist mit 1 Anmeldungen bezahlt.
+
+**Zusatzleistungen zum Anbieten:**
+- Google-Profil einrichten (ab 190 €): der größte Hebel bei kleinem Budget
+- Eintrag in Musikschul- und Nachhilfeverzeichnissen
+- Aushang mit QR-Code für Kitas und Grundschulen in Wellesweiler
+
+## 18. HTB Haus-Technik Bechtel GmbH (Lead 31, Score 45/100)
+
+- Elektro-, Sicherheits- und Haustechnik · Tel. 06821 952200 · Besuch: Früh morgens oder vorher anrufen, Teams sind tagsüber beim Kunden
+- Vorschau: webdesign-neunkirchen.de/v/oiylva · Website-Check-PDF: checks/31_htb_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.ht-bechtel.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+
+**Sichtprüfung:**
+- Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.
+- Ihre Stellenanzeige für Elektriker ist nur eine Textzeile auf der Startseite.
+- Elektro- und Sicherheitstechnik liegen auf einer zweiten Domain, die nicht verschlüsselt erreichbar ist.
+
+**Größter Hebel:** Zwei Geschäftsfelder, zwei Domains, keine klare Seite: Gerade Alarmanlagen und Instandhaltungsverträge sind lukrative, wiederkehrende Aufträge. Eine Seite mit Bereichen und eine echte Karriereseite helfen gegen den Fachkräftemangel, das drängendste Problem laut eigener Startseite.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Keine 'Nicht sicher'-Warnung mehr im Browser
+- Elektro, Sicherheit und Haustechnik übersichtlich auf einer Seite
+- Eine Karriereseite, die Bewerber bei Google finden
+- Anfrage für Instandhaltungsverträge und Alarmanlagen
+
+**Rechenbeispiel:** 6 zusätzliche Aufträge im Jahr zu je 1.200 € sind 7.200 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Karriereseite mit Google-Jobdaten für Elektriker, dazu Social-Recruiting
+- Landingpage 'Alarmanlage Neunkirchen' mit Fördermöglichkeiten für Einbruchschutz
+- Instandhaltungsvertrag als Produkt mit Anfrage für Hausverwaltungen
+- Google-Profil mit Leistungen, Bewertungen nach Aufträgen anfragen
+
+## 19. Hegi Fenstervertrieb und Montage (Lead 33, Score 45/100)
+
+- Fenster, Rollläden, Haustüren (Vertrieb und Montage) · Tel. 06821 59180 · Besuch: Werktags vormittags, vorher anrufen
+- Vorschau: webdesign-neunkirchen.de/v/kil76q · Website-Check-PDF: checks/33_hegi_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 53 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+
+**Sichtprüfung:**
+- Ihre Startseite zeigt derzeit nur den Hinweis 'Derzeit aktualisieren wir unser Onlineangebot für Sie!'.
+- Außer Impressum und Datenschutz gibt es keine weiteren Seiten zu Ihren Leistungen.
+- Ein Google-Profil mit Bewertungen habe ich nicht gefunden.
+
+**Größter Hebel:** Fenstertausch ist eine Entscheidung über mehrere Tausend Euro mit langer Recherche. Wer online nichts zeigt, wird gar nicht erst angefragt. Schon eine einfache Seite mit Produkten, Referenzen und Anfrage holt Hegi zurück in die Auswahl.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Eine fertige Seite mit Fenstern, Rollläden und Haustüren
+- Angebotsanfrage mit Maßen und Foto
+- Ihre 30 Jahre Erfahrung gut sichtbar
+
+**Rechenbeispiel:** 4 zusätzliche Aufträge im Jahr zu je 4.000 € sind 16.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Google-Profil anlegen oder übernehmen, Bewertungen nach Montage anfragen
+- Ratgeber Förderung Fenstertausch als Suchtreffer
+- Referenzfotos aus Montagen (Vorher/Nachher)
+- Einträge in Branchenverzeichnissen vereinheitlichen
+
+## 20. Hifi Zenit (Lead 41, Score 42/100)
+
+- Hifi- und Car-Hifi-Fachhandel · Tel. 06821 177223 · Besuch: Nachmittags im Laden, vorher anrufen (oft Termine beim Kunden)
+- Vorschau: webdesign-neunkirchen.de/v/qw57hp · Website-Check-PDF: checks/41_hifi_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Copyright 2016: wirkt nicht gepflegt: Im Fußbereich steht das Jahr 2016. → Ein altes Jahr lässt Besucher zweifeln, ob Angaben wie Öffnungszeiten oder Preise noch stimmen.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Ihre Seite ist von 2016, oben stehen die Zahlen 1 bis 10 vom Slider als Text.
+- Ihr Spezialgebiet Elektrostaten steht nur in einem Satz.
+- Öffnungszeiten finde ich auf der Startseite nicht.
+
+**Größter Hebel:** Reparatur und Überarbeitung von Elektrostaten ist eine echte Nische, Besitzer von Martin Logan oder Quad suchen deutschlandweit danach. Eine eigene Seite pro Marke mit Reparatur-Anfrage holt Aufträge von weit außerhalb, die Vorführtermine sichern das Geschäft vor Ort.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Aktuelle Seite, die Vertrauen schafft
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Elektrostaten-Service als eigene Seite, die bundesweit gefunden wird
+- Vorführtermin mit einem Klick anfragen
+
+**Rechenbeispiel:** 4 zusätzliche Aufträge im Jahr zu je 1.500 € sind 6.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Landingpages 'Martin Logan Reparatur' und 'Quad ESL Reparatur' mit Anfrage und Foto-Upload
+- Online-Terminanfrage für Vorführungen
+- Gebrauchtgeräte und Inzahlungnahmen als eigene Seite
+- Google-Profil mit Fotos aus dem Studio
+
+## 21. Malerbetrieb Gleich GmbH (Lead 57, Score 45/100)
+
+- Malerbetrieb · Tel. 06821 963636 · Besuch: Morgens früh oder nachmittags, vorher anrufen
+- Vorschau: webdesign-neunkirchen.de/v/goweaj · Website-Check-PDF: checks/57_gleich_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 106 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Im Menü gibt es keine Kontaktseite.
+- Die Startseite hat nur zwei allgemeine Sätze.
+- Die Projekte haben keine Beschreibung.
+
+**Größter Hebel:** Maler werden gesucht, wenn ein Umzug, eine Renovierung oder eine Fassade ansteht. Leistungsseiten, Projektfotos mit kurzer Beschreibung und eine Anfrage mit Fotos bringen planbare Aufträge, besonders von Vermietern und Hausverwaltungen.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Leistungen und Projekte auf der Startseite
+- Kontakt und Telefon überall sichtbar
+
+**Rechenbeispiel:** 4 zusätzliche Aufträge im Jahr zu je 2.500 € sind 10.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Anfrage mit Fotos der Räume und Wunschtermin
+- Landingpages 'Fassade streichen Neunkirchen' und 'Maler Neunkirchen'
+- Projektseiten mit Vorher-Nachher
+- Karriereseite für Maler und Azubis
+
+## 22. Fliesenmarkt Schwenk GmbH (Lead 60, Score 42/100)
+
+- Fliesenhandel und Verlegung · Tel. 06821 485601 · Besuch: Vormittags in der Ausstellung Wellesweiler
+- Vorschau: webdesign-neunkirchen.de/v/hhe3wr · Website-Check-PDF: checks/60_schwenk_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+- [mittel] Unsichere Inhalte auf der Seite: 5 Dateien werden unverschlüsselt (http) geladen. → Browser blockieren solche Inhalte teilweise oder warnen.
+
+**Sichtprüfung:**
+- Auf der Standortseite laden die Karten nicht.
+- Ihr Sortiment ist online nicht zu sehen.
+- Die Bilder auf der Startseite sind klein.
+
+**Größter Hebel:** Wer ein Bad plant, sucht Inspiration online und fährt dann in die Ausstellung, die ihm am meisten zeigt. Eine Seite mit Fliesenserien, Badideen, Sonderposten und Terminbuchung für die Beratung bringt Besucher in beide Märkte.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Sortiment und Badideen online
+- Beratungstermin buchen
+- Beide Standorte mit Karte und Zeiten
+
+**Rechenbeispiel:** 6 zusätzliche Aufträge im Jahr zu je 2.500 € sind 15.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Beratungstermin in der Ausstellung online buchen
+- Sonderposten-Seite, die das Team selbst pflegt
+- Badideen-Galerie aus Referenzen
+- Zwei Google-Profile sauber gepflegt
+
+## 23. Wibilo-Kebap-Haus (Lead 11, Score 15/100)
+
+- Döner / Imbiss mit Lieferservice · Tel. 06821 9533808 · Besuch: Werktags 14 bis 16 Uhr, nach dem Mittagsgeschäft (geöffnet Mo bis Sa ab 12 Uhr)
+- Vorschau: webdesign-neunkirchen.de/v/enipj7 · Website-Check-PDF: checks/11_wibilo_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Zu wenig Text für Google: Auf der Startseite stehen nur 0 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Wenn man Ihre Website aufruft, erscheint nur das Lieferando-Logo. Speisekarte, Öffnungszeiten und Telefonnummer fehlen.
+- Bestellungen über diese Seite laufen über das Portal, das an jeder Bestellung mitverdient.
+- Auf Ihre Google-Bewertungen gibt es bisher keine sichtbaren Antworten.
+
+**Größter Hebel:** Döner wird spontan und lokal bestellt. Wer auf 'Döner Wiebelskirchen' tippt, braucht Nummer, Karte und Öffnungszeiten in 3 Sekunden. Jede Bestellung, die per Telefon oder WhatsApp statt über das Portal kommt, spart die Provision (Höhe laut eigenem Vertrag).
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Eine eigene Seite mit Ihrer Karte, Ihren Zeiten und Ihrer Nummer
+- Bestellen per Anruf oder WhatsApp mit einem Tipp, ohne Provision
+
+**Rechenbeispiel:** Bei 60 Bestellungen im Monat über Ihre Domain zu je 18 € und 13 % Provision sparen Sie rund 140 € im Monat, 1.685 € im Jahr. Die Website ist nach etwa 5 Monaten bezahlt.
+
+**Zusatzleistungen zum Anbieten:**
+- Bewertungs-Turnaround: alle offenen Google-Bewertungen beantworten, KI-Antwortvorlagen, QR-Aufsteller an der Theke (Ziel: Schnitt über 4,0)
+- Instagram und TikTok: Kurzvideos vom Spieß, Lahmacun aus dem Ofen, 2 bis 3 pro Woche
+- Mittags-Deal für Pendler und Schüler als Google-Beitrag und WhatsApp-Status
+- Speisekarte zusätzlich auf Türkisch und Englisch
+- Stempelkarte digital (WhatsApp) für Stammkunden
+
+## 24. M-Trucks GmbH (Lead 36, Score 55/100)
+
+- Nutzfahrzeug-Werkstatt und Teilehandel · Tel. 06821 74963-14 · Besuch: Morgens ab 7 Uhr oder nach 16 Uhr, vorher anrufen
+- Vorschau: webdesign-neunkirchen.de/v/mjifl6 · Website-Check-PDF: checks/36_mtrucks_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Copyright 2022: wirkt nicht gepflegt: Im Fußbereich steht das Jahr 2022. → Ein altes Jahr lässt Besucher zweifeln, ob Angaben wie Öffnungszeiten oder Preise noch stimmen.
+
+**Sichtprüfung:**
+- Auf Ihrer Startseite liegen im Slider mehrere Texte übereinander und sind schwer lesbar.
+- Die Warnung vor falschen mobile.de-Inseraten geht im Slider unter.
+- Der Teilehandel hat keine direkte Anfrage pro Teil.
+
+**Größter Hebel:** Speditionen und Busunternehmen suchen eine Werkstatt, wenn ein Fahrzeug steht, und rufen die erste an, die klar zeigt, was sie kann. Eine ruhige Seite mit Leistungen, Notfallnummer und einem Teilehandel mit Anfrage je Teil bringt Werkstattaufträge und Teileverkäufe. Die Betrugswarnung schützt dann wirklich.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Aktuelle Seite, die Vertrauen schafft
+- Leistungen klar auf einen Blick, Telefon immer sichtbar
+- Teilehandel mit Anfrage per Knopfdruck
+- Betrugswarnung gut sichtbar und verständlich
+
+**Rechenbeispiel:** 6 zusätzliche Aufträge im Jahr zu je 1.500 € sind 9.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Teilehandel mit Anfrageknopf je Teil und WhatsApp
+- Landingpage 'Fahrtschreiberprüfung Neunkirchen'
+- Seite für Flottenkunden mit Wartungsvertrag
+- Google-Profil mit Fotos aus der Werkstatt, Bewertungen nach Reparaturen anfragen
+
+## 25. Grill au Bois (Lead 44, Score 52/100)
+
+- Steakhaus und Eventgastronomie · Tel. 06821 89999 · Besuch: Nachmittags zwischen Mittag- und Abendservice, vorher anrufen
+- Vorschau: webdesign-neunkirchen.de/v/eeuj5q · Website-Check-PDF: checks/44_grill_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 111 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Seite lädt langsam: Die Startseite lädt 7,7 MB Daten. → Jede Sekunde Wartezeit kostet Besucher, besonders im Mobilfunknetz.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Auf der Seite 'Über uns' steht noch 'Beispielüberschrift'.
+- Die Laufschrift oben überlagert auf dem Desktop das Menü.
+- Ihre Events sind über viele Unterseiten verteilt, ohne Kalender.
+
+**Größter Hebel:** Grill au Bois hat alles, was ein Top-Restaurant online braucht: Reservierung, Events, Shop, Gutscheine. Es fehlt die Ordnung. Ein Eventkalender mit Ticket- oder Reservierungsknopf und eine ruhige Startseite verkaufen mehr Plätze für Trüffel-Dinner, Brunch und Weihnachtsfeiern.
+
+**Was der Betrieb davon hat:**
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Ruhige Startseite mit Reservieren als Hauptknopf
+- Eventkalender mit Reservierung pro Termin
+- Speisekarte, Brunch und Feiern klar getrennt
+
+**Rechenbeispiel:** 40 zusätzliche Gäste im Monat zu je 60 € bringen 2.400 € im Monat, 28.800 € im Jahr. Der Website-Preis entspricht 34 Gästen.
+
+**Zusatzleistungen zum Anbieten:**
+- Eventkalender mit Reservierung pro Termin und Erinnerung per Newsletter
+- Landingpages 'Weihnachtsfeier Neunkirchen' und 'Hochzeit Saarland'
+- Brunch und Mittagskonzept als eigene Seiten für Google
+- Gemeinsamer Auftritt mit dem Hotel am Zoo
+
+## 26. Karosserie & Lack JuWel GmbH (Lead 59, Score 55/100)
+
+- Karosserie und Lackiererei · Tel. 06821 59333 · Besuch: Morgens ab 7:30 Uhr, vorher anrufen
+- Vorschau: webdesign-neunkirchen.de/v/z7qt2y · Website-Check-PDF: checks/59_juwel_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Ein Bild lädt nicht: Nicht geladen: Karosserie und Lack JuWel GmbH → Leere Kästen oder fehlende Logos wirken, als sei der Betrieb nicht mehr aktiv.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+
+**Sichtprüfung:**
+- Oben links lädt Ihr Logo nicht, man sieht nur Text.
+- Nach einem Unfall kann man keine Fotos vom Schaden schicken.
+- Ihre Oldtimer-Restaurierung steht versteckt unter Referenzen.
+
+**Größter Hebel:** Nach einem Unfall entscheiden Autofahrer schnell und oft am Handy. 'Schaden melden' mit Fotos, Versicherungsabwicklung und Leihwagen ganz oben bringt Aufträge. Die Porsche-Restaurierung ist ein Aushängeschild für Oldtimer-Besitzer im ganzen Südwesten.
+
+**Was der Betrieb davon hat:**
+- Alle Bilder und das Logo laden zuverlässig
+- Schaden melden mit Fotos
+- Oldtimer-Projekte als Aushängeschild
+- Leistungen und Ablauf klar erklärt
+
+**Rechenbeispiel:** 6 zusätzliche Aufträge im Jahr zu je 1.200 € sind 7.200 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- 'Schaden melden' mit Foto-Upload und Rückruf
+- Oldtimer-Seite mit Restaurierungsprojekten
+- Ablauf nach dem Unfall in 4 Schritten
+- Google-Profil mit Werkstattfotos
+
+## 27. BoGro Fachhandel für Bodenbeläge (Lead 61, Score 58/100)
+
+- Bodenbeläge, Lieferung und Verlegung · Tel. 06821 179053 · Besuch: Dienstag bis Donnerstag nachmittags, Ausstellung ist bis 17 Uhr offen
+- Vorschau: webdesign-neunkirchen.de/v/vqt5il · Website-Check-PDF: checks/61_bogro_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Platzhalter aus der Vorlage sind sichtbar: Gefunden: '[#' → Platzhalter zeigen Besuchern, dass die Seite nie fertig gemacht wurde.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+
+**Sichtprüfung:**
+- Auf Ihrer Seite sind nur Stockfotos, keine eigenen Bilder.
+- Im Seitencode steht ein Platzhalter-Link aus der Vorlage.
+- Kontakt läuft über eine t-online-Adresse.
+
+**Größter Hebel:** Wer renoviert oder einzieht, sucht 'Bodenbelag Neunkirchen' oder 'Vinyl verlegen lassen' und vergleicht Fotos. Eigene Bilder aus der Ausstellung, Beispiele verlegter Böden und eine Terminbuchung für die Beratung bringen Kunden vor Ort.
+
+**Was der Betrieb davon hat:**
+- Eine fertige, gepflegte Seite statt sichtbarer Vorlagenreste
+- Eigene Fotos aus Ausstellung und Kundenprojekten
+- Beratungstermin online buchen
+- Seite pro Bodenart für Google
+
+**Rechenbeispiel:** 4 zusätzliche Aufträge im Jahr zu je 2.000 € sind 8.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Fotoshooting in der Ausstellung
+- Beratungstermin online buchen
+- Referenzen 'vorher und nachher' aus Neunkirchen
+- E-Mail-Adresse mit eigener Domain
+
+## 28. Beauty Nails Ornella (Lead 04, Score 15/100)
+
+- Nagelstudio / Kosmetik · Tel. 06821 4013600 · Besuch: Vormittag oder telefonisch Termin vereinbaren
+- Vorschau: webdesign-neunkirchen.de/v/fzuql4 · Website-Check-PDF: checks/04_ornella_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Zu wenig Text für Google: Auf der Startseite stehen nur 18 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.beauty-nails-ornella.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+
+**Sichtprüfung:**
+- Der Server meldet als letzte Änderung das Jahr 2012. Angebote und Preise dürften auf diesem Stand sein.
+- Am Handy ist die Seite breiter als das Display.
+- Ein eigenes Google-Profil für Ihr Studio habe ich nicht gefunden. Bei 'Nagelstudio Neunkirchen' tauchen andere Studios zuerst auf.
+
+**Größter Hebel:** Nagelstudios leben von Wiederholungsterminen und Google-Suche 'Nagelstudio Neunkirchen'. Ohne eigenes Google-Profil gehen Neukundinnen an die Konkurrenz im Saarpark-Center.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Aktuelle Leistungen und Preise, die Sie selbst anpassen
+- Termin per WhatsApp anfragen, mit einem Tipp
+
+**Rechenbeispiel:** 30 zusätzliche Termine im Jahr zu je 45 € sind 1.350 € Mehrumsatz. Der Website-Preis entspricht 16 Terminen.
+
+**Zusatzleistungen zum Anbieten:**
+- Google-Profil neu: Kategorie Nagelstudio, Leistungen mit Preisen, Fotos der Arbeiten
+- Instagram mit Vorher-Nachher-Fotos der Nägel (mit Einwilligung), 3 Beiträge pro Woche
+- Online-Terminbuchung mit Erinnerung per SMS oder E-Mail
+- Gutscheinverkauf online zu Muttertag und Weihnachten
+
+## 29. Luu Asien Bistro (Lead 47, Score 38/100)
+
+- Asiatisches und vietnamesisches Bistro · Tel. 06821 9140902 · Besuch: Nachmittags vor 16:30 Uhr, vor der Öffnung
+- Vorschau: webdesign-neunkirchen.de/v/utcsjg · Website-Check-PDF: checks/47_luu_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Ihre eigene Domain zeigt eine Lieferando-Seite: Oben auf der Seite steht: 'Diese Website wird betrieben und verwaltet durch Lieferando.de' → Gäste, die Ihre Adresse schon kennen, bestellen dort mit Provision. Diese Stammkunden-Bestellungen kosten Sie Geld, obwohl Sie sie selbst gewonnen haben.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Ihre Domain zeigt eine Seite, die Lieferando betreibt.
+- Auf der Seite steht keine Telefonnummer.
+- Es gibt kein eigenes Foto Ihrer Gerichte.
+
+**Größter Hebel:** Stammkunden, die die Domain des Bistros kennen, bestellen dort über Lieferando und lösen Provision aus. Eine eigene Seite mit Karte und Telefon- oder WhatsApp-Bestellung zur Abholung holt diese Bestellungen zurück.
+
+**Was der Betrieb davon hat:**
+- Stammkunden bestellen direkt bei Ihnen, ohne Provision
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Ihre eigene Seite auf Ihrer Domain
+- Karte mit Filter für vegetarisch
+
+**Rechenbeispiel:** Bei 60 Bestellungen im Monat über Ihre Domain zu je 25 € und 13 % Provision sparen Sie rund 195 € im Monat, 2.340 € im Jahr. Die Website ist nach etwa 4 Monaten bezahlt.
+
+**Zusatzleistungen zum Anbieten:**
+- Speisekarte mit Filter vegetarisch und scharf
+- Fotoshooting der Top-Gerichte
+- Google-Profil mit Karte und Fotos
+- Lieferando nur noch als Zusatzkanal
+
+## 30. Pizza Heimservice Da Enzo (Lead 51, Score 38/100)
+
+- Pizzeria und Lieferdienst · Tel. 06821 9316899 · Besuch: Nachmittags vor 17 Uhr, montags geschlossen
+- Vorschau: webdesign-neunkirchen.de/v/amsjox · Website-Check-PDF: checks/51_daenzo_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Ihre eigene Domain zeigt eine Lieferando-Seite: Oben auf der Seite steht: 'Diese Website wird betrieben und verwaltet durch Lieferando.de' → Gäste, die Ihre Adresse schon kennen, bestellen dort mit Provision. Diese Stammkunden-Bestellungen kosten Sie Geld, obwohl Sie sie selbst gewonnen haben.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Ihre Domain zeigt eine Seite, die Lieferando betreibt.
+- Statt Logo ist dort ein Platzhalter-Symbol.
+- Es steht keine Telefonnummer auf der Seite.
+
+**Größter Hebel:** Stammkunden tippen die Domain ein und bestellen dann über Lieferando mit Provision. Eine eigene Seite mit Karte und Telefon- oder WhatsApp-Bestellung holt diese Bestellungen zurück.
+
+**Was der Betrieb davon hat:**
+- Stammkunden bestellen direkt bei Ihnen, ohne Provision
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Eigene Seite mit Logo auf Ihrer Domain
+- Ihre Pizzen mit eigenen Fotos
+
+**Rechenbeispiel:** Bei 60 Bestellungen im Monat über Ihre Domain zu je 25 € und 13 % Provision sparen Sie rund 195 € im Monat, 2.340 € im Jahr. Die Website ist nach etwa 4 Monaten bezahlt.
+
+**Zusatzleistungen zum Anbieten:**
+- Einfaches Logo für Da Enzo
+- Fotoshooting der Top-Pizzen
+- Google-Profil mit Karte und Fotos
+- Lieferando nur noch als Zusatzkanal
+
+## 31. Asia Wok Bistro (Lead 02, Score 21/100)
+
+- Restaurant vietnamesisch / Thai mit Heimservice · Tel. 06821 140373 · Besuch: 14:45 bis 16:30 Uhr (zwischen Mittag und Abend)
+- Vorschau: webdesign-neunkirchen.de/v/kr24if · Website-Check-PDF: checks/02_asia_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 94 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Für Smartphones ist die Seite nicht eingerichtet, dort wird die Speisekarte zu einer endlosen Liste.
+- Bestellen geht bisher nur am Telefon, auch dann, wenn bei Ihnen am meisten los ist.
+- 230 Google-Bewertungen mit 4,4 Sternen, und auf der Website taucht keine davon auf.
+
+**Größter Hebel:** Heimservice ohne Online-Bestellweg: Jede Bestellung kostet einen Anruf zur Stoßzeit. Ein eigenes Bestellformular ohne Provision entlastet das Telefon und erfasst Stammkunden.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Eine Karte mit Kategorien und Bildern, am Handy in Sekunden durchgeblättert
+- Anrufen oder per WhatsApp bestellen mit einem Tipp, auf Wunsch mit eigenem Bestellformular ohne Provision
+
+**Rechenbeispiel:** Bei 60 Bestellungen im Monat über Ihre Domain zu je 25 € und 13 % Provision sparen Sie rund 195 € im Monat, 2.340 € im Jahr. Die Website ist nach etwa 6 Monaten bezahlt.
+
+**Zusatzleistungen zum Anbieten:**
+- Speisekarte zweisprachig Deutsch und Englisch (Bewertungen zeigen Sprachbarrieren bei Gästen)
+- Wochenaktion 'Enten-Tag' als Google-Beitrag und Instagram-Story
+- Bewertungsantworten mit KI-Entwurf zur Freigabe, besonders bei Kritik
+- Mittagstisch-Seite für Berufstätige in der Innenstadt
+
+## 32. Praxis für Physiotherapie Hermann Rutz (Lead 05, Score 15/100)
+
+- Physiotherapie · Tel. 06821 23665 · Besuch: Nachmittag Mo bis Do, kurz an der Anmeldung nach dem Inhaber fragen
+- Vorschau: webdesign-neunkirchen.de/v/wp7grp · Website-Check-PDF: checks/05_rutz_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Google zeigt einen nichtssagenden Titel: Seitentitel: 'Home' → Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.
+- [hoch] Ein Bild lädt nicht: Nicht geladen: https://www.livepages.de/activities/i?p=581450 → Leere Kästen oder fehlende Logos wirken, als sei der Betrieb nicht mehr aktiv.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.krankengymnastik-rutz.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+
+**Sichtprüfung:**
+- Für Smartphones ist die Seite nicht eingerichtet. Wer die Sprechzeiten lesen will, muss zoomen.
+- Hausbesuche, Team und offene Stellen sucht man auf der Startseite vergeblich.
+- Bei Google gibt es bislang nur 2 Bewertungen, obwohl die Praxis schon seit Jahrzehnten besteht.
+
+**Größter Hebel:** Physiopraxen suchen fast überall Fachkräfte. Eine moderne Seite mit Karrierebereich ist hier oft wertvoller als neue Patienten: eine besetzte Stelle bringt mehr als jede Anzeige.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Bei Google mit Leistung und Ort sichtbar statt mit 'Home'
+- Sprechzeiten und Leistungen groß und gut lesbar, auch für ältere Patienten
+- Ein Karrierebereich, über den Bewerber Ihre Stellen bei Google finden
+
+**Rechenbeispiel:** Wenn die Website die Hälfte von 10 Standardanrufen am Tag beantwortet, gewinnt Ihr Team rund 3,5 Stunden im Monat.
+
+**Zusatzleistungen zum Anbieten:**
+- Karriereseite plus Google-Beitrag und Stellenportale für Physiotherapeutinnen und Physiotherapeuten
+- Bewertungsbitte per Karte nach Behandlungsserie (Heilmittelwerbegesetz beachten: keine Werbung mit Dankesschreiben)
+- Leistungsseiten verständlich erklärt (Bobath, Lymphdrainage, Beckenboden) für lokale Suchtreffer
+- Barrierearme Gestaltung für ältere Patientinnen und Patienten
+
+## 33. Wirtshaus Römer, Neinkeijer Steak-House (Lead 07, Score 53/100)
+
+- Steakhaus / Wirtshaus · Tel. 06821 942756 · Besuch: 15:00 bis 16:30 Uhr (vor Öffnung um 17 Uhr), nicht dienstags
+- Vorschau: webdesign-neunkirchen.de/v/f6kqsc · Website-Check-PDF: checks/07_roemer_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+
+**Sichtprüfung:**
+- In meinem Test brauchte die Seite knapp 6 Sekunden zum Laden.
+- Ihre Bilder von Grill, Küche und Gaststube sind richtig gut, auf der Seite aber klein und gut versteckt.
+- Es gibt weder eine Tischreservierung noch eine Seite für Feiern und Gruppen.
+
+**Größter Hebel:** 364 Bewertungen zeigen viel Nachfrage. Eine Reservierungsfunktion und eine Seite für Weihnachtsfeiern und Gruppen bringt planbare Umsätze im Herbst und Winter.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Ihre Bilder groß in Szene gesetzt, Steaks und Gaststube auf den ersten Blick
+- Tisch reservieren mit einem Tipp
+- Eine eigene Seite für Weihnachtsfeiern, Geburtstage und Gruppen
+
+**Rechenbeispiel:** 40 zusätzliche Gäste im Monat zu je 35 € bringen 1.400 € im Monat, 16.800 € im Jahr. Der Website-Preis entspricht 29 Gästen.
+
+**Zusatzleistungen zum Anbieten:**
+- Weihnachtsfeier-Kampagne Oktober bis Dezember: Landingpage, Google-Beitrag, Facebook
+- Englische Kurzkarte (Bewertungen von internationalen Gästen ohne Deutschkenntnisse)
+- Online-Gutscheine als Weihnachtsgeschenk
+- Antwortvorlagen für Bewertungen und E-Mail-Anfragen
+
+## 34. Rollladen Störr (Lead 43, Score 59/100)
+
+- Fenster, Haustüren und Rollläden · Tel. 06821 51700 · Besuch: Nach den Betriebsferien (ab 20.10.), vormittags in der Ausstellung
+- Vorschau: webdesign-neunkirchen.de/v/qocotn · Website-Check-PDF: checks/43_stoerr_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+
+**Sichtprüfung:**
+- Die Startseite nennt weder Leistungen noch Ort.
+- Die meisten Galerie-Bilder sind von 2015 und 2016.
+- Man kann keine Anfrage mit Maßen oder Foto schicken.
+
+**Größter Hebel:** Haustür und Fenster sind Ausgaben im vierstelligen Bereich, Kunden vergleichen lange online. Echte Vorher-Nachher-Fotos aus Neunkirchen und eine Anfrage mit Foto der alten Tür bringen qualifizierte Beratungstermine.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Haustüren, Fenster und Rollläden klar auf der Startseite
+- Anfrage mit Foto der alten Tür
+- Aktuelle Referenzen aus Neunkirchen
+
+**Rechenbeispiel:** 4 zusätzliche Aufträge im Jahr zu je 3.500 € sind 14.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Anfrage 'Foto der alten Tür hochladen' für schnelle Angebote
+- Landingpage 'Haustür Neunkirchen' mit Referenzen aus der Region
+- Seite zu Förderung und Einbruchschutz
+- Google-Profil mit Fotos jeder Montage
+
+## 35. Audeh Trockenbau (Lead 53, Score 56/100)
+
+- Trockenbau, Fliesen- und Bodenverlegung · Tel. 0157 59621497 · Besuch: Abends anrufen, Inhaber ist tagsüber auf Baustellen
+- Vorschau: webdesign-neunkirchen.de/v/bnf6t4 · Website-Check-PDF: checks/53_audeh_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.audeh.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 97 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+
+**Sichtprüfung:**
+- Ihre Projektfotos sieht man erst in der Galerie.
+- Auf der Leistungsseite stehen allgemeine Lexikon-Texte.
+- Man kann keine Anfrage mit Fotos schicken.
+
+**Größter Hebel:** Sieben Gewerke aus einer Hand ist ein starkes Argument für Sanierer und Vermieter. Mit Vorher-Nachher-Fotos aus den eigenen Projekten und einer Anfrage per WhatsApp mit Fotos kommen Aufträge, die zum Betrieb passen.
+
+**Was der Betrieb davon hat:**
+- Keine 'Nicht sicher'-Warnung mehr im Browser
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Ihre Projekte ganz vorne auf der Startseite
+- Leistungen in Ihren eigenen Worten
+- Anfrage per WhatsApp mit Fotos
+
+**Rechenbeispiel:** 4 zusätzliche Aufträge im Jahr zu je 2.500 € sind 10.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Vorher-Nachher-Galerie aus Handyfotos
+- WhatsApp-Anfrage mit Fotos und Maßen
+- Landingpages 'Trockenbau Neunkirchen' und 'Fliesenleger Neunkirchen'
+- Google-Profil mit Projektfotos
+
+## 36. Felicita Catering (Lead 62, Score 62/100)
+
+- Catering und Event-Catering · Tel. 0152 22333003 · Besuch: Vorher anrufen, Termin mit Lajos Waadt
+- Vorschau: webdesign-neunkirchen.de/v/3n2mmw · Website-Check-PDF: checks/62_felicita_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 76 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Seite lädt langsam: Die Startseite lädt 8,6 MB Daten. → Jede Sekunde Wartezeit kostet Besucher, besonders im Mobilfunknetz.
+
+**Sichtprüfung:**
+- Auf der Startseite sieht man nur Logo und Formular.
+- Kontakt läuft über eine Gmail-Adresse.
+- Grill-Event und Live Cooking stehen nur auf Unterseiten.
+
+**Größter Hebel:** Brautpaare und Firmen vergleichen Caterer nach Fotos, Ablauf und Anfrage-Komfort. Eine Seite mit Buffet-Fotos, Anlässen und einem Anfrageformular mit Datum, Gästezahl und Anlass bringt passende, große Aufträge.
+
+**Was der Betrieb davon hat:**
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Buffet-Fotos und Anlässe auf der Startseite
+- Anfrage mit Datum und Gästezahl
+- Eigene E-Mail-Adresse mit Domain
+
+**Rechenbeispiel:** 4 zusätzliche Aufträge im Jahr zu je 2.500 € sind 10.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Anfrage mit Datum, Gästezahl, Anlass und Budget
+- Landingpages 'Hochzeitscatering Saarland' und 'Firmencatering Neunkirchen'
+- Fotoshooting bei einem Event
+- E-Mail-Adresse mit eigener Domain
+
+## 37. Praxis für Osteopathie Melanie Lembcke (Lead 29, Score 28/100)
+
+- Osteopathie / Pilates · Tel. 0176 21391233 · Besuch: Vorher anrufen, Behandlungen laufen nach Termin
+- Vorschau: webdesign-neunkirchen.de/v/y25ong · Website-Check-PDF: checks/29_lembcke_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Zu wenig Text für Google: Auf der Startseite stehen nur 1 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Auf dem Handy ist Ihre Seite breiter als der Bildschirm. Man muss seitlich wischen, um alles zu sehen.
+- Ihre Startseite beginnt mit dem Lebenslauf, Ihr Angebot steht erst auf Unterseiten.
+- Die Online-Terminbuchung ist nur ein kleiner Link in der Navigation.
+
+**Größter Hebel:** Eltern suchen gezielt 'Kinderosteopathie Neunkirchen' oder 'Osteopathie Baby Saarland'. Mit 4,9 Sternen und Zertifikat als Kinderosteopathin gewinnt die Praxis diese Suche, wenn die Startseite das Angebot zeigt statt den Lebenslauf und der Termin-Knopf ganz oben steht.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Ihr Angebot für Babys, Kinder, Schwangere und Erwachsene auf der Startseite
+- Termin-Knopf groß und oben
+
+**Rechenbeispiel:** 20 zusätzliche Termine im Jahr zu je 80 € sind 1.600 € Mehrumsatz. Der Website-Preis entspricht 9 Terminen.
+
+**Zusatzleistungen zum Anbieten:**
+- Eigene Seite Kinderosteopathie als Suchtreffer für Eltern
+- Pilates-Kursplan mit Anmeldung
+- Google-Profil mit Leistungen, Antworten auf Bewertungen
+- Kooperation mit Hebammen und Kinderärzten der Region (Empfehlungen, Links)
+
+## 38. Balkan Bäckerei Prizreni (Lead 46, Score 38/100)
+
+- Bäckerei mit Burek, Pizza und Gebäck · Tel. 0155 10932660 · Besuch: Vormittags im Laden, ruhige Zeit vor dem Mittagsgeschäft
+- Vorschau: webdesign-neunkirchen.de/v/liae2m · Website-Check-PDF: checks/46_balkan_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Ihre eigene Domain zeigt eine Lieferando-Seite: Oben auf der Seite steht: 'Diese Website wird betrieben und verwaltet durch Lieferando.de' → Gäste, die Ihre Adresse schon kennen, bestellen dort mit Provision. Diese Stammkunden-Bestellungen kosten Sie Geld, obwohl Sie sie selbst gewonnen haben.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Ihre Domain zeigt eine Seite, die Lieferando betreibt.
+- Es gibt dort keine Telefonnummer und keine Ladenöffnungszeiten.
+- Man sieht kein eigenes Foto von Ihnen oder Ihrem Laden.
+
+**Größter Hebel:** Wer die eigene Domain eintippt, kennt die Bäckerei schon und bestellt trotzdem über das Portal. Eine eigene Seite mit Karte, Telefon- und WhatsApp-Bestellung und Abholung holt diese Stammkunden zurück und spart Provision.
+
+**Was der Betrieb davon hat:**
+- Stammkunden bestellen direkt bei Ihnen, ohne Provision
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Ihre eigene Seite auf Ihrer Domain
+- Burek und Gebäck mit eigenen Fotos
+
+**Rechenbeispiel:** Bei 60 Bestellungen im Monat über Ihre Domain zu je 20 € und 13 % Provision sparen Sie rund 156 € im Monat, 1.872 € im Jahr. Die Website ist nach etwa 5 Monaten bezahlt.
+
+**Zusatzleistungen zum Anbieten:**
+- WhatsApp-Bestellung für Abholung
+- Fotoshooting von Burek und Gebäck
+- Google-Profil mit Karte und Fotos
+- Lieferando nur noch als Zusatzkanal statt auf der eigenen Domain
+
+## 39. Pizzeria Gondoliere Heimservice (Lead 03, Score 45/100)
+
+- Pizzeria / Lieferdienst · Tel. 06821 13211 · Besuch: Di bis Fr gegen 16:00 Uhr (vor Öffnung um 17 Uhr)
+- Vorschau: webdesign-neunkirchen.de/v/hrxs2j · Website-Check-PDF: checks/03_gondoliere_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- In meinem Test lud die Seite über 20 Sekunden, bis alles da war. Am Handy sind viele Gäste bis dahin schon weg.
+- Besucherzähler und blinkende Elemente ziehen den Blick weg von der Speisekarte.
+- Die Stellenanzeige versteckt sich mitten im Fließtext.
+
+**Größter Hebel:** Beispielrechnung: Wer über Plattformen 23 bis 30 % Provision zahlt (Anbieterangabe, Vertrag prüfen), spart bei 25 verlagerten Bestellungen pro Woche à 22 € rund 6.500 bis 8.500 € im Jahr. Ohne Plattform gilt: Jede Online-Bestellung ist ein Anruf weniger.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Eine Seite, die in weniger als zwei Sekunden steht
+- Karte und Bestellknopf gleich oben
+- Ein eigener Bereich für offene Stellen, damit Fahrer und Küchenhilfen Sie finden
+
+**Rechenbeispiel:** Bei 80 Bestellungen im Monat über Ihre Domain zu je 25 € und 13 % Provision sparen Sie rund 260 € im Monat, 3.120 € im Jahr. Die Website ist nach etwa 4 Monaten bezahlt.
+
+**Zusatzleistungen zum Anbieten:**
+- Stammkunden-Stempelkarte digital oder per QR auf dem Pizzakarton
+- Personalgewinnung: Stellenanzeige auf Website, Google-Beitrag, Facebook-Gruppen Neunkirchen
+- Bewertungsmanagement: 4,0 Schnitt mit Beschwerden über Lieferzeit, Antwortvorlagen und Lieferzeit-Hinweis auf der Seite
+- Instagram Reels vom Holzofen und der Familie Abbruzzino, 2 pro Woche
+
+## 40. Hair-Design-Cosmetic Koble (Lead 20, Score 28/100)
+
+- Friseur / Kosmetik · Tel. 06821 9838460 · Besuch: Dienstag bis Freitag vormittags, nicht samstags
+- Vorschau: webdesign-neunkirchen.de/v/rttms3 · Website-Check-PDF: checks/20_koble_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Ein Bild lädt nicht: Nicht geladen: https://www.koble-hair.de/pix/leer.gif → Leere Kästen oder fehlende Logos wirken, als sei der Betrieb nicht mehr aktiv.
+
+**Sichtprüfung:**
+- Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.
+- Ihre Familiengeschichte seit 1931 steht nur auf einer Unterseite.
+- Einen Termin kann man online nicht anfragen.
+
+**Größter Hebel:** Ein Salon mit 90 Jahren Familiengeschichte und Make-up-Meistertitel hat eine Geschichte, die kein Kettensalon hat. Auf der Startseite erzählt, mit Online-Terminanfrage und Brautstyling als eigenem Angebot, holt das neue Kundinnen aus dem Umland.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Alle Bilder und das Logo laden zuverlässig
+- Ihre Geschichte seit 1931 auf der Startseite
+- Leistungen und Preise auf einen Blick, auch am Handy
+
+**Rechenbeispiel:** 30 zusätzliche Termine im Jahr zu je 50 € sind 1.500 € Mehrumsatz. Der Website-Preis entspricht 14 Terminen.
+
+**Zusatzleistungen zum Anbieten:**
+- Braut- und Event-Styling als eigene Seite (hoher Warenkorb, gut über Google zu finden)
+- Instagram mit Vorher/Nachher-Frisuren, 2 Beiträge pro Woche
+- Bewertungs-QR am Spiegel, Ziel 50 Bewertungen im ersten Jahr
+- Gutscheine online, vor allem zu Weihnachten und Muttertag
+
+## 41. Institut DIVNA (Lead 23, Score 31/100)
+
+- Podologie / Kosmetik / Wellness · Tel. 06821 983190 · Besuch: Dienstag bis Freitag zwischen den Terminen, vorher anrufen
+- Vorschau: webdesign-neunkirchen.de/v/5dpx2a · Website-Check-PDF: checks/23_divna_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 908 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 43 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 107 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Auf dem Handy ist Ihre Seite breiter als der Bildschirm. Man muss seitlich wischen, um alles zu sehen.
+- Laut Server wurde Ihre Startseite zuletzt 2018 geändert.
+- Ihre medizinische Podologie mit Kassenrezept steht gleichrangig neben Kosmetik und Sonnenbank.
+
+**Größter Hebel:** Podologie auf Rezept ist planbares Stammgeschäft mit Diabetikern, Ärzte und Wundnetz empfehlen weiter. Eine klar getrennte Seite 'Podologie Neunkirchen' für Patienten und Ärzte, dazu Terminanfrage, bringt Verordnungen direkt in den Kalender.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Podologie und Kosmetik klar getrennt, für Patienten sofort verständlich
+- Terminanfrage online, neben dem Telefon
+
+**Rechenbeispiel:** 30 zusätzliche Termine im Jahr zu je 50 € sind 1.500 € Mehrumsatz. Der Website-Preis entspricht 14 Terminen.
+
+**Zusatzleistungen zum Anbieten:**
+- Infoblatt und Seite für Hausärzte und Diabetologen (Verordnungen, Ablauf)
+- Google-Profil mit Kategorie Podologe und Leistungen, Bewertungs-QR an der Theke
+- Gutscheine für Kosmetik online (Weihnachten, Muttertag)
+- Barrierefreie Gestaltung für ältere Patienten
+
+## 42. Hausarztpraxis Wellesweiler (Lead 26, Score 28/100)
+
+- Hausarztpraxis / Allgemeinmedizin · Tel. 06821 4311 · Besuch: Nicht in der Sprechstunde: am besten anrufen und um 10 Minuten mit der Praxismanagerin bitten (Mittwoch oder Freitag nachmittags)
+- Vorschau: webdesign-neunkirchen.de/v/a7yt7z · Website-Check-PDF: checks/26_praxiswell_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Zu wenig Text für Google: Auf der Startseite stehen nur 1 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Auf Ihrer Startseite steht als Erstes das Impressum, nicht Ihre Sprechzeiten oder Online-Services.
+- Ganz oben auf der Startseite steht noch der Baukasten-Platzhalter 'Dies ist Absatztext. Klicken Sie darauf...'.
+- Auf dem Handy ist Ihre Seite breiter als der Bildschirm.
+
+**Größter Hebel:** Die Praxis hat Online-Termin, -Rezept und -Überweisung, versteckt sie aber hinter einer Startseite voller Impressum. Wenn diese drei Knöpfe ganz oben stehen, sinkt die Zahl der Anrufe am Empfang spürbar. Bei sechs Mitarbeiterinnen ist das der eigentliche Gewinn.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Online-Termin, Rezept und Überweisung als drei große Knöpfe ganz oben
+- Sprechzeiten und Urlaubshinweise auf einen Blick
+
+**Rechenbeispiel:** Wenn die Website die Hälfte von 20 Standardanrufen am Tag beantwortet, gewinnt Ihr Team rund 7,0 Stunden im Monat.
+
+**Zusatzleistungen zum Anbieten:**
+- Urlaubs- und Vertretungshinweis, den die Praxis selbst in 1 Minute ändert
+- Karriereseite für MFA (Fachkräftemangel)
+- Google-Profil mit korrekten Sprechzeiten und Links zu Online-Rezept
+- KI-Workshop fürs Team: Patientenbriefe und Antworten schneller schreiben (datenschutzkonform)
+
+## 43. Schlüssel Thielen (Lead 01, Score 15/100)
+
+- Schlüsseldienst / Sicherheitsfachhandel · Tel. 06821 22510 · Besuch: Vormittag (nur Mo bis Fr 9 bis 13 Uhr geöffnet)
+- Vorschau: webdesign-neunkirchen.de/v/eglxtn · Website-Check-PDF: checks/01_thielen_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 989 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 39 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Google zeigt einen nichtssagenden Titel: Seitentitel: 'index' → Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.
+- [hoch] Zu wenig Text für Google: Auf der Startseite stehen nur 6 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+
+**Sichtprüfung:**
+- Ihre Startseite ist im Grunde ein einziges Bild. Leistungen, Adresse und Öffnungszeiten kann Google daraus kaum herauslesen.
+- Am Handy ragt die Seite über den Bildschirmrand hinaus. Wer sie lesen will, muss zoomen und zur Seite wischen.
+- Von Ihren 4,6 Sternen bei Google erfährt auf der Website niemand etwas.
+
+**Größter Hebel:** Schlüsseldienst wird fast nur über Google gesucht ('Schlüsseldienst Neunkirchen'). Eine lesbare Seite plus gepflegtes Google-Profil entscheidet, ob der Anruf bei Thielen oder bei einem überregionalen Notdienst-Callcenter landet.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Bei Google mit Leistung und Ort sichtbar statt mit 'index'
+- Leistungen, Öffnungszeiten und Adresse als echter Text, damit Google Sie bei 'Schlüsseldienst Neunkirchen' anzeigt
+- Oben auf jeder Seite: antippen, anrufen
+
+**Rechenbeispiel:** 6 zusätzliche Aufträge im Jahr zu je 150 € sind 900 € Mehrumsatz. Der Website-Preis entspricht 5 Aufträgen.
+
+**Zusatzleistungen zum Anbieten:**
+- Google-Unternehmensprofil als Hauptkanal: Kategorien, Leistungen, 10 neue Fotos, Q&A
+- Bewertungs-QR-Aufsteller an der Kasse (aktuell nur 15 Bewertungen trotz 55 Jahren)
+- Lokale Einträge vereinheitlichen (Das Örtliche, Gelbe Seiten, 11880) für konsistente NAP-Daten
+- Seite 'Tresorberatung' als eigener Suchtreffer für höherwertige Aufträge
+
+## 44. Versicherungsbüro Roland Flick (Lead 54, Score 35/100)
+
+- Versicherungsmakler · Tel. 06821 4017830 · Besuch: Vormittags zwischen 9 und 12 Uhr im Büro
+- Vorschau: webdesign-neunkirchen.de/v/ppadlc · Website-Check-PDF: checks/54_flick_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Zu wenig Text für Google: Auf der Startseite stehen nur 22 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.agentur-flick.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Ihre Telefonnummer auf der Kontaktseite lässt sich am Handy nicht antippen.
+- Die Startseite verweist auf 'Seite 3' für den Tarifrechner.
+- Die Navigation steht doppelt als Textzeilen.
+
+**Größter Hebel:** Versicherungskunden wechseln, wenn ihnen jemand den Vergleich leicht macht. Ein klarer 'Versicherungs-Check' mit Termin- oder Rückrufanfrage und eine anrufbare Nummer bringen Beratungstermine.
+
+**Was der Betrieb davon hat:**
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Keine 'Nicht sicher'-Warnung mehr im Browser
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Anrufen und Rückruf mit einem Tipp
+- Versicherungs-Check als klares Angebot
+
+**Rechenbeispiel:** 6 zusätzliche Neukunden im Jahr zu je 400 € sind 2.400 € Mehrumsatz. Der Website-Preis entspricht 3 Neukunden.
+
+**Zusatzleistungen zum Anbieten:**
+- 'Versicherungs-Check' mit Rückrufwunsch
+- Online-Terminbuchung zu den Bürozeiten
+- Landingpages 'Kfz-Versicherung wechseln' (Wechselsaison bis 30.11.) und 'Berufsunfähigkeit'
+- Google-Profil mit Foto und Bürozeiten
+
+## 45. Brech-Motors (Lead 55, Score 39/100)
+
+- Autovermietung, Kfz-Service, Fahrzeughandel · Tel. 0177 6922223 · Besuch: Vormittags zwischen 8 und 15 Uhr
+- Vorschau: webdesign-neunkirchen.de/v/ten4qe · Website-Check-PDF: checks/55_brech_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Auf der Startseite fehlt Ihre Adresse.
+- Die englische Zeile hat Fehler, bei den Zeiten steht '15;00'.
+- Für Kontakt gibt es nur eine Gmail-Adresse.
+
+**Größter Hebel:** Mietwagen, TÜV und Transporte werden kurzfristig gesucht. Eine Seite mit Fahrzeugen, Preisen ab und einem Anfrageformular für Zeitraum und Fahrzeugtyp macht aus Suchenden Mieter. Eine eigene Mail-Adresse mit Domain wirkt seriöser als Gmail.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Leistungen klar getrennt mit Anfrage
+- Adresse und Karte sichtbar
+- Mail-Adresse mit eigener Domain
+
+**Rechenbeispiel:** 12 zusätzliche Vermietungen im Jahr zu je 150 € sind 1.800 € Mehrumsatz. Der Website-Preis entspricht 5 Vermietungen.
+
+**Zusatzleistungen zum Anbieten:**
+- Mietanfrage mit Zeitraum und Fahrzeugklasse
+- E-Mail-Adresse mit eigener Domain
+- Landingpage 'Transporter mieten Neunkirchen'
+- Google-Profil mit Fahrzeugfotos
+
+## 46. Musikwelt Neunkirchen (Lead 45, Score 63/100)
+
+- Musikschule · Tel. 06821 919650 · Besuch: Nachmittags vor dem Unterricht, vorher anrufen
+- Vorschau: webdesign-neunkirchen.de/v/sc5zbc · Website-Check-PDF: checks/45_musik_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [mittel] Copyright 2017: wirkt nicht gepflegt: Im Fußbereich steht das Jahr 2017. → Ein altes Jahr lässt Besucher zweifeln, ob Angaben wie Öffnungszeiten oder Preise noch stimmen.
+
+**Sichtprüfung:**
+- Ihre Startseite zeigt vor allem ein Video zum Online-Unterricht.
+- Die Preise stecken unter 'AGB / Preise'.
+- Man sieht keine Lehrer und keine Räume, die Bilder sind Stockfotos.
+
+**Größter Hebel:** Eltern suchen 'Gitarrenunterricht Neunkirchen' oder 'Klavierunterricht Kinder' und wollen Lehrer, Preis und einen freien Termin sehen. Eine Seite pro Instrument mit Probestunden-Anfrage füllt freie Unterrichtsplätze.
+
+**Was der Betrieb davon hat:**
+- Aktuelle Seite, die Vertrauen schafft
+- Probestunde mit einem Klick anfragen
+- Eine Seite pro Instrument mit Lehrer
+- Preise und Unterrichtsformen klar erklärt
+
+**Rechenbeispiel:** 6 zusätzliche Anmeldungen im Jahr zu 80 € monatlich bringen 5.760 € im ersten Jahr. Die Website ist mit 2 Anmeldungen bezahlt.
+
+**Zusatzleistungen zum Anbieten:**
+- Probestunden-Anfrage mit Instrument, Alter und Wunschzeit
+- Lehrerprofile mit Foto und kurzem Video
+- Landingpages pro Instrument für Google
+- Schülerkonzerte und Workshops als Eventseite
+
+## 47. Tanzschule Hinsberger (Lead 48, Score 66/100)
+
+- Tanzschule · Tel. 0176 22226726 · Besuch: Abends vor einem Kurs, Richard Hinsberger direkt ansprechen
+- Vorschau: webdesign-neunkirchen.de/v/fhlzty · Website-Check-PDF: checks/48_tanz_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+
+**Sichtprüfung:**
+- Auf Ihrer Startseite erscheint die Cookie-Richtlinie, im Seitentitel steht 'Holzland'.
+- Oben steht eine andere Telefonnummer als im Impressum.
+- Ihr Kursprogramm ist nur ein Bild.
+
+**Größter Hebel:** Wer 'Tanzschule Neunkirchen' sucht, landet auf der Cookie-Richtlinie und springt ab. Dabei hat die Schule genau, was neue Kunden wollen: kostenlose Schnupperstunde, faire 50 € im Monat und aktuelle Kurse. Eine Startseite, die das sofort zeigt, füllt die Kurse.
+
+**Was der Betrieb davon hat:**
+- Startseite mit kostenloser Schnupperstunde ganz oben
+- Kurse, Preis und Team auf einen Blick
+- Eine Telefonnummer, überall gleich
+
+**Rechenbeispiel:** 8 zusätzliche Anmeldungen im Jahr zu 50 € monatlich bringen 4.800 € im ersten Jahr. Die Website ist mit 2 Anmeldungen bezahlt.
+
+**Zusatzleistungen zum Anbieten:**
+- Anmeldung zur Schnupperstunde mit Kurs und Wunschtermin
+- Landingpages 'Discofox Neunkirchen' und 'Hochzeitstanz Saarland'
+- Kursplan als Text, für Google lesbar
+- Instagram-Reels aus dem Unterricht auf der Seite
+
+## 48. Morrone & Partner (Lead 49, Score 48/100)
+
+- Versicherungsmakler und Baufinanzierung · Tel. 06821 52091 · Besuch: Termin telefonisch vereinbaren
+- Vorschau: webdesign-neunkirchen.de/v/d7dmqf · Website-Check-PDF: checks/49_morrone_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+
+**Sichtprüfung:**
+- Im Menü steht noch 'PKV Beitragsreduzierung 2018'.
+- Auf der Startseite sieht man Sie nicht, dafür ein Ortsschild 'Krise'.
+- Ihre Adresse ist in Verzeichnissen anders als auf der Seite.
+
+**Größter Hebel:** Versicherung und Finanzierung sind Vertrauenssache. Wer einen Makler sucht, will den Menschen sehen und schnell einen Termin buchen. Ein klares Foto, Leistungen auf einen Blick und Online-Terminbuchung machen aus Besuchern Beratungsgespräche.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Sie als Berater mit Foto im Mittelpunkt
+- Termin online buchen
+- Leistungen klar auf einen Blick
+
+**Rechenbeispiel:** 6 zusätzliche Neukunden im Jahr zu je 400 € sind 2.400 € Mehrumsatz. Der Website-Preis entspricht 3 Neukunden.
+
+**Zusatzleistungen zum Anbieten:**
+- Online-Terminbuchung für Erst- und Online-Beratung
+- Landingpages 'Berufsunfähigkeit Selbständige' und 'Baufinanzierung Neunkirchen'
+- Profil mit Foto und Zulassung
+- Adressen in allen Verzeichnissen vereinheitlichen
+
+## 49. Torsten Tobä Metallbau (Lead 52, Score 66/100)
+
+- Metallbau-Meisterbetrieb · Tel. 0177 2006808 · Besuch: Früh morgens oder nach Feierabend, vorher anrufen
+- Vorschau: webdesign-neunkirchen.de/v/fnkuq5 · Website-Check-PDF: checks/52_tobae_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [mittel] Seite lädt langsam: Die Startseite lädt 10,4 MB Daten. → Jede Sekunde Wartezeit kostet Besucher, besonders im Mobilfunknetz.
+
+**Sichtprüfung:**
+- Oben auf Ihrer Seite stehen Links zum Kontakt-Import statt Ihrer Leistungen.
+- Ihre Leistungen stehen in einem langen Fließtext.
+- Man kann keine Anfrage mit Foto schicken.
+
+**Größter Hebel:** Treppen und Balkone sind Aufträge im vierstelligen Bereich und werden gezielt gesucht ('Außentreppe Metall Saarland', 'Balkon anbauen Neunkirchen'). Eigene Seiten mit Referenzfotos und eine Anfrage mit Foto der Hauswand bringen passende Anfragen.
+
+**Was der Betrieb davon hat:**
+- Treppen, Balkone und Geländer mit eigenen Seiten
+- Referenzfotos ganz vorne
+- Anfrage mit Foto der Hauswand
+
+**Rechenbeispiel:** 3 zusätzliche Aufträge im Jahr zu je 4.000 € sind 12.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Anfrage mit Foto der Hauswand und groben Maßen
+- Referenzgalerie, die Sie selbst vom Handy befüllen
+- Landingpages 'Außentreppe' und 'Stahlbalkon' für Google
+- Google-Profil mit Fotos jeder Montage
+
+## 50. Die Tanzwerkstatt Susanne Sprung (Lead 09, Score 62/100)
+
+- Tanzschule / Musical / Yoga · Tel. 06821 690035 · Besuch: Nachmittag vor Kursbeginn, ca. 15:00 Uhr
+- Vorschau: webdesign-neunkirchen.de/v/suyk2t · Website-Check-PDF: checks/09_tanzwerkstatt_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+
+**Sichtprüfung:**
+- In meinem Test hat die Seite über 11 Sekunden geladen.
+- Der Stundenplan ist eine lange Liste, den richtigen Kurs fürs Kind finden Eltern darin nur mühsam.
+- Ihre starken Bühnenfotos sind kaum zu sehen.
+
+**Größter Hebel:** Eltern wählen Kurse am Handy, meist abends. Ein filterbarer Stundenplan mit Probestunden-Anmeldung senkt die Hürde vom Interesse zur Anmeldung deutlich.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Ein Stundenplan, filterbar nach Alter und Tanzstil
+- Probestunde in einer Minute anmelden, auch abends vom Sofa aus
+- Ihre Bühnenfotos als Blickfang auf der Startseite
+
+**Rechenbeispiel:** 6 zusätzliche Anmeldungen im Jahr zu 50 € monatlich bringen 3.600 € im ersten Jahr. Die Website ist mit 2 Anmeldungen bezahlt.
+
+**Zusatzleistungen zum Anbieten:**
+- Instagram und TikTok mit Proben- und Bühnenclips (Einwilligungen der Eltern einholen)
+- Aufführungs-Landingpage mit Ticketverkauf
+- Google-Profil: Kurse als Leistungen, Fotos, Bewertungsbitte an Eltern (aktuell 11 Bewertungen)
+- Sommer-Workshops und Ferienkurse als eigene Kampagne
+
+## 51. Damaskus Haus (Lead 08, Score 52/100)
+
+- Syrisches Restaurant / Imbiss / Döner · Tel. 06821 149263 · Besuch: 15:00 bis 17:00 Uhr
+- Vorschau: webdesign-neunkirchen.de/v/7glrnj · Website-Check-PDF: checks/08_damaskus_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Ihre Website ist eine Standardseite, die Lieferando betreibt, nicht Sie.
+- Ihre Geschichte, Bilder vom Laden und Ihre syrische Küche fehlen dort.
+- An jeder Bestellung über diese Seite verdient das Portal mit.
+
+**Größter Hebel:** Bei jeder Bestellung über eine Plattformseite fällt Provision an (Höhe laut Vertrag, Anbieterangaben nennen 23 bis 30 % für Marktplatzbestellungen). Eine eigene Seite mit eigenem Bestellweg holt Stammkunden aus dem Provisionsmodell.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Eine eigene Website mit Ihren Gerichten, Bildern und Ihrer Geschichte
+- Bestellungen per Telefon oder WhatsApp direkt bei Ihnen, ohne Provision
+- Die Karte auf Deutsch und Arabisch
+
+**Rechenbeispiel:** Bei 80 Bestellungen im Monat über Ihre Domain zu je 22 € und 13 % Provision sparen Sie rund 229 € im Monat, 2.746 € im Jahr. Die Website ist nach etwa 5 Monaten bezahlt.
+
+**Zusatzleistungen zum Anbieten:**
+- Reputations-Paket: alle Bewertungen professionell beantworten, QR-Bewertungsaufsteller, Ziel 4,2 in 6 Monaten (Ziel, keine Garantie)
+- TikTok und Instagram Reels: Schawarma-Spieß, Manakish aus dem Ofen, 3 pro Woche
+- Mittagsmenü für Berufstätige und Pendler am Bahnhof
+- Mehrsprachiges Google-Profil, Beiträge auch auf Arabisch
+
+## 52. Pension am Scheiber Hof (Lead 58, Score 27/100)
+
+- Pension · Tel. 06821 88381 · Besuch: Vorher anrufen, Rezeption nach Absprache
+- Vorschau: webdesign-neunkirchen.de/v/ulssdt · Website-Check-PDF: checks/58_scheiber_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Google zeigt einen nichtssagenden Titel: Seitentitel: 'Start - pension-neunkirchens Webseite!' → Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Seite lädt langsam: Die Startseite lädt 9,1 MB Daten. → Jede Sekunde Wartezeit kostet Besucher, besonders im Mobilfunknetz.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Im Seitentitel steht 'pension-neunkirchens Webseite!'.
+- Ihre schönen neuen Zimmerfotos stehen weit unten.
+- Preise sieht man auf der Startseite nicht.
+
+**Größter Hebel:** Monteure und Geschäftsreisende buchen kurzfristig und wählen nach Preis, Foto und Lage. Die schönen neuen Zimmer nach vorne, Preise sichtbar und eine Anfrage mit Datum bringen direkte Buchungen, auch für die Schwesterpension am Stummplatz.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Bei Google mit Leistung und Ort sichtbar statt mit 'Start - pension-neunkirchens ...'
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Die renovierten Zimmer groß auf der Startseite
+- Eigene Seite für Monteure und Firmen
+
+**Rechenbeispiel:** Wenn von 20 Portal-Nächten im Monat zu 60 € die Hälfte direkt bucht, sparen Sie bei 15 % Provision rund 90 € im Monat, 1.080 € im Jahr.
+
+**Zusatzleistungen zum Anbieten:**
+- Anfrage mit Datum und Anzahl Personen
+- Seite 'Monteurzimmer Neunkirchen' für Firmen
+- Gemeinsamer Auftritt mit Pension am Stummplatz
+- Google-Profil mit den neuen Zimmerfotos
+
+## 53. Asia Haus Thaimassage (Lead 19, Score 56/100)
+
+- Traditionelle Thai-Massage · Tel. 01590 6636103 · Besuch: Vormittags gegen 9 Uhr zur Öffnung, vorher kurz anrufen
+- Vorschau: webdesign-neunkirchen.de/v/jsivqo · Website-Check-PDF: checks/19_asiahaus_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 537 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 73 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+
+**Sichtprüfung:**
+- Auf dem Handy ist Ihre Seite breiter als der Bildschirm. Man muss seitlich wischen, um alles zu sehen.
+- Auf der Startseite stehen vor allem Hinweise, Ihr Angebot und Ihre Preise kommen erst weiter hinten.
+- Ihre 125 Google-Bewertungen mit 4,7 Sternen sieht auf der Website niemand.
+
+**Größter Hebel:** Die Startseite wehrt heute vor allem falsche Anrufer ab. Eine klar positionierte Seite ('Traditionelle Thai-Massage') mit Preisen und Terminanfrage filtert die falschen Anfragen automatisch, spart Telefonzeit und zeigt den guten Ruf. Gutscheine online sind vor Weihnachten ein schneller Zusatzumsatz.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Eine ruhige Startseite mit Ihren Massagen und Preisen
+- Terminanfrage mit Wunschzeit und Massage
+- Gutscheine als eigener Bereich, ideal vor Weihnachten
+
+**Rechenbeispiel:** 30 zusätzliche Behandlungen im Jahr zu je 60 € sind 1.800 € Mehrumsatz. Der Website-Preis entspricht 12 Behandlungen.
+
+**Zusatzleistungen zum Anbieten:**
+- Gutscheine online verkaufen (Weihnachten, Muttertag, Valentinstag)
+- Terminanfrage per Formular statt Telefon, mit Rückruf
+- Google-Profil: Leistungen mit Preisen, Antworten auf Bewertungen mit KI-Vorlagen
+- Seite zusätzlich auf Thai und Englisch
+
+## 54. Horst Sehte GmbH (Lead 21, Score 73/100)
+
+- Dachdecker · Tel. 06821 51356 · Besuch: Früh morgens 7 bis 8 Uhr oder vorher anrufen (Mobil laut Impressum vorhanden)
+- Vorschau: webdesign-neunkirchen.de/v/kmvidf · Website-Check-PDF: checks/21_sehte_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+
+**Sichtprüfung:**
+- Ihre Startseite zeigt derzeit nur den Hinweis 'Unsere Website wird derzeit überarbeitet'.
+- Leistungen, Bilder und Ansprechpartner sind im Moment online nicht zu finden.
+- Ihre 40 Google-Bewertungen mit 4,4 Sternen sieht auf der Website niemand.
+
+**Größter Hebel:** Ein Dachdecker mit guten Bewertungen, der online gerade gar nichts zeigt, verliert jede Suche 'Dachdecker Neunkirchen' an die Konkurrenz. Hier zählt Tempo: eine fertige Seite in zwei Wochen statt einer Baustelle auf unbestimmte Zeit.
+
+**Was der Betrieb davon hat:**
+- Eine fertige Seite mit Ihren Leistungen, in etwa zwei Wochen online
+- Dach-Check-Anfrage mit Foto-Upload
+- Ihre guten Bewertungen sichtbar auf der Startseite
+
+**Rechenbeispiel:** 3 zusätzliche Aufträge im Jahr zu je 5.000 € sind 15.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Google-Profil mit Baustellenfotos und Beiträgen, Bewertungs-QR auf der Rechnung
+- Leistungsseiten für Reparatur, Sanierung und Dachfenster als lokale Suchtreffer
+- Ratgeber zu Förderung für Dachdämmung
+- Karriereseite für Dachdecker und Azubis
+
+## 55. Anhängerverleih Manfred Kurz (Lead 38, Score 55/100)
+
+- Anhängerverleih · Tel. 06821 88317 · Besuch: Vormittags 10 bis 12 Uhr während der Öffnungszeit
+- Vorschau: webdesign-neunkirchen.de/v/wco5zb · Website-Check-PDF: checks/38_kurz_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Ihre Preise stehen in einer Tabelle, die auf dem Handy schwer zu lesen ist.
+- Man kann keinen Anhänger für ein Datum anfragen.
+- Oben steht der Hinweis, dass keine Transporter verfügbar sind, ohne Datum.
+
+**Größter Hebel:** Anhänger werden spontan gesucht ('Anhänger mieten Neunkirchen'), oft am Handy und kurz vor dem Wochenende. Preise ab 30 € direkt sichtbar und ein Reservierungsknopf je Anhänger holen genau diese Anfragen, bevor jemand zum Baumarkt fährt.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Anhänger mit Foto, Maßen und Preis auf einen Blick
+- Reservierung per Knopfdruck
+- Für Google und Handy gebaut
+
+**Rechenbeispiel:** 30 zusätzliche Vermietungen im Jahr zu je 60 € sind 1.800 € Mehrumsatz. Der Website-Preis entspricht 17 Vermietungen.
+
+**Zusatzleistungen zum Anbieten:**
+- Reservierungsanfrage mit Datum und Anhängertyp, Bestätigung per SMS oder WhatsApp
+- Landingpages 'Anhänger mieten Neunkirchen' und 'Autotransporter mieten'
+- Google-Profil mit Fotos und Preisen
+- Kalender mit Verfügbarkeit (Ausbaustufe)
+
+## 56. Markt Apotheke (Lead 06, Score 55/100)
+
+- Apotheke · Tel. 06821 21811 · Besuch: Nachmittag ab 14:30 Uhr, nach Inhaberin Frau Daniels fragen
+- Vorschau: webdesign-neunkirchen.de/v/nkn7bl · Website-Check-PDF: checks/06_marktapo_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Google zeigt einen nichtssagenden Titel: Seitentitel: 'Home' → Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://www.markt-apotheke-nk.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+
+**Sichtprüfung:**
+- Ganz oben auf der Startseite steht noch der Platzhalter 'Ihr Name Ihr Slogan' aus dem Baukasten.
+- E-Rezept, Botendienst und Vorbestellung haben Sie im Angebot, auf der Startseite muss man sie aber suchen.
+- Die Seite läuft mit Technik von 2011, die heute als Sicherheitsrisiko gilt.
+
+**Größter Hebel:** Die Apotheke hat 4,8 Sterne und einen Botendienst. Wenn E-Rezept und Vorbestellung auf der Startseite stehen, landen Rezepte direkt hier statt bei Versandapotheken.
+
+**Was der Betrieb davon hat:**
+- Bei Google mit Leistung und Ort sichtbar statt mit 'Home'
+- Keine 'Nicht sicher'-Warnung mehr im Browser
+- E-Rezept, Vorbestellung und Botendienst als drei große Knöpfe ganz oben
+- Ihre 4,8 Sterne bei Google direkt auf der Startseite
+- Notdienst und Öffnungszeiten auf einen Blick
+
+**Rechenbeispiel:** Wenn die Website die Hälfte von 15 Standardanrufen am Tag beantwortet, gewinnt Ihr Team rund 5,2 Stunden im Monat.
+
+**Zusatzleistungen zum Anbieten:**
+- Notdienst-Widget und Öffnungszeiten-Status live
+- Monatliche Aktionen im zulässigen Rahmen (Heilmittelwerbegesetz) als Google-Beitrag
+- Große Schrift und hoher Kontrast für ältere Kundschaft (Barrierefreiheit)
+- Karriereseite für PTA und Apothekerinnen und Apotheker
+
+## 57. Lattrich Orthopädie GmbH (Lead 24, Score 42/100)
+
+- Sanitätshaus / Orthopädie- und Rehatechnik · Tel. 06821 22476 · Besuch: Werktags vormittags im Sanitätshaus Hebbelstraße, nach der Geschäftsführung fragen
+- Vorschau: webdesign-neunkirchen.de/v/smesnd · Website-Check-PDF: checks/24_lattrich_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Ohne 'https' eingetippt erscheint 'Nicht sicher': Die Adresse http://lattrich.de leitet nicht auf die sichere Version weiter. → Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Auf Ihrer Startseite steht die Fehlermeldung 'Smart Slider with ID #4 does NOT EXIST' statt eines Bildes.
+- Die Rubrik 'Aktuelles' meldet, dass zurzeit keine Informationen anstehen.
+- Ein Rezept kann man online nicht einreichen, und offene Stellen sind nicht zu finden.
+
+**Größter Hebel:** Ein Betrieb mit 58 Mitarbeitern und drei Standorten wirkt mit einer Fehlermeldung auf der Startseite kleiner, als er ist. Hebel: Rezept-Upload (Foto der Verordnung), Standortseiten für lokale Suche und eine Karriereseite für Orthopädietechniker, die schwer zu finden sind.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Keine 'Nicht sicher'-Warnung mehr im Browser
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Eine saubere Startseite mit Ihren drei Standorten und Zeiten
+- Rezept per Foto hochladen und Rückruf erhalten
+
+**Rechenbeispiel:** Wenn die Website die Hälfte von 15 Standardanrufen am Tag beantwortet, gewinnt Ihr Team rund 5,2 Stunden im Monat.
+
+**Zusatzleistungen zum Anbieten:**
+- Rezept per Foto hochladen, Rückruf zur Terminvereinbarung
+- Karriereseite mit Google-Jobdaten für Orthopädietechniker, Sanitätshaus-Fachkräfte und Azubis
+- Google-Profile aller Standorte vereinheitlichen, Bewertungen nach Versorgung anfragen
+- Infoseiten für Ärzte und Pflegedienste in der Region
+
+## 58. Karate Dojo Neunkirchen e.V. (Lead 40, Score 63/100)
+
+- Karateverein (Shotokan) · Tel.  · Besuch: Vor oder nach dem Training (Mo, Mi, Fr abends), Ansprechpartner Vorstand
+- Vorschau: webdesign-neunkirchen.de/v/lz3jib · Website-Check-PDF: checks/40_karate_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+
+**Sichtprüfung:**
+- Auf Ihrer Startseite und der Vereinsseite stehen unterschiedliche Hallen und Zeiten.
+- Die Beitragsseite zeigt einen Platzhalter '$ 00.00'.
+- Für ein Probetraining gibt es weder Telefonnummer noch Formular.
+
+**Größter Hebel:** Neue Mitglieder, besonders Eltern, suchen 'Karate Neunkirchen' oder 'Kampfsport Kinder Neunkirchen' am Handy und wollen drei Dinge: Wo, wann, was kostet es. Eine klare Seite mit aktuellen Zeiten und einer Probetraining-Anfrage füllt die Gruppen.
+
+**Was der Betrieb davon hat:**
+- Aktuelle Zeiten und Halle an einer Stelle
+- Probetraining mit einem Klick anfragen
+- Seite, die der Vorstand selbst aktuell hält
+
+**Rechenbeispiel:** 6 zusätzliche Anmeldungen im Jahr zu 25 € monatlich bringen 1.800 € im ersten Jahr. Die Website ist mit 3 Anmeldungen bezahlt.
+
+**Zusatzleistungen zum Anbieten:**
+- Formular 'Probetraining' mit Alter und Wunschtag
+- Google-Profil für 'Karate Neunkirchen'
+- Vereinsseite, die der Vorstand selbst pflegt
+- Hinweis: Fotos mit Kindern nur mit Einwilligung der Eltern verwenden
+
+## 59. Hotel Zum Ellenfeld (Lead 10, Score 52/100)
+
+- Hotel / Restaurant · Tel. 06821 8169 · Besuch: Mo bis Do 14:00 bis 16:00 Uhr (nach dem Stammessen)
+- Vorschau: webdesign-neunkirchen.de/v/xk36qa · Website-Check-PDF: checks/10_ellenfeld_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+
+**Sichtprüfung:**
+- In meinem Test lud die Seite über 23 Sekunden.
+- Zimmerbilder kommen erst weiter unten, das Stammessen steht als Fließtext da.
+- Ihr Nebenzimmer für Feiern und Besprechungen findet online kaum jemand.
+
+**Größter Hebel:** Direktbuchungen sparen die Kommission der Buchungsportale. Dazu ist das Nebenzimmer für Feiern und Meetings eine Einnahmequelle, die online kaum jemand findet.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Zimmer und Restaurant mit großen Bildern gleich oben
+- Zimmer direkt auf der Startseite anfragen, ohne Provision an Buchungsportale
+- Eine eigene Seite für Feiern und Tagungen im Nebenzimmer
+
+**Rechenbeispiel:** Wenn von 15 Portal-Nächten im Monat zu 90 € die Hälfte direkt bucht, sparen Sie bei 15 % Provision rund 101 € im Monat, 1.215 € im Jahr.
+
+**Zusatzleistungen zum Anbieten:**
+- Stammessen-Wochenplan, den das Team selbst in 2 Minuten pflegt, automatisch als Google-Beitrag
+- Raumvermietung für Vereine und Firmen als eigene Landingpage
+- Bewertungsantworten (gemischte Hotelbewertungen)
+- Fotoshooting der Zimmer
+
+## 60. WFA Weinfachagentur Benkert GmbH (Lead 50, Score 73/100)
+
+- Weinimport und Weinhandel · Tel. 06821 401746-0 · Besuch: Vorher anrufen, Termin mit Geschäftsführung
+- Vorschau: webdesign-neunkirchen.de/v/pas2hz · Website-Check-PDF: checks/50_wfa_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+
+**Sichtprüfung:**
+- Auf Ihrer Seite sieht man keine Weine und keine Weingüter.
+- Oben steht 'Skip to Main Content' und 'Scroll' auf Englisch.
+- Ihr Endverbraucherportal liegt auf einer anderen Domain.
+
+**Größter Hebel:** Gastronomen suchen Weinlieferanten mit Profil. Eine Seite mit Weingütern, Regionen und einem Katalog-Download (gegen Kontaktdaten) wird zum Vertriebswerkzeug für Außendienst und Neukunden.
+
+**Was der Betrieb davon hat:**
+- Weingüter und Regionen mit eigenen Fotos
+- Katalog-Download, der neue Kontakte bringt
+- Bereich für Gastronomen
+
+**Rechenbeispiel:** 2 zusätzliche Gastronomie-Kunden im Jahr zu je 2.000 € sind 4.000 € Mehrumsatz. Der Website-Preis entspricht 1 Gastronomie-Kunde.
+
+**Zusatzleistungen zum Anbieten:**
+- Katalog-Download gegen Kontaktdaten (Leads für den Außendienst)
+- Weingut-Seiten mit Fotos von den Besuchen
+- Bereich 'Weinkarte für Gastronomen' mit Anfrage
+- Newsletter mit Neuheiten im Sortiment
+
+## 61. Ferienwohnungen Haus am Berg (Lead 39, Score 55/100)
+
+- Ferienwohnungen · Tel. 06821 25146 · Besuch: Vorher anrufen und Termin ausmachen, privater Vermieter
+- Vorschau: webdesign-neunkirchen.de/v/pxymsz · Website-Check-PDF: checks/39_hausamberg_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Ihr Buchungslink ist eine lange Textadresse, die man nicht anklicken kann.
+- Auf der Startseite sieht man die Saarschleife, aber noch keine Wohnung.
+- Preise und Ausstattung stehen erst auf den Unterseiten.
+
+**Größter Hebel:** Jede Buchung über Portale kostet Provision. Gäste, die Haus am Berg schon kennen oder bei Google finden, sollen direkt buchen: große Fotos, Preise sichtbar und ein Buchungsknopf, der das vorhandene Buchungssystem einbindet.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Beide Wohnungen mit großen Fotos auf der Startseite
+- Buchen mit einem Klick
+- Preise und Ausstattung auf einen Blick
+
+**Rechenbeispiel:** Wenn von 10 Portal-Nächten im Monat zu 75 € die Hälfte direkt bucht, sparen Sie bei 15 % Provision rund 56 € im Monat, 675 € im Jahr.
+
+**Zusatzleistungen zum Anbieten:**
+- Buchungskalender direkt auf der Seite (vorhandenes System einbinden)
+- Umgebungsseite mit Zoo, Gebläsehalle, Bostalsee für Google
+- Eigene E-Mail-Adresse mit der Domain
+- Monteurs- und Geschäftsreisende-Seite für längere Aufenthalte
+
+## 62. Ferienapartment am Märzbrunnen (Lead 56, Score 52/100)
+
+- Ferienwohnung · Tel. 06821 58612 · Besuch: Vorher anrufen, privater Vermieter
+- Vorschau: webdesign-neunkirchen.de/v/vr2wbq · Website-Check-PDF: checks/56_maerz_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [mittel] Copyright 2016: wirkt nicht gepflegt: Im Fußbereich steht das Jahr 2016. → Ein altes Jahr lässt Besucher zweifeln, ob Angaben wie Öffnungszeiten oder Preise noch stimmen.
+
+**Sichtprüfung:**
+- Auf der Startseite stehen zwei Wohnungen, bei den Preisen nur eine.
+- Das Hauptbild ist eine Blumen-Collage, der Garten ist klein am Rand.
+- Man kann kein Wunschdatum anfragen.
+
+**Größter Hebel:** Wanderer und Geschäftsreisende suchen 'Ferienwohnung Neunkirchen Saar' und buchen dort, wo sie Fotos, Preis und freie Termine sehen. Eine Seite mit Garten und Veranda im Mittelpunkt und einer Anfrage mit Wunschdatum bringt Direktbuchungen ohne Portalprovision.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Aktuelle Seite, die Vertrauen schafft
+- Garten und Veranda groß auf der Startseite
+- Preis und Ausstattung auf einen Blick
+- Anfrage mit Wunschdatum
+
+**Rechenbeispiel:** Wenn von 10 Portal-Nächten im Monat zu 49 € die Hälfte direkt bucht, sparen Sie bei 15 % Provision rund 37 € im Monat, 441 € im Jahr.
+
+**Zusatzleistungen zum Anbieten:**
+- Anfrage mit An- und Abreisedatum
+- Abschnitt Premium-Wanderwege für Google
+- Neue Fotos von Wohnung und Garten
+- Seite für Monteure und Geschäftsreisende

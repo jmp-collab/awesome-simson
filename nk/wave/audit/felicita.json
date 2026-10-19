@@ -1,0 +1,103 @@
+{
+ "k": "felicita",
+ "url": "https://www.felicita-catering.com",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 4.8,
+  "status": 200,
+  "final": "https://www.felicita-catering.com/",
+  "title": "Felicita Catering | Catering Saarland | Friedrich-Ebert-Straße 33, 66538 Neunkirchen, Deutschland",
+  "desc": "Felicita Catering in Saarland und Rheinland-Pfalz  – Leidenschaft, Qualität und dem gewissen Extra.\nGrill-Spezialitäten vom Feinsten, Frisch gebackene Pizza, Live-Cooking – Kulinarik als Show-Erlebnis, \nAlles aus einer Hand – Für ein gelungenes Fest. Ihre Felicita Catering Team \n",
+  "viewport": "width=device-width, initial-scale=1",
+  "ogimg": null,
+  "ogtitle": "Felicita Catering | Catering Saarland | Friedrich-Ebert-Straße 33, 66538 Neunkirchen, Deutschland",
+  "generator": "Wix.com Website Builder",
+  "h1": [
+   "felicita   Catering",
+   "KONTAKTDATEN",
+   "© 2026 Lajos Waadt- Felicita Catering. All rights reserved."
+  ],
+  "words": 76,
+  "tel": 0,
+  "mail": [
+   "felicita.ec@gmail.com"
+  ],
+  "wa": 2,
+  "forms": 1,
+  "maps": false,
+  "localbiz": true,
+  "favicon": true,
+  "imgs": 21,
+  "broken": [],
+  "noalt": 1,
+  "big": [],
+  "years": [
+   2026
+  ],
+  "small": 0,
+  "total": 24,
+  "taps": 4,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 195,
+  "bytes": 8641347,
+  "img_bytes": 120577
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 5.6,
+  "status": 200,
+  "final": "https://www.felicita-catering.com/",
+  "title": "Felicita Catering | Catering Saarland | Friedrich-Ebert-Straße 33, 66538 Neunkirchen, Deutschland",
+  "desc": "Felicita Catering in Saarland und Rheinland-Pfalz  – Leidenschaft, Qualität und dem gewissen Extra.\nGrill-Spezialitäten vom Feinsten, Frisch gebackene Pizza, Live-Cooking – Kulinarik als Show-Erlebnis, \nAlles aus einer Hand – Für ein gelungenes Fest. Ihre Felicita Catering Team \n",
+  "viewport": "width=320, user-scalable=yes",
+  "ogimg": null,
+  "ogtitle": "Felicita Catering | Catering Saarland | Friedrich-Ebert-Straße 33, 66538 Neunkirchen, Deutschland",
+  "generator": "Wix.com Website Builder",
+  "h1": [
+   "felicita   Catering",
+   "KONTAKTDATEN",
+   "© 2026 Lajos Waadt- Felicita Catering. All rights reserved."
+  ],
+  "words": 93,
+  "tel": 2,
+  "mail": [
+   "felicita.ec@gmail.com",
+   ""
+  ],
+  "wa": 0,
+  "forms": 1,
+  "maps": false,
+  "localbiz": true,
+  "favicon": true,
+  "imgs": 16,
+  "broken": [],
+  "noalt": 2,
+  "big": [],
+  "years": [
+   2026
+  ],
+  "small": 0,
+  "total": 18,
+  "taps": 6,
+  "placeholders": [],
+  "scrollW": 320,
+  "innerW": 320,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 244,
+  "bytes": 3693970,
+  "img_bytes": 52826
+ },
+ "http_to": "https://www.felicita-catering.com/",
+ "http_redirects_to_https": true,
+ "http_code": "200"
+}

@@ -1,0 +1,102 @@
+{
+ "k": "campanella",
+ "url": "https://www.la-campanella-neunkirchen.de",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 4.8,
+  "status": 200,
+  "final": "https://www.la-campanella-neunkirchen.de/",
+  "title": "La Campanella - Neunkirchen - Essen online bestellen in Neunkirchen",
+  "desc": "Wähle deine Lieblingsgerichte von der La Campanella - Neunkirchen Speisekarte in Neunkirchen und bestelle einfach online. Genieße leckeres Essen, schnell geliefert!",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [
+   "LA CAMPANELLA - NEUNKIRCHEN"
+  ],
+  "words": 1400,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 3,
+  "broken": [],
+  "noalt": 2,
+  "big": [
+   {
+    "src": "https://www.la-campanella-neunkirchen.de/tpl/template1/images/logo/logo_2.png",
+    "nat": 2426,
+    "shown": 183
+   }
+  ],
+  "years": [],
+  "small": 82,
+  "total": 547,
+  "taps": 8,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 31,
+  "bytes": 2234237,
+  "img_bytes": 1288638
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 3.7,
+  "status": 200,
+  "final": "https://www.la-campanella-neunkirchen.de/",
+  "title": "La Campanella - Neunkirchen - Essen online bestellen in Neunkirchen",
+  "desc": "Wähle deine Lieblingsgerichte von der La Campanella - Neunkirchen Speisekarte in Neunkirchen und bestelle einfach online. Genieße leckeres Essen, schnell geliefert!",
+  "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [
+   "LA CAMPANELLA - NEUNKIRCHEN"
+  ],
+  "words": 1385,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 3,
+  "broken": [],
+  "noalt": 2,
+  "big": [
+   {
+    "src": "https://www.la-campanella-neunkirchen.de/tpl/template1/images/logo/logo_2.png",
+    "nat": 2426,
+    "shown": 183
+   }
+  ],
+  "years": [],
+  "small": 82,
+  "total": 537,
+  "taps": 1,
+  "placeholders": [],
+  "scrollW": 669,
+  "innerW": 390,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 30,
+  "bytes": 2335204,
+  "img_bytes": 1288638
+ },
+ "http_to": "https://www.la-campanella-neunkirchen.de/",
+ "http_redirects_to_https": true,
+ "http_code": "200"
+}

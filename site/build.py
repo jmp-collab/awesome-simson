@@ -497,6 +497,77 @@ def load_top():
 
 VTXT = json.load(open(os.path.join(ROOT, "data", "vorschau_texte.json"), encoding="utf-8"))
 
+_AP = os.path.join(ROOT, "data", "analyse.json")
+ANA = json.load(open(_AP, encoding="utf-8")) if os.path.exists(_AP) else {}
+SEV = {"hoch": ("Wichtig", "var(--bad)"), "mittel": ("Mittel", "var(--warn)"), "niedrig": ("Gering", "var(--steel)")}
+
+def fmt_eur(n):
+    return f"{int(round(n)):,}".replace(",", ".") + " €"
+
+def wc_section(k, name):
+    a = ANA.get(k)
+    if not a or a.get("score") is None: return ""
+    s = a["score"]; col = "var(--bad)" if s < 50 else "var(--warn)" if s < 75 else "var(--ok)"
+    hi = [f for f in a["befunde"] if f["sev"] != "niedrig"]; lo = [f for f in a["befunde"] if f["sev"] == "niedrig"]
+    def li(f):
+        lab, c = SEV[f["sev"]]
+        return (f'<li style="--c:{c}"><h4><span class="chip">{lab}</span>{E(f["titel"])}</h4>'
+                f'<p class="bel">Gemessen: {E(f["beleg"])}</p><p><b>Was Sie das kostet:</b> {E(f["folge"])}</p>'
+                f'<p class="fix">Im Entwurf gelöst: {E(f["fix"])}</p></li>')
+    more = f'<details class="mt"><summary>{len(lo)} weitere kleinere Punkte</summary><ul class="bf">{"".join(li(f) for f in lo)}</ul></details>' if lo else ""
+    sicht = "".join(f"<li>{E(x)}</li>" for x in a.get("sicht", []))
+    d = datetime.date.fromisoformat(a["datum"]).strftime("%d.%m.%Y") if a.get("datum") else ""
+    return f"""<section><div class="wrap">
+<div class="wc-head"><div class="score" style="--v:{s};--sc:{col}"><div><b>{s}</b><small>von 100</small></div></div>
+<div><span class="kicker">Ihr Website-Check</span><h2 style="margin:.2em 0">Was an Ihrer Seite heute Kunden kostet</h2>
+<p class="muted" style="margin:0">Automatisch gemessen am {d} am Handy und am Computer, dazu meine eigene Durchsicht. {len(hi) + len(a.get("sicht", []))} wichtige {"Punkt" if len(hi) + len(a.get("sicht", [])) == 1 else "Punkte"}, {len(lo)} {"kleinerer" if len(lo) == 1 else "kleinere"}.</p></div></div>
+<ul class="bf">{"".join(li(f) for f in hi)}</ul>{more}
+{f'<div class="card mt"><h3>Bei der Durchsicht aufgefallen</h3><ul class="check">{sicht}</ul></div>' if sicht else ''}
+</div></section>"""
+
+def calc_section(k, name):
+    a = ANA.get(k)
+    if not a: return ""
+    r = a["rechner"]; typ = r["typ"]; p = r["preis"]
+    nutzen = "".join(f"<li>{E(x)}</li>" for x in a.get("nutzen", []))
+    if typ == "portal":
+        fields = [("n", "Bestellungen pro Monat über Ihre eigene Domain", r["anzahl"]), ("w", "Durchschnittlicher Bestellwert in €", r["wert"]), ("q", "Provision in %", r["prov"])]
+        js = "var m=n*w*q/100,y=m*12;o.innerHTML='Ersparnis pro Monat: <b>'+e(m)+'</b><br>Im Jahr: <b>'+e(y)+'</b><br>Die Website hat sich nach rund <b>'+Math.max(1,Math.ceil(P/Math.max(m,1)))+' Monaten</b> bezahlt gemacht.'"
+        note = "Lieferando nennt seine Sätze nicht öffentlich. Fachpresse und Branchenberichte nennen etwa 13 bis 14 % bei Bestellungen über die Lieferando-Seite mit eigener Lieferung und bis 30 % mit Lieferando-Fahrern. Den genauen Satz finden Sie in Ihrer Abrechnung."
+    elif typ == "unterkunft":
+        fields = [("n", "Übernachtungen pro Monat, die heute über Portale kommen", r["anzahl"]), ("w", "Preis pro Nacht in €", r["wert"]), ("q", "Portal-Provision in %", r["prov"])]
+        js = "var m=n*w*q/100*0.5,y=m*12;o.innerHTML='Wenn die Hälfte davon direkt bucht, sparen Sie im Monat <b>'+e(m)+'</b>, im Jahr <b>'+e(y)+'</b>.<br>Die Website hat sich nach rund <b>'+Math.max(1,Math.ceil(P/Math.max(m,1)))+' Monaten</b> bezahlt gemacht.'"
+        note = "Annahme: Die Hälfte der Gäste, die Sie schon kennen oder direkt finden, bucht künftig bei Ihnen. Den Provisionssatz entnehmen Sie Ihrem Portal-Vertrag."
+    elif typ == "gast":
+        fields = [("n", "Zusätzliche Gäste pro Monat durch bessere Sichtbarkeit", r["anzahl"]), ("w", "Durchschnittlicher Umsatz pro Gast in €", r["wert"])]
+        js = "var m=n*w,y=m*12;o.innerHTML='Mehrumsatz pro Monat: <b>'+e(m)+'</b><br>Im Jahr: <b>'+e(y)+'</b><br>Der Preis der Website entspricht dem Umsatz von rund <b>'+Math.ceil(P/Math.max(w,1))+' Gästen</b>.'"
+        note = "Die vorbelegten Werte sind vorsichtige Beispielzahlen. Tragen Sie Ihre eigenen ein."
+    elif typ == "abo":
+        fields = [("n", f"Zusätzliche {r['einheit']} pro Jahr", r["anzahl"]), ("w", "Monatsbeitrag in €", r["wert"])]
+        js = "var y=n*w*12;o.innerHTML='Mehr Beiträge im ersten Jahr: <b>'+e(y)+'</b><br>Die Website ist mit rund <b>'+Math.ceil(P/Math.max(w*12,1))+' zusätzlichen Anmeldungen</b> bezahlt.'"
+        note = "Beitrag und Anzahl sind Beispielwerte. Tragen Sie Ihre eigenen ein."
+    elif typ == "zeit":
+        fields = [("n", "Anrufe pro Tag zu Standardfragen (Zeiten, Anfahrt, Leistungen)", r["anzahl"]), ("w", "Minuten pro Anruf", 2), ("q", "Personalkosten pro Stunde in €", 25)]
+        js = "var h=n*w*21/60*0.5,m=h*q;o.innerHTML='Wenn die Hälfte dieser Fragen die Website beantwortet, gewinnt Ihr Team <b>'+h.toFixed(1).replace('.',',')+' Stunden</b> im Monat, das entspricht <b>'+e(m)+'</b> im Monat oder <b>'+e(m*12)+'</b> im Jahr.'"
+        note = "Annahme: 21 Arbeitstage pro Monat, die Hälfte der Standardfragen wird künftig online beantwortet."
+    else:
+        ein = r["einheit"].split(" (")[0]
+        pl = {"Auftrag": "Aufträge", "Termin": "Termine", "Einkauf": "Einkäufe", "Behandlung": "Behandlungen", "Vermietung": "Vermietungen", "Neukunde": "Neukunden", "Gastronomie-Kunde": "Gastronomie-Kunden"}
+        pld = {"Auftrag": "Aufträgen", "Termin": "Terminen", "Einkauf": "Einkäufen"}
+        fields = [("n", f"Zusätzliche {pl.get(ein, ein)} pro Jahr über die Website", r["anzahl"]), ("w", f"Durchschnittlicher Wert pro {r['einheit']} in €", r["wert"])]
+        js = "var y=n*w,b=Math.ceil(P/Math.max(w,1));o.innerHTML='Mehrumsatz pro Jahr: <b>'+e(y)+'</b><br>Der Preis der Website entspricht dem Umsatz von <b>'+b+(b==1?' " + ein + "':' " + pld.get(ein, pl.get(ein, ein)) + "')+'</b>.'"
+        note = "Die vorbelegten Werte sind vorsichtige Beispielzahlen für Ihre Branche, keine Zusage. Tragen Sie Ihre eigenen Zahlen ein."
+    inp = "".join(f'<label for="c-{i}">{E(l)}</label><input id="c-{i}" data-k="{i}" type="number" min="0" step="any" value="{v}" inputmode="decimal">' for i, l, v in fields)
+    script = ("<script>(function(){var P=" + str(p) + ",o=document.getElementById('c-out');function e(x){return Math.round(x).toLocaleString('de-DE')+' €'}"
+              "function g(id){var x=document.getElementById('c-'+id);return x?parseFloat(x.value.replace(',','.'))||0:0}"
+              "function f(){var n=g('n'),w=g('w'),q=g('q');" + js + "}"
+              "document.querySelectorAll('.calc input').forEach(function(i){i.addEventListener('input',f)});f()})();</script>")
+    return f"""<section style="padding-top:0"><div class="wrap grid g2" style="align-items:start">
+<div><span class="kicker">Ihr Nutzen</span><h2 style="margin-top:.2em">Was Sie konkret davon haben</h2><ul class="check">{nutzen}</ul></div>
+<div class="calc"><h3 style="margin-top:0">Rechnen Sie selbst nach</h3>{inp}<div class="res" id="c-out" aria-live="polite"></div>
+<p class="muted" style="font-size:.85rem;margin-bottom:0">{E(note)} Basis: Website-Preis ab {fmt_eur(p)}.</p></div>
+</div>{script}</section>"""
+
 def clamp_price(s):
     nums = [int(x.replace(".", "")) for x in re.findall(r"\d[\d.]*", s)]
     lo = max(nums[0], 690); hi = max(nums[-1], lo + 200)
@@ -531,6 +602,8 @@ def p_vorschau(t, code):
 <div><div class="card"><h3>Das ist mir aufgefallen</h3><ul class="check">{audit}</ul></div>
 <div class="card mt"><h3>Das ändert sich mit dem Entwurf</h3><ul class="check">{svc}</ul></div></div>
 </div></div></section>
+{wc_section(k, name)}
+{calc_section(k, name)}
 <section class="band"><div class="wrap grid g2" style="align-items:start">
 <div><span class="kicker">Ihr Preis</span><h2>{preis}</h2><p>Gilt für genau diesen Entwurf, fertig online, samt Impressum, Datenschutz und Verbindung zum Google-Profil. Die Betreuung kostet danach ab 29 € im Monat.</p>
 <p class="muted">{PAY_NOTE} {KU}</p></div>

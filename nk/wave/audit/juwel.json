@@ -1,0 +1,106 @@
+{
+ "k": "juwel",
+ "url": "https://lack-juwel.de",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 7.9,
+  "status": 200,
+  "final": "https://lack-juwel.de/",
+  "title": "Startseite - Karosserie und Lack JuWel GmbH",
+  "desc": null,
+  "viewport": "width=device-width, initial-scale=1",
+  "ogimg": null,
+  "ogtitle": "Startseite - Karosserie und Lack JuWel GmbH",
+  "generator": "WordPress 6.4.2",
+  "h1": [],
+  "words": 246,
+  "tel": 1,
+  "mail": [
+   "info@lack-juwel.de",
+   "info@lack-juwel.de"
+  ],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": true,
+  "favicon": true,
+  "imgs": 4,
+  "broken": [
+   {
+    "src": "https://lack-juwel.de/wp-content/uploads/2020/01/cropped-lw-logo-6.png",
+    "alt": "Karosserie und Lack JuWel GmbH"
+   }
+  ],
+  "noalt": 0,
+  "big": [],
+  "years": [],
+  "small": 1,
+  "total": 26,
+  "taps": 5,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "requests": 63,
+  "bytes": 686864,
+  "img_bytes": 187956
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 8.0,
+  "status": 200,
+  "final": "https://lack-juwel.de/",
+  "title": "Startseite - Karosserie und Lack JuWel GmbH",
+  "desc": null,
+  "viewport": "width=device-width, initial-scale=1",
+  "ogimg": null,
+  "ogtitle": "Startseite - Karosserie und Lack JuWel GmbH",
+  "generator": "WordPress 6.4.2",
+  "h1": [],
+  "words": 239,
+  "tel": 1,
+  "mail": [
+   "info@lack-juwel.de",
+   "info@lack-juwel.de"
+  ],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": true,
+  "favicon": true,
+  "imgs": 4,
+  "broken": [
+   {
+    "src": "https://lack-juwel.de/wp-content/uploads/2020/01/cropped-lw-logo-6.png",
+    "alt": "Karosserie und Lack JuWel GmbH"
+   }
+  ],
+  "noalt": 0,
+  "big": [],
+  "years": [],
+  "small": 6,
+  "total": 20,
+  "taps": 5,
+  "placeholders": [],
+  "scrollW": 390,
+  "innerW": 390,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "requests": 63,
+  "bytes": 617305,
+  "img_bytes": 187956
+ },
+ "http_to": "https://lack-juwel.de/",
+ "http_redirects_to_https": true,
+ "http_code": "200"
+}

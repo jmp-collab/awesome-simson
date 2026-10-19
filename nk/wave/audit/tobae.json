@@ -1,0 +1,172 @@
+{
+ "k": "tobae",
+ "url": "https://metallbau-tobae.de",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 3.7,
+  "status": 200,
+  "final": "https://metallbau-tobae.de/",
+  "title": "Torsten Tobä Metallbau Meisterbetrieb",
+  "desc": "Torsten Tobä Metallbau Meisterbetrieb",
+  "viewport": "width=device-width, initial-scale=1.0, user-scalable=no",
+  "ogimg": "https://metallbau-tobae.de/logo.png",
+  "ogtitle": "Torsten Tobä Metallbau Meisterbetrieb",
+  "generator": null,
+  "h1": [
+   "Metallbau Tobä - über uns",
+   "Wir - für unsere Kunden",
+   "Einige Referenzen",
+   "Metallbau - Qualität aus einer Hand",
+   "Erleben Sie uns bei der Arbeit"
+  ],
+  "words": 342,
+  "tel": 1,
+  "mail": [
+   "info@metallbau-tobae.de",
+   "",
+   "info@metallbau-tobae.de"
+  ],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 23,
+  "broken": [],
+  "noalt": 23,
+  "big": [
+   {
+    "src": "https://metallbau-tobae.de/oben.jpg",
+    "nat": 3950,
+    "shown": 1366
+   },
+   {
+    "src": "https://metallbau-tobae.de/referenzen/referenzen11.jpg",
+    "nat": 2115,
+    "shown": 199
+   },
+   {
+    "src": "https://metallbau-tobae.de/mitte.jpg",
+    "nat": 3950,
+    "shown": 1366
+   },
+   {
+    "src": "https://metallbau-tobae.de/bilder/14ad6dda-9bc0-4a23-91de-207da9b2869d.jpg",
+    "nat": 2040,
+    "shown": 279
+   }
+  ],
+  "years": [],
+  "small": 0,
+  "total": 14,
+  "taps": 8,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Access to font at 'https://ssl2.csv.net/fonts/open-sans-v29-latin-regular.woff2' from origin 'https://metallbau-tobae.de' has been blocked by CORS policy: No 'A",
+   "Failed to load resource: net::ERR_FAILED",
+   "Access to font at 'https://ssl2.csv.net/fonts/open-sans-v29-latin-regular.woff' from origin 'https://metallbau-tobae.de' has been blocked by CORS policy: No 'Ac",
+   "Failed to load resource: net::ERR_FAILED",
+   "Access to font at 'https://ssl2.csv.net/fonts/open-sans-v29-latin-regular.ttf' from origin 'https://metallbau-tobae.de' has been blocked by CORS policy: No 'Acc",
+   "Failed to load resource: net::ERR_FAILED"
+  ],
+  "requests": 24,
+  "bytes": 10371799,
+  "img_bytes": 10371799
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 3.3,
+  "status": 200,
+  "final": "https://metallbau-tobae.de/",
+  "title": "Torsten Tobä Metallbau Meisterbetrieb",
+  "desc": "Torsten Tobä Metallbau Meisterbetrieb",
+  "viewport": "width=device-width, initial-scale=1.0, user-scalable=no",
+  "ogimg": "https://metallbau-tobae.de/logo.png",
+  "ogtitle": "Torsten Tobä Metallbau Meisterbetrieb",
+  "generator": null,
+  "h1": [
+   "Metallbau Tobä - über uns",
+   "Wir - für unsere Kunden",
+   "Einige Referenzen",
+   "Metallbau - Qualität aus einer Hand",
+   "Erleben Sie uns bei der Arbeit"
+  ],
+  "words": 342,
+  "tel": 1,
+  "mail": [
+   "info@metallbau-tobae.de",
+   "",
+   "info@metallbau-tobae.de"
+  ],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 23,
+  "broken": [],
+  "noalt": 23,
+  "big": [
+   {
+    "src": "https://metallbau-tobae.de/logomobil.jpg",
+    "nat": 1800,
+    "shown": 390
+   },
+   {
+    "src": "https://metallbau-tobae.de/referenzen/referenzen11.jpg",
+    "nat": 2115,
+    "shown": 362
+   },
+   {
+    "src": "https://metallbau-tobae.de/mitte.jpg",
+    "nat": 3950,
+    "shown": 390
+   },
+   {
+    "src": "https://metallbau-tobae.de/bilder/14ad6dda-9bc0-4a23-91de-207da9b2869d.jpg",
+    "nat": 2040,
+    "shown": 362
+   },
+   {
+    "src": "https://metallbau-tobae.de/karte.jpg",
+    "nat": 2395,
+    "shown": 390
+   },
+   {
+    "src": "https://metallbau-tobae.de/tb1.jpg",
+    "nat": 3400,
+    "shown": 390
+   }
+  ],
+  "years": [],
+  "small": 0,
+  "total": 14,
+  "taps": 8,
+  "placeholders": [],
+  "scrollW": 390,
+  "innerW": 390,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Access to font at 'https://ssl2.csv.net/fonts/open-sans-v29-latin-regular.woff2' from origin 'https://metallbau-tobae.de' has been blocked by CORS policy: No 'A",
+   "Failed to load resource: net::ERR_FAILED",
+   "Access to font at 'https://ssl2.csv.net/fonts/open-sans-v29-latin-regular.woff' from origin 'https://metallbau-tobae.de' has been blocked by CORS policy: No 'Ac",
+   "Failed to load resource: net::ERR_FAILED",
+   "Access to font at 'https://ssl2.csv.net/fonts/open-sans-v29-latin-regular.ttf' from origin 'https://metallbau-tobae.de' has been blocked by CORS policy: No 'Acc",
+   "Failed to load resource: net::ERR_FAILED"
+  ],
+  "requests": 24,
+  "bytes": 10371799,
+  "img_bytes": 10371799
+ },
+ "http_to": "https://metallbau-tobae.de/",
+ "http_redirects_to_https": true,
+ "http_code": "200"
+}

@@ -1,0 +1,98 @@
+{
+ "k": "mtrucks",
+ "url": "https://www.m-trucks.de",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 6.5,
+  "status": 200,
+  "final": "https://www.m-trucks.de/",
+  "title": "M-Trucks GmbH",
+  "desc": "Nutzfahrzeugservice Reparatur von LKW - Omnibussen - Transporter - Baumaschinen - Fahrzeughandel - Gebrauchte Fahrzeugteile - Truckparts",
+  "viewport": "width=device-width, initial-scale=1.1",
+  "ogimg": null,
+  "ogtitle": "M-Trucks GmbH",
+  "generator": "All in One SEO (AIOSEO) 4.9.10",
+  "h1": [
+   "Willkommen bei M-Trucks GmbH"
+  ],
+  "words": 171,
+  "tel": 0,
+  "mail": [
+   "info@m-trucks.de"
+  ],
+  "wa": 0,
+  "forms": 1,
+  "maps": false,
+  "localbiz": true,
+  "favicon": true,
+  "imgs": 10,
+  "broken": [],
+  "noalt": 6,
+  "big": [],
+  "years": [
+   2022
+  ],
+  "small": 0,
+  "total": 51,
+  "taps": 18,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 60,
+  "bytes": 2636661,
+  "img_bytes": 2143011
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 4.3,
+  "status": 200,
+  "final": "https://www.m-trucks.de/",
+  "title": "M-Trucks GmbH",
+  "desc": "Nutzfahrzeugservice Reparatur von LKW - Omnibussen - Transporter - Baumaschinen - Fahrzeughandel - Gebrauchte Fahrzeugteile - Truckparts",
+  "viewport": "width=device-width, initial-scale=1.1",
+  "ogimg": null,
+  "ogtitle": "M-Trucks GmbH",
+  "generator": "All in One SEO (AIOSEO) 4.9.10",
+  "h1": [
+   "Willkommen bei M-Trucks GmbH"
+  ],
+  "words": 163,
+  "tel": 0,
+  "mail": [
+   "info@m-trucks.de"
+  ],
+  "wa": 0,
+  "forms": 1,
+  "maps": false,
+  "localbiz": true,
+  "favicon": true,
+  "imgs": 10,
+  "broken": [],
+  "noalt": 6,
+  "big": [],
+  "years": [
+   2022
+  ],
+  "small": 0,
+  "total": 45,
+  "taps": 18,
+  "placeholders": [],
+  "scrollW": 390,
+  "innerW": 390,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 60,
+  "bytes": 2999099,
+  "img_bytes": 2505449
+ },
+ "http_to": "https://www.m-trucks.de/",
+ "http_redirects_to_https": true,
+ "http_code": "200"
+}
