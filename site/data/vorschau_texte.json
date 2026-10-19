@@ -718,5 +718,29 @@
    "Beratungstermin buchen",
    "Beide Standorte mit Karte und Zeiten"
   ]
+ },
+ "bogro": {
+  "obs": [
+   "Auf Ihrer Seite sind nur Stockfotos, keine eigenen Bilder.",
+   "Im Seitencode steht ein Platzhalter-Link aus der Vorlage.",
+   "Kontakt läuft über eine t-online-Adresse."
+  ],
+  "neu": [
+   "Eigene Fotos aus Ausstellung und Kundenprojekten",
+   "Beratungstermin online buchen",
+   "Seite pro Bodenart für Google"
+  ]
+ },
+ "felicita": {
+  "obs": [
+   "Auf der Startseite sieht man nur Logo und Formular.",
+   "Kontakt läuft über eine Gmail-Adresse.",
+   "Grill-Event und Live Cooking stehen nur auf Unterseiten."
+  ],
+  "neu": [
+   "Buffet-Fotos und Anlässe auf der Startseite",
+   "Anfrage mit Datum und Gästezahl",
+   "Eigene E-Mail-Adresse mit Domain"
+  ]
  }
 }

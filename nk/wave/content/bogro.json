@@ -1,0 +1,125 @@
+{
+ "slug": "bogro-heib-bodenbelagsgro-handel",
+ "theme": "papier",
+ "name": "BoGro Fachhandel für Bodenbeläge",
+ "branche": "Bodenbeläge, Lieferung und Verlegung",
+ "addr": "Untere Bliesstraße 5 · 66538 Neunkirchen",
+ "tel": "06821 179053",
+ "url": "https://www.bogro-bodenbelaege.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Quick Win",
+ "visit": "Dienstag bis Donnerstag nachmittags, Ausstellung ist bis 17 Uhr offen",
+ "logo_a": "BoGro",
+ "logo_b": "Bodenbeläge",
+ "nav": [
+  "Böden",
+  "Ausstellung",
+  "Verlegung",
+  "Kontakt"
+ ],
+ "eyebrow": "Fachhandel für Bodenbeläge in Neunkirchen",
+ "h1": "Den richtigen Boden finden. Und verlegen lassen.",
+ "lead": "Laminat, Parkett, Designbeläge, CV- und Objektbeläge. In unserer Ausstellung liegen Muster zu fast allen Designs, Materialien und Farben. Wir liefern und verlegen den Boden bei Ihnen vor Ort.",
+ "cta1": "Beratungstermin vereinbaren",
+ "cta2": "Anrufen: 06821 179053",
+ "mcta": "Anrufen",
+ "badge": [
+  "Muster",
+  "zu fast allen Designs vor Ort"
+ ],
+ "deco": "",
+ "hero_img": "img/bogro_0.jpg",
+ "trust": [
+  "<b>Ausstellung</b> mit Mustern zum Anfassen",
+  "<b>Lieferung</b> nach Hause",
+  "<b>Verlegung</b> vor Ort"
+ ],
+ "menu_title": "Öffnungszeiten",
+ "menu": [
+  [
+   "Montag",
+   "Ausstellung und Beratung",
+   "8 bis 13 Uhr"
+  ],
+  [
+   "Dienstag bis Donnerstag",
+   "Ausstellung und Beratung",
+   "8 bis 17 Uhr"
+  ],
+  [
+   "Freitag",
+   "Ausstellung und Beratung",
+   "8 bis 13 Uhr"
+  ],
+  [
+   "Termin",
+   "auch nach Vereinbarung",
+   ""
+  ]
+ ],
+ "svc_title": "Unsere Böden",
+ "services": [
+  [
+   "Laminat",
+   "Robust und pflegeleicht."
+  ],
+  [
+   "Parkett",
+   "Echtholz für Wohnräume."
+  ],
+  [
+   "Designbeläge",
+   "Vinyl in vielen Holz- und Steinoptiken."
+  ],
+  [
+   "CV-Beläge",
+   "Günstig, warm und leicht zu reinigen."
+  ],
+  [
+   "Objektbeläge",
+   "Für Büro, Praxis und Gewerbe."
+  ],
+  [
+   "Verlegung",
+   "Schnell und professionell durch unser Team."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Neue Wohnung, neuer Boden? Kommen Sie in die Ausstellung.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Beratung",
+ "alt_text": "Wir empfehlen, welcher Boden in welchen Raum passt, und setzen Ihr Projekt zuverlässig um.",
+ "contact": "BoGro Fachhandel für Bodenbeläge<br>Untere Bliesstraße 5<br>66538 Neunkirchen<br><br>Telefon 06821 179053<br>bogro@t-online.de",
+ "audit": [
+  "Im Seitencode steht ein ungefüllter Platzhalter-Link '[#DSR_FORM_URL#]' (Vorlage für ein Datenschutz-Formular)",
+  "Startseite mit Stockfotos, keine eigenen Fotos der Ausstellung oder verlegter Böden",
+  "Kontakt per t-online-Adresse, kein Hinweis auf Marken, Preise oder Musterauswahl"
+ ],
+ "hebel": "Wer renoviert oder einzieht, sucht 'Bodenbelag Neunkirchen' oder 'Vinyl verlegen lassen' und vergleicht Fotos. Eigene Bilder aus der Ausstellung, Beispiele verlegter Böden und eine Terminbuchung für die Beratung bringen Kunden vor Ort.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit eigenen Fotos, Seiten pro Bodenart, Referenzen verlegter Böden, Beratungstermin online, E-Mail mit eigener Domain, Google-Profil",
+ "svc": [
+  "Fotoshooting in der Ausstellung",
+  "Beratungstermin online buchen",
+  "Referenzen 'vorher und nachher' aus Neunkirchen",
+  "E-Mail-Adresse mit eigener Domain"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite sind nur Stockfotos, Ihre Ausstellung sieht man nicht. Und im Seitencode hängt noch ein Platzhalter aus der Vorlage. Ich habe Ihnen mitgebracht, wie Ihre Böden online aussehen könnten.",
+ "obj": "'Die Kunden kommen über Empfehlung': Die schauen vorher trotzdem online. Eigene Fotos überzeugen mehr als Stockbilder.",
+ "obs": [
+  "Auf Ihrer Seite sind nur Stockfotos, keine eigenen Bilder.",
+  "Im Seitencode steht ein Platzhalter-Link aus der Vorlage.",
+  "Kontakt läuft über eine t-online-Adresse."
+ ],
+ "neu": [
+  "Eigene Fotos aus Ausstellung und Kundenprojekten",
+  "Beratungstermin online buchen",
+  "Seite pro Bodenart für Google"
+ ]
+}

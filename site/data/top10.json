@@ -1910,5 +1910,69 @@
   "addr": "Rombachstraße 80",
   "tel": "06821 485601",
   "welle": 10
+ },
+ {
+  "name": "BoGro Fachhandel für Bodenbeläge",
+  "branche": "Bodenbeläge, Lieferung und Verlegung",
+  "url": "https://www.bogro-bodenbelaege.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Dienstag bis Donnerstag nachmittags, Ausstellung ist bis 17 Uhr offen",
+  "audit": [
+   "Im Seitencode steht ein ungefüllter Platzhalter-Link '[#DSR_FORM_URL#]' (Vorlage für ein Datenschutz-Formular)",
+   "Startseite mit Stockfotos, keine eigenen Fotos der Ausstellung oder verlegter Böden",
+   "Kontakt per t-online-Adresse, kein Hinweis auf Marken, Preise oder Musterauswahl"
+  ],
+  "hebel": "Wer renoviert oder einzieht, sucht 'Bodenbelag Neunkirchen' oder 'Vinyl verlegen lassen' und vergleicht Fotos. Eigene Bilder aus der Ausstellung, Beispiele verlegter Böden und eine Terminbuchung für die Beratung bringen Kunden vor Ort.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Neue Website mit eigenen Fotos, Seiten pro Bodenart, Referenzen verlegter Böden, Beratungstermin online, E-Mail mit eigener Domain, Google-Profil",
+  "svc": [
+   "Fotoshooting in der Ausstellung",
+   "Beratungstermin online buchen",
+   "Referenzen 'vorher und nachher' aus Neunkirchen",
+   "E-Mail-Adresse mit eigener Domain"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite sind nur Stockfotos, Ihre Ausstellung sieht man nicht. Und im Seitencode hängt noch ein Platzhalter aus der Vorlage. Ich habe Ihnen mitgebracht, wie Ihre Böden online aussehen könnten.",
+  "obj": "'Die Kunden kommen über Empfehlung': Die schauen vorher trotzdem online. Eigene Fotos überzeugen mehr als Stockbilder.",
+  "k": "bogro",
+  "addr": "Untere Bliesstraße 5",
+  "tel": "06821 179053",
+  "welle": 11
+ },
+ {
+  "name": "Felicita Catering",
+  "branche": "Catering und Event-Catering",
+  "url": "https://www.felicita-catering.com",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Vorher anrufen, Termin mit Lajos Waadt",
+  "audit": [
+   "Startseite nur mit Logo-Bild und Kontaktformular, kein Angebot und keine Fotos von Buffets",
+   "Kontakt über Gmail-Adresse, Wix-Menü mit 'Mehr' und 'Anmelden'",
+   "Angebot (Grill-Event, Live Cooking) nur auf Unterseiten, Tippfehler ('Grillgenus', 'Grilllgut')"
+  ],
+  "hebel": "Brautpaare und Firmen vergleichen Caterer nach Fotos, Ablauf und Anfrage-Komfort. Eine Seite mit Buffet-Fotos, Anlässen und einem Anfrageformular mit Datum, Gästezahl und Anlass bringt passende, große Aufträge.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.290 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Neue Website mit Anlass-Seiten (Hochzeit, Firma, Privat), Bildergalerie, Anfrage mit Datum und Gästezahl, E-Mail mit eigener Domain, Google-Profil",
+  "svc": [
+   "Anfrage mit Datum, Gästezahl, Anlass und Budget",
+   "Landingpages 'Hochzeitscatering Saarland' und 'Firmencatering Neunkirchen'",
+   "Fotoshooting bei einem Event",
+   "E-Mail-Adresse mit eigener Domain"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite sieht man nur das Logo und ein Formular, Ihr Angebot steckt in den Unterseiten. Ich habe Ihnen mitgebracht, wie Ihr Catering Brautpaare und Firmen direkt überzeugen könnte.",
+  "obj": "'Wir bekommen Aufträge über Empfehlungen': Die Empfohlenen schauen sich vorher die Seite an. Fotos vom Buffet geben den Ausschlag.",
+  "k": "felicita",
+  "addr": "Friedrich-Ebert-Straße 33",
+  "tel": "0152 22333003",
+  "welle": 11
  }
 ]

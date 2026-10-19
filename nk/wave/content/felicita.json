@@ -1,0 +1,106 @@
+{
+ "slug": "felicita-catering",
+ "theme": "beauty",
+ "name": "Felicita Catering",
+ "branche": "Catering und Event-Catering",
+ "addr": "Friedrich-Ebert-Straße 33 · 66538 Neunkirchen",
+ "tel": "0152 22333003",
+ "url": "https://www.felicita-catering.com",
+ "g": "keine Google-Daten erfasst",
+ "label": "Solide Chance",
+ "visit": "Vorher anrufen, Termin mit Lajos Waadt",
+ "logo_a": "felicita",
+ "logo_b": "Catering",
+ "nav": [
+  "Catering",
+  "Grill-Event",
+  "Live Cooking",
+  "Anfrage"
+ ],
+ "eyebrow": "Event-Catering aus Neunkirchen",
+ "h1": "Ihr Fest. Unser Essen. Individuell zusammengestellt.",
+ "lead": "Full-Service-Catering für Hochzeiten, Geburtstage, Jubiläen, Betriebsfeste, Messen und Tagungen. Fingerfood, Buffets, BBQ-Grill, Pizza-Catering und Live Cooking, mit lokalen und saisonalen Produkten.",
+ "cta1": "Catering anfragen",
+ "cta2": "Speisekarte ansehen",
+ "mcta": "Anfragen",
+ "badge": [
+  "Full-Service",
+  "von Essen bis Bestuhlung"
+ ],
+ "deco": "",
+ "hero_img": "img/felicita_0.jpg",
+ "trust": [
+  "<b>Keine fertigen Pakete</b>, alles individuell",
+  "<b>Lokal und saisonal</b> wo immer möglich",
+  "<b>Geschirr, Bestuhlung, Zelte</b> auf Wunsch"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Angebot",
+ "services": [
+  [
+   "Fingerfood",
+   "Aus der Hand, im Schälchen oder am Spieß."
+  ],
+  [
+   "Buffets",
+   "Gemeinsam individuell zusammengestellt."
+  ],
+  [
+   "Grill-Event",
+   "Fleisch, Fisch und Meeresfrüchte vom Grill, mit Salaten und Dips."
+  ],
+  [
+   "Live und Show Cooking",
+   "Kochen vor den Augen Ihrer Gäste."
+  ],
+  [
+   "Cocktail und Pizza Catering",
+   "Für Feiern mit lockerem Rahmen."
+  ],
+  [
+   "Veranstaltungsservice",
+   "Geschirr, Bestuhlung, Dekoration, Zelte."
+  ]
+ ],
+ "gal_title": "Eindrücke",
+ "gallery": [
+  "img/felicita_1.jpg"
+ ],
+ "band": "Feier geplant? Erzählen Sie uns von Ihrem Fest.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Preise",
+ "alt_text": "Die Preise richten sich nach Speisenfolge, Personenzahl, Jahreszeit und Marktangebot. Wir erstellen Ihnen ein individuelles Angebot.",
+ "contact": "Felicita Catering<br>Lajos Waadt<br>Friedrich-Ebert-Straße 33<br>66538 Neunkirchen<br><br>Telefon 0152 22333003<br>felicita.ec@gmail.com",
+ "audit": [
+  "Startseite nur mit Logo-Bild und Kontaktformular, kein Angebot und keine Fotos von Buffets",
+  "Kontakt über Gmail-Adresse, Wix-Menü mit 'Mehr' und 'Anmelden'",
+  "Angebot (Grill-Event, Live Cooking) nur auf Unterseiten, Tippfehler ('Grillgenus', 'Grilllgut')"
+ ],
+ "hebel": "Brautpaare und Firmen vergleichen Caterer nach Fotos, Ablauf und Anfrage-Komfort. Eine Seite mit Buffet-Fotos, Anlässen und einem Anfrageformular mit Datum, Gästezahl und Anlass bringt passende, große Aufträge.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.290 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit Anlass-Seiten (Hochzeit, Firma, Privat), Bildergalerie, Anfrage mit Datum und Gästezahl, E-Mail mit eigener Domain, Google-Profil",
+ "svc": [
+  "Anfrage mit Datum, Gästezahl, Anlass und Budget",
+  "Landingpages 'Hochzeitscatering Saarland' und 'Firmencatering Neunkirchen'",
+  "Fotoshooting bei einem Event",
+  "E-Mail-Adresse mit eigener Domain"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite sieht man nur das Logo und ein Formular, Ihr Angebot steckt in den Unterseiten. Ich habe Ihnen mitgebracht, wie Ihr Catering Brautpaare und Firmen direkt überzeugen könnte.",
+ "obj": "'Wir bekommen Aufträge über Empfehlungen': Die Empfohlenen schauen sich vorher die Seite an. Fotos vom Buffet geben den Ausschlag.",
+ "obs": [
+  "Auf der Startseite sieht man nur Logo und Formular.",
+  "Kontakt läuft über eine Gmail-Adresse.",
+  "Grill-Event und Live Cooking stehen nur auf Unterseiten."
+ ],
+ "neu": [
+  "Buffet-Fotos und Anlässe auf der Startseite",
+  "Anfrage mit Datum und Gästezahl",
+  "Eigene E-Mail-Adresse mit Domain"
+ ]
+}
