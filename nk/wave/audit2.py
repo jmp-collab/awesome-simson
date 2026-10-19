@@ -1,7 +1,7 @@
 """Technik-Check je Lead (gemessen, mit Belegen).
 Aufruf: python3 wave/audit2.py [KURZ ...]   (ohne Argumente: alle aus site/data/top10.json ohne vorhandenes Audit)
 Ergebnis: wave/audit/<k>.json"""
-import asyncio, json, os, re, sys, time
+import asyncio, json, os, re, sys, time, subprocess
 from playwright.async_api import async_playwright
 
 B = "/home/claude/nk/wave"
@@ -102,8 +102,12 @@ async def one(sem, browser, t):
         k, url = t["k"], t["url"]
         if not url.startswith("http"): url = "https://" + url
         d = {"k": k, "url": url, "date": time.strftime("%Y-%m-%d")}
-        d["desk"] = await measure(browser, url, False)
-        d["mob"] = await measure(browser, url, True)
+        murl = url
+        if url.startswith("http://"):  # Browser-Proxy kann kein http: Ziel der Weiterleitung per curl holen
+            r = subprocess.run(["curl", "-s", "-o", "/dev/null", "-L", "--max-time", "20", "-w", "%{url_effective}", url], capture_output=True, text=True, timeout=30)
+            if r.stdout.startswith("https://"): murl = r.stdout.strip(); d["measured_url"] = murl
+        d["desk"] = await measure(browser, murl, False)
+        d["mob"] = await measure(browser, murl, True)
         d.update(await http_check(browser, url))
         json.dump(d, open(f"{OUT}/{k}.json", "w"), ensure_ascii=False, indent=1)
         print("ok", k, d["desk"].get("ok"), d["mob"].get("scrollW"), flush=True)

@@ -1,0 +1,236 @@
+{
+ "k": "specht",
+ "url": "https://www.vespa-saar.de",
+ "date": "2026-10-19",
+ "desk": {
+  "ok": true,
+  "load_s": 9.3,
+  "status": 200,
+  "final": "https://www.vespa-saar.de/",
+  "title": "Vespa Roller, Piaggio Roller, Saarland Spiesen-Elversberg, Rheinland-Pfalz, Startseite",
+  "desc": "Vespa und Piaggio Spezialist, Spiesen-Elversberg Saarland: Roller\nWir sind Ihr Ansprechpartner bezüglich Vespa und Piaggio. Verabreden Sie gerne einen Termin: Telefon: +49 (0) 6821 7496607 Email: info@vespa-saar.de",
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [],
+  "words": 38,
+  "tel": 0,
+  "mail": [
+   "info@vespa-saar.de "
+  ],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": false,
+  "imgs": 28,
+  "broken": [
+   {
+    "src": "https://www.vespa-saar.de/slider/data1/tooltips/.jpg",
+    "alt": ""
+   },
+   {
+    "src": "https://www.vespa-saar.de/slider/data1/tooltips/.jpg",
+    "alt": ""
+   },
+   {
+    "src": "https://www.vespa-saar.de/slider/data1/tooltips/.jpg",
+    "alt": ""
+   },
+   {
+    "src": "https://www.vespa-saar.de/slider/data1/tooltips/.jpg",
+    "alt": ""
+   },
+   {
+    "src": "https://www.vespa-saar.de/slider/data1/tooltips/.jpg",
+    "alt": ""
+   },
+   {
+    "src": "https://www.vespa-saar.de/slider/data1/tooltips/.jpg",
+    "alt": ""
+   }
+  ],
+  "noalt": 9,
+  "big": [
+   {
+    "src": "https://www.vespa-saar.de/pictures/logos/piaggio_logo.png",
+    "nat": 1896,
+    "shown": 128
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/vespa_katalog_2023.jpg",
+    "nat": 2063,
+    "shown": 433
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/vespa_gtv_banner.jpg",
+    "nat": 3840,
+    "shown": 433
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/vespa_gts_banner.jpg",
+    "nat": 2063,
+    "shown": 433
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/vespa_elettrica_banner.jpg",
+    "nat": 3840,
+    "shown": 433
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/vespa_primavera_banner.jpg",
+    "nat": 2063,
+    "shown": 433
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/vespa_micky_mouse_banner.jpg",
+    "nat": 2063,
+    "shown": 433
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/piaggio_piaggio1_banner.jpg",
+    "nat": 2063,
+    "shown": 433
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/piaggio_mp3_range_banner.jpg",
+    "nat": 2063,
+    "shown": 433
+   }
+  ],
+  "years": [],
+  "small": 0,
+  "total": 17,
+  "taps": 12,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "requests": 188,
+  "bytes": 8149219,
+  "img_bytes": 6383793
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 7.4,
+  "status": 200,
+  "final": "https://www.vespa-saar.de/",
+  "title": "Vespa Roller, Piaggio Roller, Saarland Spiesen-Elversberg, Rheinland-Pfalz, Startseite",
+  "desc": "Vespa und Piaggio Spezialist, Spiesen-Elversberg Saarland: Roller\nWir sind Ihr Ansprechpartner bezüglich Vespa und Piaggio. Verabreden Sie gerne einen Termin: Telefon: +49 (0) 6821 7496607 Email: info@vespa-saar.de",
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [],
+  "words": 38,
+  "tel": 0,
+  "mail": [
+   "info@vespa-saar.de "
+  ],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": false,
+  "imgs": 28,
+  "broken": [
+   {
+    "src": "https://www.vespa-saar.de/slider/data1/tooltips/.jpg",
+    "alt": ""
+   },
+   {
+    "src": "https://www.vespa-saar.de/slider/data1/tooltips/.jpg",
+    "alt": ""
+   },
+   {
+    "src": "https://www.vespa-saar.de/slider/data1/tooltips/.jpg",
+    "alt": ""
+   },
+   {
+    "src": "https://www.vespa-saar.de/slider/data1/tooltips/.jpg",
+    "alt": ""
+   },
+   {
+    "src": "https://www.vespa-saar.de/slider/data1/tooltips/.jpg",
+    "alt": ""
+   },
+   {
+    "src": "https://www.vespa-saar.de/slider/data1/tooltips/.jpg",
+    "alt": ""
+   }
+  ],
+  "noalt": 9,
+  "big": [
+   {
+    "src": "https://www.vespa-saar.de/pictures/logos/piaggio_logo.png",
+    "nat": 1896,
+    "shown": 128
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/vespa_katalog_2023.jpg",
+    "nat": 2063,
+    "shown": 310
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/vespa_gtv_banner.jpg",
+    "nat": 3840,
+    "shown": 310
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/vespa_gts_banner.jpg",
+    "nat": 2063,
+    "shown": 310
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/vespa_elettrica_banner.jpg",
+    "nat": 3840,
+    "shown": 310
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/vespa_primavera_banner.jpg",
+    "nat": 2063,
+    "shown": 310
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/vespa_micky_mouse_banner.jpg",
+    "nat": 2063,
+    "shown": 310
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/piaggio_piaggio1_banner.jpg",
+    "nat": 2063,
+    "shown": 310
+   },
+   {
+    "src": "https://www.vespa-saar.de/pictures/katalog/piaggio_mp3_range_banner.jpg",
+    "nat": 2063,
+    "shown": 310
+   }
+  ],
+  "years": [],
+  "small": 0,
+  "total": 17,
+  "taps": 11,
+  "placeholders": [],
+  "scrollW": 980,
+  "innerW": 980,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "requests": 193,
+  "bytes": 8199131,
+  "img_bytes": 6396387
+ },
+ "http_to": "http://www.vespa-saar.de/",
+ "http_code": "200",
+ "http_redirects_to_https": false
+}

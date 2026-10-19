@@ -862,5 +862,65 @@
    "WhatsApp-Anfrage mit Foto",
    "Einheitliche Adresse für Google"
   ]
+ },
+ "dg": {
+  "obs": [
+   "Copyright 2012 und ein Demo-Beitrag der Vorlage auf der Startseite.",
+   "Webmail, Bauleiter und Monteur öffentlich in der Kopfzeile.",
+   "Keine Karriereseite, keine Projektanfrage."
+  ],
+  "neu": [
+   "Referenzprojekte mit Eckdaten",
+   "Karriereseite für Monteure",
+   "Anfrage mit Projektdaten"
+  ]
+ },
+ "socacel": {
+  "obs": [
+   "Startseite heißt bei Google 'Über uns'.",
+   "Produkte nur als Liste, ohne eigene Seiten.",
+   "Zwei getrennte Seiten für Deutschland und Frankreich."
+  ],
+  "neu": [
+   "Eigene Seite je Anlagentyp",
+   "Deutsch und französisch auf einer Domain",
+   "Anfrage nach Produkt und Menge"
+  ]
+ },
+ "specht": {
+  "obs": [
+   "Zwei verschiedene Öffnungszeiten auf jeder Seite.",
+   "News-Seite zeigt nur eine iframe-Fehlermeldung.",
+   "Gelbe Seiten mit anderem Namen, Nummer und Hausnummer."
+  ],
+  "neu": [
+   "Eindeutige Öffnungszeiten",
+   "Modelle mit Probefahrt-Anfrage",
+   "Einheitliche Daten in Google und Verzeichnissen"
+  ]
+ },
+ "schuler": {
+  "obs": [
+   "Nur 'Bald verfügbar' auf der Domain.",
+   "Keine sichere Verbindung mit https.",
+   "Drei verschiedene Domainnamen für Seite und E-Mail."
+  ],
+  "neu": [
+   "Leistungen und Vorher-nachher-Fotos",
+   "Anfrage mit Foto",
+   "Eine Domain, sicher und einheitlich"
+  ]
+ },
+ "mauermann": {
+  "obs": [
+   "Text kündigt noch an, dass Inhalte bald kommen.",
+   "Kein Telefon, keine Adresse, keine Leistungen.",
+   "Seitentitel 'home', Tabellen-Layout ohne Handy-Einstellung."
+  ],
+  "neu": [
+   "Leistungen Elektro und Klima",
+   "Telefon mit einem Fingertipp",
+   "Anfrage mit Foto"
+  ]
  }
 }

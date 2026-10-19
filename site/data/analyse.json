@@ -6207,5 +6207,450 @@
    "woerter": 259,
    "titel": "Carsten-Lander.de"
   }
+ },
+ "dg": {
+  "score": 52,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "jahr",
+    "sev": "mittel",
+    "titel": "Copyright 2012: wirkt nicht gepflegt",
+    "beleg": "Im Fußbereich steht das Jahr 2012.",
+    "folge": "Ein altes Jahr lässt Besucher zweifeln, ob Angaben wie Öffnungszeiten oder Preise noch stimmen.",
+    "fix": "Aktuelle Seite, die Sie selbst pflegen können"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   }
+  ],
+  "sicht": [
+   "Copyright 2012 und ein Demo-Beitrag der Vorlage auf der Startseite.",
+   "Webmail, Bauleiter und Monteur öffentlich in der Kopfzeile.",
+   "Keine Karriereseite, keine Projektanfrage."
+  ],
+  "nutzen": [
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Aktuelle Seite, die Vertrauen schafft",
+   "Referenzprojekte mit Eckdaten",
+   "Karriereseite für Monteure",
+   "Anfrage mit Projektdaten"
+  ],
+  "hebel": "Einkäufer und Projektleiter prüfen Dienstleister online, bevor sie anfragen. Eine aktuelle Seite mit Referenzprojekten, Leistungen und Anfrage nach Projektdaten stärkt jedes Angebot. Dazu kommt der zweite große Hebel: Monteure und Richtmeister finden, mit einer eigenen Karriereseite.",
+  "extra": [
+   "Karriereseite für Monteure und Richtmeister mit Kurzbewerbung",
+   "Referenzprojekte mit Fotos und Eckdaten",
+   "Englische Version für internationale Kunden",
+   "Anfrage mit Maschinentyp, Standort und Zeitraum"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 15000,
+   "einheit": "Auftrag",
+   "anzahl": 1,
+   "preis": 1490,
+   "breakeven": 1,
+   "jahr": 15000
+  },
+  "gemessen": {
+   "load_m": 6.2,
+   "mb": 1.2,
+   "breite_m": 413,
+   "woerter": 237,
+   "titel": "D&G Industriemontage-GmbH"
+  }
+ },
+ "socacel": {
+  "score": 24,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 1516 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 26 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "titel",
+    "sev": "hoch",
+    "titel": "Google zeigt einen nichtssagenden Titel",
+    "beleg": "Seitentitel: 'Über uns'",
+    "folge": "Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.",
+    "fix": "Titel mit Leistung und Ort, z. B. 'Ihr Betrieb in Neunkirchen | Leistung'"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   }
+  ],
+  "sicht": [
+   "Startseite heißt bei Google 'Über uns'.",
+   "Produkte nur als Liste, ohne eigene Seiten.",
+   "Zwei getrennte Seiten für Deutschland und Frankreich."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Bei Google mit Leistung und Ort sichtbar statt mit 'Über uns'",
+   "Eigene Seite je Anlagentyp",
+   "Deutsch und französisch auf einer Domain"
+  ],
+  "hebel": "Einkäufer in der Fleisch- und Fischindustrie suchen gezielt nach Anlagentypen wie 'Injektor' oder 'Vakuum-Massieranlage'. Eigene Produktseiten mit Daten, Fotos und Anfrage, zweisprachig auf einer Domain, holen genau diese Suchen in Deutschland und Frankreich ab.",
+  "extra": [
+   "Eigene Seite je Anlagentyp mit Datenblatt",
+   "Deutsch und französisch auf einer Domain",
+   "Anfrage mit Produkt, Menge und Kapazität",
+   "Messe- und Pressebereich, den Sie selbst pflegen"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 30000,
+   "einheit": "Auftrag",
+   "anzahl": 1,
+   "preis": 1990,
+   "breakeven": 1,
+   "jahr": 30000
+  },
+  "gemessen": {
+   "load_m": 3.8,
+   "mb": 0.1,
+   "breite_m": 1516,
+   "woerter": 125,
+   "titel": "Über uns"
+  }
+ },
+ "specht": {
+  "score": 15,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 38 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "bild_kaputt",
+    "sev": "hoch",
+    "titel": "Ein Bild lädt nicht",
+    "beleg": "Nicht geladen: https://www.vespa-saar.de/slider/data1/tooltips/.jpg",
+    "folge": "Leere Kästen oder fehlende Logos wirken, als sei der Betrieb nicht mehr aktiv.",
+    "fix": "Alle Bilder geprüft und neu eingebunden"
+   },
+   {
+    "id": "https_redirect",
+    "sev": "mittel",
+    "titel": "Ohne 'https' eingetippt erscheint 'Nicht sicher'",
+    "beleg": "Die Adresse http://www.vespa-saar.de leitet nicht auf die sichere Version weiter.",
+    "folge": "Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.",
+    "fix": "Automatische Weiterleitung auf https"
+   },
+   {
+    "id": "speed",
+    "sev": "mittel",
+    "titel": "Seite lädt langsam",
+    "beleg": "Die Startseite lädt 8,1 MB Daten.",
+    "folge": "Jede Sekunde Wartezeit kostet Besucher, besonders im Mobilfunknetz.",
+    "fix": "Optimierte Bilder, schnelles Hosting"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Zwei verschiedene Öffnungszeiten auf jeder Seite.",
+   "News-Seite zeigt nur eine iframe-Fehlermeldung.",
+   "Gelbe Seiten mit anderem Namen, Nummer und Hausnummer."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen",
+   "Eindeutige Öffnungszeiten",
+   "Modelle mit Probefahrt-Anfrage"
+  ],
+  "hebel": "Roller werden im Frühjahr gekauft, und Käufer suchen 'Vespa Händler Saarland'. Wer dann zwei verschiedene Öffnungszeiten sieht, fährt im Zweifel zum nächsten Händler. Klare Zeiten, Modelle mit Anfrage zur Probefahrt und ein sauberes Google-Profil holen diese Käufer in den Laden.",
+  "extra": [
+   "Probefahrt-Anfrage mit Wunschmodell und Datum",
+   "Gebrauchtroller-Seite, die Sie selbst pflegen",
+   "Google-Profil mit Fotos aus dem Laden",
+   "Saisonstart-Aktion im Frühjahr als eigene Seite"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 3500,
+   "einheit": "Auftrag",
+   "anzahl": 4,
+   "preis": 990,
+   "breakeven": 1,
+   "jahr": 14000
+  },
+  "gemessen": {
+   "load_m": 7.4,
+   "mb": 8.1,
+   "breite_m": 980,
+   "woerter": 38,
+   "titel": "Vespa Roller, Piaggio Roller, Saarland Spiesen-Elversberg, Rheinland-Pfalz, Startseite"
+  }
+ },
+ "schuler": {
+  "score": 51,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 47 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   }
+  ],
+  "sicht": [
+   "Nur 'Bald verfügbar' auf der Domain.",
+   "Keine sichere Verbindung mit https.",
+   "Drei verschiedene Domainnamen für Seite und E-Mail."
+  ],
+  "nutzen": [
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen",
+   "Leistungen und Vorher-nachher-Fotos",
+   "Anfrage mit Foto",
+   "Eine Domain, sicher und einheitlich"
+  ],
+  "hebel": "Badsanierungen sind Aufträge im fünfstelligen Bereich, und Kunden schauen sich vorher Referenzen an. Eine Seite, die nur 'Bald verfügbar' zeigt, wirkt wie ein Betrieb ohne Erfahrung. Leistungen, Vorher-nachher-Fotos und eine Anfrage mit Foto ändern das sofort.",
+  "extra": [
+   "Vorher-nachher-Galerie, die Sie vom Handy befüllen",
+   "Anfrage mit Foto vom alten Bad",
+   "Eine Domain mit sicherer Verbindung und passender E-Mail",
+   "Seite zu barrierearmen Bädern und Zuschüssen, mit Ihnen abgestimmt"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 8000,
+   "einheit": "Auftrag",
+   "anzahl": 2,
+   "preis": 690,
+   "breakeven": 1,
+   "jahr": 16000
+  },
+  "gemessen": {
+   "load_m": 2.3,
+   "mb": 1.0,
+   "breite_m": 390,
+   "woerter": 47,
+   "titel": "Bad & Bausanierung Schuler"
+  }
+ },
+ "mauermann": {
+  "score": 15,
+  "datum": "2026-10-19",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 1560 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 25 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "titel",
+    "sev": "hoch",
+    "titel": "Google zeigt einen nichtssagenden Titel",
+    "beleg": "Seitentitel: 'home'",
+    "folge": "Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.",
+    "fix": "Titel mit Leistung und Ort, z. B. 'Ihr Betrieb in Neunkirchen | Leistung'"
+   },
+   {
+    "id": "https_redirect",
+    "sev": "mittel",
+    "titel": "Ohne 'https' eingetippt erscheint 'Nicht sicher'",
+    "beleg": "Die Adresse http://www.elektro-mauermann.de leitet nicht auf die sichere Version weiter.",
+    "folge": "Wer die Adresse von Visitenkarte oder Auto abtippt, sieht im Browser eine Warnung.",
+    "fix": "Automatische Weiterleitung auf https"
+   },
+   {
+    "id": "text",
+    "sev": "mittel",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 101 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Text kündigt noch an, dass Inhalte bald kommen.",
+   "Kein Telefon, keine Adresse, keine Leistungen.",
+   "Seitentitel 'home', Tabellen-Layout ohne Handy-Einstellung."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Bei Google mit Leistung und Ort sichtbar statt mit 'home'",
+   "Leistungen Elektro und Klima",
+   "Telefon mit einem Fingertipp"
+  ],
+  "hebel": "Klimaanlagen sind gefragt wie nie, und Kunden suchen 'Klimaanlage Neunkirchen' oder 'Elektriker Schiffweiler'. Ein Meisterbetrieb, der Elektro und Klima aus einer Hand kann, ist genau das, was sie suchen, wenn die Seite es auch zeigt.",
+  "extra": [
+   "Klima-Anfrage mit Raumgröße und Foto",
+   "Wartungserinnerung für Klimaanlagen",
+   "Google-Profil mit Leistungen und Fotos",
+   "Karriereseite für Elektroniker und Azubis"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 2500,
+   "einheit": "Auftrag",
+   "anzahl": 4,
+   "preis": 790,
+   "breakeven": 1,
+   "jahr": 10000
+  },
+  "gemessen": {
+   "load_m": 1.7,
+   "mb": 0.1,
+   "breite_m": 1560,
+   "woerter": 101,
+   "titel": "home"
+  }
  }
 }

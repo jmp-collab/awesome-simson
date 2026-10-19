@@ -1,0 +1,104 @@
+{
+ "slug": "d-g-industriemontage-gmbh",
+ "theme": "metall",
+ "name": "D&G Industriemontage GmbH",
+ "branche": "Industriemontage",
+ "addr": "Elisabethstraße 2 · 66538 Neunkirchen",
+ "tel": "06821 983150",
+ "url": "https://www.dg-ims.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Großes Projekt",
+ "visit": "Vorher anrufen und Termin mit Geschäftsführer Dirk Giebel vereinbaren",
+ "logo_a": "D&G",
+ "logo_b": "Industriemontage",
+ "nav": [
+  "Leistungen",
+  "Projekte",
+  "Karriere",
+  "Kontakt"
+ ],
+ "eyebrow": "Industriemontage aus Neunkirchen, weltweit im Einsatz",
+ "h1": "Maschinen und Anlagen. Demontiert, bewegt, montiert, in Betrieb.",
+ "lead": "Seit 2003 übernehmen wir Industrieumzüge, De- und Remontage, Umbau und Inbetriebnahme von Maschinen und Anlagen, vor allem in der Getränkeindustrie. Alles aus einer Hand, mit erfahrenen Richtmeistern.",
+ "cta1": "Projekt anfragen",
+ "cta2": "Anrufen: 06821 983150",
+ "mcta": "Anrufen",
+ "badge": [
+  "2003",
+  "gegründet in Neunkirchen"
+ ],
+ "deco": "MONTAGE",
+ "hero_img": "",
+ "trust": [
+  "<b>Seit 2003</b> in der Industriemontage",
+  "<b>Weltweit</b> im Einsatz",
+  "<b>Richtmeister</b> und Fachpersonal nach AÜG"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Industrieumzüge",
+   "Weltweite Verlagerung kompletter Produktionslinien."
+  ],
+  [
+   "Komplette Industriemontage",
+   "Mechanische Montage von Produktionslinien."
+  ],
+  [
+   "De- und Remontage",
+   "Maschinen und Anlagen fachgerecht zerlegen und aufbauen."
+  ],
+  [
+   "Umbau und Überholung",
+   "Bestehende Anlagen modernisieren."
+  ],
+  [
+   "Inbetriebnahme",
+   "Bis zur Betriebsbereitschaft, inklusive elektrischer Inbetriebnahme."
+  ],
+  [
+   "Technische Beratung",
+   "Planung im Pre- und After-Sales-Service."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Verlagerung geplant? Eckdaten schicken, wir melden uns mit einem Ablaufplan.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "alt_text": "Projektfotos und Referenzen setze ich mit Ihnen gemeinsam ein. Bei Industriekunden entscheiden echte Bilder von Baustellen und Teams.",
+ "contact": "D&G Industriemontage GmbH<br>Elisabethstraße 2<br>66538 Neunkirchen<br><br>Telefon 06821 983150<br>Mobil 0171 6960645",
+ "audit": [
+  "Im Fußbereich steht 'Copyright © 2012', auf der Startseite steht noch ein Demo-Beitrag des Vorlagen-Themes ('7-downtown-theme')",
+  "Interne Links wie Webmail, Bauleiter und Monteur stehen öffentlich in der Kopfzeile",
+  "Telefonnummern sind nicht antippbar, es gibt keine Anfrage mit Projektdaten und keine Karriereseite für Monteure"
+ ],
+ "hebel": "Einkäufer und Projektleiter prüfen Dienstleister online, bevor sie anfragen. Eine aktuelle Seite mit Referenzprojekten, Leistungen und Anfrage nach Projektdaten stärkt jedes Angebot. Dazu kommt der zweite große Hebel: Monteure und Richtmeister finden, mit einer eigenen Karriereseite.",
+ "p": [
+  "1.490 bis 2.190 €",
+  "2.190 bis 3.290 €",
+  "39 bis 79 €"
+ ],
+ "paket": "Neue Website mit Leistungen, Referenzprojekten, Anfrage mit Projektdaten, Karriereseite für Monteure, interne Links aus der Kopfzeile entfernt, deutsch und englisch",
+ "svc": [
+  "Karriereseite für Monteure und Richtmeister mit Kurzbewerbung",
+  "Referenzprojekte mit Fotos und Eckdaten",
+  "Englische Version für internationale Kunden",
+  "Anfrage mit Maschinentyp, Standort und Zeitraum"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite steht noch das Copyright 2012 und ein Demo-Beitrag der Vorlage, und die Links zu Webmail und Monteur-Bereich sind öffentlich sichtbar. Ich habe Ihnen mitgebracht, wie die Seite aussehen könnte.",
+ "obj": "'Unsere Kunden kommen über Kontakte': Genau diese Kontakte schauen vor dem nächsten Auftrag auf Ihre Seite. Und für Monteure ist die Website oft der erste Eindruck vom Arbeitgeber.",
+ "obs": [
+  "Copyright 2012 und ein Demo-Beitrag der Vorlage auf der Startseite.",
+  "Webmail, Bauleiter und Monteur öffentlich in der Kopfzeile.",
+  "Keine Karriereseite, keine Projektanfrage."
+ ],
+ "neu": [
+  "Referenzprojekte mit Eckdaten",
+  "Karriereseite für Monteure",
+  "Anfrage mit Projektdaten"
+ ]
+}
