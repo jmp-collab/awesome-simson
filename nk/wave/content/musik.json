@@ -1,0 +1,108 @@
+{
+ "slug": "fun-music-school-martin",
+ "theme": "gelato",
+ "name": "Musikwelt Neunkirchen",
+ "branche": "Musikschule",
+ "addr": "Bahnhofstraße 1b · 66538 Neunkirchen",
+ "tel": "06821 919650",
+ "url": "https://www.musikwelt-nk.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Solide Chance",
+ "visit": "Nachmittags vor dem Unterricht, vorher anrufen",
+ "logo_a": "Musikwelt",
+ "logo_b": "Neunkirchen",
+ "nav": [
+  "Unterricht",
+  "Früherziehung",
+  "Preise",
+  "Probestunde"
+ ],
+ "eyebrow": "Musikschule in Neunkirchen (Saar)",
+ "h1": "Musik lernen. In jedem Alter.",
+ "lead": "Gesang, E-Gitarre und E-Bass, klassische Gitarre, Klavier, Drums und Keyboard. Im Einzelunterricht, im Duo oder in Kleinstgruppen mit bis zu vier Kindern. Für Anfänger, Fortgeschrittene und Semiprofis.",
+ "cta1": "Probestunde anfragen",
+ "cta2": "Anrufen: 06821 919650",
+ "mcta": "Probestunde",
+ "badge": [
+  "6",
+  "Instrumente plus Gesang"
+ ],
+ "deco": "",
+ "hero_img": "img/musik_1.jpg",
+ "trust": [
+  "<b>Einzel-, Duo- und Gruppenunterricht</b>",
+  "<b>Musikalische Früherziehung</b> und Instrumentenkarussell",
+  "<b>Kostenlose Beratung</b> zur Instrumentenwahl"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Unterricht",
+ "services": [
+  [
+   "Gesang",
+   "Stimme entdecken und ausbauen."
+  ],
+  [
+   "Gitarre",
+   "E-Gitarre, E-Bass und klassische Gitarre, auch in der Gruppe."
+  ],
+  [
+   "Klavier und Keyboard",
+   "Keyboard auch im Gruppenunterricht."
+  ],
+  [
+   "Drums",
+   "Schlagzeug für Einsteiger und Fortgeschrittene."
+  ],
+  [
+   "Früherziehung",
+   "Musik für die Kleinsten."
+  ],
+  [
+   "Instrumentenkarussell",
+   "Verschiedene Instrumente ausprobieren, bevor man sich entscheidet."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [
+  "img/musik_0.jpg",
+  "img/musik_2.jpg",
+  "img/musik_3.jpg"
+ ],
+ "band": "Lust auf Musik? Die erste Stunde vereinbaren Sie mit einem Klick.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Ensembles und Workshops",
+ "alt_text": "Neben dem Unterricht spielen Schüler in Ensembles und bei Veranstaltungen mit. Dazu kommen Workshops und das Instrumentenkarussell.",
+ "contact": "Musikwelt Neunkirchen<br>Martin Wälder<br>Bahnhofstraße 1b<br>66538 Neunkirchen<br><br>Telefon 06821 919650<br>info@musikwelt-nk.de",
+ "audit": [
+  "Copyright 2017, Startseite vor allem ein YouTube-Video zu Online-Unterricht und ein großer roter Satz",
+  "Preise nur unter 'AGB / Preise' versteckt, keine Probestunde direkt buchbar",
+  "Bilder größtenteils Stockfotos, keine Lehrer, keine Räume, keine Schülerkonzerte zu sehen"
+ ],
+ "hebel": "Eltern suchen 'Gitarrenunterricht Neunkirchen' oder 'Klavierunterricht Kinder' und wollen Lehrer, Preis und einen freien Termin sehen. Eine Seite pro Instrument mit Probestunden-Anfrage füllt freie Unterrichtsplätze.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit Seite pro Instrument, Lehrerprofilen, Preisen, Probestunden-Anfrage mit Wunschzeit, Google-Profil",
+ "svc": [
+  "Probestunden-Anfrage mit Instrument, Alter und Wunschzeit",
+  "Lehrerprofile mit Foto und kurzem Video",
+  "Landingpages pro Instrument für Google",
+  "Schülerkonzerte und Workshops als Eventseite"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Wer bei Ihnen Gitarre lernen will, sieht auf der Startseite vor allem ein Video zum Online-Unterricht. Ich habe Ihnen mitgebracht, wie die Probestunde direkt im Mittelpunkt stehen könnte.",
+ "obj": "'Wir sind voll': Dann hilft die Seite bei der Warteliste und bei den Fächern, in denen noch Plätze frei sind.",
+ "obs": [
+  "Ihre Startseite zeigt vor allem ein Video zum Online-Unterricht.",
+  "Die Preise stecken unter 'AGB / Preise'.",
+  "Man sieht keine Lehrer und keine Räume, die Bilder sind Stockfotos."
+ ],
+ "neu": [
+  "Probestunde mit einem Klick anfragen",
+  "Eine Seite pro Instrument mit Lehrer",
+  "Preise und Unterrichtsformen klar erklärt"
+ ]
+}

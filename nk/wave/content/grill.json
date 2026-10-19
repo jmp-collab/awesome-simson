@@ -1,0 +1,109 @@
+{
+ "slug": "grill-au-bois",
+ "theme": "spa",
+ "name": "Grill au Bois",
+ "branche": "Steakhaus und Eventgastronomie",
+ "addr": "Zweibrücker Straße 88 · 66538 Neunkirchen",
+ "tel": "06821 89999",
+ "url": "https://grill-au-bois.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Umsatzhebel",
+ "visit": "Nachmittags zwischen Mittag- und Abendservice, vorher anrufen",
+ "logo_a": "Grill",
+ "logo_b": "au Bois",
+ "nav": [
+  "Speisekarte",
+  "Events",
+  "Brunch",
+  "Reservieren"
+ ],
+ "eyebrow": "Die Steakresidenz im Saarland",
+ "h1": "45 Jahre Grill au Bois. Steak, Feuer und Gastfreundschaft.",
+ "lead": "Dry Aged Beef aus der eigenen Reifekammer, Le Midi Parisien zur Mittagszeit, André's Brunch am Sonntag und Events von Trüffel-Dinner bis Beaujolais-Abend.",
+ "cta1": "Tisch reservieren",
+ "cta2": "Events ansehen",
+ "mcta": "Reservieren",
+ "badge": [
+  "Top 50",
+  "Steakhouses in Deutschland 2025 und 2026"
+ ],
+ "deco": "",
+ "hero_img": "img/grill_7.jpeg",
+ "trust": [
+  "<b>Top 50 Steakhouses</b> in Deutschland",
+  "<b>André's Brunch</b> sonntags 9:30 bis 14 Uhr",
+  "<b>Feiern</b>: Hochzeiten, Geburtstage, Firmenfeiern"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Erleben",
+ "services": [
+  [
+   "Steakresidenz",
+   "Steaks vom Grill, Dry Aged aus eigener Reifekammer."
+  ],
+  [
+   "Le Midi Parisien",
+   "Mittagskonzept: große Salatschüssel, wöchentlicher Hauptgang, Dessert."
+  ],
+  [
+   "André's Brunch",
+   "Sonntags von 9:30 bis 14:00 Uhr."
+  ],
+  [
+   "Events",
+   "Trüffel-Dinner, Beaujolais-Abend, Criminal Dinner und mehr."
+  ],
+  [
+   "Feiern",
+   "Hochzeiten, Geburtstage, Weihnachtsfeiern und Neujahrsempfänge."
+  ],
+  [
+   "Gutscheine und Shop",
+   "Für jede Gelegenheit, auch online."
+  ]
+ ],
+ "gal_title": "Impressionen",
+ "gallery": [
+  "img/grill_6r.jpg",
+  "img/grill_0.webp",
+  "img/grill_5.jpg",
+  "img/grill_2.webp"
+ ],
+ "band": "Ihr Tisch wartet. Mittags ab 12 Uhr, abends ab 17 Uhr.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Reservierung",
+ "alt_text": "Mittags 12:00 bis 16:30 Uhr, abends ab 17:00 Uhr. Online reservieren oder anrufen, oft findet sich doch noch ein Platz.",
+ "contact": "Grill au Bois<br>Zweibrücker Straße 88<br>66538 Neunkirchen<br><br>Telefon 06821 89999<br>info@grill-au-bois.de",
+ "audit": [
+  "Startseite mit sehr vielen Kacheln, Laufschrift 'Aktuelles' überlagert auf dem Desktop das Menü",
+  "Auf der Seite 'Über uns' steht noch der Platzhalter 'Beispielüberschrift', dazu Tippfehler ('Neujahrsemfänge', 'Geburstage')",
+  "Viele Events als einzelne Unterseiten ohne Kalender, Impressum verweist noch auf das alte TMG"
+ ],
+ "hebel": "Grill au Bois hat alles, was ein Top-Restaurant online braucht: Reservierung, Events, Shop, Gutscheine. Es fehlt die Ordnung. Ein Eventkalender mit Ticket- oder Reservierungsknopf und eine ruhige Startseite verkaufen mehr Plätze für Trüffel-Dinner, Brunch und Weihnachtsfeiern.",
+ "p": [
+  "1.990 bis 2.990 €",
+  "2.990 bis 4.490 €",
+  "79 bis 149 €"
+ ],
+ "paket": "Relaunch mit ruhiger Startseite, Eventkalender mit Reservierung, Speisekarte als echte Seite, Bereiche Feiern und Gutscheine, Anbindung des vorhandenen Reservierungsmoduls",
+ "svc": [
+  "Eventkalender mit Reservierung pro Termin und Erinnerung per Newsletter",
+  "Landingpages 'Weihnachtsfeier Neunkirchen' und 'Hochzeit Saarland'",
+  "Brunch und Mittagskonzept als eigene Seiten für Google",
+  "Gemeinsamer Auftritt mit dem Hotel am Zoo"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite hat mehr Angebote als die meisten Restaurants im Saarland, aber auf der Über-uns-Seite steht noch 'Beispielüberschrift'. Ich habe Ihnen mitgebracht, wie die Startseite ruhiger und verkaufsstärker aussehen könnte.",
+ "obj": "'Wir pflegen die Seite selbst': Prima, das bleibt so. Der neue Aufbau macht die Pflege einfacher, Events tragen Sie dann einmal in den Kalender ein.",
+ "obs": [
+  "Auf der Seite 'Über uns' steht noch 'Beispielüberschrift'.",
+  "Die Laufschrift oben überlagert auf dem Desktop das Menü.",
+  "Ihre Events sind über viele Unterseiten verteilt, ohne Kalender."
+ ],
+ "neu": [
+  "Ruhige Startseite mit Reservieren als Hauptknopf",
+  "Eventkalender mit Reservierung pro Termin",
+  "Speisekarte, Brunch und Feiern klar getrennt"
+ ]
+}

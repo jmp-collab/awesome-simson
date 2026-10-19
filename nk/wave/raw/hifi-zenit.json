@@ -1,0 +1,92 @@
+{
+ "key": "hifi-zenit",
+ "url": "https://www.hifi-zenit.de/",
+ "title": "Hifi-Zenit - Startseite",
+ "text": "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nStartseite\n \nHome Hifi\n \nCar Hifi\n \nAngebote \n \nElektrostaten \n \nService\n \nKontakt\n \nFacebook\n\nHerzlich willkommen bei Hifi Zenit, in der Welt des guten Klanges.  \n\nBei uns dreht sich alles um den guten Ton und wie Sie ihn mit uns realisieren können, völlig egal ob zu Hause (Home Hifi) oder unterwegs (Auto Hifi). Tief in der Materie verwurzelt, können Sie durch uns auf langjährige Erfahrung und umfassende technische Kompetenz zurückgreifen, um sich Ihre klanglichen Wünsche zu erfüllen.\n\nAuch die Überholung, Modernisierung und der Erhalt der klanglichen Eigenschaften aller Arten von Hifi-Geräten jeden Alters liegt uns am Herzen. Einen ganz speziellen Service-Schwerpunkt bildet dabei der Verkauf, Reparatur und Überarbeitung elektrostatischer Lautsprecher (auch Elektrostaten oder ESL genannt) wie z.B Martin Logan, Quad, Audiostatic...\n\n \n\nDa wir sehr serviceorientiert sind, nehmen wir häufig Termine bei unseren Kunden zu Hause wahr, egal ob es um Beratung oder Vorführung vor Ort geht. Wenn Sie also im Bereich der Städte Neunkirchen, Saarbrücken, Saarlouis, St. Wendel, Homburg, Zweibrücken, Kaiserslautern oder Pirmasens wohnen, können Sie uns gerne kontaktieren. Auch über die Region hinaus, können Sie natürlich unser Beratungsangebot in Anspruch nehmen.\n\n \n\nHifi Zenit\n\nMax-Braun-Str. 2\n\n66538 Neunkirchen\n\nTel.: 06821177223\n\nEmail: info(at)hifi-zenit.de\n\nÜber uns\nImpressum\nDatenschutz\nCopyright © 2016 Hifi Zenit Design & Umsetzung: Systemhaus Saarland ®",
+ "imgs": [
+  {
+   "src": "https://www.hifi-zenit.de/images/firmenportrait/hzfrontkomplett.jpg",
+   "w": 800,
+   "h": 774
+  }
+ ],
+ "bg": [
+  "https://www.hifi-zenit.de/templates/rt_xenon/images/sa/body_bg.png",
+  "https://www.hifi-zenit.de/templates/rt_xenon/images/sa/header_bg.png",
+  "https://www.hifi-zenit.de/templates/rt_xenon/images/sa/slider_bg.png",
+  "https://www.hifi-zenit.de/images/slider/startseite/cayin1.jpg",
+  "https://www.hifi-zenit.de/templates/rt_xenon/custom/images/slider/startseite/cambridge2.jpg",
+  "https://www.hifi-zenit.de/templates/rt_xenon/custom/images/slider/startseite/elac1.jpg",
+  "https://www.hifi-zenit.de/templates/rt_xenon/custom/images/slider/startseite/alpine1.jpg",
+  "https://www.hifi-zenit.de/templates/rt_xenon/custom/images/slider/startseite/gladen3.jpg",
+  "https://www.hifi-zenit.de/images/slider/startseite/martinlogan1.jpg",
+  "https://www.hifi-zenit.de/images/slider/startseite/evo1.jpg"
+ ],
+ "tel": [],
+ "mail": [],
+ "links": [
+  {
+   "t": "Startseite",
+   "h": "https://www.hifi-zenit.de/"
+  },
+  {
+   "t": "Home Hifi",
+   "h": "https://www.hifi-zenit.de/home-hifi"
+  },
+  {
+   "t": "Car Hifi",
+   "h": "https://www.hifi-zenit.de/car-hifi"
+  },
+  {
+   "t": "Back",
+   "h": "https://www.hifi-zenit.de/#"
+  },
+  {
+   "t": "Back",
+   "h": "https://www.hifi-zenit.de/#"
+  },
+  {
+   "t": "Back",
+   "h": "https://www.hifi-zenit.de/#"
+  },
+  {
+   "t": "Service",
+   "h": "https://www.hifi-zenit.de/service"
+  },
+  {
+   "t": "Kontakt",
+   "h": "https://www.hifi-zenit.de/index.php?option=com_breezingforms&ff_form=1&ff_page=1"
+  },
+  {
+   "t": "Facebook",
+   "h": "https://www.facebook.com/HifiZenit"
+  },
+  {
+   "t": "Über uns",
+   "h": "https://www.hifi-zenit.de/aboutus"
+  },
+  {
+   "t": "Impressum",
+   "h": "https://www.hifi-zenit.de/impressum"
+  },
+  {
+   "t": "Datenschutz",
+   "h": "https://www.hifi-zenit.de/datenschutz"
+  },
+  {
+   "t": "Hifi Zenit",
+   "h": "https://hifi-zenit.de/"
+  },
+  {
+   "t": "Systemhaus Saarland ®",
+   "h": "https://systemhaus.saarland/"
+  }
+ ],
+ "saved": [
+  "img/hifi-zenit_0.jpg",
+  "img/hifi-zenit_1.jpg",
+  "img/hifi-zenit_2.jpg",
+  "img/hifi-zenit_3.jpg",
+  "img/hifi-zenit_4.jpg"
+ ]
+}

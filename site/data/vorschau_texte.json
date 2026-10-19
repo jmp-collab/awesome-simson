@@ -478,5 +478,65 @@
    "Probetraining mit einem Klick anfragen",
    "Seite, die der Vorstand selbst aktuell hält"
   ]
+ },
+ "hifi": {
+  "obs": [
+   "Ihre Seite ist von 2016, oben stehen die Zahlen 1 bis 10 vom Slider als Text.",
+   "Ihr Spezialgebiet Elektrostaten steht nur in einem Satz.",
+   "Öffnungszeiten finde ich auf der Startseite nicht."
+  ],
+  "neu": [
+   "Elektrostaten-Service als eigene Seite, die bundesweit gefunden wird",
+   "Vorführtermin mit einem Klick anfragen",
+   "Home Hifi, Car Hifi und Raumakustik klar getrennt"
+  ]
+ },
+ "stein": {
+  "obs": [
+   "Bei Google und oben auf Ihrer Seite steht 'My CMS' statt Ihr Name.",
+   "Ihre Referenzen sind von 2018, die Bilder sind Blumenfotos statt Ihrer Arbeit.",
+   "Für den Winterdienst kann man nichts direkt anfragen."
+  ],
+  "neu": [
+   "Ihr Name und Ihre Leistungen bei Google",
+   "Winterdienst-Anfrage vor der Saison",
+   "Ihre echten Arbeiten als Referenzen"
+  ]
+ },
+ "stoerr": {
+  "obs": [
+   "Die Startseite nennt weder Leistungen noch Ort.",
+   "Die meisten Galerie-Bilder sind von 2015 und 2016.",
+   "Man kann keine Anfrage mit Maßen oder Foto schicken."
+  ],
+  "neu": [
+   "Haustüren, Fenster und Rollläden klar auf der Startseite",
+   "Anfrage mit Foto der alten Tür",
+   "Aktuelle Referenzen aus Neunkirchen"
+  ]
+ },
+ "grill": {
+  "obs": [
+   "Auf der Seite 'Über uns' steht noch 'Beispielüberschrift'.",
+   "Die Laufschrift oben überlagert auf dem Desktop das Menü.",
+   "Ihre Events sind über viele Unterseiten verteilt, ohne Kalender."
+  ],
+  "neu": [
+   "Ruhige Startseite mit Reservieren als Hauptknopf",
+   "Eventkalender mit Reservierung pro Termin",
+   "Speisekarte, Brunch und Feiern klar getrennt"
+  ]
+ },
+ "musik": {
+  "obs": [
+   "Ihre Startseite zeigt vor allem ein Video zum Online-Unterricht.",
+   "Die Preise stecken unter 'AGB / Preise'.",
+   "Man sieht keine Lehrer und keine Räume, die Bilder sind Stockfotos."
+  ],
+  "neu": [
+   "Probestunde mit einem Klick anfragen",
+   "Eine Seite pro Instrument mit Lehrer",
+   "Preise und Unterrichtsformen klar erklärt"
+  ]
  }
 }

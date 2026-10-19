@@ -1,0 +1,85 @@
+{
+ "key": "leibrock-karl-bauer",
+ "url": "https://www.leibrocks-hofladen.de/",
+ "title": "Einkauf auf dem Bauernhof - Leibrocks Hofladen",
+ "text": "Start\nDer Laden\nDer Bauernhof\nUnsere Backstube\nUnser Regiomat\nAktuelles\nAnfahrt\nFamilie Leibrock und ihr Team freuen sich, Sie im Hofladen und Hofcafé begrüßen zu dürfen.\nÖffnungszeiten Hofladen und Hofcafé:\n\nDonnerstag und Freitag von 14.00 Uhr bis 18.00 Uhr\n\nKontaktloses Einkaufen an unserem Regiomat täglich 24 Stunden\n\nHier wurde in den ländlichen Raum investiert! >>> mehr <<<\nUnser Regiomat\n\nZu jeder Zeit und an allen Wochentagen können Sie hier ihren Einkaufskorb füllen.\n\nFleisch und Wurst von uns – Regional is(s)t genial\nImpressumDatenschutz\n\nLeibrocks Hofladen       Eschweilerhof 22       66539 Neunkirchen       Telefon: 0 68 49 / 786       E-Mail: info@leibrocks-hofladen.de",
+ "imgs": [
+  {
+   "src": "https://www.leibrocks-hofladen.de/fileadmin/leibrocks-hofladen/images/regiomat_2022.jpg",
+   "w": 601,
+   "h": 500
+  }
+ ],
+ "bg": [
+  "https://www.leibrocks-hofladen.de/fileadmin/leibrocks-hofladen/images/header_kuhweide.jpg",
+  "https://www.leibrocks-hofladen.de/fileadmin/leibrocks-hofladen/images/menu_bg.png",
+  "https://www.leibrocks-hofladen.de/typo3conf/ext/jn_lighterbox/Resources/Public/Images/prev.png",
+  "https://www.leibrocks-hofladen.de/typo3conf/ext/jn_lighterbox/Resources/Public/Images/next.png",
+  "https://www.leibrocks-hofladen.de/typo3conf/ext/jn_lighterbox/Resources/Public/Images/loading.gif",
+  "https://www.leibrocks-hofladen.de/typo3conf/ext/jn_lighterbox/Resources/Public/Images/close.png"
+ ],
+ "tel": [
+  "tel:+496849786"
+ ],
+ "mail": [
+  "mailto:info@leibrocks-hofladen.de"
+ ],
+ "links": [
+  {
+   "t": "MENÜ",
+   "h": "https://www.leibrocks-hofladen.de/#menu"
+  },
+  {
+   "t": "Start",
+   "h": "https://www.leibrocks-hofladen.de/"
+  },
+  {
+   "t": "Der Laden",
+   "h": "https://www.leibrocks-hofladen.de/der-laden"
+  },
+  {
+   "t": "Der Bauernhof",
+   "h": "https://www.leibrocks-hofladen.de/der-bauernhof"
+  },
+  {
+   "t": "Unsere Backstube",
+   "h": "https://www.leibrocks-hofladen.de/unsere-backstube"
+  },
+  {
+   "t": "Unser Regiomat",
+   "h": "https://www.leibrocks-hofladen.de/unser-regiomat"
+  },
+  {
+   "t": "Aktuelles",
+   "h": "https://www.leibrocks-hofladen.de/aktuelles"
+  },
+  {
+   "t": "Anfahrt",
+   "h": "https://www.leibrocks-hofladen.de/anfahrt"
+  },
+  {
+   "t": "mehr",
+   "h": "https://www.leibrocks-hofladen.de/der-bauernhof#c455"
+  },
+  {
+   "t": "Impressum",
+   "h": "https://www.leibrocks-hofladen.de/impressum"
+  },
+  {
+   "t": "Datenschutz",
+   "h": "https://www.leibrocks-hofladen.de/datenschutz"
+  },
+  {
+   "t": "Telefon: 0 68 49 / 786",
+   "h": "tel:+496849786"
+  },
+  {
+   "t": "E-Mail: info@leibrocks-hofladen.de",
+   "h": "mailto:info@leibrocks-hofladen.de"
+  }
+ ],
+ "saved": [
+  "img/leibrock-karl-bauer_0.jpg",
+  "img/leibrock-karl-bauer_1.jpg"
+ ]
+}

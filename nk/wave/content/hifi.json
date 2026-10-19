@@ -1,0 +1,109 @@
+{
+ "slug": "hifi-zenit",
+ "theme": "event",
+ "name": "Hifi Zenit",
+ "branche": "Hifi- und Car-Hifi-Fachhandel",
+ "addr": "Max-Braun-Straße 2 · 66538 Neunkirchen",
+ "tel": "06821 177223",
+ "url": "https://www.hifi-zenit.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Solide Chance",
+ "visit": "Nachmittags im Laden, vorher anrufen (oft Termine beim Kunden)",
+ "logo_a": "HIFI",
+ "logo_b": "ZENIT",
+ "nav": [
+  "Home Hifi",
+  "Car Hifi",
+  "Elektrostaten",
+  "Service"
+ ],
+ "eyebrow": "Hifi und Car-Hifi in Neunkirchen, seit 1995",
+ "h1": "Guter Klang. Zu Hause und im Auto.",
+ "lead": "Beratung, Vorführung und Einmessung von Hifi-Anlagen, Car-Hifi mit Montage und ein besonderer Schwerpunkt: Verkauf, Reparatur und Überarbeitung elektrostatischer Lautsprecher wie Martin Logan, Quad und Audiostatic.",
+ "cta1": "Vorführtermin anfragen",
+ "cta2": "Anrufen: 06821 177223",
+ "mcta": "Anrufen",
+ "badge": [
+  "1995",
+  "gegründet in Neunkirchen"
+ ],
+ "deco": "",
+ "hero_img": "img/hifi-zenit_1.jpg",
+ "trust": [
+  "<b>Elektrostaten</b>: Verkauf, Reparatur, Überarbeitung",
+  "<b>Vorführung</b> im Studio und bei Ihnen zu Hause",
+  "<b>Raumakustik</b> mit Computermesssystem"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Service",
+ "services": [
+  [
+   "Beratung und Vorführung",
+   "Direkte Klangvergleiche in unseren Vorführräumen und bei Ihnen vor Ort."
+  ],
+  [
+   "Elektrostaten",
+   "Verkauf, Reparatur und Überarbeitung von ESL wie Martin Logan, Quad, Audiostatic."
+  ],
+  [
+   "Car-Hifi",
+   "Komponenten mit Heim-Hifi-Anspruch, Einbau und Einmessung im Auto."
+  ],
+  [
+   "Raumakustik",
+   "Computergestützte Messung und Beschallungskonzepte, auch für Gastronomie."
+  ],
+  [
+   "Reparatur und Klangtuning",
+   "Überholung und Modernisierung von Hifi-Geräten jeden Alters."
+  ],
+  [
+   "Für Selbstbauer",
+   "Frequenzweichen, Thiele-Small-Parameter, Messungen."
+  ]
+ ],
+ "gal_title": "Aus dem Studio",
+ "gallery": [
+  "img/hifi-zenit_2.jpg",
+  "img/hifi-zenit_3.jpg",
+  "img/hifi-zenit_4.jpg",
+  "img/hifi-zenit_0.jpg"
+ ],
+ "band": "Hören ist besser als lesen. Vereinbaren Sie eine Vorführung.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Im ganzen Südwesten",
+ "alt_text": "Beratung und Vorführung vor Ort in Neunkirchen, Saarbrücken, Saarlouis, St. Wendel, Homburg, Zweibrücken, Kaiserslautern und Pirmasens. Inzahlungnahme und Finanzierung möglich.",
+ "contact": "Hifi Zenit<br>Max-Braun-Straße 2<br>66538 Neunkirchen<br><br>Telefon 06821 177223<br>info@hifi-zenit.de",
+ "audit": [
+  "Copyright 2016, Slider zeigt Zahlen 1 bis 10 als Text vor dem Menü",
+  "Spezialität Elektrostaten (bundesweit gesucht) ist nur ein Satz im Fließtext",
+  "Keine Öffnungszeiten auf der Startseite, Kontakt nur über Formular mit Captcha"
+ ],
+ "hebel": "Reparatur und Überarbeitung von Elektrostaten ist eine echte Nische, Besitzer von Martin Logan oder Quad suchen deutschlandweit danach. Eine eigene Seite pro Marke mit Reparatur-Anfrage holt Aufträge von weit außerhalb, die Vorführtermine sichern das Geschäft vor Ort.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.690 bis 2.490 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit Bereichen Home Hifi, Car Hifi, Elektrostaten, Service, Vorführtermin-Anfrage, Öffnungszeiten, Google-Profil",
+ "svc": [
+  "Landingpages 'Martin Logan Reparatur' und 'Quad ESL Reparatur' mit Anfrage und Foto-Upload",
+  "Online-Terminanfrage für Vorführungen",
+  "Gebrauchtgeräte und Inzahlungnahmen als eigene Seite",
+  "Google-Profil mit Fotos aus dem Studio"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Elektrostaten-Reparatur ist eine Nische, nach der Leute in ganz Deutschland suchen, und bei Ihnen steht sie in einem Satz. Ich habe Ihnen mitgebracht, wie das als eigene Seite aussehen könnte.",
+ "obj": "'Unsere Kunden kommen über Empfehlung': Gut, die Empfehlung googelt Sie trotzdem. Und Elektrostaten-Besitzer außerhalb des Saarlands finden Sie heute gar nicht.",
+ "obs": [
+  "Ihre Seite ist von 2016, oben stehen die Zahlen 1 bis 10 vom Slider als Text.",
+  "Ihr Spezialgebiet Elektrostaten steht nur in einem Satz.",
+  "Öffnungszeiten finde ich auf der Startseite nicht."
+ ],
+ "neu": [
+  "Elektrostaten-Service als eigene Seite, die bundesweit gefunden wird",
+  "Vorführtermin mit einem Klick anfragen",
+  "Home Hifi, Car Hifi und Raumakustik klar getrennt"
+ ]
+}

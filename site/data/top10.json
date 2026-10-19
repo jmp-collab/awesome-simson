@@ -1270,5 +1270,165 @@
   "addr": "Sporthalle Gymnasium am Krebsberg",
   "tel": "",
   "welle": 6
+ },
+ {
+  "name": "Hifi Zenit",
+  "branche": "Hifi- und Car-Hifi-Fachhandel",
+  "url": "https://www.hifi-zenit.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Nachmittags im Laden, vorher anrufen (oft Termine beim Kunden)",
+  "audit": [
+   "Copyright 2016, Slider zeigt Zahlen 1 bis 10 als Text vor dem Menü",
+   "Spezialität Elektrostaten (bundesweit gesucht) ist nur ein Satz im Fließtext",
+   "Keine Öffnungszeiten auf der Startseite, Kontakt nur über Formular mit Captcha"
+  ],
+  "hebel": "Reparatur und Überarbeitung von Elektrostaten ist eine echte Nische, Besitzer von Martin Logan oder Quad suchen deutschlandweit danach. Eine eigene Seite pro Marke mit Reparatur-Anfrage holt Aufträge von weit außerhalb, die Vorführtermine sichern das Geschäft vor Ort.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.690 bis 2.490 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Neue Website mit Bereichen Home Hifi, Car Hifi, Elektrostaten, Service, Vorführtermin-Anfrage, Öffnungszeiten, Google-Profil",
+  "svc": [
+   "Landingpages 'Martin Logan Reparatur' und 'Quad ESL Reparatur' mit Anfrage und Foto-Upload",
+   "Online-Terminanfrage für Vorführungen",
+   "Gebrauchtgeräte und Inzahlungnahmen als eigene Seite",
+   "Google-Profil mit Fotos aus dem Studio"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Elektrostaten-Reparatur ist eine Nische, nach der Leute in ganz Deutschland suchen, und bei Ihnen steht sie in einem Satz. Ich habe Ihnen mitgebracht, wie das als eigene Seite aussehen könnte.",
+  "obj": "'Unsere Kunden kommen über Empfehlung': Gut, die Empfehlung googelt Sie trotzdem. Und Elektrostaten-Besitzer außerhalb des Saarlands finden Sie heute gar nicht.",
+  "k": "hifi",
+  "addr": "Max-Braun-Straße 2",
+  "tel": "06821 177223",
+  "welle": 7
+ },
+ {
+  "name": "Sven Stein Garten-, Haus- und Hofservice",
+  "branche": "Gartenpflege, Winterdienst, Hausmeisterservice",
+  "url": "https://garten-haus-und-hof-stein.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Abends oder per Anruf, Einzelunternehmer ist tagsüber beim Kunden",
+  "audit": [
+   "Seitentitel und Logo-Text lauten 'My CMS', so erscheint die Seite auch bei Google",
+   "Copyright 2015, letzte Referenzen von März 2018, Stockfotos von Blumen statt eigener Arbeiten",
+   "Tippfehler auf der Startseite ('Abgebot', 'Bedürnisse'), keine Anfrage für Winterdienst"
+  ],
+  "hebel": "Es ist Oktober: Hauseigentümer und Hausverwaltungen suchen jetzt 'Winterdienst Neunkirchen', um die Räumpflicht abzugeben. Eine Seite mit Winterdienst-Anfrage und echten Fotos bringt Saisonverträge, die sich jeden Winter wiederholen.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 €"
+  ],
+  "paket": "Neue Website mit Leistungsseiten, Winterdienst-Anfrage (Adresse, Fläche), Referenzen mit eigenen Fotos, richtiger Seitentitel, Google-Profil",
+  "svc": [
+   "Winterdienst-Anfrage mit Adresse und Flächengröße, ideal vor der Saison",
+   "Landingpages 'Winterdienst Neunkirchen' und 'Gartenpflege Neunkirchen'",
+   "Referenzen mit Vorher-Nachher-Fotos vom Handy",
+   "Google-Profil, Bewertungen nach jedem Auftrag anfragen"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Bei Google steht über Ihrer Seite 'My CMS', das ist ein Platzhalter vom Baukasten. Ich habe Ihnen mitgebracht, wie Ihre Seite pünktlich zur Winterdienst-Saison aussehen könnte.",
+  "obj": "'Ich hab genug Arbeit': Dann sorgt die Seite für die besseren Aufträge, also feste Winterdienst- und Pflegeverträge statt einzelner Anrufe.",
+  "k": "stein",
+  "addr": "Narzissenweg 20",
+  "tel": "06821 9148107",
+  "welle": 7
+ },
+ {
+  "name": "Rollladen Störr",
+  "branche": "Fenster, Haustüren und Rollläden",
+  "url": "https://www.stoerr-fenster.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Nach den Betriebsferien (ab 20.10.), vormittags in der Ausstellung",
+  "audit": [
+   "Startseite mit allgemeinem Text ohne Leistungen, Ort oder Hersteller",
+   "Galerie-Bilder überwiegend aus 2015 und 2016, Katalog nur als Link zu einem Herstellerkatalog",
+   "Keine Anfrage mit Maßen oder Foto, keine Öffnungszeiten der Ausstellung"
+  ],
+  "hebel": "Haustür und Fenster sind Ausgaben im vierstelligen Bereich, Kunden vergleichen lange online. Echte Vorher-Nachher-Fotos aus Neunkirchen und eine Anfrage mit Foto der alten Tür bringen qualifizierte Beratungstermine.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.290 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Neue Website mit Produktseiten (Haustüren, Fenster, Rollläden, Antriebe), Referenzen, Anfrage mit Foto-Upload, Google-Profil",
+  "svc": [
+   "Anfrage 'Foto der alten Tür hochladen' für schnelle Angebote",
+   "Landingpage 'Haustür Neunkirchen' mit Referenzen aus der Region",
+   "Seite zu Förderung und Einbruchschutz",
+   "Google-Profil mit Fotos jeder Montage"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Galerie zeigt schöne Haustüren, aber die Startseite sagt kaum, was Sie anbieten. Ich habe Ihnen mitgebracht, wie das klarer aussehen könnte.",
+  "obj": "'Wir haben eine Agentur': Dann nehmen Sie den Entwurf als Vergleich mit. Wichtig ist, dass Kunden auf dem Handy sofort sehen, was Sie machen.",
+  "k": "stoerr",
+  "addr": "Schillerstraße 45c",
+  "tel": "06821 51700",
+  "welle": 7
+ },
+ {
+  "name": "Grill au Bois",
+  "branche": "Steakhaus und Eventgastronomie",
+  "url": "https://grill-au-bois.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Umsatzhebel",
+  "visit": "Nachmittags zwischen Mittag- und Abendservice, vorher anrufen",
+  "audit": [
+   "Startseite mit sehr vielen Kacheln, Laufschrift 'Aktuelles' überlagert auf dem Desktop das Menü",
+   "Auf der Seite 'Über uns' steht noch der Platzhalter 'Beispielüberschrift', dazu Tippfehler ('Neujahrsemfänge', 'Geburstage')",
+   "Viele Events als einzelne Unterseiten ohne Kalender, Impressum verweist noch auf das alte TMG"
+  ],
+  "hebel": "Grill au Bois hat alles, was ein Top-Restaurant online braucht: Reservierung, Events, Shop, Gutscheine. Es fehlt die Ordnung. Ein Eventkalender mit Ticket- oder Reservierungsknopf und eine ruhige Startseite verkaufen mehr Plätze für Trüffel-Dinner, Brunch und Weihnachtsfeiern.",
+  "p": [
+   "1.990 bis 2.990 €",
+   "2.990 bis 4.490 €",
+   "79 bis 149 €"
+  ],
+  "paket": "Relaunch mit ruhiger Startseite, Eventkalender mit Reservierung, Speisekarte als echte Seite, Bereiche Feiern und Gutscheine, Anbindung des vorhandenen Reservierungsmoduls",
+  "svc": [
+   "Eventkalender mit Reservierung pro Termin und Erinnerung per Newsletter",
+   "Landingpages 'Weihnachtsfeier Neunkirchen' und 'Hochzeit Saarland'",
+   "Brunch und Mittagskonzept als eigene Seiten für Google",
+   "Gemeinsamer Auftritt mit dem Hotel am Zoo"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite hat mehr Angebote als die meisten Restaurants im Saarland, aber auf der Über-uns-Seite steht noch 'Beispielüberschrift'. Ich habe Ihnen mitgebracht, wie die Startseite ruhiger und verkaufsstärker aussehen könnte.",
+  "obj": "'Wir pflegen die Seite selbst': Prima, das bleibt so. Der neue Aufbau macht die Pflege einfacher, Events tragen Sie dann einmal in den Kalender ein.",
+  "k": "grill",
+  "addr": "Zweibrücker Straße 88",
+  "tel": "06821 89999",
+  "welle": 7
+ },
+ {
+  "name": "Musikwelt Neunkirchen",
+  "branche": "Musikschule",
+  "url": "https://www.musikwelt-nk.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Nachmittags vor dem Unterricht, vorher anrufen",
+  "audit": [
+   "Copyright 2017, Startseite vor allem ein YouTube-Video zu Online-Unterricht und ein großer roter Satz",
+   "Preise nur unter 'AGB / Preise' versteckt, keine Probestunde direkt buchbar",
+   "Bilder größtenteils Stockfotos, keine Lehrer, keine Räume, keine Schülerkonzerte zu sehen"
+  ],
+  "hebel": "Eltern suchen 'Gitarrenunterricht Neunkirchen' oder 'Klavierunterricht Kinder' und wollen Lehrer, Preis und einen freien Termin sehen. Eine Seite pro Instrument mit Probestunden-Anfrage füllt freie Unterrichtsplätze.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Neue Website mit Seite pro Instrument, Lehrerprofilen, Preisen, Probestunden-Anfrage mit Wunschzeit, Google-Profil",
+  "svc": [
+   "Probestunden-Anfrage mit Instrument, Alter und Wunschzeit",
+   "Lehrerprofile mit Foto und kurzem Video",
+   "Landingpages pro Instrument für Google",
+   "Schülerkonzerte und Workshops als Eventseite"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Wer bei Ihnen Gitarre lernen will, sieht auf der Startseite vor allem ein Video zum Online-Unterricht. Ich habe Ihnen mitgebracht, wie die Probestunde direkt im Mittelpunkt stehen könnte.",
+  "obj": "'Wir sind voll': Dann hilft die Seite bei der Warteliste und bei den Fächern, in denen noch Plätze frei sind.",
+  "k": "musik",
+  "addr": "Bahnhofstraße 1b",
+  "tel": "06821 919650",
+  "welle": 7
  }
 ]
