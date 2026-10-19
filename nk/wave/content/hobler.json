@@ -1,0 +1,111 @@
+{
+ "slug": "elektro-hobler-ug-haftungsbeschr-nkt-ele",
+ "theme": "metall",
+ "name": "Elektro Hobler UG",
+ "branche": "Elektroinstallation / Elektriker",
+ "addr": "Martin-Luther-Straße 19 · 66540 Neunkirchen-Wiebelskirchen",
+ "tel": "06821 952063",
+ "url": "https://www.elektro-hobler.de",
+ "g": "4,3 ★ (17)",
+ "label": "Quick Win",
+ "visit": "Morgens zwischen 7 und 9 Uhr (Büro Mo bis Fr 6 bis 13 Uhr erreichbar)",
+ "logo_a": "Elektro",
+ "logo_b": "Hobler",
+ "nav": [
+  "Leistungen",
+  "DGUV V3",
+  "Ausbildung",
+  "Kontakt"
+ ],
+ "eyebrow": "Elektroinstallation in Wiebelskirchen, seit 1988",
+ "h1": "Strom, Netzwerk und Prüfung vom Fachbetrieb.",
+ "lead": "Elektroanlagen für Privatkunden, Gewerbe und Industrie: Beratung, Planung, Ausführung und Kundendienst aus Wiebelskirchen.",
+ "cta1": "Anrufen: 06821 952063",
+ "cta2": "Leistungen ansehen",
+ "mcta": "Anrufen",
+ "badge": [
+  "1988",
+  "gegründet in Wiebelskirchen"
+ ],
+ "deco": "STROM",
+ "hero_img": "",
+ "trust": [
+  "<b>Seit 1988</b> in Wiebelskirchen",
+  "<b>Prüfung nach DGUV V3</b> für Betriebe",
+  "<b>Mo bis Fr</b> 6 bis 13 Uhr erreichbar"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Elektroinstallation",
+   "Neue Anlagen und Erweiterungen für Haus, Gewerbe und Industrie."
+  ],
+  [
+   "Prüfung nach DGUV V3",
+   "Geräte- und Anlagenprüfung für Betriebe, mit Prüfprotokoll."
+  ],
+  [
+   "Gebäudesystemtechnik",
+   "Intelligente Steuerung von Licht, Rollläden und Heizung."
+  ],
+  [
+   "Netzwerke und EDV",
+   "Netzwerkverkabelung für Büro und Betrieb."
+  ],
+  [
+   "Antennen- und Sat-Anlagen",
+   "Empfangstechnik und Kommunikationstechnik."
+  ],
+  [
+   "Licht-, Kraft- und Schaltanlagen",
+   "Industrieanlagen und Schaltschränke."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Elektriker gesucht? Rufen Sie uns an.",
+ "hours": [
+  [
+   "Montag bis Freitag",
+   "6:00 bis 13:00 Uhr telefonisch"
+  ],
+  [
+   "Termine",
+   "nach Vereinbarung"
+  ]
+ ],
+ "pill": "",
+ "contact": "Elektro Hobler UG<br>Martin-Luther-Straße 19<br>66540 Neunkirchen-Wiebelskirchen<br><br>Telefon 06821 952063<br>info@elektro-hobler.de",
+ "audit": [
+  "Baukasten-Seite von 2013, nicht für Smartphones angepasst",
+  "Startseite ohne Bilder, Leistungen nur als Liste auf einer Unterseite",
+  "DGUV-V3-Prüfung für Betriebe, ein lukratives Wiederholgeschäft, ist kaum sichtbar"
+ ],
+ "hebel": "DGUV-V3-Prüfungen sind Pflicht für jeden Betrieb und wiederkehrend. Eine eigene Seite 'DGUV V3 Prüfung Neunkirchen' mit Anfrageformular bringt planbare Firmenkunden. Dazu Ausbildungsplätze, die Bewerber online suchen.",
+ "p": [
+  "690 bis 990 €",
+  "1.190 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Website mit Leistungsseiten, eigener DGUV-V3-Seite mit Anfrage für Betriebe, Ausbildungsseite, Google-Profil",
+ "svc": [
+  "DGUV-V3-Landingpage plus Anschreiben an Betriebe der Umgebung (Brief, rechtssicher)",
+  "Google-Profil mit Leistungen und Fotos, Bewertungs-QR auf der Rechnung",
+  "Ausbildungsseite mit Google-Jobdaten und Posts für Azubis",
+  "Firmeneinträge in Branchenverzeichnissen vereinheitlichen"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Sie prüfen Geräte nach DGUV V3, das muss jeder Betrieb regelmäßig machen lassen. Auf Ihrer Seite findet man das kaum. Ich hab Ihnen mitgebracht, wie das aussehen könnte.",
+ "obj": "'Wir haben keine Zeit für Internet': Die Seite ist nach der Abnahme fertig. Änderungen schicken Sie mir per WhatsApp, den Rest mache ich in der Betreuung.",
+ "obs": [
+  "Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.",
+  "Die Startseite zeigt kaum etwas von Ihrer Arbeit, Leistungen stehen nur auf einer Unterseite.",
+  "Ihre Prüfung nach DGUV V3 für Betriebe ist kaum zu finden."
+ ],
+ "neu": [
+  "Ihre Leistungen klar sortiert, Anruf mit einem Fingertipp",
+  "Eine eigene Seite zur DGUV-V3-Prüfung mit Anfrage für Betriebe",
+  "Eine Ausbildungsseite für neue Azubis"
+ ]
+}

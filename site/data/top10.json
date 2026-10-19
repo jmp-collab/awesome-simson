@@ -471,5 +471,165 @@
   "addr": "Eichendorffstraße 4",
   "tel": "06821 51362",
   "welle": 1
+ },
+ {
+  "name": "Ratzky GmbH Bedachungen",
+  "branche": "Dachdecker / Bedachungen",
+  "url": "https://www.ratzkygmbh.de",
+  "g": "4,1 ★ (14)",
+  "label": "Quick Win",
+  "visit": "Früh morgens 7 bis 8 Uhr oder vorher anrufen, Dachdecker sind tagsüber auf der Baustelle",
+  "audit": [
+   "Nicht für Smartphones angepasst, laut Server zuletzt 2019 geändert",
+   "Die Seite 'Unternehmen' zeigt nur 'In Bearbeitung'",
+   "Starke Vorher/Nachher-Fotos vorhanden, aber nur als kleine Bilder auf einer Unterseite"
+  ],
+  "hebel": "Dachdecker werden über Leistung plus Ort gesucht ('Dachdecker Neunkirchen', 'Flachdach abdichten Saarland') und immer öfter wegen Solar und Dämmung. Leistungsseiten mit den vorhandenen Vorher/Nachher-Fotos und eine Anfrage mit Foto-Upload bringen vorqualifizierte Aufträge. Dazu hilft die Seite beim Thema Fachkräfte.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.290 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Website mit Leistungsseiten (Steildach, Flachdach, Dämmung, Solar), Referenzgalerie, Dach-Check-Formular mit Foto, Karriereseite, Google-Profil",
+  "svc": [
+   "Karriereseite mit Google-Jobdaten für Dachdecker und Azubis, dazu Social-Recruiting-Posts",
+   "Google-Profil mit Baustellenfotos, Bewertung nach jedem Auftrag per QR auf der Rechnung",
+   "Ratgeberseiten zu Förderung von Dachsanierung und Solar als Suchtreffer",
+   "Herstellerpartner-Links (Hersteller-Fachbetriebsverzeichnisse) als Backlinks"
+  ],
+  "open": "Herr Ratzky, ich bin Jean, Webdesigner aus Neunkirchen. Ihre Vorher/Nachher-Fotos sind richtig gut, aber auf Ihrer Seite steht bei 'Unternehmen' noch 'In Bearbeitung'. Ich hab Ihnen mitgebracht, wie Ihre Seite mit genau diesen Fotos aussehen könnte.",
+  "obj": "'Wir haben Arbeit genug': Dann hilft die Seite vor allem bei Bewerbern. Fachkräfte schauen sich die Website an, bevor sie anrufen.",
+  "k": "ratzky",
+  "addr": "Sebachstraße 23",
+  "tel": "06821 93010",
+  "welle": 2
+ },
+ {
+  "name": "HIGH VOLTAGE Veranstaltungstechnik",
+  "branche": "Veranstaltungstechnik / Bühnen-, Ton-, Licht- und Videotechnik",
+  "url": "https://www.hvoltage.de",
+  "g": "4,8 ★ (4)",
+  "label": "Quick Win",
+  "visit": "Vorher anrufen, Lager und Büro sind nicht immer besetzt (Veranstaltungen oft abends und am Wochenende)",
+  "audit": [
+   "Nicht für Smartphones angepasst, Leistungen nur als Stichworte ohne Bilder",
+   "Kein Anfrageformular mit Datum, Ort und Gästezahl, kein Mietkatalog mit Preisen",
+   "Inhaberwechsel ('Neuer Inhaber: Michael Gard') nur auf der Kontaktseite erwähnt"
+  ],
+  "hebel": "Veranstaltungstechnik wird mit Datum im Kopf gesucht ('Bühne mieten Saarland', 'PA mieten Neunkirchen'). Ein Mietkatalog mit Paketpreisen und eine Anfrage mit Datum bringen planbare Dry-Hire-Umsätze, die heute an Verleihportale gehen.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.690 bis 2.490 €",
+   "39 bis 99 €"
+  ],
+  "paket": "Website mit Leistungs- und Equipment-Seiten, Mietpaketen (z. B. Party-PA, Licht-Set, Bühne mit Dach), Anfrageformular mit Datum, Referenz-Galerie",
+  "svc": [
+   "Instagram und TikTok mit Kurzvideos vom Aufbau und den Shows",
+   "Mietpakete als Google-Produkte im Unternehmensprofil",
+   "Referenzseiten pro Event-Location als Suchtreffer ('Technik für Hochzeit in ...')",
+   "Kooperationslinks mit Locations, DJs und Bands der Region"
+  ],
+  "open": "Herr Gard, ich bin Jean, Webdesigner aus Neunkirchen. Sie machen Technik für Bühnen in der ganzen Region, aber Ihre Website zeigt davon kaum Bilder. Ich hab Ihnen mitgebracht, wie sie aussehen könnte, mit Mietpaketen und Anfrage nach Datum.",
+  "obj": "'Unsere Kunden kommen über Empfehlung': Die großen ja. Dry Hire und kleine Feiern werden gegoogelt. Genau diese Anfragen gehen heute an Verleihportale.",
+  "k": "hvoltage",
+  "addr": "An der Alten Ziegelei 25",
+  "tel": "06821 983161",
+  "welle": 2
+ },
+ {
+  "name": "Elektro Hobler UG",
+  "branche": "Elektroinstallation / Elektriker",
+  "url": "https://www.elektro-hobler.de",
+  "g": "4,3 ★ (17)",
+  "label": "Quick Win",
+  "visit": "Morgens zwischen 7 und 9 Uhr (Büro Mo bis Fr 6 bis 13 Uhr erreichbar)",
+  "audit": [
+   "Baukasten-Seite von 2013, nicht für Smartphones angepasst",
+   "Startseite ohne Bilder, Leistungen nur als Liste auf einer Unterseite",
+   "DGUV-V3-Prüfung für Betriebe, ein lukratives Wiederholgeschäft, ist kaum sichtbar"
+  ],
+  "hebel": "DGUV-V3-Prüfungen sind Pflicht für jeden Betrieb und wiederkehrend. Eine eigene Seite 'DGUV V3 Prüfung Neunkirchen' mit Anfrageformular bringt planbare Firmenkunden. Dazu Ausbildungsplätze, die Bewerber online suchen.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Website mit Leistungsseiten, eigener DGUV-V3-Seite mit Anfrage für Betriebe, Ausbildungsseite, Google-Profil",
+  "svc": [
+   "DGUV-V3-Landingpage plus Anschreiben an Betriebe der Umgebung (Brief, rechtssicher)",
+   "Google-Profil mit Leistungen und Fotos, Bewertungs-QR auf der Rechnung",
+   "Ausbildungsseite mit Google-Jobdaten und Posts für Azubis",
+   "Firmeneinträge in Branchenverzeichnissen vereinheitlichen"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Sie prüfen Geräte nach DGUV V3, das muss jeder Betrieb regelmäßig machen lassen. Auf Ihrer Seite findet man das kaum. Ich hab Ihnen mitgebracht, wie das aussehen könnte.",
+  "obj": "'Wir haben keine Zeit für Internet': Die Seite ist nach der Abnahme fertig. Änderungen schicken Sie mir per WhatsApp, den Rest mache ich in der Betreuung.",
+  "k": "hobler",
+  "addr": "Martin-Luther-Straße 19",
+  "tel": "06821 952063",
+  "welle": 2
+ },
+ {
+  "name": "Asia Haus Thaimassage",
+  "branche": "Traditionelle Thai-Massage",
+  "url": "https://www.thaimassage-asiahaus.de",
+  "g": "4,7 ★ (125)",
+  "label": "Quick Win",
+  "visit": "Vormittags gegen 9 Uhr zur Öffnung, vorher kurz anrufen",
+  "audit": [
+   "Auf dem Handy breiter als der Bildschirm",
+   "Die Startseite besteht vor allem aus Hinweisen (unterdrückte Nummern, keine Erotik, keine EC-Zahlung) statt aus dem Angebot",
+   "125 Bewertungen mit 4,7 Sternen kommen auf der Website nicht vor"
+  ],
+  "hebel": "Die Startseite wehrt heute vor allem falsche Anrufer ab. Eine klar positionierte Seite ('Traditionelle Thai-Massage') mit Preisen und Terminanfrage filtert die falschen Anfragen automatisch, spart Telefonzeit und zeigt den guten Ruf. Gutscheine online sind vor Weihnachten ein schneller Zusatzumsatz.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.690 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Onepager mit Massagen und Preisen, Terminanfrage-Formular (Wunschzeit, Massage, Dauer), Gutschein-Bereich, Google-Profil mit Fotos und Preisen",
+  "svc": [
+   "Gutscheine online verkaufen (Weihnachten, Muttertag, Valentinstag)",
+   "Terminanfrage per Formular statt Telefon, mit Rückruf",
+   "Google-Profil: Leistungen mit Preisen, Antworten auf Bewertungen mit KI-Vorlagen",
+   "Seite zusätzlich auf Thai und Englisch"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Sie haben 4,7 Sterne bei 125 Bewertungen, aber auf Ihrer Startseite stehen vor allem Hinweise und Verbote. Ich hab Ihnen mitgebracht, wie eine ruhige, klare Seite für Ihr Studio aussehen könnte.",
+  "obj": "'Wir haben genug Anrufe': Genau deshalb. Mit Preisen, Zeiten und einer Terminanfrage auf der Seite kommen weniger unnötige Anrufe und mehr echte Termine.",
+  "k": "asiahaus",
+  "addr": "Kuchenbergstraße 109",
+  "tel": "01590 6636103",
+  "welle": 2
+ },
+ {
+  "name": "Hair-Design-Cosmetic Koble",
+  "branche": "Friseur / Kosmetik",
+  "url": "https://www.koble-hair.de",
+  "g": "4,3 ★ (6)",
+  "label": "Quick Win",
+  "visit": "Dienstag bis Freitag vormittags, nicht samstags",
+  "audit": [
+   "Nicht für Smartphones angepasst, Leistungen nur per 'anzeigen'-Klick sichtbar",
+   "Eine Familiengeschichte seit 1931 mit Landesmeistern und Weltpokalsieger steht versteckt auf der Unterseite 'Chronik'",
+   "Keine Online-Terminanfrage, kein Instagram, nur 6 Google-Bewertungen"
+  ],
+  "hebel": "Ein Salon mit 90 Jahren Familiengeschichte und Make-up-Meistertitel hat eine Geschichte, die kein Kettensalon hat. Auf der Startseite erzählt, mit Online-Terminanfrage und Brautstyling als eigenem Angebot, holt das neue Kundinnen aus dem Umland.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.690 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Website mit Leistungen und Preisen, Geschichte seit 1931, Online-Terminanfrage, Seite Braut-Make-up und Styling, Google-Profil",
+  "svc": [
+   "Braut- und Event-Styling als eigene Seite (hoher Warenkorb, gut über Google zu finden)",
+   "Instagram mit Vorher/Nachher-Frisuren, 2 Beiträge pro Woche",
+   "Bewertungs-QR am Spiegel, Ziel 50 Bewertungen im ersten Jahr",
+   "Gutscheine online, vor allem zu Weihnachten und Muttertag"
+  ],
+  "open": "Frau Koble-Tassone, ich bin Jean, Webdesigner aus Neunkirchen. Ihre Familie macht seit 1931 Friseurhandwerk, mit Landesmeistern und Weltpokal. Auf Ihrer Website findet man das kaum. Ich hab Ihnen mitgebracht, wie man das erzählen könnte.",
+  "obj": "'Meine Kundinnen kennen mich': Die Stammkundinnen ja. Bräute und Neukundinnen suchen online und vergleichen. Mit Ihrer Geschichte gewinnen Sie diesen Vergleich.",
+  "k": "koble",
+  "addr": "Kuchenbergstraße 1",
+  "tel": "06821 9838460",
+  "welle": 2
  }
 ]

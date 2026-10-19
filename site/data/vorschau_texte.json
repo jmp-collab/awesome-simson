@@ -178,5 +178,65 @@
    "Qualifikationen und Erfahrung gut sichtbar ganz oben",
    "Anfrage mit Foto-Upload, damit Sie vorher wissen, worum es geht"
   ]
+ },
+ "ratzky": {
+  "obs": [
+   "Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.",
+   "Die Seite 'Unternehmen' zeigt derzeit nur den Hinweis 'In Bearbeitung'.",
+   "Ihre Vorher/Nachher-Fotos sind stark, auf der Startseite aber nicht zu sehen."
+  ],
+  "neu": [
+   "Ihre Baustellenfotos groß im Mittelpunkt",
+   "Eigene Seiten für Steildach, Flachdach, Dämmung und Solar",
+   "Dach-Check-Anfrage mit Foto-Upload und eine Karriereseite für neue Mitarbeiter"
+  ]
+ },
+ "hvoltage": {
+  "obs": [
+   "Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.",
+   "Ihre Leistungen stehen nur als Stichworte da, Bilder Ihrer Events fehlen.",
+   "Es gibt keine Anfrage mit Datum, Ort und Gästezahl und keine Mietpakete."
+  ],
+  "neu": [
+   "Ihre Events in großen Bildern",
+   "Mietpakete für Ton, Licht und Bühne mit klarer Anfrage",
+   "Anfrageformular mit Datum, Ort und Gästezahl"
+  ]
+ },
+ "hobler": {
+  "obs": [
+   "Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.",
+   "Die Startseite zeigt kaum etwas von Ihrer Arbeit, Leistungen stehen nur auf einer Unterseite.",
+   "Ihre Prüfung nach DGUV V3 für Betriebe ist kaum zu finden."
+  ],
+  "neu": [
+   "Ihre Leistungen klar sortiert, Anruf mit einem Fingertipp",
+   "Eine eigene Seite zur DGUV-V3-Prüfung mit Anfrage für Betriebe",
+   "Eine Ausbildungsseite für neue Azubis"
+  ]
+ },
+ "asiahaus": {
+  "obs": [
+   "Auf dem Handy ist Ihre Seite breiter als der Bildschirm. Man muss seitlich wischen, um alles zu sehen.",
+   "Auf der Startseite stehen vor allem Hinweise, Ihr Angebot und Ihre Preise kommen erst weiter hinten.",
+   "Ihre 125 Google-Bewertungen mit 4,7 Sternen sieht auf der Website niemand."
+  ],
+  "neu": [
+   "Eine ruhige Startseite mit Ihren Massagen und Preisen",
+   "Terminanfrage mit Wunschzeit und Massage",
+   "Gutscheine als eigener Bereich, ideal vor Weihnachten"
+  ]
+ },
+ "koble": {
+  "obs": [
+   "Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.",
+   "Ihre Familiengeschichte seit 1931 steht nur auf einer Unterseite.",
+   "Einen Termin kann man online nicht anfragen."
+  ],
+  "neu": [
+   "Ihre Geschichte seit 1931 auf der Startseite",
+   "Leistungen und Preise auf einen Blick, auch am Handy",
+   "Online-Terminanfrage und eine eigene Seite für Braut-Make-up"
+  ]
  }
 }

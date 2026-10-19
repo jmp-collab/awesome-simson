@@ -27,6 +27,12 @@ THEMES = {
  "praxis": dict(fontlink="Outfit:wght@500;700;800&family=Atkinson+Hyperlegible:wght@400;700", body="'Atkinson Hyperlegible',sans-serif",
    bg="#f3f8f7", ink="#13302c", mut="#4f6a66", acc="#0f8b74", acc_ink="#fff", hero="#13302c", hero_ink="#ffffff", card="#ffffff", line="#d7e7e3",
    logo="800 24px Outfit", h1="800 56px/1.04 Outfit", h1m="38px", h2="800 32px Outfit", badge="800 34px Outfit", deco="800 260px Outfit", radius="12px"),
+ "event": dict(fontlink="Unbounded:wght@600;800&family=Inter:wght@400;500;700", body="Inter,sans-serif",
+   bg="#0e0e14", ink="#f1effa", mut="#a4a1b8", acc="#b06cff", acc_ink="#0e0e14", hero="#07070b", hero_ink="#ffffff", card="#171722", line="#2a2a3a",
+   logo="800 22px Unbounded", h1="800 52px/1.05 Unbounded", h1m="34px", h2="800 30px Unbounded", badge="800 32px Unbounded", deco="800 240px Unbounded", radius="8px"),
+ "spa": dict(fontlink="Marcellus&family=Nunito+Sans:wght@400;600;800", body="'Nunito Sans',sans-serif",
+   bg="#f7f3ea", ink="#25321f", mut="#6a7462", acc="#a8742a", acc_ink="#fff", hero="#25321f", hero_ink="#f7f3ea", card="#fffdf8", line="#e6dfcf",
+   logo="400 26px Marcellus", h1="400 56px/1.05 Marcellus", h1m="38px", h2="400 34px Marcellus", badge="400 34px Marcellus", deco="400 240px Marcellus", radius="999px"),
 }
 TPL = Template(open(f"{B}/wave/mock_tpl.html", encoding="utf-8").read())
 

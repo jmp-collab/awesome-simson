@@ -1,0 +1,34 @@
+{
+ "key": "regitz-kreativdesign",
+ "url": "https://www.regitz-creativ-design.de/",
+ "title": "Index Regitz-Creativ-Design",
+ "text": "\n\n\n\n\t\n\nDATENSCHUTZERKLÄRUNG\n\nMit klick auf unser Firmenlogo links, betreten sie unsere Seite\nund erklären damit auch, die Datenschutzerklärung gelesen und verstanden zu haben!\n\nOptimal ab einer Auflösung von 1024 x 768!",
+ "imgs": [
+  {
+   "src": "https://www.regitz-creativ-design.de/pics/Startbild.gif",
+   "w": 390,
+   "h": 600
+  },
+  {
+   "src": "https://www.regitz-creativ-design.de/pics/Startbild_2.gif",
+   "w": 390,
+   "h": 600
+  }
+ ],
+ "bg": [
+  "https://www.regitz-creativ-design.de/pics/Hintergrund_2a.gif"
+ ],
+ "tel": [],
+ "mail": [],
+ "links": [
+  {
+   "t": "DATENSCHUTZERKLÄRUNG",
+   "h": "https://www.regitz-creativ-design.de/Datenschutzerklaerung.html"
+  }
+ ],
+ "saved": [
+  "img/regitz-kreativdesign_0.gif",
+  "img/regitz-kreativdesign_1.gif",
+  "img/regitz-kreativdesign_2.gif"
+ ]
+}

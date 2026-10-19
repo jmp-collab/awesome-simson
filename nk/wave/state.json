@@ -1,21 +1,9 @@
 {
  "queue": [
-  "l-a-nails-nagelstudio",
-  "nieland-julia-pasta",
-  "aqua-bar-lounge-club",
-  "schreiner-barbara-fotostudio",
-  "aktiv-gesundheitspark",
-  "ratzky-gmbh-bedachungen",
-  "high-voltage",
   "r-mpel-alf",
-  "sascha-kieczewsky-planungsb-ro",
-  "reitverein-neunkirchen-city",
   "regitz-kreativdesign",
   "horst-sehte-gmbh",
-  "elektro-hobler-ug-haftungsbeschr-nkt-ele",
   "vsv-hochbau-gmbh",
-  "asia-haus-thaimassagen",
-  "koble-tassone-jeannine-friseur",
   "schneider-birgit-musikunterricht",
   "divna-medizinische-fu-pflege",
   "orthop-die-lattrich-gmbh-wolfgang",
@@ -294,16 +282,25 @@
   "didi-hermann-zeichen-und-b-robedarf",
   "mdm-metalldesignm-ller-innovativer-metal",
   "heil-schlosserei-gmbh",
-  "wibilo-kebap-haus",
-  "dolomiti-pizzeria-gelateria-pasticceria",
-  "didi-hermann-zeichen-und-b-robedarf",
-  "mdm-metalldesignm-ller-innovativer-metal",
-  "heil-schlosserei-gmbh",
-  "wibilo-kebap-haus",
-  "dolomiti-pizzeria-gelateria-pasticceria",
-  "didi-hermann-zeichen-und-b-robedarf",
-  "mdm-metalldesignm-ller-innovativer-metal",
-  "heil-schlosserei-gmbh"
+  "ratzky-gmbh-bedachungen",
+  "high-voltage",
+  "elektro-hobler-ug-haftungsbeschr-nkt-ele",
+  "asia-haus-thaimassagen",
+  "koble-tassone-jeannine-friseur",
+  "ratzky-gmbh-bedachungen",
+  "high-voltage",
+  "elektro-hobler-ug-haftungsbeschr-nkt-ele",
+  "asia-haus-thaimassagen",
+  "koble-tassone-jeannine-friseur"
  ],
- "wave": 1
+ "wave": 2,
+ "deferred": {
+  "l-a-nails-nagelstudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",
+  "nieland-julia-pasta": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",
+  "aqua-bar-lounge-club": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",
+  "schreiner-barbara-fotostudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",
+  "aktiv-gesundheitspark": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",
+  "sascha-kieczewsky-planungsb-ro": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren",
+  "reitverein-neunkirchen-city": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber kl\u00e4ren"
+ }
 }

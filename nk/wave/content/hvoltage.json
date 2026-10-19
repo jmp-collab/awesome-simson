@@ -1,0 +1,104 @@
+{
+ "slug": "high-voltage",
+ "theme": "event",
+ "name": "HIGH VOLTAGE Veranstaltungstechnik",
+ "branche": "Veranstaltungstechnik / Bühnen-, Ton-, Licht- und Videotechnik",
+ "addr": "An der Alten Ziegelei 25 · 66538 Neunkirchen",
+ "tel": "06821 983161",
+ "url": "https://www.hvoltage.de",
+ "g": "4,8 ★ (4)",
+ "label": "Quick Win",
+ "visit": "Vorher anrufen, Lager und Büro sind nicht immer besetzt (Veranstaltungen oft abends und am Wochenende)",
+ "logo_a": "HIGH",
+ "logo_b": "VOLTAGE",
+ "nav": [
+  "Leistungen",
+  "Equipment",
+  "Mieten",
+  "Kontakt"
+ ],
+ "eyebrow": "Veranstaltungstechnik aus Neunkirchen, seit 1991",
+ "h1": "Ton, Licht, Video und Bühne für Ihr Event.",
+ "lead": "Vom Konzert über die Firmenfeier bis zur Objektbeleuchtung: Technik, Planung und Personal aus einer Hand. Oder Equipment zum Selbstabholen per Dry Hire.",
+ "cta1": "Event anfragen",
+ "cta2": "Equipment mieten",
+ "mcta": "Anfragen",
+ "badge": [
+  "1991",
+  "auf den Bühnen der Region"
+ ],
+ "deco": "",
+ "hero_img": "img/high-voltage_0.jpg",
+ "trust": [
+  "<b>Seit 1991</b> Veranstaltungstechnik",
+  "<b>Bühnen</b> auch mit Dach",
+  "<b>Dry Hire</b> Equipment ohne Personal mieten"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Live-Entertainment",
+   "Klare Sprachverständlichkeit und guter Sound auf allen Plätzen, dazu passendes Licht."
+  ],
+  [
+   "Corporate Events",
+   "Firmenfeiern, Präsentationen und Tagungen mit Ton, Licht und Video."
+  ],
+  [
+   "Objektbeleuchtung",
+   "Gebäude, Kirchen und Außenflächen in Szene gesetzt."
+  ],
+  [
+   "Dry Hire",
+   "Ton-, Licht- und Videotechnik zum Selbstabholen."
+  ],
+  [
+   "Bühnen",
+   "Bühnen in verschiedenen Größen, auch mit Dach für Open Air."
+  ],
+  [
+   "Gebrauchtes",
+   "Gebrauchtes Equipment aus unserem Bestand."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Datum steht fest? Schicken Sie uns die Eckdaten.",
+ "hours": [],
+ "pill": "",
+ "alt_title": "Event-Anfrage in 1 Minute",
+ "alt_text": "Datum, Ort, Anzahl Gäste und Art der Veranstaltung: Damit erstellen wir Ihnen ein Angebot für Technik, Bühne und Personal.",
+ "contact": "HIGH VOLTAGE<br>Inhaber Michael Gard<br>An der Alten Ziegelei 25<br>66538 Neunkirchen<br><br>Telefon 06821 983161<br>mg@hvoltage.de",
+ "audit": [
+  "Nicht für Smartphones angepasst, Leistungen nur als Stichworte ohne Bilder",
+  "Kein Anfrageformular mit Datum, Ort und Gästezahl, kein Mietkatalog mit Preisen",
+  "Inhaberwechsel ('Neuer Inhaber: Michael Gard') nur auf der Kontaktseite erwähnt"
+ ],
+ "hebel": "Veranstaltungstechnik wird mit Datum im Kopf gesucht ('Bühne mieten Saarland', 'PA mieten Neunkirchen'). Ein Mietkatalog mit Paketpreisen und eine Anfrage mit Datum bringen planbare Dry-Hire-Umsätze, die heute an Verleihportale gehen.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.690 bis 2.490 €",
+  "39 bis 99 €"
+ ],
+ "paket": "Website mit Leistungs- und Equipment-Seiten, Mietpaketen (z. B. Party-PA, Licht-Set, Bühne mit Dach), Anfrageformular mit Datum, Referenz-Galerie",
+ "svc": [
+  "Instagram und TikTok mit Kurzvideos vom Aufbau und den Shows",
+  "Mietpakete als Google-Produkte im Unternehmensprofil",
+  "Referenzseiten pro Event-Location als Suchtreffer ('Technik für Hochzeit in ...')",
+  "Kooperationslinks mit Locations, DJs und Bands der Region"
+ ],
+ "open": "Herr Gard, ich bin Jean, Webdesigner aus Neunkirchen. Sie machen Technik für Bühnen in der ganzen Region, aber Ihre Website zeigt davon kaum Bilder. Ich hab Ihnen mitgebracht, wie sie aussehen könnte, mit Mietpaketen und Anfrage nach Datum.",
+ "obj": "'Unsere Kunden kommen über Empfehlung': Die großen ja. Dry Hire und kleine Feiern werden gegoogelt. Genau diese Anfragen gehen heute an Verleihportale.",
+ "obs": [
+  "Ihre Seite ist nicht für Smartphones angepasst. Auf dem Handy muss man zoomen, um etwas zu lesen.",
+  "Ihre Leistungen stehen nur als Stichworte da, Bilder Ihrer Events fehlen.",
+  "Es gibt keine Anfrage mit Datum, Ort und Gästezahl und keine Mietpakete."
+ ],
+ "neu": [
+  "Ihre Events in großen Bildern",
+  "Mietpakete für Ton, Licht und Bühne mit klarer Anfrage",
+  "Anfrageformular mit Datum, Ort und Gästezahl"
+ ]
+}

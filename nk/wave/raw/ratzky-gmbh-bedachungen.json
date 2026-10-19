@@ -1,0 +1,63 @@
+{
+ "key": "ratzky-gmbh-bedachungen",
+ "url": "https://www.ratzkygmbh.de/",
+ "title": "Die Geschäftsbereiche der Ratzky GmbH",
+ "text": "Home\nNeuigkeiten\nLeistungen\nUnternehmen\nTeam\nStellen/Jobs\nReferenzen\nPartner\nKontakt\nDatenschutz\nImpressum\nDie Geschäftsbereiche der Ratzky GmbH\n\t\n\t\n\t\nwww.ratzkygmbh.de",
+ "imgs": [],
+ "bg": [
+  "https://www.ratzkygmbh.de/menubuttonselect.gif",
+  "https://www.ratzkygmbh.de/menubutton.gif"
+ ],
+ "tel": [],
+ "mail": [],
+ "links": [
+  {
+   "t": "Home",
+   "h": "https://www.ratzkygmbh.de/index.html"
+  },
+  {
+   "t": "Neuigkeiten",
+   "h": "https://www.ratzkygmbh.de/news.html"
+  },
+  {
+   "t": "Leistungen",
+   "h": "https://www.ratzkygmbh.de/leistungen.html"
+  },
+  {
+   "t": "Unternehmen",
+   "h": "https://www.ratzkygmbh.de/unternehmen.html"
+  },
+  {
+   "t": "Team",
+   "h": "https://www.ratzkygmbh.de/team.html"
+  },
+  {
+   "t": "Stellen/Jobs",
+   "h": "https://www.ratzkygmbh.de/jobs.html"
+  },
+  {
+   "t": "Referenzen",
+   "h": "https://www.ratzkygmbh.de/referenzen.html"
+  },
+  {
+   "t": "Partner",
+   "h": "https://www.ratzkygmbh.de/partner.html"
+  },
+  {
+   "t": "Kontakt",
+   "h": "https://www.ratzkygmbh.de/kontakt.html"
+  },
+  {
+   "t": "Datenschutz",
+   "h": "https://www.ratzkygmbh.de/datenschutz.html"
+  },
+  {
+   "t": "Impressum",
+   "h": "https://www.ratzkygmbh.de/impressum.html"
+  },
+  {
+   "t": "www.ratzkygmbh.de",
+   "h": "http://www.ratzkygmbh.de/"
+  }
+ ]
+}

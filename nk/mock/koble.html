@@ -1,0 +1,67 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hair-Design-Cosmetic Koble</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#fbf5f3;--ink:#2b1f22;--mut:#7d6a6e;--acc:#b24d6b;--acc-ink:#fff;--hero:#efdcd6;--hero-ink:#2b1f22;--card:#ffffff;--line:#eedfdb}
+*{box-sizing:border-box;margin:0;padding:0}html,body{overflow-x:hidden}body{font-family:Jost,sans-serif;color:var(--ink);background:var(--bg)}
+.draft{position:fixed;bottom:14px;left:14px;z-index:9;background:#111c;color:#fff;font:600 11px system-ui;padding:5px 9px;border-radius:20px;letter-spacing:.04em}
+.top{background:var(--ink);color:var(--bg);font-size:13px;padding:8px 6vw;display:flex;justify-content:space-between;opacity:.96}
+.top b{color:var(--acc)}
+header{display:flex;align-items:center;justify-content:space-between;padding:18px 6vw;background:var(--card);border-bottom:1px solid var(--line)}
+.logo{font:700 28px 'Cormorant Garamond';letter-spacing:-.01em}.logo span{color:var(--acc)}
+nav a{margin-left:26px;color:var(--ink);text-decoration:none;font-weight:500;font-size:15px}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:14px 22px;border-radius:999px;font-weight:700;text-decoration:none;font-size:16px}
+.p{background:var(--acc);color:var(--acc-ink)}.o{border:2px solid currentColor;color:var(--hero-ink)}
+.hero{display:grid;grid-template-columns:minmax(0,1fr);min-height:540px;background:var(--hero);color:var(--hero-ink);position:relative;overflow:hidden}
+.hero .t{padding:70px 6vw 60px;display:flex;flex-direction:column;justify-content:center;position:relative;z-index:1}
+.hero .t{max-width:1100px}.hero::after{content:"Koble";position:absolute;right:-2vw;bottom:-60px;font:700 260px 'Cormorant Garamond';color:var(--acc);opacity:.08;line-height:.8;pointer-events:none;white-space:nowrap}
+.eyebrow{color:var(--acc);font-weight:700;font-size:14px;letter-spacing:.12em;text-transform:uppercase;margin-bottom:18px}
+h1{font:700 62px/1.0 'Cormorant Garamond';letter-spacing:-.02em;margin-bottom:20px;max-width:16ch}
+.hero p{opacity:.85;font-size:18px;line-height:1.55;max-width:540px;margin-bottom:30px}
+.hero .img{background:url() center/cover;position:relative}
+.badge{position:absolute;left:-36px;bottom:40px;background:var(--acc);color:var(--acc-ink);border-radius:16px;padding:18px 22px;box-shadow:0 20px 40px #0005}
+.badge b{font:700 36px 'Cormorant Garamond';display:block;line-height:1}.badge small{font-weight:600}
+.hb{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;margin-top:26px;background:#ffffff14;border:1px solid #ffffff2a;border-radius:14px;padding:12px 16px;font-size:15px;width:fit-content;max-width:100%}
+.hb b{font:700 36px 'Cormorant Garamond';color:var(--acc)}
+.cta{display:flex;gap:12px;flex-wrap:wrap}
+.trust{display:flex;gap:40px;padding:22px 6vw;background:var(--card);border-bottom:1px solid var(--line);font-size:15px;color:var(--mut);flex-wrap:wrap}
+.trust b{color:var(--ink)}.stars{color:#e8a400}
+section{padding:70px 6vw}h2{font:700 36px 'Cormorant Garamond';margin-bottom:28px;letter-spacing:-.01em}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.card{background:var(--card);border-radius:14px;padding:26px;border:1px solid var(--line)}
+.card .ic{width:44px;height:44px;border-radius:10px;background:var(--hero);color:var(--acc);display:grid;place-items:center;font-weight:800;font-size:19px;margin-bottom:14px}
+.card h3{font-size:19px;margin-bottom:6px}.card p{color:var(--mut);font-size:15px;line-height:1.5}
+.menu{display:grid;grid-template-columns:repeat(2,1fr);gap:0 40px}
+.mi{display:flex;justify-content:space-between;gap:12px;padding:14px 0;border-bottom:1px dashed var(--line)}
+.mi b{display:block;font-size:17px}.mi small{color:var(--mut);font-size:14px}.mi .pr{font-weight:800;color:var(--acc);white-space:nowrap;font-size:17px}
+.gal{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.gal div{aspect-ratio:4/3;border-radius:12px;background:center/cover}
+.info{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.hours td{padding:7px 0;font-size:16px}.hours td:first-child{width:170px;color:var(--mut)}
+.pill{display:inline-block;background:#e9f7ef;color:#1b7a3d;font-weight:700;font-size:13px;padding:5px 10px;border-radius:20px;margin-bottom:14px}
+.band{background:var(--hero);color:var(--hero-ink);display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap}
+.band h2{margin:0}
+footer{background:var(--ink);color:var(--bg);opacity:.92;padding:30px 6vw;font-size:13px;display:flex;justify-content:space-between}
+.mbar{display:none}
+@media(max-width:700px){.hero{grid-template-columns:minmax(0,1fr)!important}h1{max-width:none}nav,.top span:last-child{display:none}.hero{grid-template-columns:1fr;min-height:0}.hero .img{height:230px;order:-1}.badge{left:16px;bottom:-26px;padding:12px 16px}
+h1{font-size:42px}.hero .t{padding:46px 20px 40px}.hero::after{font-size:150px;bottom:-30px}.trust{flex-direction:column;gap:6px;padding:18px 20px}section{padding:46px 20px}.grid,.info,.menu{grid-template-columns:1fr}.gal{grid-template-columns:1fr 1fr}
+.mbar{display:flex;position:fixed;bottom:0;left:0;right:0;gap:8px;padding:10px;background:var(--card);box-shadow:0 -6px 20px #0002;z-index:5}.mbar a{flex:1;justify-content:center;padding:13px 10px}.mbar .o{color:var(--ink)}body{padding-bottom:72px}.draft{bottom:84px}footer{flex-direction:column;gap:6px}}
+</style></head><body>
+<div class="draft">ENTWURF · Vorschau</div>
+<div class="top"><span>Kuchenbergstraße 1 · 66540 Neunkirchen-Wiebelskirchen</span><span>Telefon <b>06821 9838460</b></span></div>
+<header><div class="logo">Hair-Design <span>Koble</span></div><nav><a href="#">Leistungen</a><a href="#">Preise</a><a href="#">Team</a><a href="#">Kontakt</a></nav></header>
+<div class="hero"><div class="t"><div class="eyebrow">Friseur und Kosmetik in Wiebelskirchen, seit 1931</div><h1>Seit 1931 im Dienst der Schönheit.</h1><p>Haarschnitte für Damen, Herren und Kinder, Kosmetik und Make-up von Friseurmeisterin Jeannine Koble-Tassone. Individuell beraten, mit Produkten von Fanola.</p>
+<div class="cta"><a class="btn p" href="#">Termin anfragen</a><a class="btn o" href="#">Leistungen ansehen</a></div>
+<div class="hb"><b>1931</b><span>drei Generationen Friseurhandwerk</span></div></div>
+</div>
+<div class="trust"><span><b>Friseurmeisterin</b> und Friseurkosmetikerin</span><span><b>Make-up</b> mit Meistertitel im Wettbewerb</span><span><b>Di bis Fr</b> 9 bis 17 Uhr, <b>Sa</b> 9 bis 12:30 Uhr</span></div>
+
+<section><h2>Leistungen</h2><div class="grid"><div class="card"><div class="ic">1</div><h3>Damen</h3><p>Schnitt, Farbe und Styling, klassisch oder im Trend.</p></div><div class="card"><div class="ic">2</div><h3>Herren und Kinder</h3><p>Exakte Schnitte mit scharfen Scheren, schonend fürs Haar.</p></div><div class="card"><div class="ic">3</div><h3>Kosmetik</h3><p>Pflegende Anwendungen und Wellness.</p></div><div class="card"><div class="ic">4</div><h3>Make-up</h3><p>Für Hochzeit, Fest und Fotoshooting, von der Make-up-Meisterin.</p></div><div class="card"><div class="ic">5</div><h3>Haarpflege</h3><p>Beratung und Pflege mit Fanola.</p></div><div class="card"><div class="ic">6</div><h3>Geschenkgutschein</h3><p>Sie bestimmen den Wert, der Beschenkte wählt.</p></div></div></section>
+
+<section class="band"><h2>Lust auf eine neue Frisur? Wir beraten Sie gern.</h2><a class="btn p" href="#">Termin anfragen</a></section>
+<section><div class="info">
+<div class="card"><h3 style="margin-bottom:10px">Öffnungszeiten</h3><table class="hours"><tr><td>Dienstag bis Freitag</td><td>9:00 bis 17:00 Uhr</td></tr><tr><td>Samstag</td><td>9:00 bis 12:30 Uhr</td></tr></table></div>
+<div class="card"><h3 style="margin-bottom:10px">So finden Sie uns</h3><p style="font-size:16px;line-height:1.7">Hair-Design-Cosmetic Koble<br>Inhaberin Jeannine Koble-Tassone<br>Kuchenbergstraße 1<br>66540 Neunkirchen-Wiebelskirchen<br><br>Telefon 06821 9838460<br>info@koble-hair.de</p></div>
+</div></section>
+<footer><span>© Hair-Design-Cosmetic Koble</span><span>Impressum · Datenschutz</span></footer>
+<div class="mbar"><a class="btn p" href="#">Termin</a><a class="btn o" href="#">Route</a></div>
+</body></html>
