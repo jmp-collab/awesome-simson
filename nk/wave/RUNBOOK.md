@@ -8,3 +8,11 @@ Ziel: Jede Stunde 5 neue Leads aus der Queue mit Vorher/Nachher, Preis, Zusatzle
 6. Artifact-Vorschau neu veröffentlichen: Artifact mit file_path=/home/claude/site/artifact/index.html (vorher aus dist/index.html erzeugen, siehe Welle 1), files-Pfade relativ zu /home/claude/site (z. B. "dist/v/xyz.html"), nur neue v/*.html und assets/v/*.webp.
 7. ZIP per SendUserFile schicken, kurze Nachricht (welche Betriebe, wichtigster Hebel je Betrieb).
 8. Nächste Welle mit send_later in 60 Minuten planen.
+9. Nach jeder Welle sichern: `/home/claude/store/sync.sh "Welle NN: Betriebe ..."` (GitHub jmp-collab/neu, Branch saarseiten-akquise). Kein Google Drive: Das verbundene Drive ist das Firmenkonto (racing-planet.de), dort keine Daten der Selbstständigkeit ablegen.
+
+## Wiederherstellen nach Container-Neustart
+Wenn /home/claude/nk fehlt:
+1. `git clone --depth 1 -b saarseiten-akquise https://github.com/jmp-collab/neu /home/claude/store` (Repo vorher mit add_repo, access push, anhängen)
+2. `cp -r /home/claude/store/nk /home/claude/nk && cp -r /home/claude/store/site /home/claude/site`
+3. `cd /home/claude/site && npm i @fontsource/familjen-grotesk @fontsource/atkinson-hyperlegible @fontsource/jetbrains-mono` ist nicht nötig (Fonts liegen in assets/fonts). `pip install qrcode jinja2 --break-system-packages` falls fehlend.
+4. `cd /home/claude/store && git checkout -B saarseiten-akquise` und sync.sh liegt bereits im Repo.
