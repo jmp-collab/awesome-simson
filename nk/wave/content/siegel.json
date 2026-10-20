@@ -1,0 +1,113 @@
+{
+ "slug": "siegel-ute-augenoptik",
+ "theme": "gelato",
+ "name": "Augenoptik Siegel",
+ "branche": "Augenoptik",
+ "addr": "Hauptstraße 133 · 66589 Merchweiler",
+ "tel": "06825 88840",
+ "url": "http://www.optik-siegel.de",
+ "g": "keine Google-Daten erfasst",
+ "label": "Solide Chance",
+ "visit": "Vorher anrufen",
+ "logo_a": "Augenoptik",
+ "logo_b": "Siegel",
+ "nav": [
+  "Brillen",
+  "Kontaktlinsen",
+  "Öffnungszeiten",
+  "Termin"
+ ],
+ "eyebrow": "Augenoptik in Merchweiler",
+ "h1": "Brillen, Kontaktlinsen und Sehhilfen. Mit Termin und Beratung.",
+ "lead": "Moderne Brillen, Spezial- und Sportbrillen, Kontaktlinsen, Lupen und vergrößernde Sehhilfen. Augenprüfung mit moderner Technik, am besten mit Termin.",
+ "cta1": "Anrufen: 06825 88840",
+ "cta2": "Termin anfragen",
+ "mcta": "Anrufen",
+ "badge": [
+  "Termin",
+  "Augenprüfung"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Augenoptik</b> aus der Region",
+  "<b>Persönliche Beratung</b> vor Ort",
+  "<b>Anfrage</b> mit Foto"
+ ],
+ "menu_title": "",
+ "menu": [],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Brillen",
+   "Moderne Fassungen und Gläser."
+  ],
+  [
+   "Spezial- und Sportbrillen",
+   "Für besondere Anforderungen."
+  ],
+  [
+   "Kontaktlinsen",
+   "Anpassung und Beratung."
+  ],
+  [
+   "Lupen und Sehhilfen",
+   "Vergrößernde Sehhilfen."
+  ],
+  [
+   "Augenprüfung",
+   "Mit moderner Technik."
+  ],
+  [
+   "Termin",
+   "Telefonisch oder online anfragen."
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "band": "Neue Brille? Termin für die Augenprüfung anfragen.",
+ "hours": [
+  [
+   "Mo, Di, Do, Fr",
+   "8:30 bis 12:00 und 14:30 bis 18:00"
+  ],
+  [
+   "Mi, Sa",
+   "8:30 bis 12:00"
+  ]
+ ],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "alt_text": "Fassungen und Fotos aus dem Geschäft setze ich mit Ihnen gemeinsam ein.",
+ "contact": "Augenoptik Siegel<br>Ute Siegel<br>Hauptstraße 133<br>66589 Merchweiler<br><br>Telefon 06825 88840<br>info@optik-siegel.de",
+ "audit": [
+  "Der E-Mail-Link auf der Startseite ist kaputt: er zeigt auf 'info@optik-siegel' ohne '.de', Mails kommen nie an",
+  "Keine sichere Verbindung (nur http), am Handy ist die Seite zu breit",
+  "Öffnungszeiten stehen auf einer Unterseite, im Impressum steht 'Merschweiler' statt Merchweiler"
+ ],
+ "hebel": "Brillenkunden wollen vorher wissen, wann offen ist, und einen Termin für die Augenprüfung ausmachen. Wer per E-Mail-Link anfragt, landet bei einer Adresse ohne '.de', die Mail kommt nie an. Eine sichere Seite mit Zeiten auf der Startseite und Terminanfrage holt diese Kunden.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Öffnungszeiten auf der Startseite, Terminanfrage, funktionierender E-Mail, sicherer Verbindung, Google-Profil",
+ "svc": [
+  "Terminanfrage für Augenprüfung und Kontaktlinsen",
+  "Öffnungszeiten direkt auf der Startseite",
+  "Google-Profil mit Zeiten und Fotos",
+  "Fassungs-Galerie, die Sie selbst befüllen"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Mir ist aufgefallen, dass der E-Mail-Link auf Ihrer Seite auf 'info@optik-siegel' ohne '.de' zeigt, solche Mails kommen nie an. Ich habe Ihnen mitgebracht, wie die Seite mit Terminanfrage aussehen könnte.",
+ "obj": "'Die Kunden rufen an': Viele ja. Wer abends nach dem Termin schaut, schreibt eine Mail, und die geht bei Ihnen gerade ins Leere.",
+ "obs": [
+  "E-Mail-Link ohne '.de', Mails kommen nicht an.",
+  "Keine sichere Verbindung, am Handy zu breit.",
+  "Tippfehler 'Merschweiler' im Impressum."
+ ],
+ "neu": [
+  "Terminanfrage",
+  "Zeiten auf der Startseite",
+  "Funktionierende E-Mail"
+ ]
+}

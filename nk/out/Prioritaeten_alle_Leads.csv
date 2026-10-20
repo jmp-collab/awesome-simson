@@ -1,10 +1,13 @@
 nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
+91;paulus;Stahlbau Paulus GmbH;Stahl- und Metallbau;15;8;3;16000;790;96;wwjwku;06825 8230;Vorher anrufen
 83;lambert;der Lambert pflastert;Pflaster- und Verbundsteinarbeiten;15;8;2;12000;690;90;d2rwpk;06821 691910;Früh morgens oder vorher anrufen, mobil 0173 3192298
 87;brill;Rosen Brill;Rosenzüchtung;15;8;2;9000;1490;90;qame3l;06821 6223;Vorher anrufen, Peter Brill
+90;pink;Pink und Schmitt Haustechnik;Heizung, Lüftung, Haustechnik;15;8;2;24000;690;90;v5qzy2;06881 962063;Vorher anrufen
 64;schappert;Dachdeckerei Schappert GmbH;Dachdeckerei;15;7;3;18000;690;84;7s5ilq;06824 7325;Früh morgens oder vorher anrufen
 65;laluna;Ristorante Pizzeria La Luna;Ristorante und Pizzeria mit Heimservice;15;7;3;12000;690;84;k4337j;06821 9839560;Nachmittags vor 17:30 Uhr, nicht mittwochs
 81;mayer;Mayers Fahrschule;Fahrschule;15;7;3;10000;690;84;kpifiq;06821 790679;Vorher anrufen, mobil 0172 6830198
 82;ecker;Metallbaumontage Arno Ecker;Metallbau;15;7;3;9000;690;84;ct37za;06858 9005085;Früh morgens oder vorher anrufen
+88;kessler;Elektro und Solartechnik Keßler;Elektro und Solartechnik;15;7;3;24000;690;84;b267yq;06825 940332;Vorher anrufen
 75;specht;Specht Auto-Service GmbH;Vespa, Piaggio und Aprilia Händler;15;7;2;14000;990;78;yyvgjq;06821 7496607;Vormittags im Laden, Inhaber Uwe Specht direkt ansprechen
 14;mdm;MetallDesignMüller;Metallbau / Geländer, Treppen, Tore;15;6;3;10000;690;72;lmn7fq;06821 1799757;Früh morgens 7 bis 8 Uhr oder vorher anrufen (Handwerker oft auf Montage)
 63;welzow;Welzower Stuben;Restaurant und Partyservice;15;6;3;12000;990;72;72a3z2;06821 690943;Nachmittags zwischen 14 und 18 Uhr, Chef Leonard Bala direkt ansprechen
@@ -28,6 +31,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 68;malburg;Schreinerei Malburg GmbH;Schreinerei und Bestattungen;28;5;2;9000;990;54;2qj3tz;06821 6278;Vormittags in der Werkstatt, vorher kurz anrufen
 79;schaefer;Schreinermeister Frank Schäfer;Schreinerei;31;5;2;10500;990;54;oinmkr;06858 6998188;Vorher anrufen, mobil 0179 7306242
 80;kirsch;Heizung-Sanitär Kirsch UG;Heizung und Sanitär;28;5;2;18000;990;54;pdjm5t;06821 96410;Bürozeiten Mo bis Fr 7:30 bis 12 und 14 bis 17 Uhr, vorher anrufen
+92;siegel;Augenoptik Siegel;Augenoptik;15;6;3;3200;990;50.8;mpjvfc;06825 88840;Vorher anrufen
 18;hobler;Elektro Hobler UG;Elektroinstallation / Elektriker;41;5;1;5400;690;48;khjgpu;06821 952063;Morgens zwischen 7 und 9 Uhr (Büro Mo bis Fr 6 bis 13 Uhr erreichbar)
 32;kirschhock;Haus- und Montage Service Kirschhock;Hausmeister- und Montageservice;35;4;3;3600;690;48;6vsmks;06821 306991;Vorher anrufen (mobil 0175 4147742), am besten früh morgens
 72;lander;Carsten Lander GmbH;Stuckateur- und Malerbetrieb;35;5;1;16000;990;48;mrbje5;06897 61762;Vorher anrufen oder per WhatsApp melden
@@ -43,6 +47,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 60;schwenk;Fliesenmarkt Schwenk GmbH;Fliesenhandel und Verlegung;42;4;2;15000;1490;42;hhe3wr;06821 485601;Vormittags in der Ausstellung Wellesweiler
 70;jolly;Jollytherm GmbH;Hersteller Flächenheizungen;42;4;2;12000;1990;42;tfpwp4;06821 964930;Vorher anrufen und Termin mit der Geschäftsführung vereinbaren
 76;schuler;Bad & Bausanierung Schuler;Bad- und Bausanierung;51;5;0;16000;690;42;nmit5w;06821 633075;Früh morgens oder vorher anrufen
+89;mendel;Blumenatelier Mendel;Blumenatelier;15;7;3;1200;690;38.3;jdvgzy;06825 496570;Vorher anrufen
 11;wibilo;Wibilo-Kebap-Haus;Döner / Imbiss mit Lieferservice;15;6;2;1685;690;37.9;enipj7;06821 9533808;Werktags 14 bis 16 Uhr, nach dem Mittagsgeschäft (geöffnet Mo bis Sa ab 12 Uhr)
 36;mtrucks;M-Trucks GmbH;Nutzfahrzeug-Werkstatt und Teilehandel;55;4;1;9000;1190;36;mjifl6;06821 74963-14;Morgens ab 7 Uhr oder nach 16 Uhr, vorher anrufen
 44;grill;Grill au Bois;Steakhaus und Eventgastronomie;52;3;3;28800;1990;36;eeuj5q;06821 89999;Nachmittags zwischen Mittag- und Abendservice, vorher anrufen

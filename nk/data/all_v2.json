@@ -30261,5 +30261,93 @@
   "tel": "06825 4 04 90 82",
   "slug": "d-rrenb-cher-dachdeckerei-d-rrenbecher-j",
   "src": "gelbeseiten"
+ },
+ {
+  "name": "Keßler Christoph, Elektro und Solartechnik",
+  "branch": "Elektroinstallationen",
+  "addr": "Schulstr. 73, 66589 Merchweiler",
+  "plz": "66589",
+  "url": "http://www.solar-saar.de",
+  "final": "http://www.solar-saar.de/",
+  "tel": "06825 94 03 32",
+  "slug": "ke-ler-christoph-elektro-und-solartechni",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Mendel Silke",
+  "branch": "Blumen und Pflanzen",
+  "addr": "Illinger Str. 101, 66557 Illingen (Wustweiler)",
+  "plz": "66557",
+  "url": "http://www.blumenatelier-mendel.de",
+  "final": "http://www.blumenatelier-mendel.de/",
+  "tel": "06825 49 65 70",
+  "slug": "mendel-silke",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Pink und Schmitt Haustechnik",
+  "branch": "Heizungs- und Lüftungsbau",
+  "addr": "Steinackerstr. 27, 66571 Eppelborn (Humes)",
+  "plz": "66571",
+  "url": "http://www.haustechnik-pink.de",
+  "final": "http://www.haustechnik-pink.de/",
+  "tel": "06881 96 20 63",
+  "slug": "pink-und-schmitt-haustechnik",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Weiskircher GmbH",
+  "branch": "Natursteine",
+  "addr": "Friedhofstr. 24, 66557 Illingen (Hüttigweiler)",
+  "plz": "66557",
+  "url": "http://www.weiskircher-gmbh.de",
+  "final": "http://www.weiskircher-gmbh.de/",
+  "tel": "06825 27 59",
+  "slug": "weiskircher-gmbh",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Stahl- u. Metallbau Paulus GmbH",
+  "branch": "Stahlbau",
+  "addr": "Auf Pfuhlst 0, 66589 Merchweiler",
+  "plz": "66589",
+  "url": "http://www.paulus-stahlbau.de",
+  "final": "http://www.paulus-stahlbau.de/",
+  "tel": "06825 82 30",
+  "slug": "stahl-u-metallbau-paulus-gmbh",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Siegel Ute Augenoptik",
+  "branch": "Augenoptik",
+  "addr": "Hauptstr. 133, 66589 Merchweiler",
+  "plz": "66589",
+  "url": "http://www.optik-siegel.de",
+  "final": "http://www.optik-siegel.de/",
+  "tel": "06825 8 88 40",
+  "slug": "siegel-ute-augenoptik",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "CHRISTIAN NIKLAS GMBH, Fenster-Türen-Rollläden-Markisen",
+  "branch": "Fenster",
+  "addr": "Zeppelinstr. 14c, 66557 Illingen (Uchtelfangen)",
+  "plz": "66557",
+  "url": "http://www.niklas.gmbh",
+  "final": "http://www.niklas.gmbh/",
+  "tel": "06825 97 00 20",
+  "slug": "christian-niklas-gmbh-fenster-t-ren-roll",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Wagner Karlheinz Stahl- und Metallbau",
+  "branch": "Stahlbau",
+  "addr": "Lachwies 8, 66571 Eppelborn (Dirmingen)",
+  "plz": "66571",
+  "url": "http://www.metallbau-wagner.com",
+  "final": "https://www.metallbau-wagner.com/",
+  "tel": "06827 6 06",
+  "slug": "wagner-karlheinz-stahl-und-metallbau",
+  "src": "gelbeseiten"
  }
 ]

@@ -7732,5 +7732,585 @@
    "woerter": 0,
    "titel": "Rosen Brill"
   }
+ },
+ "kessler": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.solar-saar.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 12 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "1 Datei wird unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   }
+  ],
+  "sicht": [
+   "Nur 'Hier entsteht eine neue Homepage'.",
+   "Kein Name, keine Nummer.",
+   "Keine sichere Verbindung."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Leistungen Elektro und Solar",
+   "Anfrage mit Foto vom Dach"
+  ],
+  "hebel": "Die Domain solar-saar.de ist ein starker Name für genau das, was gerade gefragt ist: Solaranlagen im Saarland. Statt einer Baustellen-Seite kann sie Anfragen für Photovoltaik und Elektro bringen, mit Anfrage per Foto vom Dach.",
+  "extra": [
+   "Solar-Anfrage mit Foto vom Dach und Jahresverbrauch",
+   "Elektro-Anfrage mit Foto vom Zählerschrank",
+   "Google-Profil mit Fotos und Leistungen",
+   "Karriereseite für Elektroniker und Azubis"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 8000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 690,
+   "breakeven": 1,
+   "jahr": 24000
+  },
+  "gemessen": {
+   "load_m": 0.8,
+   "mb": 0.0,
+   "breite_m": 980,
+   "woerter": 12,
+   "titel": "Hier entsteht eine neue Homepage"
+  }
+ },
+ "mendel": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.blumenatelier-mendel.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 12 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "1 Datei wird unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   }
+  ],
+  "sicht": [
+   "Nur 'Hier entsteht eine neue Homepage'.",
+   "Keine Zeiten, keine Nummer.",
+   "Keine sichere Verbindung."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Galerie und Angebot",
+   "Bestellanfrage mit Datum"
+  ],
+  "hebel": "Blumen werden spontan und für Anlässe gekauft: Geburtstag, Hochzeit, Muttertag. Wer 'Blumen Illingen' sucht, will Zeiten, Telefon und ein paar Bilder sehen. Eine einfache Seite mit Bestellanfrage holt diese Kunden ins Atelier.",
+  "extra": [
+   "Bestellanfrage mit Anlass und Wunschdatum",
+   "Galerie, die Sie vom Handy befüllen",
+   "Google-Profil mit Fotos und Öffnungszeiten",
+   "Seite für Hochzeitsfloristik"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 60,
+   "einheit": "Auftrag",
+   "anzahl": 20,
+   "preis": 690,
+   "breakeven": 12,
+   "jahr": 1200
+  },
+  "gemessen": {
+   "load_m": 1.0,
+   "mb": 0.0,
+   "breite_m": 980,
+   "woerter": 12,
+   "titel": "Hier entsteht eine neue Homepage"
+  }
+ },
+ "pink": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.haustechnik-pink.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "titel",
+    "sev": "hoch",
+    "titel": "Google zeigt einen nichtssagenden Titel",
+    "beleg": "Seitentitel: 'Serverinfo'",
+    "folge": "Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.",
+    "fix": "Titel mit Leistung und Ort, z. B. 'Ihr Betrieb in Neunkirchen | Leistung'"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 5 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   }
+  ],
+  "sicht": [
+   "Nur Hoster-Standardseite 'Serverinfo'.",
+   "Kein Name, keine Nummer.",
+   "Bei Google 'Serverinfo' statt Firmenname."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Leistungen Heizung und Lüftung",
+   "Ihr Name bei Google"
+  ],
+  "hebel": "Heizungstausch und Wärmepumpen sind gerade das große Thema. Wer nach einem Heizungsbauer in Eppelborn sucht und auf 'Serverinfo' landet, ruft den Nächsten an. Schon ein Onepager mit Leistungen und Heizungs-Anfrage macht die Domain zum Auftragsbringer.",
+  "extra": [
+   "Heizungs-Anfrage mit Baujahr und Foto",
+   "Seite zu Wärmepumpen, mit Ihnen abgestimmt",
+   "Google-Profil mit Leistungen",
+   "Kundendienst-Anfrage"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 8000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 690,
+   "breakeven": 1,
+   "jahr": 24000
+  },
+  "gemessen": {
+   "load_m": 0.9,
+   "mb": 0.1,
+   "breite_m": 980,
+   "woerter": 5,
+   "titel": "Serverinfo"
+  }
+ },
+ "paulus": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 972 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.paulus-stahlbau.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "titel",
+    "sev": "hoch",
+    "titel": "Google zeigt einen nichtssagenden Titel",
+    "beleg": "Seitentitel: 'blank'",
+    "folge": "Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.",
+    "fix": "Titel mit Leistung und Ort, z. B. 'Ihr Betrieb in Neunkirchen | Leistung'"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 31 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Titel 'blank', Text 'im Aufbau'.",
+   "Keine Leistung, Nummern nicht antippbar.",
+   "Keine sichere Verbindung."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Anfrage mit Maßen"
+  ],
+  "hebel": "Stahlbau-Aufträge sind groß, und Bauherren wie Firmen prüfen Betriebe online. Eine Seite mit dem Titel 'blank' und 'im Aufbau' wirkt, als gäbe es den Betrieb kaum. Leistungen, Referenzen und Anfrage mit Maßen ändern das.",
+  "extra": [
+   "Anfrage mit Foto und Maßen",
+   "Referenzgalerie, die Sie vom Handy befüllen",
+   "Google-Profil mit Fotos und Leistungen",
+   "Karriereseite für Metallbauer und Schweißer"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 8000,
+   "einheit": "Auftrag",
+   "anzahl": 2,
+   "preis": 790,
+   "breakeven": 1,
+   "jahr": 16000
+  },
+  "gemessen": {
+   "load_m": 1.8,
+   "mb": 0.1,
+   "breite_m": 972,
+   "woerter": 31,
+   "titel": "blank"
+  }
+ },
+ "siegel": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 1001 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 39 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.optik-siegel.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "text",
+    "sev": "mittel",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 53 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "E-Mail-Link ohne '.de', Mails kommen nicht an.",
+   "Keine sichere Verbindung, am Handy zu breit.",
+   "Tippfehler 'Merschweiler' im Impressum."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Terminanfrage",
+   "Funktionierende E-Mail"
+  ],
+  "hebel": "Brillenkunden wollen vorher wissen, wann offen ist, und einen Termin für die Augenprüfung ausmachen. Wer per E-Mail-Link anfragt, landet bei einer Adresse ohne '.de', die Mail kommt nie an. Eine sichere Seite mit Zeiten auf der Startseite und Terminanfrage holt diese Kunden.",
+  "extra": [
+   "Terminanfrage für Augenprüfung und Kontaktlinsen",
+   "Öffnungszeiten direkt auf der Startseite",
+   "Google-Profil mit Zeiten und Fotos",
+   "Fassungs-Galerie, die Sie selbst befüllen"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 400,
+   "einheit": "Neukunde",
+   "anzahl": 8,
+   "preis": 990,
+   "breakeven": 3,
+   "jahr": 3200
+  },
+  "gemessen": {
+   "load_m": 1.2,
+   "mb": 0.5,
+   "breite_m": 1001,
+   "woerter": 53,
+   "titel": "Willkommen bei Augenoptik Siegel"
+  }
  }
 }

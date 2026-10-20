@@ -1,0 +1,79 @@
+{
+ "key": "weiskircher-gmbh",
+ "url": "http://www.weiskircher-gmbh.de/",
+ "title": "Weiskircher GmbH - Natursteine - Fliesen - Grabmale",
+ "text": "STARTSEITE LEISTUNGEN KONTAKT IMPRESSUM DATENSCHUTZ\nHerzlich willkommen,\n\nwir sind ein Familienbetrieb mit Tradition aus dem Herzen des Saarlandes. Mit Natursteinen veredeln wir Küchen, Treppen, Bäder, Hausfassaden u.a. Außerdem stellen wir Grabmale ganz nach Ihren Bedürfnissen her.\n\nHier auf unserer Webseite erhalten Sie in den jeweiligen Bildergalerien einen kleinen Eindruck unserer Referenzen.\n\nRufen Sie uns einfach an oder schreiben Sie uns. Wir beraten Sie gerne unverbindlich. Natürlich freuen wir uns auch auf Ihren Besuch in Hüttigweiler.\n\nFriedhofstraße 24\n66557 Illingen-Hüttigweiler\nTel. 06825 2759\nFax. 06825 48499\npost@weiskircher-gmbh.de\nKontakt  |  Impressum",
+ "imgs": [
+  {
+   "src": "http://www.weiskircher-gmbh.de/bilder/header_01.jpg",
+   "w": 950,
+   "h": 269
+  },
+  {
+   "src": "http://www.weiskircher-gmbh.de/bilder/header_02.jpg",
+   "w": 950,
+   "h": 269
+  },
+  {
+   "src": "http://www.weiskircher-gmbh.de/bilder/header_03.jpg",
+   "w": 950,
+   "h": 269
+  },
+  {
+   "src": "http://www.weiskircher-gmbh.de/bilder/header_04.jpg",
+   "w": 950,
+   "h": 269
+  }
+ ],
+ "bg": [
+  "http://www.weiskircher-gmbh.de/bilder/balken.jpg",
+  "http://www.weiskircher-gmbh.de/bilder/button_hover.jpg",
+  "http://www.weiskircher-gmbh.de/bilder/bild_01_klein.jpg",
+  "http://www.weiskircher-gmbh.de/bilder/adresse_hg.jpg"
+ ],
+ "tel": [],
+ "mail": [
+  "mailto:post@weiskircher-gmbh.de"
+ ],
+ "links": [
+  {
+   "t": "STARTSEITE",
+   "h": "http://www.weiskircher-gmbh.de/index.html"
+  },
+  {
+   "t": "LEISTUNGEN",
+   "h": "http://www.weiskircher-gmbh.de/weiskircher.html"
+  },
+  {
+   "t": "KONTAKT",
+   "h": "http://www.weiskircher-gmbh.de/kontakt.html"
+  },
+  {
+   "t": "IMPRESSUM",
+   "h": "http://www.weiskircher-gmbh.de/impressum.html"
+  },
+  {
+   "t": "DATENSCHUTZ",
+   "h": "http://www.weiskircher-gmbh.de/datenschutz.html"
+  },
+  {
+   "t": "post@weiskircher-gmbh.de",
+   "h": "mailto:post@weiskircher-gmbh.de"
+  },
+  {
+   "t": "Kontakt",
+   "h": "http://www.weiskircher-gmbh.de/kontakt.html"
+  },
+  {
+   "t": "Impressum",
+   "h": "http://www.weiskircher-gmbh.de/impressum.html"
+  }
+ ],
+ "saved": [
+  "img/weiskircher-gmbh_0.jpg",
+  "img/weiskircher-gmbh_1.jpg",
+  "img/weiskircher-gmbh_2.jpg",
+  "img/weiskircher-gmbh_3.jpg",
+  "img/weiskircher-gmbh_4.jpg"
+ ]
+}

@@ -521,5 +521,35 @@
   3000,
   "Neukunde",
   3
+ ],
+ "kessler": [
+  "auftrag",
+  8000,
+  "Auftrag",
+  3
+ ],
+ "mendel": [
+  "auftrag",
+  60,
+  "Auftrag",
+  20
+ ],
+ "pink": [
+  "auftrag",
+  8000,
+  "Auftrag",
+  3
+ ],
+ "paulus": [
+  "auftrag",
+  8000,
+  "Auftrag",
+  2
+ ],
+ "siegel": [
+  "auftrag",
+  400,
+  "Neukunde",
+  8
  ]
 }

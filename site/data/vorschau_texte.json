@@ -1042,5 +1042,65 @@
    "Deutsch und englisch",
    "Sichere Verbindung"
   ]
+ },
+ "kessler": {
+  "obs": [
+   "Nur 'Hier entsteht eine neue Homepage'.",
+   "Kein Name, keine Nummer.",
+   "Keine sichere Verbindung."
+  ],
+  "neu": [
+   "Leistungen Elektro und Solar",
+   "Anfrage mit Foto vom Dach",
+   "Sichere Verbindung"
+  ]
+ },
+ "mendel": {
+  "obs": [
+   "Nur 'Hier entsteht eine neue Homepage'.",
+   "Keine Zeiten, keine Nummer.",
+   "Keine sichere Verbindung."
+  ],
+  "neu": [
+   "Galerie und Angebot",
+   "Bestellanfrage mit Datum",
+   "Sichere Verbindung"
+  ]
+ },
+ "pink": {
+  "obs": [
+   "Nur Hoster-Standardseite 'Serverinfo'.",
+   "Kein Name, keine Nummer.",
+   "Bei Google 'Serverinfo' statt Firmenname."
+  ],
+  "neu": [
+   "Leistungen Heizung und Lüftung",
+   "Heizungs-Anfrage",
+   "Ihr Name bei Google"
+  ]
+ },
+ "paulus": {
+  "obs": [
+   "Titel 'blank', Text 'im Aufbau'.",
+   "Keine Leistung, Nummern nicht antippbar.",
+   "Keine sichere Verbindung."
+  ],
+  "neu": [
+   "Leistungen und Referenzen",
+   "Anfrage mit Maßen",
+   "Sichere Verbindung"
+  ]
+ },
+ "siegel": {
+  "obs": [
+   "E-Mail-Link ohne '.de', Mails kommen nicht an.",
+   "Keine sichere Verbindung, am Handy zu breit.",
+   "Tippfehler 'Merschweiler' im Impressum."
+  ],
+  "neu": [
+   "Terminanfrage",
+   "Zeiten auf der Startseite",
+   "Funktionierende E-Mail"
+  ]
  }
 }

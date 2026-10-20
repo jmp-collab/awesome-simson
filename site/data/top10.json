@@ -2775,5 +2775,165 @@
   "addr": "Am Kastelberg 59",
   "tel": "06821 6223",
   "welle": 16
+ },
+ {
+  "name": "Elektro und Solartechnik Keßler",
+  "branche": "Elektro und Solartechnik",
+  "url": "http://www.solar-saar.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Vorher anrufen",
+  "audit": [
+   "Die Domain solar-saar.de zeigt nur 'Hier entsteht eine neue Homepage. Diese Homepage wird zur Zeit überarbeitet.'",
+   "Kein Name, keine Leistung, keine Telefonnummer auf der Seite",
+   "Keine sichere Verbindung (nur http), der Browser zeigt 'Nicht sicher'"
+  ],
+  "hebel": "Die Domain solar-saar.de ist ein starker Name für genau das, was gerade gefragt ist: Solaranlagen im Saarland. Statt einer Baustellen-Seite kann sie Anfragen für Photovoltaik und Elektro bringen, mit Anfrage per Foto vom Dach.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Leistungen Elektro und Solar, Anfrage mit Foto, sicherer Verbindung, Google-Profil",
+  "svc": [
+   "Solar-Anfrage mit Foto vom Dach und Jahresverbrauch",
+   "Elektro-Anfrage mit Foto vom Zählerschrank",
+   "Google-Profil mit Fotos und Leistungen",
+   "Karriereseite für Elektroniker und Azubis"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf solar-saar.de steht seit einer Weile nur 'Hier entsteht eine neue Homepage', obwohl der Name für Solar im Saarland kaum besser sein könnte. Ich habe Ihnen mitgebracht, wie die fertige Seite aussehen könnte.",
+  "obj": "'Ich mache das irgendwann selbst': Genau dafür ist der Entwurf da. Er steht schon, Sie müssen nur noch Inhalte und Fotos bestätigen.",
+  "k": "kessler",
+  "addr": "Schulstraße 73",
+  "tel": "06825 940332",
+  "welle": 17
+ },
+ {
+  "name": "Blumenatelier Mendel",
+  "branche": "Blumenatelier",
+  "url": "http://www.blumenatelier-mendel.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Vorher anrufen",
+  "audit": [
+   "Die Domain zeigt nur 'Hier entsteht eine neue Homepage. Diese Homepage wird zur Zeit überarbeitet.'",
+   "Kein Name, keine Öffnungszeiten, keine Telefonnummer auf der Seite",
+   "Keine sichere Verbindung (nur http), der Browser zeigt 'Nicht sicher'"
+  ],
+  "hebel": "Blumen werden spontan und für Anlässe gekauft: Geburtstag, Hochzeit, Muttertag. Wer 'Blumen Illingen' sucht, will Zeiten, Telefon und ein paar Bilder sehen. Eine einfache Seite mit Bestellanfrage holt diese Kunden ins Atelier.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Angebot, Galerie, Öffnungszeiten, Bestellanfrage mit Wunschdatum, sicherer Verbindung, Google-Profil",
+  "svc": [
+   "Bestellanfrage mit Anlass und Wunschdatum",
+   "Galerie, die Sie vom Handy befüllen",
+   "Google-Profil mit Fotos und Öffnungszeiten",
+   "Seite für Hochzeitsfloristik"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Domain steht seit einer Weile nur 'Hier entsteht eine neue Homepage'. Ich habe Ihnen mitgebracht, wie Ihr Atelier online aussehen könnte.",
+  "obj": "'Die Kunden kommen in den Laden': Ja, und vorher schauen sie am Handy, ob offen ist und was es gibt.",
+  "k": "mendel",
+  "addr": "Illinger Straße 101",
+  "tel": "06825 496570",
+  "welle": 17
+ },
+ {
+  "name": "Pink und Schmitt Haustechnik",
+  "branche": "Heizung, Lüftung, Haustechnik",
+  "url": "http://www.haustechnik-pink.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Vorher anrufen",
+  "audit": [
+   "Die Domain zeigt nur die Standardseite des Hosters: Titel 'Serverinfo', Text 'Server bereitgestellt von HostPress GmbH'",
+   "Kein Firmenname, keine Leistung, keine Telefonnummer auf der Seite",
+   "Bei Google erscheint die Domain mit dem Titel 'Serverinfo' statt mit Ihrem Namen"
+  ],
+  "hebel": "Heizungstausch und Wärmepumpen sind gerade das große Thema. Wer nach einem Heizungsbauer in Eppelborn sucht und auf 'Serverinfo' landet, ruft den Nächsten an. Schon ein Onepager mit Leistungen und Heizungs-Anfrage macht die Domain zum Auftragsbringer.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Leistungen, Heizungs-Anfrage mit Baujahr und Foto, Google-Profil",
+  "svc": [
+   "Heizungs-Anfrage mit Baujahr und Foto",
+   "Seite zu Wärmepumpen, mit Ihnen abgestimmt",
+   "Google-Profil mit Leistungen",
+   "Kundendienst-Anfrage"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Wenn man Ihre Domain aufruft, kommt nur die Seite 'Serverinfo' Ihres Hosters. Ich habe Ihnen mitgebracht, wie die Seite mit Ihren Leistungen aussehen könnte.",
+  "obj": "'Ich mache das irgendwann selbst': Genau dafür ist der Entwurf da. Er steht schon, Sie müssen nur noch Inhalte und Fotos bestätigen.",
+  "k": "pink",
+  "addr": "Steinackerstraße 27",
+  "tel": "06881 962063",
+  "welle": 17
+ },
+ {
+  "name": "Stahlbau Paulus GmbH",
+  "branche": "Stahl- und Metallbau",
+  "url": "http://www.paulus-stahlbau.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Vorher anrufen",
+  "audit": [
+   "Die Seite heißt bei Google 'blank' und zeigt nur 'Unser neuer Web Auftritt befindet sich im Aufbau'",
+   "Keine Leistung, keine Referenz, Telefon und Mobil sind nicht antippbar",
+   "Keine sichere Verbindung (nur http), der Browser zeigt 'Nicht sicher'"
+  ],
+  "hebel": "Stahlbau-Aufträge sind groß, und Bauherren wie Firmen prüfen Betriebe online. Eine Seite mit dem Titel 'blank' und 'im Aufbau' wirkt, als gäbe es den Betrieb kaum. Leistungen, Referenzen und Anfrage mit Maßen ändern das.",
+  "p": [
+   "790 bis 1.190 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Leistungen, Referenzgalerie, Anfrage mit Foto und Maßen, sicherer Verbindung, Google-Profil",
+  "svc": [
+   "Anfrage mit Foto und Maßen",
+   "Referenzgalerie, die Sie vom Handy befüllen",
+   "Google-Profil mit Fotos und Leistungen",
+   "Karriereseite für Metallbauer und Schweißer"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite heißt bei Google 'blank' und zeigt nur, dass der neue Auftritt im Aufbau ist. Ich habe Ihnen mitgebracht, wie der fertige Auftritt aussehen könnte.",
+  "obj": "'Ich mache das irgendwann selbst': Genau dafür ist der Entwurf da. Er steht schon, Sie müssen nur noch Inhalte und Fotos bestätigen.",
+  "k": "paulus",
+  "addr": "Auf Pfuhlst 6",
+  "tel": "06825 8230",
+  "welle": 17
+ },
+ {
+  "name": "Augenoptik Siegel",
+  "branche": "Augenoptik",
+  "url": "http://www.optik-siegel.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Vorher anrufen",
+  "audit": [
+   "Der E-Mail-Link auf der Startseite ist kaputt: er zeigt auf 'info@optik-siegel' ohne '.de', Mails kommen nie an",
+   "Keine sichere Verbindung (nur http), am Handy ist die Seite zu breit",
+   "Öffnungszeiten stehen auf einer Unterseite, im Impressum steht 'Merschweiler' statt Merchweiler"
+  ],
+  "hebel": "Brillenkunden wollen vorher wissen, wann offen ist, und einen Termin für die Augenprüfung ausmachen. Wer per E-Mail-Link anfragt, landet bei einer Adresse ohne '.de', die Mail kommt nie an. Eine sichere Seite mit Zeiten auf der Startseite und Terminanfrage holt diese Kunden.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Website mit Öffnungszeiten auf der Startseite, Terminanfrage, funktionierender E-Mail, sicherer Verbindung, Google-Profil",
+  "svc": [
+   "Terminanfrage für Augenprüfung und Kontaktlinsen",
+   "Öffnungszeiten direkt auf der Startseite",
+   "Google-Profil mit Zeiten und Fotos",
+   "Fassungs-Galerie, die Sie selbst befüllen"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Mir ist aufgefallen, dass der E-Mail-Link auf Ihrer Seite auf 'info@optik-siegel' ohne '.de' zeigt, solche Mails kommen nie an. Ich habe Ihnen mitgebracht, wie die Seite mit Terminanfrage aussehen könnte.",
+  "obj": "'Die Kunden rufen an': Viele ja. Wer abends nach dem Termin schaut, schreibt eine Mail, und die geht bei Ihnen gerade ins Leere.",
+  "k": "siegel",
+  "addr": "Hauptstraße 133",
+  "tel": "06825 88840",
+  "welle": 17
  }
 ]

@@ -297,9 +297,14 @@
   "erwin-niklas-gmbh",
   "bernd-fischer-schreinerei-montage-dienst",
   "d-rrenb-cher-dachdeckerei-d-rrenbecher-j",
-  "brill-rosen"
+  "brill-rosen",
+  "ke-ler-christoph-elektro-und-solartechni",
+  "mendel-silke",
+  "pink-und-schmitt-haustechnik",
+  "stahl-u-metallbau-paulus-gmbh",
+  "siegel-ute-augenoptik"
  ],
- "wave": 16,
+ "wave": 17,
  "deferred": {
   "l-a-nails-nagelstudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
   "nieland-julia-pasta": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
@@ -369,12 +374,7 @@
   "bestattungsinstitut-flunkert": "gepflegte Seite, sensibles Thema"
  },
  "queue_neu": [
-  "ke-ler-christoph-elektro-und-solartechni",
-  "mendel-silke",
-  "pink-und-schmitt-haustechnik",
   "weiskircher-gmbh",
-  "stahl-u-metallbau-paulus-gmbh",
-  "siegel-ute-augenoptik",
   "christian-niklas-gmbh-fenster-t-ren-roll",
   "wagner-karlheinz-stahl-und-metallbau",
   "prinz-christof-friseur",
@@ -382,7 +382,7 @@
   "gilges-daniel-friseursalon"
  ],
  "hinweis": "Neue Leads kommen aus wave/harvest_gs.py (Gelbe Seiten, Ort x Branche) + wave/screen.py (Alterssignale); Kandidaten in wave/new_near.json/screen.json",
- "queue_neu_hinweis": "Pool aus Harvest Merchweiler/Eppelborn/Bexbach (new_near.json + screen.json, 181 brauchbare). Keßler, Mendel, Christian Niklas: Platzhalter \"Hier entsteht eine neue Homepage\". Pink und Schmitt: Titel \"Serverinfo\". Paulus: Titel \"blank\". Gilges: eher modern, nur kleine Mängel (leerer mailto, Plugin-Fehler auf Preisseite, TMG/RStV). VKV: Wartungsmodus.",
+ "queue_neu_hinweis": "Weiskircher (Naturstein/Grabmale, eher solide Seite), Christian Niklas (Platzhalter \"neue Internetpräsenz\", fetched), Wagner Metallbau (IONOS, eher modern), Prinz Friseur, VKV (Wartung), Gilges (modern). Danach weitere aus screen.json ranken (Pool Merchweiler/Eppelborn/Bexbach/Illingen) oder harvest_gs.py neue Orte: Quierschied, Sulzbach, St. Ingbert, Homburg.",
  "skip": [
   "naturfreundehaus",
   "zickwolff-garten-und-landschaftsbau",
