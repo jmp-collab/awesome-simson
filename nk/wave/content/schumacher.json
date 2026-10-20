@@ -1,0 +1,104 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "hours": [],
+ "mcta": "Anrufen",
+ "slug": "schumacher-norbert-montagebetrieb",
+ "theme": "papier",
+ "name": "Montagebetrieb Norbert Schumacher",
+ "branche": "Fenster, Türen, Bodenbeläge",
+ "addr": "Rentrischer Weg 23 · 66386 St. Ingbert",
+ "tel": "06894 386465",
+ "url": "https://www.montage-schumacher.de",
+ "label": "Solide Chance",
+ "visit": "Vorher anrufen",
+ "logo_a": "Montage",
+ "logo_b": "Schumacher",
+ "nav": [
+  "Fenster und Türen",
+  "Böden",
+  "Objekteinrichtung",
+  "Kontakt"
+ ],
+ "eyebrow": "Montagebetrieb in St. Ingbert",
+ "h1": "Fenster, Türen, Böden. Und Einrichtung für Büro und Archiv.",
+ "lead": "Haustüren, Zimmertüren und Fenster aus Holz, Kunststoff und Alu, Laminat und Parkett, Rollläden, Schließanlagen und Trennwände. Büro-, Archiv- und Bibliothekseinrichtungen auf Wunsch mit Raumplanung durch unsere Innenarchitektin.",
+ "cta1": "Anrufen: 06894 386465",
+ "cta2": "Anfrage mit Maßen",
+ "badge": [
+  "Alles",
+  "aus einer Hand"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Fenster und Türen</b> aus Holz, Kunststoff und Alu",
+  "<b>Raumplanung</b> durch unsere Innenarchitektin",
+  "<b>Reparaturen</b> an Glas und Beschlägen"
+ ],
+ "svc_title": "Leistungsspektrum",
+ "services": [
+  [
+   "Fenster",
+   "Holz, Kunststoff und Alu."
+  ],
+  [
+   "Haus- und Zimmertüren",
+   "Montage und Austausch."
+  ],
+  [
+   "Böden",
+   "Laminat und Parkett, auch für Büros."
+  ],
+  [
+   "Rollläden und Jalousien",
+   "Kunststoff, Alu, vertikal."
+  ],
+  [
+   "Objekteinrichtung",
+   "Büro, Archiv, Lager, Bibliothek."
+  ],
+  [
+   "Sicherheit",
+   "Schließanlagen und Sicherheitssysteme."
+  ]
+ ],
+ "band": "Neue Fenster oder Böden? Maße oder Foto schicken, wir melden uns.",
+ "contact": "Montagebetrieb Norbert Schumacher<br>Rentrischer Weg 23<br>66386 St. Ingbert<br><br>Telefon 06894 386465<br>montage-schumacher@t-online.de",
+ "audit": [
+  "Im Google-Titel steht die falsche Postleitzahl: '66836 St.Ingbert' statt 66386, und die Umlaute im Titel sind kaputt ('T�REN')",
+  "Die Leistungsliste ist als Buchstabensalat formatiert ('H austüren', 'Z immertüren'), die Startseite selbst hat kaum Text",
+  "Telefon und E-Mail sind nicht antippbar, am Handy ist die Seite rund 990 Pixel breit"
+ ],
+ "hebel": "Fenster, Türen und Objekteinrichtung sind Aufträge für Private und Firmen. Mit falscher Postleitzahl und kaputten Umlauten im Google-Titel wird die Seite für St. Ingbert schlechter gefunden. Eine saubere Seite mit getrennten Bereichen für Privat und Gewerbe holt beide Zielgruppen.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Bereichen Privat und Gewerbe, Referenzen, Anfrage mit Maßen, korrektem Google-Titel, Google-Profil",
+ "svc": [
+  "Anfrage mit Maßen und Foto",
+  "Eigener Bereich für Objekteinrichtung und Raumplanung",
+  "Referenzen nach Privat und Gewerbe",
+  "Google-Profil mit Leistungen"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. In Ihrem Google-Titel steht die Postleitzahl 66836 statt 66386, und die Umlaute sind kaputt. Ich habe Ihnen mitgebracht, wie die Seite für Privat und Gewerbe aussehen könnte.",
+ "obj": "'Unsere Firmenkunden kennen uns': Neue finden Sie über Google, und dort steht gerade eine falsche Postleitzahl.",
+ "obs": [
+  "Falsche PLZ und kaputte Umlaute im Google-Titel.",
+  "Leistungsliste als Buchstabensalat.",
+  "Am Handy zu breit, nichts antippbar."
+ ],
+ "neu": [
+  "Richtiger Titel mit Ort",
+  "Bereiche Privat und Gewerbe",
+  "Anfrage mit Maßen"
+ ]
+}

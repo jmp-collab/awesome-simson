@@ -671,5 +671,35 @@
   3000,
   "Auftrag",
   5
+ ],
+ "yvonne": [
+  "auftrag",
+  70,
+  "Termin",
+  40
+ ],
+ "kopp": [
+  "auftrag",
+  4000,
+  "Auftrag",
+  3
+ ],
+ "tatsch": [
+  "auftrag",
+  1500,
+  "Auftrag",
+  5
+ ],
+ "kms": [
+  "auftrag",
+  300,
+  "Auftrag",
+  30
+ ],
+ "schumacher": [
+  "auftrag",
+  4000,
+  "Auftrag",
+  4
  ]
 }

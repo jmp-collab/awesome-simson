@@ -1,0 +1,100 @@
+{
+ "k": "schumacher",
+ "url": "https://www.montage-schumacher.de",
+ "date": "2026-10-20",
+ "desk": {
+  "ok": true,
+  "load_s": 2.2,
+  "status": 200,
+  "final": "https://www.montage-schumacher.de/",
+  "title": "Montagebetrieb Norbert Schumacher +++ FENSTER-TÜREN-BODENBELÄGE +++ 66836 St.Ingbert",
+  "desc": "Ihr Montagebetrieb für Fenster, Türen, Bodenbeläge, Einrichtungen, Sicherheit uvm. ",
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [],
+  "words": 18,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 1,
+  "maps": false,
+  "localbiz": false,
+  "favicon": false,
+  "imgs": 3,
+  "broken": [
+   {
+    "src": "https://www.belz-rupp.de/tool/counter/counter-br/counter.php?ID=12456",
+    "alt": ""
+   }
+  ],
+  "noalt": 1,
+  "big": [],
+  "years": [],
+  "small": 0,
+  "total": 12,
+  "taps": 0,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Failed to load resource: the server responded with a status of 500 (Internal Server Error)"
+  ],
+  "requests": 8,
+  "bytes": 319286,
+  "img_bytes": 319286
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 1.4,
+  "status": 200,
+  "final": "https://www.montage-schumacher.de/",
+  "title": "Montagebetrieb Norbert Schumacher +++ FENSTER-TÜREN-BODENBELÄGE +++ 66836 St.Ingbert",
+  "desc": "Ihr Montagebetrieb für Fenster, Türen, Bodenbeläge, Einrichtungen, Sicherheit uvm. ",
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [],
+  "words": 18,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 1,
+  "maps": false,
+  "localbiz": false,
+  "favicon": false,
+  "imgs": 3,
+  "broken": [
+   {
+    "src": "https://www.belz-rupp.de/tool/counter/counter-br/counter.php?ID=12456",
+    "alt": ""
+   }
+  ],
+  "noalt": 1,
+  "big": [],
+  "years": [],
+  "small": 0,
+  "total": 12,
+  "taps": 0,
+  "placeholders": [],
+  "scrollW": 990,
+  "innerW": 990,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Failed to load resource: the server responded with a status of 500 (Internal Server Error)"
+  ],
+  "requests": 8,
+  "bytes": 319286,
+  "img_bytes": 319286
+ },
+ "http_to": "https://www.montage-schumacher.de/",
+ "http_code": "200",
+ "http_redirects_to_https": true
+}

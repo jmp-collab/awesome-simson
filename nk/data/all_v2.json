@@ -30602,5 +30602,104 @@
   "tel": "06806 74 17",
   "slug": "staudt-gmbh-badm-bel",
   "src": "gelbeseiten"
+ },
+ {
+  "name": "SANITEC Gebäudetechnik",
+  "branch": "Solartechnik",
+  "addr": "Moselstr. 9, 66386 St. Ingbert (Hassel)",
+  "plz": "66386",
+  "url": "http://www.sanitec-saar.de",
+  "final": "http://www.sanitec-saar.de/",
+  "tel": "06894 9 98 94 80",
+  "slug": "sanitec-geb-udetechnik",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Hans-Jürgen Hoffmann Kfz-Mechaniker",
+  "branch": "Autoreparaturen",
+  "addr": "Obere Kaiserstr. 256, 66386 St. Ingbert (Rohrbach)",
+  "plz": "66386",
+  "url": "http://www.kms-hoffmann.de",
+  "final": "http://www.kms-hoffmann.de/",
+  "tel": "06894 9 21 80 58",
+  "slug": "hans-j-rgen-hoffmann-kfz-mechaniker",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Labisch Fenster & Türen",
+  "branch": "Fenster",
+  "addr": "An der Kiesgrube 21, 66424 Homburg (Beeden)",
+  "plz": "66424",
+  "url": "http://www.fenster-labisch.de",
+  "final": "https://www.fenster-labisch.de/",
+  "tel": "0151 42 53 96 95",
+  "slug": "labisch-fenster-t-ren",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Schumacher Norbert Montagebetrieb",
+  "branch": "Tischlereien",
+  "addr": "Rentrischer Weg 23, 66386 St. Ingbert",
+  "plz": "66386",
+  "url": "http://www.montage-schumacher.de",
+  "final": "https://www.montage-schumacher.de/",
+  "tel": "06894 38 64 65",
+  "slug": "schumacher-norbert-montagebetrieb",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Yvonne Gruber-Flausse Kosmetik",
+  "branch": "Kosmetikstudios",
+  "addr": "Paulsburgstr. 1a, 66287 Quierschied",
+  "plz": "66287",
+  "url": "http://kosmetikinstitut-yvonne.de",
+  "final": "http://kosmetikinstitut-yvonne.de/",
+  "tel": "0151 11 94 92 99",
+  "slug": "yvonne-gruber-flausse-kosmetik",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Kopp Gerhard Gartengestaltung",
+  "branch": "Garten- und Landschaftsbau",
+  "addr": "Grubenweg 33, 66287 Quierschied",
+  "plz": "66287",
+  "url": "http://www.gartengestaltung-kopp.de",
+  "final": "https://www.gartengestaltung-kopp.de/",
+  "tel": "06897 5 00 94 85",
+  "slug": "kopp-gerhard-gartengestaltung",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Schmitt Thomas Malerbetrieb",
+  "branch": "Malerbetriebe",
+  "addr": "Hochstr. 98, 66386 St. Ingbert (Rohrbach)",
+  "plz": "66386",
+  "url": "http://www.malerbetriebschmitt.eu",
+  "final": "https://www.malerbetriebschmitt.eu/",
+  "tel": "06894 58 13 64",
+  "slug": "schmitt-thomas-malerbetrieb",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Ulrich Mike Friseursalon",
+  "branch": "Friseure",
+  "addr": "Am Hang 1, 66280 Sulzbach/Saar",
+  "plz": "66280",
+  "url": "http://www.friseurteam-ulrich.de",
+  "final": "https://www.friseurteam-ulrich.de/",
+  "tel": "06897 36 73",
+  "slug": "ulrich-mike-friseursalon",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Tatsch Rainer Elektromeister",
+  "branch": "Elektroinstallationen",
+  "addr": "Spieser Str. 44A, 66386 St. Ingbert (Rohrbach)",
+  "plz": "66386",
+  "url": "http://www.elektro-rainer-tatsch.de",
+  "final": "http://www.elektro-rainer-tatsch.de/",
+  "tel": "06894 3 66 99",
+  "slug": "tatsch-rainer-elektromeister",
+  "src": "gelbeseiten"
  }
 ]

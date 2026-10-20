@@ -1,0 +1,55 @@
+{
+ "key": "schumacher-norbert-montagebetrieb",
+ "url": "https://www.montage-schumacher.de/",
+ "title": "Montagebetrieb Norbert Schumacher +++ FENSTER-TÜREN-BODENBELÄGE +++ 66836 St.Ingbert",
+ "text": "Startseite\nLeistungsspektrum\nBildergalerie\nReferenzen\nFenster\nKontakt\nImpressum/Datenschutz\nRentrischer Weg 23\n66386 St.Ingbert\nTelefon 0 68 94 / 38 64 65\nTelefax 0 68 94 / 38 64 67\nmontage-schumacher@t-online.de",
+ "imgs": [
+  {
+   "src": "https://www.montage-schumacher.de/images/start.jpg",
+   "w": 827,
+   "h": 431
+  }
+ ],
+ "bg": [
+  "https://www.montage-schumacher.de/images/back_body.jpg",
+  "https://www.montage-schumacher.de/images/back_site2.jpg",
+  "https://www.montage-schumacher.de/images/back_top.jpg"
+ ],
+ "tel": [],
+ "mail": [],
+ "links": [
+  {
+   "t": "Startseite",
+   "h": "https://www.montage-schumacher.de/index.htm"
+  },
+  {
+   "t": "Leistungsspektrum",
+   "h": "https://www.montage-schumacher.de/leistung.htm"
+  },
+  {
+   "t": "Bildergalerie",
+   "h": "https://www.montage-schumacher.de/galerie.htm"
+  },
+  {
+   "t": "Referenzen",
+   "h": "https://www.montage-schumacher.de/referenzen.htm"
+  },
+  {
+   "t": "Fenster",
+   "h": "https://www.montage-schumacher.de/fenster.htm"
+  },
+  {
+   "t": "Kontakt",
+   "h": "https://www.montage-schumacher.de/kontakt.htm"
+  },
+  {
+   "t": "Impressum/Datenschutz",
+   "h": "https://www.montage-schumacher.de/impressum.htm"
+  }
+ ],
+ "saved": [
+  "img/schumacher-norbert-montagebetrieb_0.jpg",
+  "img/schumacher-norbert-montagebetrieb_1.jpg",
+  "img/schumacher-norbert-montagebetrieb_2.jpg"
+ ]
+}

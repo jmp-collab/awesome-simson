@@ -1342,5 +1342,65 @@
    "Anfrage mit Badmaßen",
    "Am Handy lesbar"
   ]
+ },
+ "yvonne": {
+  "obs": [
+   "E-Mail-Link mit Tippfehler, Mails kommen nicht an.",
+   "Zwei Adressen bei Website und Gelbe Seiten.",
+   "Titel ohne Kosmetik und Ort."
+  ],
+  "neu": [
+   "Terminanfrage, die ankommt",
+   "Gutscheine online",
+   "Einheitliche Adresse"
+  ]
+ },
+ "kopp": {
+  "obs": [
+   "Nur 'Diese Seite ist zur Zeit in Bearbeitung'.",
+   "Kein Name, keine Nummer.",
+   "Keine Leistungen."
+  ],
+  "neu": [
+   "Leistungen und Fotos",
+   "Anfrage mit Foto",
+   "Rechtzeitig zur Saison"
+  ]
+ },
+ "tatsch": {
+  "obs": [
+   "Nur 'Domain aktuell nicht zu erreichen'.",
+   "Wirkt wie ein geschlossener Betrieb.",
+   "Kein Name, keine Nummer."
+  ],
+  "neu": [
+   "Leistungen und Telefon",
+   "Hosting aus einer Hand",
+   "Anfrage mit Foto"
+  ]
+ },
+ "kms": {
+  "obs": [
+   "TÜV-Hinweis ohne Jahreszahl.",
+   "Zwei Hausnummern bei Website und Gelbe Seiten.",
+   "Keine sichere Verbindung, am Handy zu breit."
+  ],
+  "neu": [
+   "TÜV-Terminanfrage",
+   "Einheitliche Adresse",
+   "Sichere Verbindung"
+  ]
+ },
+ "schumacher": {
+  "obs": [
+   "Falsche PLZ und kaputte Umlaute im Google-Titel.",
+   "Leistungsliste als Buchstabensalat.",
+   "Am Handy zu breit, nichts antippbar."
+  ],
+  "neu": [
+   "Richtiger Titel mit Ort",
+   "Bereiche Privat und Gewerbe",
+   "Anfrage mit Maßen"
+  ]
  }
 }

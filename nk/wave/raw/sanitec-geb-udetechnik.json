@@ -1,0 +1,89 @@
+{
+ "key": "sanitec-geb-udetechnik",
+ "url": "http://www.sanitec-saar.de/",
+ "title": "",
+ "text": "HOME\nKONTAKT\nIMPRESSUM\nDATENSCHUTZERKLÄRUNG\nFIRMA\nHEIZUNG\nSANITÄR\nUMWELTTECHNIK\nTEAM\nREFERENZEN\nHerzlich Willkommen,\n\nauf der Webseite von Sanitec – Gebäudetechnik.\n\nWir sind Ihr zuverlässiger Partner, wenn es um Heizung, Sanitär und Umwelttechnik geht.\n\nAuf diesen Seiten möchten wir Ihnen die Möglichkeit geben sich über unser Unternehmen und unsere Leistungen vorab zu informieren.\n\nWenn Sie Fragen haben und weitere Informationen oder ein Angebot wünschen,\nkönnen Sie sich gerne mit uns in Verbindung setzen.\nTelefonisch unter 06894 – 99 89 480 oder per Mail unter a.klein@sanitec-saar.de.\n\nSanitec – Gebäudetechnik\n\nAndreas Klein\n\nMoselstraße 9\n66386 St.Ingbert-Hassel\n\nTelefon: 06894 – 99 89 480\nTelefax: 06894 – 99 89 477\nMobil: 0157 – 83 03 48 42\n\na.klein@sanitec-saar.de",
+ "imgs": [
+  {
+   "src": "http://sanitec-saar.de/images/stories/slider/01.jpg",
+   "w": 529,
+   "h": 289
+  },
+  {
+   "src": "http://sanitec-saar.de/images/stories/slider/02.jpg",
+   "w": 529,
+   "h": 289
+  },
+  {
+   "src": "http://sanitec-saar.de/images/stories/slider/03.jpg",
+   "w": 529,
+   "h": 289
+  }
+ ],
+ "bg": [
+  "http://www.sanitec-saar.de/wp-content/themes/_tk-child/img/topbg.jpg",
+  "http://www.sanitec-saar.de/web/20141220184719im_/http://gk-sanitec.de/templates/template_gksanitec/bilder/navbg.jpg",
+  "http://www.sanitec-saar.de/web/20141220184719im_/http://gk-sanitec.de/templates/template_gksanitec/bilder/mainbg.jpg",
+  "http://www.sanitec-saar.de/web/20141220184719im_/http://gk-sanitec.de/templates/template_gksanitec/bilder/bottombg.jpg"
+ ],
+ "tel": [],
+ "mail": [
+  "mailto:a.klein@sanitec-saar.de",
+  "mailto:a.klein@sanitec-saar.de"
+ ],
+ "links": [
+  {
+   "t": "HOME",
+   "h": "https://sanitec-saar.de/"
+  },
+  {
+   "t": "KONTAKT",
+   "h": "http://www.sanitec-saar.de/kontakt"
+  },
+  {
+   "t": "IMPRESSUM",
+   "h": "http://www.sanitec-saar.de/impressum"
+  },
+  {
+   "t": "DATENSCHUTZERKLÄRUNG",
+   "h": "http://www.sanitec-saar.de/datenschutzerklaerung"
+  },
+  {
+   "t": "FIRMA",
+   "h": "http://www.sanitec-saar.de/firma"
+  },
+  {
+   "t": "HEIZUNG",
+   "h": "http://www.sanitec-saar.de/heizung"
+  },
+  {
+   "t": "SANITÄR",
+   "h": "http://www.sanitec-saar.de/sanitaer"
+  },
+  {
+   "t": "UMWELTTECHNIK",
+   "h": "http://www.sanitec-saar.de/umwelttechnik"
+  },
+  {
+   "t": "TEAM",
+   "h": "http://www.sanitec-saar.de/team"
+  },
+  {
+   "t": "REFERENZEN",
+   "h": "http://www.sanitec-saar.de/referenzen"
+  },
+  {
+   "t": "a.klein@sanitec-saar.de",
+   "h": "mailto:a.klein@sanitec-saar.de"
+  },
+  {
+   "t": "a.klein@sanitec-saar.de",
+   "h": "mailto:a.klein@sanitec-saar.de"
+  }
+ ],
+ "saved": [
+  "img/sanitec-geb-udetechnik_0.jpg",
+  "img/sanitec-geb-udetechnik_1.jpg",
+  "img/sanitec-geb-udetechnik_2.jpg"
+ ]
+}
