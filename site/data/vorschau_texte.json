@@ -1462,5 +1462,65 @@
    "Anfrage mit Maßen",
    "Sichere Verbindung"
   ]
+ },
+ "woll": {
+  "obs": [
+   "Nur Foto, Adresse, Telefon und Fax.",
+   "Kein Sortiment, keine Öffnungszeiten.",
+   "Keine sichere Verbindung, am Handy zu breit."
+  ],
+  "neu": [
+   "Sortiment mit Bildern",
+   "Öffnungszeiten",
+   "Anfrage mit Foto"
+  ]
+ },
+ "ducke": {
+  "obs": [
+   "Nur 'Hier entsteht eine neue Homepage'.",
+   "Hoster-Werbung auf der Domain.",
+   "Kein Name, kein Impressum."
+  ],
+  "neu": [
+   "Kanzleiprofil",
+   "Terminanfrage",
+   "Pflichtangaben"
+  ]
+ },
+ "spang": {
+  "obs": [
+   "Fotostudio ohne Fotos online.",
+   "Keine Leistungen, keine Preise.",
+   "Keine sichere Verbindung, am Handy zu breit."
+  ],
+  "neu": [
+   "Rechtssichere Galerie",
+   "Leistungen und Preise",
+   "Terminanfrage"
+  ]
+ },
+ "bachmann": {
+  "obs": [
+   "Name dreimal falsch geschrieben, Vorlagentext.",
+   "Titel 'Home', Impressum ohne E-Mail.",
+   "Keine sichere Verbindung, am Handy zu breit."
+  ],
+  "neu": [
+   "Sauberer Text",
+   "Bereiche je Leistung",
+   "Vollständiges Impressum"
+  ]
+ },
+ "trautmann": {
+  "obs": [
+   "Nur Serverliste 'Index of /'.",
+   "Wirkt technisch nicht sauber.",
+   "Kein Name, kein Impressum."
+  ],
+  "neu": [
+   "Kanzleiprofil",
+   "Terminanfrage",
+   "Server sauber konfiguriert"
+  ]
  }
 }

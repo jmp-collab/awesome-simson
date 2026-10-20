@@ -3895,5 +3895,165 @@
   "addr": "Völklinger Straße 2",
   "tel": "06806 9312071",
   "welle": 23
+ },
+ {
+  "name": "Franz Woll Innendekoration",
+  "branche": "Innendekoration und Bodenbeläge",
+  "url": "http://www.franz-woll.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Zu Geschäftszeiten im Laden",
+  "audit": [
+   "Die Website zeigt nur ein Foto vom Laden, Adresse, Telefon und Fax, sonst nichts",
+   "Keine Leistungen, kein Sortiment, keine Öffnungszeiten, kein Menü",
+   "Keine sichere Verbindung (nur http), am Handy rund 980 Pixel breit, Telefon nicht antippbar"
+  ],
+  "hebel": "Gardinen, Sonnenschutz und Böden verkaufen sich über Bilder und Beratung. Wer 'Gardinen St. Ingbert' sucht, findet heute nur Adresse und Fax. Eine Seite mit Sortiment, Öffnungszeiten und Anfrage mit Foto vom Raum bringt die Kunden in den Laden.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Sortiment, Öffnungszeiten, Fotos, Anfrage mit Foto vom Raum, sicherer Verbindung, Google-Profil",
+  "svc": [
+   "Beratungsanfrage mit Foto vom Raum",
+   "Öffnungszeiten auf der Startseite",
+   "Google-Profil mit Fotos aus dem Laden",
+   "Saisonaktionen als eigene Seite"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite zeigt nur Adresse, Telefon und Fax, kein Sortiment und keine Öffnungszeiten. Ich habe Ihnen mitgebracht, wie Ihr Laden online aussehen könnte.",
+  "obj": "'Die Kunden kennen den Laden': Die Stammkunden ja. Neue suchen am Handy nach Gardinen oder Böden und kommen dorthin, wo sie Bilder sehen.",
+  "k": "woll",
+  "addr": "Ludwigstraße 10/12",
+  "tel": "06894 2210",
+  "welle": 24
+ },
+ {
+  "name": "Steuerberater Klaus Dieter Ducke",
+  "branche": "Steuerberatung",
+  "url": "https://www.stb-ducke.com",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Vorher anrufen und Termin vereinbaren",
+  "audit": [
+   "Die Domain stb-ducke.com zeigt nur 'Hier entsteht eine neue Homepage. Schauen Sie doch mal wieder vorbei!'",
+   "Darunter wirbt der Hoster: 'Interessieren Sie sich für eine eigene Homepage?'",
+   "Kein Name, keine Leistung, keine Telefonnummer und kein Impressum auf der Seite"
+  ],
+  "hebel": "Neue Mandanten prüfen eine Kanzlei online, bevor sie anrufen. Eine Domain, auf der der Hoster für sich wirbt, wirkt nicht wie eine Kanzlei. Ein schlichter Onepager mit Leistungen, Terminanfrage und den Pflichtangaben schafft sofort Vertrauen.",
+  "p": [
+   "790 bis 1.190 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Leistungen, Kanzleiprofil, Terminanfrage, Pflichtangaben für Steuerberater, Google-Profil",
+  "svc": [
+   "Terminanfrage mit Anliegen",
+   "Sicherer Upload für Unterlagen, mit Ihnen abgestimmt",
+   "Google-Profil der Kanzlei",
+   "Impressum mit Kammerangaben"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf stb-ducke.com steht nur 'Hier entsteht eine neue Homepage', und darunter wirbt der Hoster. Ich habe Ihnen mitgebracht, wie ein schlichter Kanzlei-Auftritt aussehen könnte.",
+  "obj": "'Meine Mandanten kommen über Empfehlung': Und schauen dann nach. Ein Platzhalter mit Hoster-Werbung wirkt nicht wie eine Kanzlei.",
+  "k": "ducke",
+  "addr": "Rentamtstraße 41",
+  "tel": "06894 9903650",
+  "welle": 24
+ },
+ {
+  "name": "Foto Spang",
+  "branche": "Fotostudio",
+  "url": "http://www.fotostudio-spang.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Montag, Dienstag, Donnerstag oder Freitag zu den Öffnungszeiten",
+  "audit": [
+   "Ein Fotostudio ohne Fotos: Auf der Startseite steht, dass wegen Urheberrecht und Datenschutz keine Bilder mehr online gezeigt werden",
+   "Keine Leistungen und keine Preise, nur Öffnungszeiten und ein Hinweistext",
+   "Keine sichere Verbindung (nur http), am Handy rund 1.190 Pixel breit"
+  ],
+  "hebel": "Fotos verkaufen sich über Fotos. Mit Einwilligungen, Studio- und Produktaufnahmen lässt sich das rechtssicher zeigen. Eine Seite mit Passbild- und Bewerbungsfoto-Angebot, Preisen und Terminanfrage holt die Kunden, die heute 'Passbild Neunkirchen' am Handy suchen.",
+  "p": [
+   "790 bis 1.190 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Website mit Leistungen und Preisen, rechtssicherer Galerie mit Einwilligungen, Terminanfrage, Google-Profil",
+  "svc": [
+   "Einwilligungs-Vorlage für Beispielbilder",
+   "Terminanfrage für Bewerbungsfotos",
+   "Google-Profil mit Studio-Fotos",
+   "Seite Passbilder mit Preis"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite steht, dass Sie keine Bilder mehr online zeigen dürfen. Ich habe Ihnen mitgebracht, wie man das mit Einwilligungen und Studiofotos rechtssicher löst.",
+  "obj": "'Wir dürfen ja keine Bilder zeigen': Mit Einwilligung der Kunden und eigenen Studio- und Produktfotos schon. Genau das baut die neue Seite ein.",
+  "k": "spang",
+  "addr": "Hauptstraße 122",
+  "tel": "06821 73507",
+  "welle": 24
+ },
+ {
+  "name": "Raumausstattung Bachmann",
+  "branche": "Raumausstattung",
+  "url": "http://www.raumausstattung-bachmann.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Vorher anrufen, Herr Volker Bachmann",
+  "audit": [
+   "Auf der Startseite steht dreimal 'Raumaustattung' ohne zweites s, dazu 'spezialisiet' und ein Textbaustein aus der Vorlage ('Bei Raumaustattung Bachmann steht der Kunde immer an erster Stelle')",
+   "Die Seite heißt bei Google nur 'Home', im Impressum ist das ß kaputt ('Goethestrae') und es fehlt eine E-Mail-Adresse",
+   "Keine sichere Verbindung (nur http), am Handy rund 980 Pixel breit, Telefon nicht antippbar"
+  ],
+  "hebel": "Fast 100 Jahre Raumausstattung sind ein starkes Argument. Tippfehler im eigenen Namen und Vorlagentext lassen den Betrieb aber kleiner wirken, als er ist. Eine saubere Seite mit Sonnenschutz und Böden als eigene Bereiche und Anfrage per Foto holt die Aufträge.",
+  "p": [
+   "790 bis 1.190 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Website mit Bereichen Sonnenschutz, Fensterdeko und Böden, Galerie, Anfrage mit Foto, vollständigem Impressum, Google-Profil",
+  "svc": [
+   "Anfrage mit Foto vom Fenster oder Raum",
+   "Galerie vorher und nachher",
+   "Vollständiges Impressum",
+   "Google-Profil mit Fotos"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht Ihr eigener Name dreimal als 'Raumaustattung', und im Impressum fehlt die E-Mail-Adresse. Ich habe Ihnen mitgebracht, wie fast 100 Jahre Raumausstattung online aussehen könnten.",
+  "obj": "'Das hat mal jemand für uns gemacht': Dann ist jetzt der richtige Zeitpunkt, es sauber zu machen, bevor das 100-jährige Jubiläum kommt.",
+  "k": "bachmann",
+  "addr": "Goethestraße 12",
+  "tel": "06849 388",
+  "welle": 24
+ },
+ {
+  "name": "Trautmann Treuhand GmbH",
+  "branche": "Steuerberatungsgesellschaft",
+  "url": "https://www.taxin.biz",
+  "g": "keine Google-Daten erfasst",
+  "label": "Dringend",
+  "visit": "Vorher anrufen und Termin vereinbaren",
+  "audit": [
+   "Die Domain taxin.biz zeigt statt einer Website die nackte Verzeichnisliste des Servers: 'Index of /' mit dem Ordner 'cgi-bin/'",
+   "Für eine Steuerkanzlei wirkt eine offene Serverliste unprofessionell und ist auch technisch nicht sauber konfiguriert",
+   "Kein Name, keine Leistung, keine Telefonnummer und kein Impressum auf der Seite"
+  ],
+  "hebel": "Mandanten vertrauen einer Kanzlei ihre Finanzen an. Wer die Domain aufruft und eine offene Serverliste sieht, zweifelt an der Sorgfalt, auch wenn dahinter nichts Vertrauliches liegt. Ein schlichter Kanzlei-Auftritt mit Leistungen und Pflichtangaben stellt das sofort richtig.",
+  "p": [
+   "790 bis 1.190 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Leistungen, Kanzleiprofil, Terminanfrage, Pflichtangaben, Server sauber konfiguriert, Google-Profil",
+  "svc": [
+   "Server- und Domain-Check, Verzeichnisliste abschalten",
+   "Terminanfrage mit Anliegen",
+   "Sicherer Upload für Unterlagen, mit Ihnen abgestimmt",
+   "Google-Profil der Kanzlei"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Wenn man taxin.biz aufruft, sieht man nur die Verzeichnisliste des Servers mit 'Index of /'. Ich habe Ihnen mitgebracht, wie dort ein schlichter Kanzlei-Auftritt stehen könnte.",
+  "obj": "'Die Domain nutzen wir kaum': Google und neue Mandanten finden sie trotzdem. Lieber eine saubere Seite als eine offene Serverliste.",
+  "k": "trautmann",
+  "addr": "Albert-Weisgerber-Allee 31",
+  "tel": "06894 91470",
+  "welle": 24
  }
 ]

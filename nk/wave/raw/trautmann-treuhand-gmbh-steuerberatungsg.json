@@ -1,0 +1,32 @@
+{
+ "key": "trautmann-treuhand-gmbh-steuerberatungsg",
+ "url": "https://www.taxin.biz/",
+ "title": "Index of /",
+ "text": "Index of /\n \tName\tLast modified\tSize\tDescription\n\n\n \tcgi-bin/\t2026-07-10 23:04\t-\t \n",
+ "imgs": [],
+ "bg": [],
+ "tel": [],
+ "mail": [],
+ "links": [
+  {
+   "t": "Name",
+   "h": "https://www.taxin.biz/?C=N;O=D"
+  },
+  {
+   "t": "Last modified",
+   "h": "https://www.taxin.biz/?C=M;O=A"
+  },
+  {
+   "t": "Size",
+   "h": "https://www.taxin.biz/?C=S;O=A"
+  },
+  {
+   "t": "Description",
+   "h": "https://www.taxin.biz/?C=D;O=A"
+  },
+  {
+   "t": "cgi-bin/",
+   "h": "https://www.taxin.biz/cgi-bin/"
+  }
+ ]
+}

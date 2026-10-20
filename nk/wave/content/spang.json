@@ -1,0 +1,109 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "alt_text": "Beispielbilder nur mit Einwilligung der Abgebildeten oder als Studio- und Produktfotos. Genau das löst die neue Seite.",
+ "hours": [
+  [
+   "Mo, Di, Do, Fr",
+   "8:30 bis 12:00 und 14:30 bis 18:00"
+  ],
+  [
+   "Mittwoch",
+   "Ruhetag"
+  ],
+  [
+   "Samstag",
+   "nur nach Termin"
+  ]
+ ],
+ "mcta": "Anrufen",
+ "slug": "spang-gmbh-knut-foto",
+ "theme": "event",
+ "name": "Foto Spang",
+ "branche": "Fotostudio",
+ "addr": "Hauptstraße 122 · 66583 Spiesen-Elversberg",
+ "tel": "06821 73507",
+ "url": "http://www.fotostudio-spang.de",
+ "label": "Solide Chance",
+ "visit": "Montag, Dienstag, Donnerstag oder Freitag zu den Öffnungszeiten",
+ "logo_a": "Foto",
+ "logo_b": "Spang",
+ "nav": [
+  "Passbilder",
+  "Bewerbung",
+  "Studio",
+  "Termin"
+ ],
+ "eyebrow": "Fotofach-Studio in Spiesen seit 1975",
+ "h1": "Ihr Fotofach-Studio seit 1975.",
+ "lead": "Foto Spang in Spiesen-Elversberg: Fotos im Studio, Beratung und eine große Auswahl an Beispielbildern vor Ort.",
+ "cta1": "Termin anfragen",
+ "cta2": "Anrufen: 06821 73507",
+ "badge": [
+  "1975",
+  "seit"
+ ],
+ "deco": "FOTO",
+ "hero_img": "img/spang-gmbh-knut-foto_0.jpg",
+ "trust": [
+  "<b>Seit 1975</b> in Spiesen",
+  "<b>Studio</b> mit Beispielbildern vor Ort",
+  "<b>Samstag</b> nach Termin"
+ ],
+ "svc_title": "Im Studio",
+ "services": [
+  [
+   "Passbilder",
+   "Schnell und fertig zum Mitnehmen."
+  ],
+  [
+   "Bewerbungsfotos",
+   "Professionell im Studio."
+  ],
+  [
+   "Porträts",
+   "Für Familie und Paare."
+  ],
+  [
+   "Termin",
+   "Auch samstags nach Absprache."
+  ]
+ ],
+ "band": "Passbild oder Bewerbungsfoto? Einfach vorbeikommen oder Termin anfragen.",
+ "contact": "Foto Spang<br>Knut Spang<br>Hauptstraße 122<br>66583 Spiesen-Elversberg<br><br>Telefon 06821 73507<br>knutspang@t-online.de",
+ "audit": [
+  "Ein Fotostudio ohne Fotos: Auf der Startseite steht, dass wegen Urheberrecht und Datenschutz keine Bilder mehr online gezeigt werden",
+  "Keine Leistungen und keine Preise, nur Öffnungszeiten und ein Hinweistext",
+  "Keine sichere Verbindung (nur http), am Handy rund 1.190 Pixel breit"
+ ],
+ "hebel": "Fotos verkaufen sich über Fotos. Mit Einwilligungen, Studio- und Produktaufnahmen lässt sich das rechtssicher zeigen. Eine Seite mit Passbild- und Bewerbungsfoto-Angebot, Preisen und Terminanfrage holt die Kunden, die heute 'Passbild Neunkirchen' am Handy suchen.",
+ "p": [
+  "790 bis 1.190 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Leistungen und Preisen, rechtssicherer Galerie mit Einwilligungen, Terminanfrage, Google-Profil",
+ "svc": [
+  "Einwilligungs-Vorlage für Beispielbilder",
+  "Terminanfrage für Bewerbungsfotos",
+  "Google-Profil mit Studio-Fotos",
+  "Seite Passbilder mit Preis"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite steht, dass Sie keine Bilder mehr online zeigen dürfen. Ich habe Ihnen mitgebracht, wie man das mit Einwilligungen und Studiofotos rechtssicher löst.",
+ "obj": "'Wir dürfen ja keine Bilder zeigen': Mit Einwilligung der Kunden und eigenen Studio- und Produktfotos schon. Genau das baut die neue Seite ein.",
+ "obs": [
+  "Fotostudio ohne Fotos online.",
+  "Keine Leistungen, keine Preise.",
+  "Keine sichere Verbindung, am Handy zu breit."
+ ],
+ "neu": [
+  "Rechtssichere Galerie",
+  "Leistungen und Preise",
+  "Terminanfrage"
+ ]
+}

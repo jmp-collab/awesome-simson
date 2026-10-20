@@ -731,5 +731,35 @@
   3500,
   "Auftrag",
   3
+ ],
+ "woll": [
+  "auftrag",
+  1500,
+  "Auftrag",
+  4
+ ],
+ "ducke": [
+  "auftrag",
+  1500,
+  "Neukunde",
+  3
+ ],
+ "spang": [
+  "auftrag",
+  40,
+  "Neukunde",
+  60
+ ],
+ "bachmann": [
+  "auftrag",
+  2000,
+  "Auftrag",
+  4
+ ],
+ "trautmann": [
+  "auftrag",
+  2000,
+  "Neukunde",
+  3
  ]
 }

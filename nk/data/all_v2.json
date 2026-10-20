@@ -30778,5 +30778,71 @@
   "tel": "06825 8 01 86 58",
   "slug": "m-ller-silke-beauty-nails",
   "src": "gelbeseiten"
+ },
+ {
+  "name": "Woll Franz Innendekoration",
+  "branch": "Fußbodenbeläge",
+  "addr": "Ludwigstr. 12, 66386 St. Ingbert",
+  "plz": "66386",
+  "url": "http://www.franz-woll.de",
+  "final": "http://www.franz-woll.de/",
+  "tel": "06894 22 10",
+  "slug": "woll-franz-innendekoration",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Ducke Klaus Dieter Steuerberater",
+  "branch": "Steuerberatung",
+  "addr": "Rentamtstr. 41, 66386 St. Ingbert",
+  "plz": "66386",
+  "url": "http://www.stb-ducke.com",
+  "final": "https://www.stb-ducke.com/",
+  "tel": "06894 9 90 36 50",
+  "slug": "ducke-klaus-dieter-steuerberater",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Spang GmbH, Knut Foto",
+  "branch": "Fotografen und Fotostudios",
+  "addr": "Hauptstr. 122, 66583 Spiesen-Elversberg (Spiesen)",
+  "plz": "66583",
+  "url": "http://www.fotostudio-spang.de",
+  "final": "http://www.fotostudio-spang.de/",
+  "tel": "06821 7 35 07",
+  "slug": "spang-gmbh-knut-foto",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Bachmann Volker Raumausstattung",
+  "branch": "Raumausstattung",
+  "addr": "Goethestr. 12, 66459 Kirkel (Neuhäusel)",
+  "plz": "66459",
+  "url": "http://www.raumausstattung-bachmann.de",
+  "final": "http://www.raumausstattung-bachmann.de/",
+  "tel": "06849 3 88",
+  "slug": "bachmann-volker-raumausstattung",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Trautmann Treuhand GmbH Steuerberatungsgesellschaft Steuerberater",
+  "branch": "Steuerberatung",
+  "addr": "Albert-Weisgerber-Allee 31, 66386 St. Ingbert",
+  "plz": "66386",
+  "url": "http://www.taxin.de",
+  "final": "https://www.taxin.biz/",
+  "tel": "06894 9 14 70",
+  "slug": "trautmann-treuhand-gmbh-steuerberatungsg",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Stambene Fussorthopädie- Schuhmachermeisterbetrieb",
+  "branch": "Schuhmachereien und Schuhreparaturen",
+  "addr": "Kaiserstr. 78, 66386 St. Ingbert (Rentrisch)",
+  "plz": "66386",
+  "url": "http://www.stambene.de",
+  "final": "http://www.stambene.de/",
+  "tel": "06894 44 08",
+  "slug": "stambene-fussorthop-die-schuhmachermeist",
+  "src": "gelbeseiten"
  }
 ]
