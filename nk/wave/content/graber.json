@@ -1,0 +1,96 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "alt_text": "Ihre Referenzfotos setze ich mit Ihnen gemeinsam ein. Die Bilder im Slider tragen fremde Wasserzeichen und gehören nicht in die neue Seite.",
+ "hours": [],
+ "mcta": "Anrufen",
+ "slug": "graber-heiko-schreinereimeisterbetrieb",
+ "theme": "spa",
+ "name": "Schreinerei Heiko Graber",
+ "branche": "Schreinerei-Meisterbetrieb",
+ "addr": "Franziskaschacht · 66287 Quierschied-Fischbach",
+ "tel": "06897 600657",
+ "url": "http://www.heiko-graber.de",
+ "label": "Solide Chance",
+ "visit": "Vorher anrufen",
+ "logo_a": "Heiko",
+ "logo_b": "Graber",
+ "nav": [
+  "Küchen",
+  "Bad",
+  "Wohnen",
+  "Kontakt"
+ ],
+ "eyebrow": "Schreinerei-Meisterbetrieb in Quierschied-Fischbach",
+ "h1": "Küche, Bad und Wohnen. Vom Schreinermeister.",
+ "lead": "Heiko Graber, Schreinerei-Meisterbetrieb in Quierschied-Fischbach. Einrichtung für Küche, Bad und Wohnräume nach Maß.",
+ "cta1": "Anrufen: 06897 600657",
+ "cta2": "Projekt anfragen",
+ "badge": [
+  "Meister",
+  "Schreinerei"
+ ],
+ "deco": "HOLZ",
+ "hero_img": "",
+ "trust": [
+  "<b>Meisterbetrieb</b> in Fischbach",
+  "<b>Einrichtung</b> nach Maß",
+  "<b>Beratung</b> vor Ort"
+ ],
+ "svc_title": "Was wir einrichten",
+ "services": [
+  [
+   "Küchen",
+   "Geplant und gebaut nach Maß."
+  ],
+  [
+   "Bad",
+   "Einrichtung und Möbel."
+  ],
+  [
+   "Wohnen",
+   "Möbel für jeden Raum."
+  ],
+  [
+   "Beratung",
+   "Persönlich und vor Ort."
+  ]
+ ],
+ "band": "Neue Küche oder Badmöbel geplant? Maße schicken, wir melden uns.",
+ "contact": "Schreinerei Heiko Graber<br>Franziskaschacht<br>66287 Quierschied-Fischbach<br><br>Telefon 06897 600657",
+ "audit": [
+  "Alle Menüpunkte führen ins Leere (Links '#'), die Seite besteht nur aus einem Bilder-Slider ohne Text",
+  "Unter dem Slider steht ein Werbelink 'WOWSlider.com' der kostenlosen Slider-Version",
+  "Keine sichere Verbindung (nur http), am Handy rund 970 Pixel breit, keine Telefonnummer auf der Startseite"
+ ],
+ "hebel": "Küchen und Badmöbel nach Maß sind Aufträge im vier- bis fünfstelligen Bereich. Heute sieht ein Besucher nur Bilder ohne Text und ein Menü, das nicht funktioniert. Eine Seite mit Leistungen, eigenen Referenzen und Anfrage nach Maßen macht daraus Anfragen.",
+ "p": [
+  "790 bis 1.190 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Leistungen, eigener Referenzgalerie, Anfrage mit Maßen, sicherer Verbindung, Google-Profil",
+ "svc": [
+  "Anfrage mit Maßen und Foto",
+  "Referenzgalerie mit eigenen Fotos",
+  "Google-Profil mit Fotos",
+  "Seite für Küchenplanung"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite führen alle Menüpunkte ins Leere, und unter dem Slider steht Werbung für WOWSlider. Ich habe Ihnen mitgebracht, wie die Seite mit Ihren Leistungen aussehen könnte.",
+ "obj": "'Die Kunden kommen über Empfehlung': Und schauen dann nach. Ein Menü, das nicht funktioniert, wirkt dann leider wie ein Betrieb, den es nicht mehr gibt.",
+ "obs": [
+  "Alle Menüpunkte führen ins Leere.",
+  "Werbelink WOWSlider.com.",
+  "Kein Text, keine Nummer auf der Startseite."
+ ],
+ "neu": [
+  "Funktionierendes Menü",
+  "Leistungen und Referenzen",
+  "Anfrage mit Maßen"
+ ]
+}

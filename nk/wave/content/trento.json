@@ -1,0 +1,96 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "alt_text": "Öffnungszeiten und Eiskarte setze ich mit Ihnen gemeinsam ein. Auf der alten Seite stehen keine.",
+ "hours": [],
+ "mcta": "Anrufen",
+ "slug": "trento-eiscaf",
+ "theme": "gelato",
+ "name": "Eiscafé Trento",
+ "branche": "Eiscafé",
+ "addr": "Am Markt 7 · 66265 Heusweiler",
+ "tel": "06806 7397",
+ "url": "http://www.eiscafetrento.de",
+ "label": "Solide Chance",
+ "visit": "Nachmittags im Café, Inhaber direkt ansprechen",
+ "logo_a": "Eiscafé",
+ "logo_b": "Trento",
+ "nav": [
+  "Eis",
+  "Kaffee und Kuchen",
+  "Über uns",
+  "Anfahrt"
+ ],
+ "eyebrow": "Eiscafé am Marktplatz Heusweiler",
+ "h1": "Eis, Kaffee und Kuchen am Marktplatz.",
+ "lead": "Das Eiscafé Trento in der Heusweiler City: frisch gebrühter Kaffee, ein Stück Kuchen oder ein Eisspezialitätenbecher, zentral an der Saarbrücker Straße Ecke Marktplatz.",
+ "cta1": "Anrufen: 06806 7397",
+ "cta2": "Anfahrt",
+ "badge": [
+  "Eis",
+  "Kaffee · Kuchen"
+ ],
+ "deco": "",
+ "hero_img": "img/trento-eiscaf_0.jpg",
+ "trust": [
+  "<b>Zentral</b> am Marktplatz Heusweiler",
+  "<b>Eisspezialitäten</b> und Becher",
+  "<b>Kaffee und Kuchen</b>"
+ ],
+ "svc_title": "Bei uns",
+ "services": [
+  [
+   "Eisbecher",
+   "Eisspezialitäten zum Genießen."
+  ],
+  [
+   "Kaffee",
+   "Frisch gebrüht."
+  ],
+  [
+   "Kuchen",
+   "Zum Kaffee dazu."
+  ],
+  [
+   "Terrasse",
+   "Mitten in Heusweiler."
+  ]
+ ],
+ "band": "Lust auf Eis? Saarbrücker Straße Ecke Marktplatz, Heusweiler.",
+ "contact": "Eiscafé Trento<br>Am Markt 7<br>66265 Heusweiler<br><br>Telefon 06806 7397",
+ "audit": [
+  "Im Fußbereich steht 'Letzte Änderung: Samstag, 18. Juli 2009'",
+  "Keine Öffnungszeiten, keine Eiskarte, keine Telefonnummer auf der Startseite",
+  "Keine sichere Verbindung (nur http), am Handy rund 950 Pixel breit"
+ ],
+ "hebel": "Eiscafés leben von spontanen Besuchen: Wer am Sonntag 'Eiscafé Heusweiler' sucht, will wissen, ob offen ist und was es gibt. Eine Seite mit Zeiten, Eiskarte und Google-Profil bringt diese Gäste an den Marktplatz.",
+ "p": [
+  "690 bis 990 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Onepager mit Öffnungszeiten, Eiskarte, Fotos, Anfahrt, Google-Profil",
+ "svc": [
+  "Eiskarte, die Sie selbst pflegen",
+  "Saisonzeiten auf der Startseite",
+  "Google-Profil mit Fotos und Zeiten",
+  "Instagram-Anbindung für neue Sorten"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite steht 'Letzte Änderung 2009', und Öffnungszeiten findet man nicht. Ich habe Ihnen mitgebracht, wie die Seite mit Zeiten und Eiskarte aussehen könnte.",
+ "obj": "'Die Leute kommen eh vorbei': Die Stammgäste ja. Wer zum ersten Mal sucht, will Zeiten und Karte sehen, bevor er losgeht.",
+ "obs": [
+  "Letzte Änderung 2009.",
+  "Keine Zeiten, keine Karte.",
+  "Am Handy zu breit."
+ ],
+ "neu": [
+  "Öffnungszeiten am Handy",
+  "Eiskarte",
+  "Google-Profil mit Fotos"
+ ]
+}

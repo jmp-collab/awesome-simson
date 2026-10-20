@@ -1,15 +1,19 @@
 nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
+103;abelektro;A&B Elektro GmbH;Elektroinstallation;15;8;4;10000;690;102;55iz7c;06897 843384;Vorher anrufen
 91;paulus;Stahlbau Paulus GmbH;Stahl- und Metallbau;15;8;3;16000;790;96;wwjwku;06825 8230;Vorher anrufen
 83;lambert;der Lambert pflastert;Pflaster- und Verbundsteinarbeiten;15;8;2;12000;690;90;d2rwpk;06821 691910;Früh morgens oder vorher anrufen, mobil 0173 3192298
 87;brill;Rosen Brill;Rosenzüchtung;15;8;2;9000;1490;90;qame3l;06821 6223;Vorher anrufen, Peter Brill
 90;pink;Pink und Schmitt Haustechnik;Heizung, Lüftung, Haustechnik;15;8;2;24000;690;90;v5qzy2;06881 962063;Vorher anrufen
+104;raber;Raber-Dach GmbH;Dachdeckerei;15;8;2;18000;690;90;cwmbm6;06825 8007920;Früh morgens oder vorher anrufen
 64;schappert;Dachdeckerei Schappert GmbH;Dachdeckerei;15;7;3;18000;690;84;7s5ilq;06824 7325;Früh morgens oder vorher anrufen
 65;laluna;Ristorante Pizzeria La Luna;Ristorante und Pizzeria mit Heimservice;15;7;3;12000;690;84;k4337j;06821 9839560;Nachmittags vor 17:30 Uhr, nicht mittwochs
 81;mayer;Mayers Fahrschule;Fahrschule;15;7;3;10000;690;84;kpifiq;06821 790679;Vorher anrufen, mobil 0172 6830198
 82;ecker;Metallbaumontage Arno Ecker;Metallbau;15;7;3;9000;690;84;ct37za;06858 9005085;Früh morgens oder vorher anrufen
 88;kessler;Elektro und Solartechnik Keßler;Elektro und Solartechnik;15;7;3;24000;690;84;b267yq;06825 940332;Vorher anrufen
+106;rechkemmer;Rechkemmer Bedachungen;Dachdeckerei;15;7;3;18000;690;84;trkdm5;06806 608980;Früh morgens oder vorher anrufen
 75;specht;Specht Auto-Service GmbH;Vespa, Piaggio und Aprilia Händler;15;7;2;14000;990;78;yyvgjq;06821 7496607;Vormittags im Laden, Inhaber Uwe Specht direkt ansprechen
 93;cniklas;Christian Niklas GmbH;Fenster, Türen, Rollläden, Markisen;15;7;2;24000;690;78;g65gcm;06825 970020;Vorher anrufen
+105;graber;Schreinerei Heiko Graber;Schreinerei-Meisterbetrieb;15;7;2;15000;790;78;antn6i;06897 600657;Vorher anrufen
 14;mdm;MetallDesignMüller;Metallbau / Geländer, Treppen, Tore;15;6;3;10000;690;72;lmn7fq;06821 1799757;Früh morgens 7 bis 8 Uhr oder vorher anrufen (Handwerker oft auf Montage)
 63;welzow;Welzower Stuben;Restaurant und Partyservice;15;6;3;12000;990;72;72a3z2;06821 690943;Nachmittags zwischen 14 und 18 Uhr, Chef Leonard Bala direkt ansprechen
 77;mauermann;Elektro Mauermann;Elektro, Kälte und Klima;15;6;3;10000;790;72;tmfe33;06821 962171;Früh morgens oder vorher anrufen
@@ -73,6 +77,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 62;felicita;Felicita Catering;Catering und Event-Catering;62;3;2;10000;990;30;3n2mmw;0152 22333003;Vorher anrufen, Termin mit Lajos Waadt
 46;balkan;Balkan Bäckerei Prizreni;Bäckerei mit Burek, Pizza und Gebäck;38;5;1;1872;690;29.7;liae2m;0155 10932660;Vormittags im Laden, ruhige Zeit vor dem Mittagsgeschäft
 3;gondoliere;Pizzeria Gondoliere Heimservice;Pizzeria / Lieferdienst;45;4;2;3120;990;29.1;hrxs2j;06821 13211;Di bis Fr gegen 16:00 Uhr (vor Öffnung um 17 Uhr)
+107;trento;Eiscafé Trento;Eiscafé;15;6;3;960;690;28.7;yflyxq;06806 7397;Nachmittags im Café, Inhaber direkt ansprechen
 20;koble;Hair-Design-Cosmetic Koble;Friseur / Kosmetik;28;6;0;1500;690;28.6;rttms3;06821 9838460;Dienstag bis Freitag vormittags, nicht samstags
 23;divna;Institut DIVNA;Podologie / Kosmetik / Wellness;31;5;2;1500;690;28.6;5dpx2a;06821 983190;Dienstag bis Freitag zwischen den Terminen, vorher anrufen
 26;praxiswell;Hausarztpraxis Wellesweiler;Hausarztpraxis / Allgemeinmedizin;31;5;2;2100;990;28.1;a7yt7z;06821 4311;Nicht in der Sprechstunde: am besten anrufen und um 10 Minuten mit der Praxismanagerin bitten (Mittwoch oder Freitag nachmittags)

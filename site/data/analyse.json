@@ -9214,5 +9214,607 @@
    "woerter": 66,
    "titel": "christofprinz.de"
   }
+ },
+ "abelektro": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 983 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.amann-braun.com/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 35 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "bild_kaputt",
+    "sev": "hoch",
+    "titel": "Ein Bild lädt nicht",
+    "beleg": "Nicht geladen: Get Adobe Flash player",
+    "folge": "Leere Kästen oder fehlende Logos wirken, als sei der Betrieb nicht mehr aktiv.",
+    "fix": "Alle Bilder geprüft und neu eingebunden"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "jahr",
+    "sev": "mittel",
+    "titel": "Copyright 2010: wirkt nicht gepflegt",
+    "beleg": "Im Fußbereich steht das Jahr 2010.",
+    "folge": "Ein altes Jahr lässt Besucher zweifeln, ob Angaben wie Öffnungszeiten oder Preise noch stimmen.",
+    "fix": "Aktuelle Seite, die Sie selbst pflegen können"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   }
+  ],
+  "sicht": [
+   "Seit 2010 'neue Internetpräsenz'.",
+   "Flash-Banner, das kein Browser mehr zeigt.",
+   "Keine sichere Verbindung, am Handy zu breit."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Anfrage mit Foto"
+  ],
+  "hebel": "Wallboxen, Sanierungen und Elektromontagen werden heute am Handy angefragt. Eine Seite, die seit 2010 'neu' ist und keine Leistung nennt, bekommt diese Anfragen nicht. Ein Onepager mit Leistungen und Anfrage per Foto ändert das schnell.",
+  "extra": [
+   "Anfrage mit Foto vom Zählerschrank",
+   "Seite für Wallbox und E-Mobilität, mit Ihnen abgestimmt",
+   "Google-Profil mit Leistungen",
+   "Karriereseite für Elektroniker"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 2500,
+   "einheit": "Auftrag",
+   "anzahl": 4,
+   "preis": 690,
+   "breakeven": 1,
+   "jahr": 10000
+  },
+  "gemessen": {
+   "load_m": 2.0,
+   "mb": 0.3,
+   "breite_m": 983,
+   "woerter": 35,
+   "titel": "A&B Elektro GmbH"
+  }
+ },
+ "raber": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.raber-dach.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "titel",
+    "sev": "hoch",
+    "titel": "Google zeigt einen nichtssagenden Titel",
+    "beleg": "Seitentitel: 'Raber Dach'",
+    "folge": "Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.",
+    "fix": "Titel mit Leistung und Ort, z. B. 'Ihr Betrieb in Neunkirchen | Leistung'"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 18 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "1 Datei wird unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Startseite ist ein Bild mit 'Demnächst mehr'.",
+   "Nummer klein und nicht antippbar.",
+   "Keine sichere Verbindung."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Anfrage mit Foto"
+  ],
+  "hebel": "Wer einen Dachdecker in Quierschied sucht, findet bei Ihnen ein Bild mit 'Demnächst mehr'. Dachaufträge sind groß, und Kunden rufen den Betrieb an, der Leistungen und Referenzen zeigt. Ein Onepager mit Anfrage per Foto holt diese Anrufe.",
+  "extra": [
+   "Anfrage mit Foto vom Schaden",
+   "Referenzgalerie, die Sie vom Handy befüllen",
+   "Google-Profil mit Fotos und Leistungen",
+   "Karriereseite für Dachdecker und Azubis"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 6000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 690,
+   "breakeven": 1,
+   "jahr": 18000
+  },
+  "gemessen": {
+   "load_m": 0.6,
+   "mb": 0.0,
+   "breite_m": 980,
+   "woerter": 18,
+   "titel": "Raber Dach"
+  }
+ },
+ "graber": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.heiko-graber.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 8 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Alle Menüpunkte führen ins Leere.",
+   "Werbelink WOWSlider.com.",
+   "Kein Text, keine Nummer auf der Startseite."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Funktionierendes Menü",
+   "Anfrage mit Maßen"
+  ],
+  "hebel": "Küchen und Badmöbel nach Maß sind Aufträge im vier- bis fünfstelligen Bereich. Heute sieht ein Besucher nur Bilder ohne Text und ein Menü, das nicht funktioniert. Eine Seite mit Leistungen, eigenen Referenzen und Anfrage nach Maßen macht daraus Anfragen.",
+  "extra": [
+   "Anfrage mit Maßen und Foto",
+   "Referenzgalerie mit eigenen Fotos",
+   "Google-Profil mit Fotos",
+   "Seite für Küchenplanung"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 5000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 790,
+   "breakeven": 1,
+   "jahr": 15000
+  },
+  "gemessen": {
+   "load_m": 2.5,
+   "mb": 0.8,
+   "breite_m": 980,
+   "woerter": 8,
+   "titel": "Heiko Graber"
+  }
+ },
+ "rechkemmer": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.rechkemmer-bedachung.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 18 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "js",
+    "sev": "niedrig",
+    "titel": "Technische Fehler im Hintergrund",
+    "beleg": "2 Fehlermeldungen beim Laden der Startseite.",
+    "folge": "Fehler können Formulare, Karten oder Menüs unbemerkt lahmlegen.",
+    "fix": "Saubere, geprüfte Technik"
+   }
+  ],
+  "sicht": [
+   "Nur 'Hier entsteht eine neue Homepage'.",
+   "Hoster-Werbung auf Ihrer Domain.",
+   "Kein Name, keine Nummer."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Anfrage mit Foto"
+  ],
+  "hebel": "Auf Ihrer Domain wirbt gerade der Hoster für seine Homepages statt Sie für Ihre Dächer. Ein Onepager mit Leistungen, Telefon und Anfrage per Foto macht die Domain zum Auftragsbringer.",
+  "extra": [
+   "Anfrage mit Foto vom Schaden",
+   "Referenzgalerie, die Sie vom Handy befüllen",
+   "Google-Profil mit Leistungen",
+   "Karriereseite für Dachdecker"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 6000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 690,
+   "breakeven": 1,
+   "jahr": 18000
+  },
+  "gemessen": {
+   "load_m": 0.8,
+   "mb": 0.0,
+   "breite_m": 980,
+   "woerter": 18,
+   "titel": "Hier entsteht eine neue Homepage"
+  }
+ },
+ "trento": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.eiscafetrento.de/index2.html ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "text",
+    "sev": "mittel",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 82 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "js",
+    "sev": "niedrig",
+    "titel": "Technische Fehler im Hintergrund",
+    "beleg": "2 Fehlermeldungen beim Laden der Startseite.",
+    "folge": "Fehler können Formulare, Karten oder Menüs unbemerkt lahmlegen.",
+    "fix": "Saubere, geprüfte Technik"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Letzte Änderung 2009.",
+   "Keine Zeiten, keine Karte.",
+   "Am Handy zu breit."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Eiskarte",
+   "Google-Profil mit Fotos"
+  ],
+  "hebel": "Eiscafés leben von spontanen Besuchen: Wer am Sonntag 'Eiscafé Heusweiler' sucht, will wissen, ob offen ist und was es gibt. Eine Seite mit Zeiten, Eiskarte und Google-Profil bringt diese Gäste an den Marktplatz.",
+  "extra": [
+   "Eiskarte, die Sie selbst pflegen",
+   "Saisonzeiten auf der Startseite",
+   "Google-Profil mit Fotos und Zeiten",
+   "Instagram-Anbindung für neue Sorten"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 12,
+   "einheit": "Neukunde",
+   "anzahl": 80,
+   "preis": 690,
+   "breakeven": 58,
+   "jahr": 960
+  },
+  "gemessen": {
+   "load_m": 3.7,
+   "mb": 0.4,
+   "breite_m": 980,
+   "woerter": 82,
+   "titel": "Eiscafè Trento"
+  }
  }
 }

@@ -1222,5 +1222,65 @@
    "Leistungen und Preise",
    "Terminanfrage"
   ]
+ },
+ "abelektro": {
+  "obs": [
+   "Seit 2010 'neue Internetpräsenz'.",
+   "Flash-Banner, das kein Browser mehr zeigt.",
+   "Keine sichere Verbindung, am Handy zu breit."
+  ],
+  "neu": [
+   "Leistungen als Text",
+   "Anfrage mit Foto",
+   "Sichere Verbindung"
+  ]
+ },
+ "raber": {
+  "obs": [
+   "Startseite ist ein Bild mit 'Demnächst mehr'.",
+   "Nummer klein und nicht antippbar.",
+   "Keine sichere Verbindung."
+  ],
+  "neu": [
+   "Leistungen und Referenzen",
+   "Anfrage mit Foto",
+   "Sichere Verbindung"
+  ]
+ },
+ "graber": {
+  "obs": [
+   "Alle Menüpunkte führen ins Leere.",
+   "Werbelink WOWSlider.com.",
+   "Kein Text, keine Nummer auf der Startseite."
+  ],
+  "neu": [
+   "Funktionierendes Menü",
+   "Leistungen und Referenzen",
+   "Anfrage mit Maßen"
+  ]
+ },
+ "rechkemmer": {
+  "obs": [
+   "Nur 'Hier entsteht eine neue Homepage'.",
+   "Hoster-Werbung auf Ihrer Domain.",
+   "Kein Name, keine Nummer."
+  ],
+  "neu": [
+   "Leistungen und Telefon",
+   "Anfrage mit Foto",
+   "Sichere Verbindung"
+  ]
+ },
+ "trento": {
+  "obs": [
+   "Letzte Änderung 2009.",
+   "Keine Zeiten, keine Karte.",
+   "Am Handy zu breit."
+  ],
+  "neu": [
+   "Öffnungszeiten am Handy",
+   "Eiskarte",
+   "Google-Profil mit Fotos"
+  ]
  }
 }

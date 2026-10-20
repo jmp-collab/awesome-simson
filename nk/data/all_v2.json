@@ -30459,5 +30459,60 @@
   "tel": "06806 80 00 72",
   "slug": "prinz-christof-friseur",
   "src": "gelbeseiten"
+ },
+ {
+  "name": "A+B Elektro GmbH",
+  "branch": "Elektroinstallationen",
+  "addr": "Rosenstr. 6, 66299 Friedrichsthal",
+  "plz": "66299",
+  "url": "http://www.amann-braun.com",
+  "final": "http://www.amann-braun.com/",
+  "tel": "06897 84 33 84",
+  "slug": "a-b-elektro-gmbh",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Raber-Dach GmbH",
+  "branch": "Dachdeckereien",
+  "addr": "Uhlandstr. 1a, 66287 Quierschied (Göttelborn)",
+  "plz": "66287",
+  "url": "http://www.raber-dach.de",
+  "final": "http://www.raber-dach.de/",
+  "tel": "06825 8 00 79 20",
+  "slug": "raber-dach-gmbh",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Graber Heiko Schreinereimeisterbetrieb",
+  "branch": "Tischlereien",
+  "addr": "Franziskaschacht, 66287 Quierschied (Fischbach)",
+  "plz": "66287",
+  "url": "http://www.heiko-graber.de",
+  "final": "http://www.heiko-graber.de/",
+  "tel": "06897 60 06 57",
+  "slug": "graber-heiko-schreinereimeisterbetrieb",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Rechkemmer Udo Dachdeckerei  Bedachung",
+  "branch": "Dachdeckereien",
+  "addr": "Eisenbahnstr. 5, 66265 Heusweiler",
+  "plz": "66265",
+  "url": "http://www.rechkemmer-bedachung.de",
+  "final": "http://www.rechkemmer-bedachung.de/",
+  "tel": "06806 60 89 80",
+  "slug": "rechkemmer-udo-dachdeckerei-bedachung",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Trento Eiscafé",
+  "branch": "Gaststätten: Eiscafés",
+  "addr": "Am Markt 7, 66265 Heusweiler",
+  "plz": "66265",
+  "url": "http://www.eiscafetrento.de",
+  "final": "http://www.eiscafetrento.de/index2.html",
+  "tel": "06806 73 97",
+  "slug": "trento-eiscaf",
+  "src": "gelbeseiten"
  }
 ]

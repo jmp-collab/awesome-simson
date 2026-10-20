@@ -1,0 +1,95 @@
+{
+ "key": "graber-heiko-schreinereimeisterbetrieb",
+ "url": "http://www.heiko-graber.de/",
+ "title": "Heiko Graber",
+ "text": "\n\nWOWSlider.com\nEinrichtung Bad\n\n",
+ "imgs": [
+  {
+   "src": "http://www.heiko-graber.de/data1/images/1.jpg",
+   "w": 960,
+   "h": 360
+  },
+  {
+   "src": "http://www.heiko-graber.de/data1/images/2.jpg",
+   "w": 960,
+   "h": 360
+  },
+  {
+   "src": "http://www.heiko-graber.de/data1/images/3.jpg",
+   "w": 960,
+   "h": 360
+  },
+  {
+   "src": "http://www.heiko-graber.de/data1/images/4.jpg",
+   "w": 960,
+   "h": 360
+  },
+  {
+   "src": "http://www.heiko-graber.de/data1/images/4a.jpg",
+   "w": 960,
+   "h": 360
+  },
+  {
+   "src": "http://www.heiko-graber.de/data1/images/5.jpg",
+   "w": 960,
+   "h": 360
+  },
+  {
+   "src": "http://www.heiko-graber.de/data1/images/6.jpg",
+   "w": 960,
+   "h": 360
+  },
+  {
+   "src": "http://www.heiko-graber.de/data1/images/7.jpg",
+   "w": 960,
+   "h": 360
+  },
+  {
+   "src": "http://www.heiko-graber.de/data1/images/8.jpg",
+   "w": 960,
+   "h": 360
+  },
+  {
+   "src": "http://www.heiko-graber.de/data1/images/10.jpg",
+   "w": 960,
+   "h": 360
+  },
+  {
+   "src": "http://www.heiko-graber.de/data1/images/11.jpg",
+   "w": 960,
+   "h": 360
+  }
+ ],
+ "bg": [
+  "data:image/gif;base64,"
+ ],
+ "tel": [],
+ "mail": [
+  "mailto:%20mail@heikograber.de"
+ ],
+ "links": [
+  {
+   "t": "WOWSlider.com",
+   "h": "http://wowslider.com/"
+  },
+  {
+   "t": "Panel Slider jQuery by WOWSlider.com v1.",
+   "h": "http://wowslider.com/"
+  },
+  {
+   "t": "next",
+   "h": "http://www.heiko-graber.de/#"
+  },
+  {
+   "t": "prev",
+   "h": "http://www.heiko-graber.de/#"
+  }
+ ],
+ "saved": [
+  "img/graber-heiko-schreinereimeisterbetrieb_0.jpg",
+  "img/graber-heiko-schreinereimeisterbetrieb_1.jpg",
+  "img/graber-heiko-schreinereimeisterbetrieb_2.jpg",
+  "img/graber-heiko-schreinereimeisterbetrieb_3.jpg",
+  "img/graber-heiko-schreinereimeisterbetrieb_4.jpg"
+ ]
+}

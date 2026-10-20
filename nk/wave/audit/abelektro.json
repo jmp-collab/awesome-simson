@@ -1,0 +1,112 @@
+{
+ "k": "abelektro",
+ "url": "http://www.amann-braun.com",
+ "date": "2026-10-20",
+ "desk": {
+  "ok": true,
+  "load_s": 1.9,
+  "status": 200,
+  "final": "http://www.amann-braun.com/",
+  "title": "A&B Elektro GmbH",
+  "desc": null,
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [],
+  "words": 35,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 1,
+  "broken": [
+   {
+    "src": "http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif",
+    "alt": "Get Adobe Flash player"
+   }
+  ],
+  "noalt": 0,
+  "big": [],
+  "years": [
+   2010
+  ],
+  "small": 1,
+  "total": 10,
+  "taps": 0,
+  "placeholders": [],
+  "scrollW": 1368,
+  "innerW": 1366,
+  "http_res": [
+   "http://www.amann-braun.com/style.css",
+   "http://www.amann-braun.com/script.js",
+   "http://www.amann-braun.com/swfobject.js",
+   "http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif",
+   "http://www.amann-braun.com/images/page_t.jpg"
+  ],
+  "impressum": true,
+  "datenschutz": false,
+  "errors": [],
+  "requests": 19,
+  "bytes": 318700,
+  "img_bytes": 248019
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 2.0,
+  "status": 200,
+  "final": "http://www.amann-braun.com/",
+  "title": "A&B Elektro GmbH",
+  "desc": null,
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [],
+  "words": 35,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 1,
+  "broken": [
+   {
+    "src": "http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif",
+    "alt": "Get Adobe Flash player"
+   }
+  ],
+  "noalt": 0,
+  "big": [],
+  "years": [
+   2010
+  ],
+  "small": 1,
+  "total": 10,
+  "taps": 0,
+  "placeholders": [],
+  "scrollW": 983,
+  "innerW": 983,
+  "http_res": [
+   "http://www.amann-braun.com/style.css",
+   "http://www.amann-braun.com/script.js",
+   "http://www.amann-braun.com/swfobject.js",
+   "http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif",
+   "http://www.amann-braun.com/images/page_t.jpg"
+  ],
+  "impressum": true,
+  "datenschutz": false,
+  "errors": [],
+  "requests": 19,
+  "bytes": 318700,
+  "img_bytes": 248019
+ },
+ "http_to": "http://www.amann-braun.com/",
+ "http_code": "200",
+ "http_redirects_to_https": false
+}

@@ -1,0 +1,39 @@
+{
+ "key": "raber-dach-gmbh",
+ "url": "http://www.raber-dach.de/",
+ "title": "Raber Dach",
+ "text": "\nDatenschutz | Impressum\n\n\nRABER-DACH GmbH, Uhlandstraße 1a, 66287 Quierschied-Göttelborn\nTelefon 0 68 25 - 800 79 20, Telefax 0 68 25 - 800 79 22\ninfo@raber-dach.de, www.raber-dach.de\n",
+ "imgs": [
+  {
+   "src": "http://www.raber-dach.de/start.jpg",
+   "w": 550,
+   "h": 414
+  }
+ ],
+ "bg": [],
+ "tel": [],
+ "mail": [
+  "mailto:info@raber-dach.de"
+ ],
+ "links": [
+  {
+   "t": "Datenschutz",
+   "h": "http://www.raber-dach.de/Datenschutz.html"
+  },
+  {
+   "t": "Impressum",
+   "h": "http://www.raber-dach.de/impressum.html"
+  },
+  {
+   "t": "info@raber-dach.de",
+   "h": "mailto:info@raber-dach.de"
+  },
+  {
+   "t": "www.raber-dach.de",
+   "h": "http://www.raber-dach.de/"
+  }
+ ],
+ "saved": [
+  "img/raber-dach-gmbh_0.jpg"
+ ]
+}

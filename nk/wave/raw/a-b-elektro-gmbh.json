@@ -1,0 +1,48 @@
+{
+ "key": "a-b-elektro-gmbh",
+ "url": "http://www.amann-braun.com/",
+ "title": "A&B Elektro GmbH",
+ "text": "Home\nService\nüber uns\nKontakt\nImpressum\nHerzlich Willkommen\n\n \n\nauf unserer neuen Internetpräsenz.\n\nHier erhalten Sie einen Einblick in unsere tägliche Arbeit.\n\nGerne können Sie auch Kontakt zu uns aufnehmen.\n\n \n\n \n\nCopyright © 2010 Thomas Frisch\nAll Rights Reserved.",
+ "imgs": [],
+ "bg": [
+  "http://www.amann-braun.com/images/page_t.jpg",
+  "http://www.amann-braun.com/images/page_gl.png",
+  "http://www.amann-braun.com/images/sheet_s.png",
+  "http://www.amann-braun.com/images/sheet_h.png",
+  "http://www.amann-braun.com/images/sheet_v.png",
+  "http://www.amann-braun.com/images/sheet_c.png",
+  "http://www.amann-braun.com/images/header.jpg",
+  "http://www.amann-braun.com/images/nav.png",
+  "http://www.amann-braun.com/images/menuitem.png",
+  "http://www.amann-braun.com/images/spacer.gif"
+ ],
+ "tel": [],
+ "mail": [],
+ "links": [
+  {
+   "t": "Home",
+   "h": "http://www.amann-braun.com/index.html"
+  },
+  {
+   "t": "Service",
+   "h": "http://www.amann-braun.com/#"
+  },
+  {
+   "t": "über uns",
+   "h": "http://www.amann-braun.com/ueber%20uns%20aub.html"
+  },
+  {
+   "t": "Kontakt",
+   "h": "http://www.amann-braun.com/kontakt%20aub.html"
+  },
+  {
+   "t": "Impressum",
+   "h": "http://www.amann-braun.com/impressum%20aub.html"
+  }
+ ],
+ "saved": [
+  "img/a-b-elektro-gmbh_0.jpg",
+  "img/a-b-elektro-gmbh_1.png",
+  "img/a-b-elektro-gmbh_2.jpg"
+ ]
+}
