@@ -551,5 +551,35 @@
   400,
   "Neukunde",
   8
+ ],
+ "cniklas": [
+  "auftrag",
+  8000,
+  "Auftrag",
+  3
+ ],
+ "weisk": [
+  "auftrag",
+  4000,
+  "Auftrag",
+  3
+ ],
+ "ruffing": [
+  "auftrag",
+  3000,
+  "Auftrag",
+  4
+ ],
+ "hoennicke": [
+  "auftrag",
+  2500,
+  "Neukunde",
+  4
+ ],
+ "fess": [
+  "auftrag",
+  6000,
+  "Auftrag",
+  3
  ]
 }

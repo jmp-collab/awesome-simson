@@ -1102,5 +1102,65 @@
    "Zeiten auf der Startseite",
    "Funktionierende E-Mail"
   ]
+ },
+ "cniklas": {
+  "obs": [
+   "Nur 'Hier entsteht eine neue Internetpräsenz'.",
+   "Kein Name, keine Nummer.",
+   "Keine sichere Verbindung."
+  ],
+  "neu": [
+   "Leistungen und Referenzen",
+   "Anfrage mit Maßen",
+   "Sichere Verbindung"
+  ]
+ },
+ "weisk": {
+  "obs": [
+   "Browser zeigt 'Nicht sicher'.",
+   "Am Handy zu breit, Nummer nicht antippbar.",
+   "Alle Leistungen auf einer Seite."
+  ],
+  "neu": [
+   "Eigene Seiten je Leistung",
+   "Referenzen groß",
+   "Sichere Verbindung"
+  ]
+ },
+ "ruffing": {
+  "obs": [
+   "Am Handy zu breit, Nummern nicht antippbar.",
+   "PV und DGUV nur als Stichpunkt.",
+   "Keine Anfrage, nur GMX-Adresse."
+  ],
+  "neu": [
+   "Eigene Seiten für PV und Prüfungen",
+   "Anfrage mit Foto",
+   "Am Handy lesbar"
+  ]
+ },
+ "hoennicke": {
+  "obs": [
+   "Am Handy rund 1000 Pixel breit.",
+   "Keine Anmeldung mit Klasse und Termin.",
+   "Bürozeiten nur auf einer Unterseite."
+  ],
+  "neu": [
+   "Online-Anmeldung",
+   "Bürozeiten auf der Startseite",
+   "Am Handy lesbar"
+  ]
+ },
+ "fess": {
+  "obs": [
+   "Kopie der alten Seite aus einem Internet-Archiv.",
+   "Unterseite mit Glücksspiel-Spam unter Ihrem Namen.",
+   "Keine eigene, funktionierende Seite mehr."
+  ],
+  "neu": [
+   "Eigene, sichere Domain",
+   "Leistungen und Referenzen",
+   "Sauberes Google-Profil"
+  ]
  }
 }

@@ -30349,5 +30349,38 @@
   "tel": "06827 6 06",
   "slug": "wagner-karlheinz-stahl-und-metallbau",
   "src": "gelbeseiten"
+ },
+ {
+  "name": "Ruffing Horst Elektroinstallationsmeister",
+  "branch": "Elektroinstallationen",
+  "addr": "Saarpfalz-Park 301, 66450 Bexbach (Oberbexbach)",
+  "plz": "66450",
+  "url": "http://www.elektro-Ruffing.de",
+  "final": "https://www.elektro-ruffing.de/",
+  "tel": "06826 69 98",
+  "slug": "ruffing-horst-elektroinstallationsmeiste",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Hönnicke Fahrschule",
+  "branch": "Fahrschulen",
+  "addr": "Rathausstr. 8, 66450 Bexbach",
+  "plz": "66450",
+  "url": "http://www.fahrschule-hoennicke.de",
+  "final": "https://www.fahrschule-hoennicke.de/",
+  "tel": "06826 35 10",
+  "slug": "h-nnicke-fahrschule",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Dachdeckerei Feß GmbH",
+  "branch": "Dachdeckereien",
+  "addr": "Heusweilerstr. 40, 66571 Eppelborn (Wiesbach)",
+  "plz": "66571",
+  "url": "http://www.fessdachdeckerei.de",
+  "final": "http://www.fessdachdeckerei.de/",
+  "tel": "0179 9 21 51 81",
+  "slug": "dachdeckerei-fe-gmbh",
+  "src": "gelbeseiten"
  }
 ]

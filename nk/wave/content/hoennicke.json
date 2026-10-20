@@ -1,0 +1,113 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "hours": [
+  [
+   "Büro Mittwoch",
+   "17:00 bis 20:30"
+  ],
+  [
+   "Büro Freitag",
+   "17:00 bis 20:30"
+  ]
+ ],
+ "mcta": "Anrufen",
+ "slug": "h-nnicke-fahrschule",
+ "theme": "gelato",
+ "name": "Fahrschule Hönnicke",
+ "branche": "Fahrschule",
+ "addr": "Rathausstraße 8 · 66450 Bexbach",
+ "tel": "06826 3510",
+ "url": "https://www.fahrschule-hoennicke.de",
+ "label": "Solide Chance",
+ "visit": "Mittwoch oder Freitag ab 17 Uhr im Büro",
+ "logo_a": "Fahrschule",
+ "logo_b": "Hönnicke",
+ "nav": [
+  "Klassen",
+  "Theorie",
+  "Fuhrpark",
+  "Anmelden"
+ ],
+ "eyebrow": "Familien-Fahrschule in Bexbach seit 1976",
+ "h1": "Seit 1976 sicher zum Führerschein.",
+ "lead": "1976 von Lothar Hönnicke gegründet, seit 2007 geführt von Fahrlehrerin Elke Hönnicke. Theorie und Praxis in ruhiger und freundlicher Atmosphäre.",
+ "cta1": "Jetzt anmelden",
+ "cta2": "Anrufen: 06826 3510",
+ "badge": [
+  "1976",
+  "gegründet"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Seit 1976</b> in Bexbach",
+  "<b>Familienbetrieb</b> in zweiter Generation",
+  "<b>Fahrlehrerin</b> seit 1991"
+ ],
+ "svc_title": "Ausbildung",
+ "services": [
+  [
+   "Theorie",
+   "Unterricht in Bexbach."
+  ],
+  [
+   "Praxis",
+   "Ruhig und freundlich, mit allen Grundfahraufgaben."
+  ],
+  [
+   "Fuhrpark",
+   "Unsere Fahrzeuge."
+  ],
+  [
+   "Das Team",
+   "Wer Sie ausbildet."
+  ],
+  [
+   "Wissenswertes",
+   "Ablauf und Unterlagen."
+  ],
+  [
+   "Online-Anmeldung",
+   "Daten schicken, wir melden uns."
+  ]
+ ],
+ "band": "Führerschein geplant? Online anmelden, wir melden uns.",
+ "contact": "Fahrschule Hönnicke<br>Elke Hönnicke<br>Rathausstraße 8<br>66450 Bexbach<br><br>Telefon 06826 3510<br>Außerhalb der Bürozeiten 06826 7831",
+ "audit": [
+  "Am Handy ist die Seite rund 1000 Pixel breit, Schüler müssen zoomen",
+  "Die Telefonnummer ist nicht antippbar, eine Anmeldung mit Klasse und Wunschtermin gibt es nicht, nur ein allgemeines Kontaktformular",
+  "Die Bürozeiten stehen nur auf der Unterseite 'Standorte'"
+ ],
+ "hebel": "Fahrschüler sind jung und suchen ausschließlich am Handy. Eine Seite, die man zoomen muss und ohne richtige Anmeldung, verliert sie an die Fahrschule mit Online-Anmeldung. Die Familiengeschichte seit 1976 ist dabei ein starkes Argument, das nach vorne gehört.",
+ "p": [
+  "790 bis 1.190 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Klassen, Theoriezeiten, Fuhrpark, Online-Anmeldung, Bürozeiten auf der Startseite, Google-Profil",
+ "svc": [
+  "Online-Anmeldung mit Klasse und Wunschtermin",
+  "Theoriezeiten, die Sie selbst pflegen",
+  "Instagram-Anbindung für bestandene Prüfungen",
+  "Google-Profil mit Bürozeiten"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Geschichte seit 1976 ist toll, aber am Handy muss man auf Ihrer Seite zoomen, und eine richtige Online-Anmeldung fehlt. Ich habe Ihnen mitgebracht, wie die Seite mit Anmeldung aussehen könnte.",
+ "obj": "'Die Schüler kommen über Empfehlung': Und dann schauen sie am Handy nach. Dort entscheidet sich, ob sie sich anmelden.",
+ "obs": [
+  "Am Handy rund 1000 Pixel breit.",
+  "Keine Anmeldung mit Klasse und Termin.",
+  "Bürozeiten nur auf einer Unterseite."
+ ],
+ "neu": [
+  "Online-Anmeldung",
+  "Bürozeiten auf der Startseite",
+  "Am Handy lesbar"
+ ]
+}
