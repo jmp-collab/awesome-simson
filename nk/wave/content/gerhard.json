@@ -1,0 +1,99 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "Aus der Werkstatt",
+ "gallery": [
+  "img/gerhard_1.jpg",
+  "img/gerhard_2.jpg",
+  "img/gerhard_3.jpg"
+ ],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "hours": [],
+ "mcta": "Anrufen",
+ "deco": "HOLZ",
+ "hero_img": "img/gerhard_2.jpg",
+ "slug": "gerhard-karsten-schreinerei",
+ "theme": "papier",
+ "name": "Tischlerei Gerhard",
+ "branche": "Tischlerei",
+ "addr": "Oberdorfstraße 12 · 66606 St. Wendel-Leitersweiler",
+ "tel": "06851 907640",
+ "url": "http://www.tischlerei-gerhard.de",
+ "label": "Solide Chance",
+ "visit": "Vorher anrufen, Werkstattbetrieb",
+ "alt_text": "Weitere Projektfotos und Ihre Lieblingsarbeiten setze ich mit Ihnen gemeinsam ein.",
+ "logo_a": "Tischlerei",
+ "logo_b": "Gerhard",
+ "nav": [
+  "Leistungen",
+  "Arbeiten",
+  "Kontakt"
+ ],
+ "eyebrow": "Tischlermeister in St. Wendel",
+ "h1": "Alles rund ums Holz.",
+ "lead": "Tischlerei Gerhard in St. Wendel-Leitersweiler. Türen, Möbel und Küchen nach Maß, Fenster, Böden und Innenausbau.",
+ "cta1": "Angebot anfragen",
+ "cta2": "Anrufen: 06851 907640",
+ "badge": [
+  "Meister",
+  "betrieb"
+ ],
+ "trust": [
+  "<b>Meisterbetrieb</b> in St. Wendel",
+  "<b>Maßanfertigung</b> von Möbeln und Küchen",
+  "<b>CNC-Bearbeitung</b> im eigenen Betrieb"
+ ],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Möbel und Küchen nach Maß",
+   "Auch Einbauschränke unter der Dachschräge."
+  ],
+  [
+   "Fenster und Haustüren",
+   "Holz, Kunststoff und Aluminium."
+  ],
+  [
+   "Parkett und Vinyl",
+   "Böden und Holzverkleidungen."
+  ],
+  [
+   "Innenausbau und Terrassen",
+   "Trennwände, Ladenbau, Balkone."
+  ]
+ ],
+ "band": "Möbelstück oder Küche geplant? Maße schicken, Angebot bekommen.",
+ "contact": "Tischlerei Gerhard<br>Karsten Gerhard, Tischlermeister<br>Oberdorfstraße 12<br>66606 St. Wendel<br><br>Telefon 06851 907640<br>info@tischlerei-gerhard.de",
+ "audit": [
+  "Keine sichere Verbindung: Die Seite läuft nur über http, Browser warnen bei 'Nicht sicher'",
+  "Der Hinweis 'LADEN...' bleibt auf der Startseite stehen, und die Seite ist fest auf 1.221 px Breite eingestellt: Auf dem iPhone wird sie auf etwa ein Drittel verkleinert",
+  "Telefon und E-Mail stehen nur auf der Unterseite Kontakt und lassen sich dort nicht antippen"
+ ],
+ "hebel": "Ihre Arbeiten sehen gut aus, aber sie stecken in kleinen Bildern auf einer unsicheren Seite. Kunden für Einbauschränke und Küchen vergleichen am Handy. Große Fotos und ein Anruf-Knopf machen aus Besuchern Anfragen.",
+ "p": [
+  "790 bis 1.190 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit sicherer Verbindung, Werkstattgalerie, Anfrage mit Maßen, Google-Profil",
+ "svc": [
+  "Werkstattgalerie mit Vorher und Nachher",
+  "Anfrage mit Foto- und Maß-Upload",
+  "Google-Profil mit Bildern",
+  "Sichere Verbindung (https)"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Dachschrägen-Schränke auf der Startseite sind richtig schön, nur zeigt der Browser bei Ihrer Seite 'Nicht sicher'. Ich habe Ihnen mitgebracht, wie Ihre Arbeiten groß und sicher aussehen könnten.",
+ "obj": "'Die Seite reicht doch': Sie zeigt gute Arbeit, aber klein und mit Warnhinweis im Browser. Das kostet Vertrauen beim ersten Klick.",
+ "obs": [
+  "Nur http, 'Nicht sicher'.",
+  "'LADEN...' bleibt stehen.",
+  "Telefon nicht antippbar."
+ ],
+ "neu": [
+  "Große Projektfotos",
+  "Sichere Verbindung",
+  "Anruf-Knopf"
+ ]
+}

@@ -851,5 +851,35 @@
   45,
   "Termin",
   30
+ ],
+ "schilke": [
+  "auftrag",
+  8000,
+  "Auftrag",
+  2
+ ],
+ "gerhard": [
+  "auftrag",
+  6000,
+  "Auftrag",
+  2
+ ],
+ "mascioni": [
+  "auftrag",
+  3000,
+  "Auftrag",
+  3
+ ],
+ "trani": [
+  "auftrag",
+  350,
+  "Auftrag",
+  8
+ ],
+ "skcos": [
+  "auftrag",
+  60,
+  "Termin",
+  30
  ]
 }

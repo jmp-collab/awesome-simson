@@ -1,0 +1,96 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "hours": [],
+ "mcta": "Anrufen",
+ "deco": "KFZ",
+ "hero_img": "",
+ "slug": "tim-trani-kfz-werkstatt",
+ "theme": "metall",
+ "name": "KFZ-Meisterwerkstatt Trani",
+ "branche": "Kfz-Meisterwerkstatt",
+ "addr": "Zum Auenrech 12 · 66640 Namborn-Hofeld",
+ "tel": "0176 72304996",
+ "url": "http://www.meisterwerkstatt-trani.de",
+ "label": "Solide Chance",
+ "visit": "Vorher anrufen, Werkstattbetrieb",
+ "alt_text": "Fotos aus der Werkstatt und Ihre aktuellen Aktionen setze ich mit Ihnen gemeinsam ein.",
+ "logo_a": "KFZ Meisterwerkstatt",
+ "logo_b": "Trani",
+ "nav": [
+  "Leistungen",
+  "HU/AU",
+  "Unfall",
+  "Termin"
+ ],
+ "eyebrow": "Kfz-Meisterwerkstatt in Namborn",
+ "h1": "Kleine Werkstatt. Großer Service.",
+ "lead": "KFZ-Meisterwerkstatt Trani in Namborn-Hofeld. Reparatur, Achsvermessung, Unfallinstandsetzung und HU/AU.",
+ "cta1": "Termin anfragen",
+ "cta2": "Anrufen: 0176 72304996",
+ "badge": [
+  "Meister",
+  "werkstatt"
+ ],
+ "trust": [
+  "<b>Meisterwerkstatt</b> seit 2024",
+  "<b>HU/AU</b> mit Prüfstützpunkt",
+  "<b>Versicherung</b> wird abgewickelt"
+ ],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Reparatur und Diagnose",
+   "Alle Marken, Fahrzeugelektrik."
+  ],
+  [
+   "Unfallinstandsetzung",
+   "Mit Versicherungsabwicklung."
+  ],
+  [
+   "Achsvermessung",
+   "Nach Herstellervorgaben."
+  ],
+  [
+   "HU und AU",
+   "Prüfstützpunkt in der Werkstatt."
+  ]
+ ],
+ "band": "Termin für Inspektion, HU oder Reparatur? Kurz anfragen.",
+ "contact": "KFZ-Meisterwerkstatt Trani<br>Inhaber Tim Trani<br>Zum Auenrech 12<br>66640 Namborn-Hofeld<br><br>Telefon 0176 72304996<br>info@meisterwerkstatt-trani.de",
+ "audit": [
+  "Keine sichere Verbindung: Die Seite läuft nur über http",
+  "Die Telefonnummer steht dreimal auf der Startseite, lässt sich aber nicht antippen; 'Termin anfragen' öffnet nur ein E-Mail-Programm",
+  "Die Startseite lädt rund 12,6 MB, weil Bilder in Originalgröße kommen (ein Instagram-Symbol mit 5.000 mal 5.000 Pixeln), und auf dem iPhone ist sie 1.283 px breit und rutscht seitlich weg"
+ ],
+ "hebel": "Werkstattkunden rufen an oder buchen einen Termin am Handy, oft auf dem Weg. Ein Anruf-Knopf, ein echtes Terminformular und schnelle Bilder machen aus Ihrer schon guten Seite eine, die Termine bringt.",
+ "p": [
+  "690 bis 990 €",
+  "1.190 bis 1.690 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Überarbeitung mit sicherer Verbindung, Anruf-Knopf, Terminformular mit Fahrzeugdaten, optimierten Bildern, Google-Profil",
+ "svc": [
+  "Terminformular mit Fahrzeug und Wunschtermin",
+  "Anruf- und WhatsApp-Knopf",
+  "Bilder für Handy optimiert",
+  "Google-Profil mit Bewertungen"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite ist frisch, nur lässt sich die Nummer am Handy nicht antippen, und der Browser zeigt 'Nicht sicher'. Ich habe Ihnen mitgebracht, wie daraus eine Seite wird, die Termine bringt.",
+ "obj": "'Die Seite haben wir gerade erst gemacht': Gerade deshalb lohnen sich die drei kleinen Punkte, damit sie auch Anrufe bringt.",
+ "obs": [
+  "Nur http.",
+  "Nummer nicht antippbar.",
+  "12,6 MB, am Handy zu breit."
+ ],
+ "neu": [
+  "Anruf-Knopf",
+  "Terminformular",
+  "Schnelle Bilder"
+ ]
+}

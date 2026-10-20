@@ -4535,5 +4535,165 @@
   "addr": "Namborner Straße 6",
   "tel": "06854 802702",
   "welle": 27
+ },
+ {
+  "name": "Schreinerei Thomas Schilke",
+  "branche": "Schreinerei",
+  "url": "https://www.schreinerei-schilke.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Vorher anrufen, Werkstattbetrieb",
+  "audit": [
+   "Die Startseite zeigt außer dem Menü nur eine Meldung: 'Neuer Internetauftritt online'. Das Kopfbild stammt laut Dateistempel von 2014",
+   "Die Referenzen-Seite kündigt eine Bildergalerie an, zeigt aber kein einziges Projekt",
+   "Keine Handy-Einstellung (kein Viewport): Auf dem iPhone erscheint die Seite 980 px breit und verkleinert, 14 von 16 Textstellen sind kleiner als 12 px"
+  ],
+  "hebel": "Wer eine Küche oder Möbel nach Maß sucht, entscheidet über Fotos. Eine Seite, die nur 'Neuer Internetauftritt online' sagt, verschenkt jede Anfrage aus Marpingen und Umgebung. Referenzbilder und eine Anfrage mit Maßen machen daraus Aufträge.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Website mit Leistungen, Referenzgalerie, Anfrage mit Fotos und Maßen, Google-Profil",
+  "svc": [
+   "Referenzgalerie mit Ihren Projekten",
+   "Anfrage mit Foto- und Maß-Upload",
+   "Google-Profil mit Bildern",
+   "Pflege der Seite"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht seit Jahren nur 'Neuer Internetauftritt online', und die Referenzen-Seite ist leer. Ich habe Ihnen mitgebracht, wie Ihre Arbeiten online aussehen könnten.",
+  "obj": "'Wir haben genug zu tun': Dann hilft eine Seite, die passenden Aufträge auszusuchen statt jede Anfrage am Telefon zu klären.",
+  "k": "schilke",
+  "addr": "Berschweilerstraße 49",
+  "tel": "06853 300053",
+  "welle": 28
+ },
+ {
+  "name": "Tischlerei Gerhard",
+  "branche": "Tischlerei",
+  "url": "http://www.tischlerei-gerhard.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Vorher anrufen, Werkstattbetrieb",
+  "audit": [
+   "Keine sichere Verbindung: Die Seite läuft nur über http, Browser warnen bei 'Nicht sicher'",
+   "Der Hinweis 'LADEN...' bleibt auf der Startseite stehen, und die Seite ist fest auf 1.221 px Breite eingestellt: Auf dem iPhone wird sie auf etwa ein Drittel verkleinert",
+   "Telefon und E-Mail stehen nur auf der Unterseite Kontakt und lassen sich dort nicht antippen"
+  ],
+  "hebel": "Ihre Arbeiten sehen gut aus, aber sie stecken in kleinen Bildern auf einer unsicheren Seite. Kunden für Einbauschränke und Küchen vergleichen am Handy. Große Fotos und ein Anruf-Knopf machen aus Besuchern Anfragen.",
+  "p": [
+   "790 bis 1.190 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Website mit sicherer Verbindung, Werkstattgalerie, Anfrage mit Maßen, Google-Profil",
+  "svc": [
+   "Werkstattgalerie mit Vorher und Nachher",
+   "Anfrage mit Foto- und Maß-Upload",
+   "Google-Profil mit Bildern",
+   "Sichere Verbindung (https)"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Dachschrägen-Schränke auf der Startseite sind richtig schön, nur zeigt der Browser bei Ihrer Seite 'Nicht sicher'. Ich habe Ihnen mitgebracht, wie Ihre Arbeiten groß und sicher aussehen könnten.",
+  "obj": "'Die Seite reicht doch': Sie zeigt gute Arbeit, aber klein und mit Warnhinweis im Browser. Das kostet Vertrauen beim ersten Klick.",
+  "k": "gerhard",
+  "addr": "Oberdorfstraße 12",
+  "tel": "06851 907640",
+  "welle": 28
+ },
+ {
+  "name": "Mascioni Marpingen",
+  "branche": "Möbelhaus, Schreinerei und Bestattungen",
+  "url": "http://www.mascioni.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Möbelhaus Mo bis Fr vormittags, Mittwochnachmittag geschlossen",
+  "audit": [
+   "Keine sichere Verbindung: Die Seite läuft nur über http",
+   "Die Seite hat keine Handy-Einstellung (kein Viewport), auf dem Smartphone erscheint das verkleinerte Desktop-Layout",
+   "Die Telefonnummer, auch die für den Trauerfall, lässt sich nirgends antippen"
+  ],
+  "hebel": "Drei Bereiche auf einer Seite, und im Trauerfall sucht man am Handy nach einer Nummer zum Antippen. Eine klare Seite mit drei Bereichen, Öffnungszeiten und einem Anruf-Knopf für den Trauerfall hilft genau dann, wenn es zählt.",
+  "p": [
+   "1.290 bis 1.790 €",
+   "1.990 bis 2.790 €",
+   "39 bis 69 €"
+  ],
+  "paket": "Neue Website mit drei Bereichen, Öffnungszeiten, Anruf-Knopf für den Trauerfall, Google-Profile",
+  "svc": [
+   "Drei Bereiche klar getrennt",
+   "Anruf-Knopf für Bestattungen, Tag und Nacht",
+   "Google-Profile für Möbelhaus und Bestattungen",
+   "Sichere Verbindung (https)"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite ist auf dem Handy nur verkleinert zu sehen, und auch die Nummer für den Trauerfall lässt sich dort nicht antippen. Ich habe Ihnen mitgebracht, wie die drei Bereiche klar und handytauglich aussehen könnten.",
+  "obj": "'Uns kennt man im Ort': Im Trauerfall suchen oft Angehörige von außerhalb, und die finden Sie online.",
+  "k": "mascioni",
+  "addr": "Alsweilerstraße 19",
+  "tel": "06853 5131",
+  "welle": 28
+ },
+ {
+  "name": "KFZ-Meisterwerkstatt Trani",
+  "branche": "Kfz-Meisterwerkstatt",
+  "url": "http://www.meisterwerkstatt-trani.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Vorher anrufen, Werkstattbetrieb",
+  "audit": [
+   "Keine sichere Verbindung: Die Seite läuft nur über http",
+   "Die Telefonnummer steht dreimal auf der Startseite, lässt sich aber nicht antippen; 'Termin anfragen' öffnet nur ein E-Mail-Programm",
+   "Die Startseite lädt rund 12,6 MB, weil Bilder in Originalgröße kommen (ein Instagram-Symbol mit 5.000 mal 5.000 Pixeln), und auf dem iPhone ist sie 1.283 px breit und rutscht seitlich weg"
+  ],
+  "hebel": "Werkstattkunden rufen an oder buchen einen Termin am Handy, oft auf dem Weg. Ein Anruf-Knopf, ein echtes Terminformular und schnelle Bilder machen aus Ihrer schon guten Seite eine, die Termine bringt.",
+  "p": [
+   "690 bis 990 €",
+   "1.190 bis 1.690 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Überarbeitung mit sicherer Verbindung, Anruf-Knopf, Terminformular mit Fahrzeugdaten, optimierten Bildern, Google-Profil",
+  "svc": [
+   "Terminformular mit Fahrzeug und Wunschtermin",
+   "Anruf- und WhatsApp-Knopf",
+   "Bilder für Handy optimiert",
+   "Google-Profil mit Bewertungen"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite ist frisch, nur lässt sich die Nummer am Handy nicht antippen, und der Browser zeigt 'Nicht sicher'. Ich habe Ihnen mitgebracht, wie daraus eine Seite wird, die Termine bringt.",
+  "obj": "'Die Seite haben wir gerade erst gemacht': Gerade deshalb lohnen sich die drei kleinen Punkte, damit sie auch Anrufe bringt.",
+  "k": "trani",
+  "addr": "Zum Auenrech 12",
+  "tel": "0176 72304996",
+  "welle": 28
+ },
+ {
+  "name": "SK Cosmetic",
+  "branche": "Kosmetikinstitut",
+  "url": "http://www.skcosmetic.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Termine nach Vereinbarung, vorher anrufen",
+  "audit": [
+   "Die Seite ist in HTML 4.01 mit Sonderregeln für den Internet Explorer gebaut und hat keine Handy-Einstellung (kein Viewport)",
+   "Keine sichere Verbindung (nur http), und keine E-Mail-Adresse oder Terminanfrage auf der ganzen Seite",
+   "Das Impressum beginnt mit einem Hinweis auf ein Urteil von 1998; Pflichtangaben wie eine E-Mail-Adresse fehlen"
+  ],
+  "hebel": "Ihre Preisliste ist ein echter Pluspunkt, nur findet man sie am Handy kaum. Kundinnen suchen Behandlungen und Gutscheine abends auf dem Sofa. Eine Seite mit Preisen, Terminanfrage und Gutschein-Bestellung holt genau diese Anfragen.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Behandlungen und Preisen, Terminanfrage, Gutschein-Anfrage, aktuellem Impressum, Google-Profil",
+  "svc": [
+   "Terminanfrage mit Wunschbehandlung",
+   "Gutschein-Bestellung",
+   "Google-Profil mit Fotos",
+   "Aktuelles Impressum"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Preisliste ist schön ausführlich, nur ist die Seite noch für den Internet Explorer gebaut und am Handy kaum lesbar. Ich habe Ihnen mitgebracht, wie Ihr Institut online aussehen könnte.",
+  "obj": "'Meine Kundinnen rufen an': Neue Kundinnen schauen vorher online nach Preisen, und dann sollen sie die auch am Handy finden.",
+  "k": "skcos",
+  "addr": "Meydenbauerweg 9",
+  "tel": "06853 9147878",
+  "welle": 28
  }
 ]

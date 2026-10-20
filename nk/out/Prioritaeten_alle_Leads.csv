@@ -24,6 +24,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 130;ecker2;Steuerkanzlei Paul Ecker;Steuerberatung;15;7;2;6000;790;78;few7cu;06826 92390;Vorher anrufen und Termin vereinbaren
 134;herfert;Malermeister-Fachbetrieb Stefan Herfert GmbH;Malerbetrieb;15;6;4;10500;990;78;g5dbxd;06851 9374267;Vorher anrufen
 139;schusch;Schu & Schneider GmbH;Ingenieurbüro für Metallbau;15;7;2;10000;990;78;o4msxe;06851 93540;Vorher anrufen und Termin vereinbaren
+144;gerhard;Tischlerei Gerhard;Tischlerei;15;7;2;12000;790;78;qhu4tf;06851 907640;Vorher anrufen, Werkstattbetrieb
 14;mdm;MetallDesignMüller;Metallbau / Geländer, Treppen, Tore;15;6;3;10000;690;72;lmn7fq;06821 1799757;Früh morgens 7 bis 8 Uhr oder vorher anrufen (Handwerker oft auf Montage)
 63;welzow;Welzower Stuben;Restaurant und Partyservice;15;6;3;12000;990;72;72a3z2;06821 690943;Nachmittags zwischen 14 und 18 Uhr, Chef Leonard Bala direkt ansprechen
 77;mauermann;Elektro Mauermann;Elektro, Kälte und Klima;15;6;3;10000;790;72;tmfe33;06821 962171;Früh morgens oder vorher anrufen
@@ -45,6 +46,9 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 116;kms;KMS Meisterservice Hoffmann;Kfz-Werkstatt;15;6;2;9000;790;66;6um77i;0152 26229114;Vormittags in der Werkstatt
 135;recktenwald;Elektrotechnik Recktenwald;Elektroinstallation;15;6;2;7500;690;66;uvedcb;06851 85918;Vorher anrufen
 136;allmann;Bau- und Möbeltischlerei Thomas Allmann;Tischlerei;17;5;4;10500;790;66;2xx5tf;06856 9009655;Vorher anrufen
+143;schilke;Schreinerei Thomas Schilke;Schreinerei;20;6;2;16000;990;66;5lppp6;06853 300053;Vorher anrufen, Werkstattbetrieb
+145;mascioni;Mascioni Marpingen;Möbelhaus, Schreinerei und Bestattungen;15;6;2;9000;1290;66;bf2kie;06853 5131;Möbelhaus Mo bis Fr vormittags, Mittwochnachmittag geschlossen
+146;trani;KFZ-Meisterwerkstatt Trani;Kfz-Meisterwerkstatt;15;6;3;2800;690;60.7;b4lkai;0176 72304996;Vorher anrufen, Werkstattbetrieb
 16;ratzky;Ratzky GmbH Bedachungen;Dachdecker / Bedachungen;24;6;1;18000;990;60;rvoffe;06821 93010;Früh morgens 7 bis 8 Uhr oder vorher anrufen, Dachdecker sind tagsüber auf der Baustelle
 27;decker;Fensterbau Decker GmbH;Fenster, Haustüren, Rollläden (Hersteller);21;6;1;16000;1490;60;eaxoh6;06821 361524;Werktags vormittags in der Ausstellung
 35;hofmann;Viktor Hofmann Fliesen Granit Mosaik;Fliesenleger / Spanndecken;21;5;3;12000;690;60;qyw5z7;06821 87797;Vorher anrufen, morgens vor Baustellenbeginn
@@ -86,6 +90,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 60;schwenk;Fliesenmarkt Schwenk GmbH;Fliesenhandel und Verlegung;42;4;2;15000;1490;42;hhe3wr;06821 485601;Vormittags in der Ausstellung Wellesweiler
 70;jolly;Jollytherm GmbH;Hersteller Flächenheizungen;42;4;2;12000;1990;42;tfpwp4;06821 964930;Vorher anrufen und Termin mit der Geschäftsführung vereinbaren
 76;schuler;Bad & Bausanierung Schuler;Bad- und Bausanierung;51;5;0;16000;690;42;nmit5w;06821 633075;Früh morgens oder vorher anrufen
+147;skcos;SK Cosmetic;Kosmetikinstitut;15;6;2;1800;690;39.7;ciibwp;06853 9147878;Termine nach Vereinbarung, vorher anrufen
 89;mendel;Blumenatelier Mendel;Blumenatelier;15;7;3;1200;690;38.3;jdvgzy;06825 496570;Vorher anrufen
 11;wibilo;Wibilo-Kebap-Haus;Döner / Imbiss mit Lieferservice;15;6;2;1685;690;37.9;enipj7;06821 9533808;Werktags 14 bis 16 Uhr, nach dem Mittagsgeschäft (geöffnet Mo bis Sa ab 12 Uhr)
 133;sonnenhof;Sonnenhof-Metzgerei;Hofmetzgerei mit Selbstvermarktung;15;6;3;1600;790;36.3;7equm4;06858 316;Vorher anrufen, am besten nicht an Markttagen

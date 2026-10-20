@@ -1,0 +1,178 @@
+{
+ "k": "trani",
+ "url": "http://www.meisterwerkstatt-trani.de",
+ "date": "2026-10-20",
+ "desk": {
+  "ok": true,
+  "load_s": 4.0,
+  "status": 200,
+  "final": "http://www.meisterwerkstatt-trani.de/",
+  "title": "KFZ Meisterwerkstatt",
+  "desc": null,
+  "viewport": "width=device-width, initial-scale=1.0",
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [],
+  "words": 195,
+  "tel": 0,
+  "mail": [
+   "info@meisterwerkstatt-trani.de"
+  ],
+  "wa": 1,
+  "forms": 0,
+  "maps": true,
+  "localbiz": false,
+  "favicon": false,
+  "imgs": 13,
+  "broken": [],
+  "noalt": 1,
+  "big": [
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/1.JPG",
+    "nat": 4032,
+    "shown": 335
+   },
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/index_Logo.jpg",
+    "nat": 9999,
+    "shown": 447
+   },
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/hauptuntersuchung_Dekra%20mit%20Plakette.jpg",
+    "nat": 2628,
+    "shown": 187
+   },
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/Bilder/Castrol%20Service%20Horizontal%20Stacked.png",
+    "nat": 3615,
+    "shown": 156
+   },
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/Bilder/BREMBO_LOGO_CMYK_COLOR_POS.jpg",
+    "nat": 2364,
+    "shown": 146
+   },
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/Bilder/Facebook-Brand-Asset-Pack/Facebook%20Brand%20Asset%20Pack/Logo/Primary%20Log",
+    "nat": 2084,
+    "shown": 61
+   },
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/Bilder/01%20Gradient%20Glyph/Instagram_Glyph_Gradient.png",
+    "nat": 5000,
+    "shown": 61
+   }
+  ],
+  "years": [
+   2026
+  ],
+  "small": 0,
+  "total": 23,
+  "taps": 2,
+  "placeholders": [],
+  "scrollW": 1396,
+  "innerW": 1366,
+  "http_res": [
+   "http://www.meisterwerkstatt-trani.de/1.JPG",
+   "http://www.meisterwerkstatt-trani.de/index_Logo.jpg",
+   "http://www.meisterwerkstatt-trani.de/Bilder/Wichtige%20Info/Info.jpeg",
+   "http://www.meisterwerkstatt-trani.de/Bilder/Aktion%20Winter/Winteraktion.jpeg",
+   "http://www.meisterwerkstatt-trani.de/Bilder/Castrol%20Service%20Horizontal%20Stacked.png"
+  ],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 38,
+  "bytes": 12660143,
+  "img_bytes": 12067965
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 3.2,
+  "status": 200,
+  "final": "http://www.meisterwerkstatt-trani.de/",
+  "title": "KFZ Meisterwerkstatt",
+  "desc": null,
+  "viewport": "width=device-width, initial-scale=1.0",
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [],
+  "words": 195,
+  "tel": 0,
+  "mail": [
+   "info@meisterwerkstatt-trani.de"
+  ],
+  "wa": 1,
+  "forms": 0,
+  "maps": true,
+  "localbiz": false,
+  "favicon": false,
+  "imgs": 13,
+  "broken": [],
+  "noalt": 1,
+  "big": [
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/1.JPG",
+    "nat": 4032,
+    "shown": 335
+   },
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/index_Logo.jpg",
+    "nat": 9999,
+    "shown": 447
+   },
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/hauptuntersuchung_Dekra%20mit%20Plakette.jpg",
+    "nat": 2628,
+    "shown": 187
+   },
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/Bilder/Castrol%20Service%20Horizontal%20Stacked.png",
+    "nat": 3615,
+    "shown": 156
+   },
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/Bilder/BREMBO_LOGO_CMYK_COLOR_POS.jpg",
+    "nat": 2364,
+    "shown": 146
+   },
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/Bilder/Facebook-Brand-Asset-Pack/Facebook%20Brand%20Asset%20Pack/Logo/Primary%20Log",
+    "nat": 2084,
+    "shown": 61
+   },
+   {
+    "src": "http://www.meisterwerkstatt-trani.de/Bilder/01%20Gradient%20Glyph/Instagram_Glyph_Gradient.png",
+    "nat": 5000,
+    "shown": 61
+   }
+  ],
+  "years": [
+   2026
+  ],
+  "small": 0,
+  "total": 23,
+  "taps": 2,
+  "placeholders": [],
+  "scrollW": 1283,
+  "innerW": 1283,
+  "http_res": [
+   "http://www.meisterwerkstatt-trani.de/1.JPG",
+   "http://www.meisterwerkstatt-trani.de/index_Logo.jpg",
+   "http://www.meisterwerkstatt-trani.de/Bilder/Aktion%20Winter/Winteraktion.jpeg",
+   "http://www.meisterwerkstatt-trani.de/Bilder/Wichtige%20Info/Info.jpeg",
+   "http://www.meisterwerkstatt-trani.de/hauptuntersuchung_Dekra%20mit%20Plakette.jpg"
+  ],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 38,
+  "bytes": 12650631,
+  "img_bytes": 12067965
+ },
+ "http_to": "http://www.meisterwerkstatt-trani.de/",
+ "http_code": "200",
+ "http_redirects_to_https": false
+}

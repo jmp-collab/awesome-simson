@@ -1702,5 +1702,65 @@
    "Terminanfrage",
    "Ihr Name bei Google"
   ]
+ },
+ "schilke": {
+  "obs": [
+   "Startseite ohne Inhalt.",
+   "Referenzen ohne Bilder.",
+   "Am Handy winzige Schrift."
+  ],
+  "neu": [
+   "Referenzgalerie",
+   "Leistungen mit Bildern",
+   "Anfrage mit Maßen"
+  ]
+ },
+ "gerhard": {
+  "obs": [
+   "Nur http, 'Nicht sicher'.",
+   "'LADEN...' bleibt stehen.",
+   "Telefon nicht antippbar."
+  ],
+  "neu": [
+   "Große Projektfotos",
+   "Sichere Verbindung",
+   "Anruf-Knopf"
+  ]
+ },
+ "mascioni": {
+  "obs": [
+   "Keine Handy-Darstellung.",
+   "Nummer nicht antippbar.",
+   "Nur http."
+  ],
+  "neu": [
+   "Drei klare Bereiche",
+   "Anruf-Knopf Trauerfall",
+   "Öffnungszeiten oben"
+  ]
+ },
+ "trani": {
+  "obs": [
+   "Nur http.",
+   "Nummer nicht antippbar.",
+   "12,6 MB, am Handy zu breit."
+  ],
+  "neu": [
+   "Anruf-Knopf",
+   "Terminformular",
+   "Schnelle Bilder"
+  ]
+ },
+ "skcos": {
+  "obs": [
+   "Gebaut für den Internet Explorer.",
+   "Keine Terminanfrage, keine E-Mail.",
+   "Nur http."
+  ],
+  "neu": [
+   "Preise am Handy",
+   "Terminanfrage",
+   "Gutscheine"
+  ]
  }
 }
