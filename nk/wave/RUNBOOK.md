@@ -1,3 +1,5 @@
+**PAUSIERT seit 2026-10-20:** keine automatischen Wellen. Neue Leads nur auf Zuruf, nur Raum Neunkirchen (fußläufig).
+
 # Stündliche Lead-Welle (Runbook für Claude)
 Ziel: Jede Stunde 5 neue Leads aus der Queue mit Vorher/Nachher, Preis, Zusatzleistungen und Vorschau-Seite.
 0. Wenn die Queue leer ist: `python3 wave/harvest_gs.py ORTE BRANCHEN > wave/new_leads.jsonl` (Gelbe Seiten per curl, Website-Link base64), nach PLZ filtern -> wave/new_near.json, `python3 wave/screen.py wave/new_near.json` (immer https, Browser-http scheitert am Proxy), nach Alterssignalen ranken, Auswahl in data/all_v2.json ergänzen.
