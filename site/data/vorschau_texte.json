@@ -1582,5 +1582,65 @@
    "Direktanfrage",
    "Feiern und Speisekarte"
   ]
+ },
+ "sonnenhof": {
+  "obs": [
+   "Tippfehler 'das Sie' und 'Bauernmark'.",
+   "Kein Sortiment, keine Bestellung.",
+   "Keine sichere Verbindung, am Handy zu breit."
+  ],
+  "neu": [
+   "Sortiment und Marktplan",
+   "Vorbestellung",
+   "Sichere Verbindung"
+  ]
+ },
+ "herfert": {
+  "obs": [
+   "Gutschein-Aktion von 2014 noch online.",
+   "Kaum Text auf der Startseite.",
+   "Keine sichere Verbindung, am Handy zu breit."
+  ],
+  "neu": [
+   "Aktuelle Leistungen",
+   "Referenzen",
+   "Aktionen mit Ablaufdatum"
+  ]
+ },
+ "recktenwald": {
+  "obs": [
+   "Kein Telefon, keine Adresse auf der Startseite.",
+   "Keine Leistung genannt.",
+   "Seitennamen nur Nummern, keine sichere Verbindung."
+  ],
+  "neu": [
+   "Leistungen und Telefon",
+   "Anfrage mit Foto",
+   "Sichere Verbindung"
+  ]
+ },
+ "allmann": {
+  "obs": [
+   "Google-Titel 'Meine Homepage - Home'.",
+   "Tippfehler 'Hompage'.",
+   "Keine sichere Verbindung, nichts antippbar."
+  ],
+  "neu": [
+   "Titel mit Ort",
+   "Große Galerie",
+   "Anfrage mit Maßen"
+  ]
+ },
+ "merschers": {
+  "obs": [
+   "Nur 'STRATO - Domain not available'.",
+   "Bei Google mit diesem Titel.",
+   "Keine Karte, keine Zeiten, keine Nummer."
+  ],
+  "neu": [
+   "Speisekarte und Zeiten",
+   "Reservierung",
+   "Ihr Name bei Google"
+  ]
  }
 }

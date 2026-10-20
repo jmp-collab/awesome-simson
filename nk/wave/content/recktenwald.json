@@ -1,0 +1,96 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "alt_text": "Ihre Spezialgebiete setze ich mit Ihnen gemeinsam ein.",
+ "hours": [],
+ "mcta": "Anrufen",
+ "slug": "franko-recktenwald-elektroinstallationen",
+ "theme": "doener",
+ "name": "Elektrotechnik Recktenwald",
+ "branche": "Elektroinstallation",
+ "addr": "Essener Straße 4 · 66606 St. Wendel",
+ "tel": "06851 85918",
+ "url": "http://strom-licht-service.de",
+ "label": "Quick Win",
+ "visit": "Vorher anrufen",
+ "logo_a": "Elektrotechnik",
+ "logo_b": "Recktenwald",
+ "nav": [
+  "Leistungen",
+  "Service",
+  "Über uns",
+  "Kontakt"
+ ],
+ "eyebrow": "Elektrotechnik in St. Wendel",
+ "h1": "Strom und Licht aus St. Wendel.",
+ "lead": "Elektrotechnik Recktenwald: neben den alltäglichen Aufgaben eines modernen Handwerksbetriebs ein umfassender Service auf mehreren Spezialgebieten.",
+ "cta1": "Anrufen: 06851 85918",
+ "cta2": "Anfrage mit Foto",
+ "badge": [
+  "Strom",
+  "und Licht"
+ ],
+ "deco": "STROM",
+ "hero_img": "",
+ "trust": [
+  "<b>Elektrotechnik</b> aus St. Wendel",
+  "<b>Spezialgebiete</b> neben dem Alltag",
+  "<b>Anfrage</b> mit Foto"
+ ],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Elektroinstallation",
+   "Neubau und Sanierung."
+  ],
+  [
+   "Licht",
+   "Beleuchtung für Haus und Betrieb."
+  ],
+  [
+   "Service",
+   "Zuverlässig und flexibel."
+  ],
+  [
+   "Anfrage mit Foto",
+   "Foto vom Zählerschrank schicken."
+  ]
+ ],
+ "band": "Elektroarbeiten geplant? Foto schicken, wir melden uns.",
+ "contact": "Elektrotechnik Recktenwald<br>Essener Straße 4<br>66606 St. Wendel<br><br>Telefon 06851 85918<br>F.Recktenwald@strom-licht-service.de",
+ "audit": [
+  "Auf der Startseite steht keine Telefonnummer und keine Adresse, nur eine E-Mail-Adresse",
+  "Der Text verweist auf Spezialgebiete 'siehe Navigationsleiste links', nennt aber selbst keine einzige Leistung",
+  "Die Unterseiten heißen nur Nummern (pageID_3101762.html), keine sichere Verbindung (nur http), am Handy zu breit"
+ ],
+ "hebel": "Wer einen Elektriker in St. Wendel sucht, will Leistungen und Telefon auf einen Blick. Heute steht auf der Startseite nur eine E-Mail-Adresse. Ein Onepager mit Spezialgebieten, Telefon und Anfrage per Foto holt die Anrufe.",
+ "p": [
+  "690 bis 990 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Onepager mit Leistungen und Spezialgebieten, Telefon, Anfrage mit Foto, sicherer Verbindung, Google-Profil",
+ "svc": [
+  "Anfrage mit Foto vom Zählerschrank",
+  "Seiten je Spezialgebiet",
+  "Google-Profil mit Leistungen",
+  "Sichere Verbindung"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht weder Telefon noch Adresse, und Ihre Spezialgebiete werden nicht genannt. Ich habe Ihnen mitgebracht, wie das auf einen Blick aussehen könnte.",
+ "obj": "'Die Kunden kennen meine Nummer': Die alten ja. Neue suchen am Handy und rufen den an, dessen Nummer sie zuerst sehen.",
+ "obs": [
+  "Kein Telefon, keine Adresse auf der Startseite.",
+  "Keine Leistung genannt.",
+  "Seitennamen nur Nummern, keine sichere Verbindung."
+ ],
+ "neu": [
+  "Leistungen und Telefon",
+  "Anfrage mit Foto",
+  "Sichere Verbindung"
+ ]
+}

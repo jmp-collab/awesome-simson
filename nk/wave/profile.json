@@ -791,5 +791,35 @@
   75,
   "Nacht",
   20
+ ],
+ "sonnenhof": [
+  "auftrag",
+  40,
+  "Neukunde",
+  40
+ ],
+ "herfert": [
+  "auftrag",
+  3500,
+  "Auftrag",
+  3
+ ],
+ "recktenwald": [
+  "auftrag",
+  1500,
+  "Auftrag",
+  5
+ ],
+ "allmann": [
+  "auftrag",
+  3500,
+  "Auftrag",
+  3
+ ],
+ "merschers": [
+  "auftrag",
+  35,
+  "Neukunde",
+  60
  ]
 }

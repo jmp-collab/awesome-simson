@@ -1,0 +1,96 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "alt_text": "Sortiment, Hofladenzeiten und Fotos vom Hof setze ich mit Ihnen gemeinsam ein.",
+ "hours": [],
+ "mcta": "Anrufen",
+ "slug": "sonnenhof-metzgerei",
+ "theme": "spa",
+ "name": "Sonnenhof-Metzgerei",
+ "branche": "Hofmetzgerei mit Selbstvermarktung",
+ "addr": "Sonnenhof · 66606 St. Wendel-Dörrenbach",
+ "tel": "06858 316",
+ "url": "http://www.sonnenhof-metzgerei.de",
+ "label": "Solide Chance",
+ "visit": "Vorher anrufen, am besten nicht an Markttagen",
+ "logo_a": "Sonnenhof",
+ "logo_b": "Metzgerei",
+ "nav": [
+  "Hofladen",
+  "Märkte",
+  "Über uns",
+  "Kontakt"
+ ],
+ "eyebrow": "Hofmetzgerei in St. Wendel-Dörrenbach",
+ "h1": "Fleisch und Wurst vom eigenen Hof.",
+ "lead": "Fleisch- und Wurstwaren aus eigener Selbstvermarktung, höchstes Gebot ist die Qualität. Auf dem Hof in Dörrenbach und jede Woche auf drei Märkten.",
+ "cta1": "Anrufen: 06858 316",
+ "cta2": "Marktzeiten",
+ "badge": [
+  "3",
+  "Märkte pro Woche"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Selbstvermarktung</b> vom eigenen Hof",
+  "<b>Wochenmärkte</b> in St. Wendel, Neunkirchen und Saarbrücken",
+  "<b>Hofbesuch</b> in Dörrenbach"
+ ],
+ "svc_title": "Hier finden Sie uns",
+ "services": [
+  [
+   "Donnerstag",
+   "Wochenmarkt St. Wendel, Auf der Mott."
+  ],
+  [
+   "Freitag",
+   "Bauernmarkt Neunkirchen, Am Stummplatz."
+  ],
+  [
+   "Samstag",
+   "Bauernmarkt Saarbrücken, St. Johanner Markt."
+  ],
+  [
+   "Hof",
+   "Sonnenhof in Dörrenbach."
+  ]
+ ],
+ "band": "Grillpaket oder Bestellung für den Markt? Kurz anrufen.",
+ "contact": "Sonnenhof-Metzgerei<br>Sonnenhof<br>66606 St. Wendel-Dörrenbach<br><br>Telefon 06858 316",
+ "audit": [
+  "Auf der Startseite stehen Fehler wie 'das Sie zu uns gefunden haben' und 'Bauernmark Saarbrücken'",
+  "Kein Sortiment, keine Hofladenzeiten und keine Bestellmöglichkeit, nur die Marktliste",
+  "Keine sichere Verbindung (nur http), am Handy zu breit, Telefon nicht antippbar"
+ ],
+ "hebel": "Direktvermarkter leben von Stammkunden auf dem Markt und von Vorbestellungen. Eine Seite mit Sortiment, Marktplan und Vorbestellung für den Markttag spart Wartezeit am Stand und bringt neue Kunden aus Neunkirchen und Saarbrücken.",
+ "p": [
+  "790 bis 1.190 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Sortiment, Marktplan, Vorbestellung für den Markttag, sicherer Verbindung, Google-Profil",
+ "svc": [
+  "Vorbestellung zur Abholung am Marktstand",
+  "Marktplan, den Sie selbst pflegen",
+  "Seite Grill- und Festpakete",
+  "Google-Profil mit Hof-Fotos"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite fehlen Sortiment und eine Möglichkeit zum Vorbestellen, und es stehen ein paar Tippfehler drauf. Ich habe Ihnen mitgebracht, wie die Seite mit Vorbestellung für den Markttag aussehen könnte.",
+ "obj": "'Unsere Kunden kommen auf den Markt': Genau die könnten vorbestellen und schneller abholen, und neue finden Sie über Google.",
+ "obs": [
+  "Tippfehler 'das Sie' und 'Bauernmark'.",
+  "Kein Sortiment, keine Bestellung.",
+  "Keine sichere Verbindung, am Handy zu breit."
+ ],
+ "neu": [
+  "Sortiment und Marktplan",
+  "Vorbestellung",
+  "Sichere Verbindung"
+ ]
+}

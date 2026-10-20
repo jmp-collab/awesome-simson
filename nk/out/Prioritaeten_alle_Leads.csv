@@ -22,6 +22,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 122;heckmann;Stammtischlerei Martin Heckmann;Tischlerei;15;7;2;10500;690;78;eisdwm;06806 9312071;Vorher anrufen, mobil 0176 23281933
 127;trautmann;Trautmann Treuhand GmbH;Steuerberatungsgesellschaft;15;7;2;6000;790;78;lhiu7u;06894 91470;Vorher anrufen und Termin vereinbaren
 130;ecker2;Steuerkanzlei Paul Ecker;Steuerberatung;15;7;2;6000;790;78;few7cu;06826 92390;Vorher anrufen und Termin vereinbaren
+134;herfert;Malermeister-Fachbetrieb Stefan Herfert GmbH;Malerbetrieb;15;6;4;10500;990;78;g5dbxd;06851 9374267;Vorher anrufen
 14;mdm;MetallDesignMüller;Metallbau / Geländer, Treppen, Tore;15;6;3;10000;690;72;lmn7fq;06821 1799757;Früh morgens 7 bis 8 Uhr oder vorher anrufen (Handwerker oft auf Montage)
 63;welzow;Welzower Stuben;Restaurant und Partyservice;15;6;3;12000;990;72;72a3z2;06821 690943;Nachmittags zwischen 14 und 18 Uhr, Chef Leonard Bala direkt ansprechen
 77;mauermann;Elektro Mauermann;Elektro, Kälte und Klima;15;6;3;10000;790;72;tmfe33;06821 962171;Früh morgens oder vorher anrufen
@@ -41,6 +42,8 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 97;fess;Feß Bedachungen GmbH;Dachdeckerei und Zimmerei;15;5;4;18000;790;66;jbccv3;0179 9215181;Vorher anrufen und zuerst klären, ob der Betrieb aktiv ist und die Domain noch ihm gehört
 114;kopp;Gartengestaltung Kopp;Garten- und Landschaftsbau;15;6;2;12000;690;66;e2fv76;06897 5009485;Früh morgens oder vorher anrufen
 116;kms;KMS Meisterservice Hoffmann;Kfz-Werkstatt;15;6;2;9000;790;66;6um77i;0152 26229114;Vormittags in der Werkstatt
+135;recktenwald;Elektrotechnik Recktenwald;Elektroinstallation;15;6;2;7500;690;66;uvedcb;06851 85918;Vorher anrufen
+136;allmann;Bau- und Möbeltischlerei Thomas Allmann;Tischlerei;17;5;4;10500;790;66;2xx5tf;06856 9009655;Vorher anrufen
 16;ratzky;Ratzky GmbH Bedachungen;Dachdecker / Bedachungen;24;6;1;18000;990;60;rvoffe;06821 93010;Früh morgens 7 bis 8 Uhr oder vorher anrufen, Dachdecker sind tagsüber auf der Baustelle
 27;decker;Fensterbau Decker GmbH;Fenster, Haustüren, Rollläden (Hersteller);21;6;1;16000;1490;60;eaxoh6;06821 361524;Werktags vormittags in der Ausstellung
 35;hofmann;Viktor Hofmann Fliesen Granit Mosaik;Fliesenleger / Spanndecken;21;5;3;12000;690;60;qyw5z7;06821 87797;Vorher anrufen, morgens vor Baustellenbeginn
@@ -59,6 +62,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 109;hundehuett;Speiselokal Hundehütt;Restaurant;15;7;3;2100;790;51.2;exqslq;06806 79494;Freitag vor 17:30 Uhr, Inhaber Heinz-Georg Kunz
 92;siegel;Augenoptik Siegel;Augenoptik;15;6;3;3200;990;50.8;mpjvfc;06825 88840;Vorher anrufen
 125;spang;Foto Spang;Fotostudio;15;6;3;2400;790;48.5;rvqyxz;06821 73507;Montag, Dienstag, Donnerstag oder Freitag zu den Öffnungszeiten
+137;merschers;Merschers;Gaststätte;15;6;3;2100;690;48.5;ybmn54;06851 2246;Vorher anrufen und klären, ob der Betrieb geöffnet ist
 18;hobler;Elektro Hobler UG;Elektroinstallation / Elektriker;41;5;1;5400;690;48;khjgpu;06821 952063;Morgens zwischen 7 und 9 Uhr (Büro Mo bis Fr 6 bis 13 Uhr erreichbar)
 32;kirschhock;Haus- und Montage Service Kirschhock;Hausmeister- und Montageservice;35;4;3;3600;690;48;6vsmks;06821 306991;Vorher anrufen (mobil 0175 4147742), am besten früh morgens
 72;lander;Carsten Lander GmbH;Stuckateur- und Malerbetrieb;35;5;1;16000;990;48;mrbje5;06897 61762;Vorher anrufen oder per WhatsApp melden
@@ -81,6 +85,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 76;schuler;Bad & Bausanierung Schuler;Bad- und Bausanierung;51;5;0;16000;690;42;nmit5w;06821 633075;Früh morgens oder vorher anrufen
 89;mendel;Blumenatelier Mendel;Blumenatelier;15;7;3;1200;690;38.3;jdvgzy;06825 496570;Vorher anrufen
 11;wibilo;Wibilo-Kebap-Haus;Döner / Imbiss mit Lieferservice;15;6;2;1685;690;37.9;enipj7;06821 9533808;Werktags 14 bis 16 Uhr, nach dem Mittagsgeschäft (geöffnet Mo bis Sa ab 12 Uhr)
+133;sonnenhof;Sonnenhof-Metzgerei;Hofmetzgerei mit Selbstvermarktung;15;6;3;1600;790;36.3;7equm4;06858 316;Vorher anrufen, am besten nicht an Markttagen
 36;mtrucks;M-Trucks GmbH;Nutzfahrzeug-Werkstatt und Teilehandel;55;4;1;9000;1190;36;mjifl6;06821 74963-14;Morgens ab 7 Uhr oder nach 16 Uhr, vorher anrufen
 44;grill;Grill au Bois;Steakhaus und Eventgastronomie;52;3;3;28800;1990;36;eeuj5q;06821 89999;Nachmittags zwischen Mittag- und Abendservice, vorher anrufen
 59;juwel;Karosserie & Lack JuWel GmbH;Karosserie und Lackiererei;55;4;1;7200;990;36;z7qt2y;06821 59333;Morgens ab 7:30 Uhr, vorher anrufen

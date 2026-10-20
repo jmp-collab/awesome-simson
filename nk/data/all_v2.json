@@ -30932,5 +30932,82 @@
   "tel": "06897 8 84 68",
   "slug": "burgard-metzgerei",
   "src": "gelbeseiten"
+ },
+ {
+  "name": "Sonnenhof-Metzgerei",
+  "branch": "Fleischereien",
+  "addr": "Sonnenhof, 66606 St. Wendel (Dörrenbach)",
+  "plz": "66606",
+  "url": "http://www.sonnenhof-metzgerei.de",
+  "final": "http://www.sonnenhof-metzgerei.de/",
+  "tel": "06858 3 16",
+  "slug": "sonnenhof-metzgerei",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Stefan Herfert Malermeister-Fachbetrieb GmbH",
+  "branch": "Malerbetriebe",
+  "addr": "Dürerstr. 24, 66606 St. Wendel",
+  "plz": "66606",
+  "url": "http://www.maler-herfert.net",
+  "final": "http://www.maler-herfert.net/",
+  "tel": "06851 9 37 42 67",
+  "slug": "stefan-herfert-malermeister-fachbetrieb-",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Franko Recktenwald Elektroinstallationen",
+  "branch": "Elektroinstallationen",
+  "addr": "Essener Str. 4, 66606 St. Wendel",
+  "plz": "66606",
+  "url": "http://strom-licht-service.de",
+  "final": "http://strom-licht-service.de/",
+  "tel": "06851 8 59 18",
+  "slug": "franko-recktenwald-elektroinstallationen",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Allmann Thomas Bau- und Möbeltischlerei",
+  "branch": "Tischlereien",
+  "addr": "Hoofer Str. 22, 66606 St. Wendel (Marth)",
+  "plz": "66606",
+  "url": "http://schreinerei-allmann.de",
+  "final": "http://schreinerei-allmann.de/",
+  "tel": "06856 9 00 96 55",
+  "slug": "allmann-thomas-bau-und-m-beltischlerei",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Merschers",
+  "branch": "Gaststätten und Restaurants",
+  "addr": "Balduinstr. 27, 66606 St. Wendel",
+  "plz": "66606",
+  "url": "http://www.merschers.de",
+  "final": "http://www.merschers.de/",
+  "tel": "06851 22 46",
+  "slug": "merschers",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Zur Eiche",
+  "branch": "Gaststätten: Italienisch",
+  "addr": "Hauptstr. 86, 66649 Oberthal",
+  "plz": "66649",
+  "url": "http://www.hotelzureiche.de",
+  "final": "http://www.hotelzureiche.de/",
+  "tel": "06854 18 85",
+  "slug": "zur-eiche",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Gerhard Karsten Schreinerei",
+  "branch": "Tischlereien",
+  "addr": "Oberdorfstr. 12, 66606 St. Wendel (Leitersweiler)",
+  "plz": "66606",
+  "url": "http://www.tischlerei-gerhard.de",
+  "final": "http://www.tischlerei-gerhard.de/",
+  "tel": "06851 90 76 40",
+  "slug": "gerhard-karsten-schreinerei",
+  "src": "gelbeseiten"
  }
 ]
