@@ -1642,5 +1642,65 @@
    "Reservierung",
    "Ihr Name bei Google"
   ]
+ },
+ "christians": {
+  "obs": [
+   "Nur eine leere Unterseite auf einer Fanseite.",
+   "Besucherzähler und Rollerwetter statt Angebot.",
+   "Baukasten-Werbung."
+  ],
+  "neu": [
+   "Eigene Domain",
+   "Werkstatt-Termin online",
+   "Roller und Ersatzteile"
+  ]
+ },
+ "schusch": {
+  "obs": [
+   "Nur Begrüßungssatz und Adresse.",
+   "Keine Leistung, kein Projekt.",
+   "Keine sichere Verbindung."
+  ],
+  "neu": [
+   "Leistungen",
+   "Referenzprojekte",
+   "Projektanfrage"
+  ]
+ },
+ "anne": {
+  "obs": [
+   "Startseite nur Impressum.",
+   "Keine Behandlung, kein Preis.",
+   "Impressum mit veraltetem Gesetz."
+  ],
+  "neu": [
+   "Behandlungen und Preise",
+   "Terminanfrage",
+   "Gutscheine"
+  ]
+ },
+ "eiche": {
+  "obs": [
+   "Nur 'STRATO - Domain not available'.",
+   "Bei Google mit diesem Titel.",
+   "Keine Zimmer, keine Karte, keine Nummer."
+  ],
+  "neu": [
+   "Zimmer mit Direktanfrage",
+   "Speisekarte",
+   "Ihr Name bei Google"
+  ]
+ },
+ "wilhelm": {
+  "obs": [
+   "Nur 'STRATO - Domain not available'.",
+   "Bei Google mit diesem Titel.",
+   "Keine Preise, keine Nummer."
+  ],
+  "neu": [
+   "Preise und Galerie",
+   "Terminanfrage",
+   "Ihr Name bei Google"
+  ]
  }
 }

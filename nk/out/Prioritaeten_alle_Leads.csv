@@ -23,6 +23,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 127;trautmann;Trautmann Treuhand GmbH;Steuerberatungsgesellschaft;15;7;2;6000;790;78;lhiu7u;06894 91470;Vorher anrufen und Termin vereinbaren
 130;ecker2;Steuerkanzlei Paul Ecker;Steuerberatung;15;7;2;6000;790;78;few7cu;06826 92390;Vorher anrufen und Termin vereinbaren
 134;herfert;Malermeister-Fachbetrieb Stefan Herfert GmbH;Malerbetrieb;15;6;4;10500;990;78;g5dbxd;06851 9374267;Vorher anrufen
+139;schusch;Schu & Schneider GmbH;Ingenieurbüro für Metallbau;15;7;2;10000;990;78;o4msxe;06851 93540;Vorher anrufen und Termin vereinbaren
 14;mdm;MetallDesignMüller;Metallbau / Geländer, Treppen, Tore;15;6;3;10000;690;72;lmn7fq;06821 1799757;Früh morgens 7 bis 8 Uhr oder vorher anrufen (Handwerker oft auf Montage)
 63;welzow;Welzower Stuben;Restaurant und Partyservice;15;6;3;12000;990;72;72a3z2;06821 690943;Nachmittags zwischen 14 und 18 Uhr, Chef Leonard Bala direkt ansprechen
 77;mauermann;Elektro Mauermann;Elektro, Kälte und Klima;15;6;3;10000;790;72;tmfe33;06821 962171;Früh morgens oder vorher anrufen
@@ -67,7 +68,9 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 32;kirschhock;Haus- und Montage Service Kirschhock;Hausmeister- und Montageservice;35;4;3;3600;690;48;6vsmks;06821 306991;Vorher anrufen (mobil 0175 4147742), am besten früh morgens
 72;lander;Carsten Lander GmbH;Stuckateur- und Malerbetrieb;35;5;1;16000;990;48;mrbje5;06897 61762;Vorher anrufen oder per WhatsApp melden
 96;hoennicke;Fahrschule Hönnicke;Fahrschule;35;5;1;10000;790;48;fh25wf;06826 3510;Mittwoch oder Freitag ab 17 Uhr im Büro
+138;christians;Christians Zweirad Center;Motorroller und Zweirad;38;4;3;4500;790;48;or4alp;06894 9667990;Vormittags in der Werkstatt
 118;donau;Gasthaus Donauschenke;Gasthaus;15;6;4;2100;790;47.6;meiovo;06894 5302477;Mittwoch bis Samstag kurz vor 17 Uhr
+140;anne;Kosmetikstudio Anne;Kosmetikstudio;15;7;2;1800;690;46.9;pxfcd7;06856 8070238;Termin nur nach Voranmeldung, vorher anrufen
 121;struwwel;Friseursalon Struwwelstubb;Friseursalon;15;6;3;2000;690;46.8;7narfb;06848 730695;Vormittags, Termin nach Absprache
 13;didie;Hermann Didié Büro- und Zeichenbedarf;Bürobedarf / Künstler- und Bastelbedarf;15;7;3;1600;690;46.5;322wzl;06821 22757;Vormittag unter der Woche, wenn wenig Kundschaft im Laden ist
 28;rebel;Blumen Rebel;Blumengeschäft / Gärtnerei / Grabpflege;15;7;3;1600;690;46.5;vh4jxx;06821 86217;Vormittags in der Gärtnerei, nicht vor Muttertag, Allerheiligen oder Weihnachten
@@ -94,6 +97,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 73;dg;D&G Industriemontage GmbH;Industriemontage;52;4;1;15000;1490;36;eflokh;06821 983150;Vorher anrufen und Termin mit Geschäftsführer Dirk Giebel vereinbaren
 98;strempel;Fahrschule Strempel;Fahrschule;55;4;1;10000;790;36;guasgi;0172 6815909;Montag oder Mittwoch ab 18 Uhr zur Anmeldezeit
 4;ornella;Beauty Nails Ornella;Nagelstudio / Kosmetik;15;6;3;1350;690;35.5;fzuql4;06821 4013600;Vormittag oder telefonisch Termin vereinbaren
+142;wilhelm;Nail & Beauty Point Iris Wilhelm;Nagelstudio;15;6;3;1350;690;35.5;pc7t4n;06854 802702;Vorher anrufen und klären, ob das Studio geöffnet ist
 47;luu;Luu Asien Bistro;Asiatisches und vietnamesisches Bistro;38;5;1;2340;690;35.1;utcsjg;06821 9140902;Nachmittags vor 16:30 Uhr, vor der Öffnung
 51;daenzo;Pizza Heimservice Da Enzo;Pizzeria und Lieferdienst;38;5;1;2340;690;35.1;amsjox;06821 9316899;Nachmittags vor 17 Uhr, montags geschlossen
 2;asia;Asia Wok Bistro;Restaurant vietnamesisch / Thai mit Heimservice;21;5;3;2340;990;33.6;kr24if;06821 140373;14:45 bis 16:30 Uhr (zwischen Mittag und Abend)
@@ -114,6 +118,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 1;thielen;Schlüssel Thielen;Schlüsseldienst / Sicherheitsfachhandel;15;7;1;900;690;27.7;eglxtn;06821 22510;Vormittag (nur Mo bis Fr 9 bis 13 Uhr geöffnet)
 5;rutz;Praxis für Physiotherapie Hermann Rutz;Physiotherapie;15;6;2;1050;690;27.7;wp7grp;06821 23665;Nachmittag Mo bis Do, kurz an der Anmeldung nach dem Inhaber fragen
 54;flick;Versicherungsbüro Roland Flick;Versicherungsmakler;35;4;3;2400;990;27.4;ppadlc;06821 4017830;Vormittags zwischen 9 und 12 Uhr im Büro
+141;eiche;Hotel-Restaurant Zur Eiche;Hotel und Restaurant;15;6;3;945;790;26.4;klr5vc;06854 1885;Vorher anrufen und klären, ob der Betrieb geöffnet ist
 55;brech;Brech-Motors;Autovermietung, Kfz-Service, Fahrzeughandel;39;4;2;1800;690;25.3;ten4qe;0177 6922223;Vormittags zwischen 8 und 15 Uhr
 45;musik;Musikwelt Neunkirchen;Musikschule;63;3;1;5760;990;24;sc5zbc;06821 919650;Nachmittags vor dem Unterricht, vorher anrufen
 48;tanz;Tanzschule Hinsberger;Tanzschule;66;3;1;4800;690;24;fhlzty;0176 22226726;Abends vor einem Kurs, Richard Hinsberger direkt ansprechen

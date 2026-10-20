@@ -31009,5 +31009,93 @@
   "tel": "06851 90 76 40",
   "slug": "gerhard-karsten-schreinerei",
   "src": "gelbeseiten"
+ },
+ {
+  "name": "Wilhelm Iris Nagelstudio",
+  "branch": "Nagelstudios",
+  "addr": "Namborner Str. 6, 66649 Oberthal (Güdesweiler)",
+  "plz": "66649",
+  "url": "http://www.nail-and-beauty-point.de",
+  "final": "http://www.nail-and-beauty-point.de/",
+  "tel": "06854 80 27 02",
+  "slug": "wilhelm-iris-nagelstudio",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Christians Zweirad Center",
+  "branch": "Motorroller",
+  "addr": "Ensheimer Str. 146, 66386 St. Ingbert",
+  "plz": "66386",
+  "url": "http://motorrollerfahrer-saarland.de.tl",
+  "final": "https://motorrollerfahrer-saarland.de.tl/",
+  "tel": "06894 9 66 79 90",
+  "slug": "christians-zweirad-center",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Mascioni Möbelgeschäft",
+  "branch": "Tischlereien",
+  "addr": "Alsweilerstr. 19, 66646 Marpingen",
+  "plz": "66646",
+  "url": "http://www.mascioni.de",
+  "final": "http://www.mascioni.de/",
+  "tel": "06853 51 31",
+  "slug": "mascioni-m-belgesch-ft",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Schilke Thomas Schreinerei",
+  "branch": "Tischlereien",
+  "addr": "Berschweilerstr. 49, 66646 Marpingen",
+  "plz": "66646",
+  "url": "https://www.schreinerei-schilke.de",
+  "final": "https://www.schreinerei-schilke.de/",
+  "tel": "0152 31 83 51 51",
+  "slug": "schilke-thomas-schreinerei",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Tim Trani KFZ-Werkstatt",
+  "branch": "Autoreparaturen",
+  "addr": "Zum Auenrech 12, 66640 Namborn (Hofeld-Mauschbach)",
+  "plz": "66640",
+  "url": "http://www.meisterwerkstatt-trani.de",
+  "final": "http://www.meisterwerkstatt-trani.de/",
+  "tel": "06854 2 08 07 26",
+  "slug": "tim-trani-kfz-werkstatt",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "SK Cosmetic Silvia Stock Kosmetikinstitut",
+  "branch": "Kosmetikstudios",
+  "addr": "Meydenbauerweg 9, 66636 Tholey",
+  "plz": "66636",
+  "url": "http://www.skcosmetic.de",
+  "final": "http://www.skcosmetic.de/",
+  "tel": "06853 9 14 78 78",
+  "slug": "sk-cosmetic-silvia-stock-kosmetikinstitu",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Schu & Schneider GmbH Ingenieurbüro für Metallbau",
+  "branch": "Ingenieurbüros",
+  "addr": "Weimarer Str. 10, 66606 St. Wendel (Oberlinxweiler)",
+  "plz": "66606",
+  "url": "http://www.schu-schneider.de",
+  "final": "http://www.schu-schneider.de/",
+  "tel": "06851 9 35 40",
+  "slug": "schu-schneider-gmbh-ingenieurb-ro-f-r-me",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Weber Anne Kosmetikstudio",
+  "branch": "Kosmetikstudios",
+  "addr": "Am Steinhübel 9, 66606 St. Wendel (Osterbrücken)",
+  "plz": "66606",
+  "url": "http://www.kosmetikstudio-anne.de",
+  "final": "http://www.kosmetikstudio-anne.de/",
+  "tel": "06856 8 07 02 38",
+  "slug": "weber-anne-kosmetikstudio",
+  "src": "gelbeseiten"
  }
 ]

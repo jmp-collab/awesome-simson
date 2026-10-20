@@ -1,0 +1,96 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "alt_text": "Behandlungen, Preise und Fotos setze ich mit Ihnen gemeinsam ein.",
+ "hours": [],
+ "mcta": "Anrufen",
+ "slug": "weber-anne-kosmetikstudio",
+ "theme": "beauty",
+ "name": "Kosmetikstudio Anne",
+ "branche": "Kosmetikstudio",
+ "addr": "Am Steinhübel 9 · 66606 St. Wendel-Osterbrücken",
+ "tel": "06856 8070238",
+ "url": "http://www.kosmetikstudio-anne.de",
+ "label": "Quick Win",
+ "visit": "Termin nur nach Voranmeldung, vorher anrufen",
+ "logo_a": "Kosmetikstudio",
+ "logo_b": "Anne",
+ "nav": [
+  "Behandlungen",
+  "Preise",
+  "Gutscheine",
+  "Termin"
+ ],
+ "eyebrow": "Kosmetikstudio in Osterbrücken",
+ "h1": "Ihre Oase zum Wohlfühlen und Genießen.",
+ "lead": "Kosmetikstudio Anne in St. Wendel-Osterbrücken. Termine nur nach Voranmeldung.",
+ "cta1": "Termin anfragen",
+ "cta2": "Anrufen: 06856 8070238",
+ "badge": [
+  "Termin",
+  "nach Voranmeldung"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Persönlich</b> und in Ruhe",
+  "<b>Termine</b> nach Voranmeldung",
+  "<b>Gutscheine</b> auf Anfrage"
+ ],
+ "svc_title": "Behandlungen",
+ "services": [
+  [
+   "Gesichtsbehandlung",
+   "Pflege nach Hauttyp."
+  ],
+  [
+   "Wohlfühlbehandlung",
+   "Zeit für sich."
+  ],
+  [
+   "Gutscheine",
+   "Das passende Geschenk."
+  ],
+  [
+   "Termin",
+   "Anrufen oder online anfragen."
+  ]
+ ],
+ "band": "Lust auf eine Auszeit? Termin anfragen.",
+ "contact": "Kosmetikstudio Anne<br>Annemarie Koble-Weber<br>Am Steinhübel 9<br>66606 St. Wendel-Osterbrücken<br><br>Telefon 06856 8070238<br>info@kosmetikstudio-anne.de",
+ "audit": [
+  "Die Startseite ist im Kern nur das Impressum: Name, Adresse, Telefon und E-Mail",
+  "Keine Behandlung, kein Preis, kein Foto",
+  "Das Impressum beruft sich noch auf §5 und §6 TMG, das 2024 durch das Digitale-Dienste-Gesetz ersetzt wurde"
+ ],
+ "hebel": "Kosmetikkundinnen suchen nach Behandlungen und Preisen, und Gutscheine werden oft spontan online gesucht. Eine Seite mit Behandlungen, Preisen, Terminanfrage und Gutschein-Bestellung holt beides.",
+ "p": [
+  "690 bis 990 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Onepager mit Behandlungen, Preisen, Terminanfrage, Gutschein-Anfrage, aktuellem Impressum, Google-Profil",
+ "svc": [
+  "Terminanfrage mit Wunschbehandlung",
+  "Gutschein-Bestellung",
+  "Google-Profil mit Fotos",
+  "Aktuelles Impressum"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite zeigt im Moment vor allem das Impressum, aber keine einzige Behandlung. Ich habe Ihnen mitgebracht, wie Ihr Studio online aussehen könnte.",
+ "obj": "'Meine Kundinnen kommen über Empfehlung': Und suchen dann nach Preisen und Gutscheinen. Die fehlen heute.",
+ "obs": [
+  "Startseite nur Impressum.",
+  "Keine Behandlung, kein Preis.",
+  "Impressum mit veraltetem Gesetz."
+ ],
+ "neu": [
+  "Behandlungen und Preise",
+  "Terminanfrage",
+  "Gutscheine"
+ ]
+}

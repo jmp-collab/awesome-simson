@@ -382,9 +382,19 @@
   "stefan-herfert-malermeister-fachbetrieb-",
   "franko-recktenwald-elektroinstallationen",
   "allmann-thomas-bau-und-m-beltischlerei",
-  "merschers"
+  "merschers",
+  "christians-zweirad-center",
+  "schu-schneider-gmbh-ingenieurb-ro-f-r-me",
+  "weber-anne-kosmetikstudio",
+  "zur-eiche",
+  "wilhelm-iris-nagelstudio",
+  "christians-zweirad-center",
+  "schu-schneider-gmbh-ingenieurb-ro-f-r-me",
+  "weber-anne-kosmetikstudio",
+  "zur-eiche",
+  "wilhelm-iris-nagelstudio"
  ],
- "wave": 26,
+ "wave": 27,
  "deferred": {
   "l-a-nails-nagelstudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
   "nieland-julia-pasta": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
@@ -454,20 +464,15 @@
   "bestattungsinstitut-flunkert": "gepflegte Seite, sensibles Thema"
  },
  "queue_neu": [
-  "zur-eiche",
-  "wilhelm-iris-nagelstudio",
-  "gerhard-karsten-schreinerei",
-  "christians-zweirad-center",
-  "mascioni-m-belgesch-ft",
   "schilke-thomas-schreinerei",
+  "gerhard-karsten-schreinerei",
+  "mascioni-m-belgesch-ft",
   "tim-trani-kfz-werkstatt",
   "sk-cosmetic-silvia-stock-kosmetikinstitu",
-  "schu-schneider-gmbh-ingenieurb-ro-f-r-me",
-  "weber-anne-kosmetikstudio",
   "haar-creativ-christine"
  ],
  "hinweis": "Neue Leads kommen aus wave/harvest_gs.py (Gelbe Seiten, Ort x Branche) + wave/screen.py (Alterssignale); Kandidaten in wave/new_near.json/screen.json",
- "queue_neu_hinweis": "Pool St. Wendel/Marpingen/Tholey/Oberthal in screen.json. Zur Eiche und Wilhelm Iris: STRATO not available (vorher Betrieb prüfen). Christians Zweirad Center (Motorroller, St. Ingbert) passt zu Jeans Branche.",
+ "queue_neu_hinweis": "Schilke: IONOS-Vorlagentext, einzige News \"Neuer Internetauftritt online\". Restpool solide; weitere aus screen.json ranken oder neue Orte (Tholey, Marpingen, Namborn, Freisen, Nohfelden) / Branchen harvesten. Artifact2 hält noch ca. 45 Leads, dann artifact3 anlegen.",
  "skip": [
   "naturfreundehaus",
   "zickwolff-garten-und-landschaftsbau",

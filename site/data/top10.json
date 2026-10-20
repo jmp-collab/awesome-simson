@@ -4375,5 +4375,165 @@
   "addr": "Balduinstraße 27",
   "tel": "06851 2246",
   "welle": 26
+ },
+ {
+  "name": "Christians Zweirad Center",
+  "branche": "Motorroller und Zweirad",
+  "url": "https://motorrollerfahrer-saarland.de.tl",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Vormittags in der Werkstatt",
+  "audit": [
+   "Bei Gelbe Seiten verlinkt der Betrieb auf eine Unterseite einer Motorroller-Fanseite auf einem kostenlosen Baukasten (motorrollerfahrer-saarland.de.tl)",
+   "Diese Unterseite 'Christians Zweiradcenter' ist leer, es stehen nur Besucherzähler, Uhrzeit und Rollerwetter darauf",
+   "Darunter läuft Werbung des Baukastens ('Du willst eine eigene Website, weißt aber nicht womit?')"
+  ],
+  "hebel": "Roller werden im Frühjahr gekauft und vor der Saison in die Werkstatt gebracht. Wer 'Roller Werkstatt St. Ingbert' sucht, findet heute eine leere Seite auf einer Fanseite. Eine eigene Seite mit Werkstatt-Termin, Marken und Gebrauchtrollern holt diese Kunden.",
+  "p": [
+   "790 bis 1.190 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Eigene Domain und Website mit Werkstatt-Terminanfrage, Roller-Angebot, Ersatzteil-Anfrage, Google-Profil",
+  "svc": [
+   "Werkstatt-Terminanfrage mit Modell und Kennzeichen",
+   "Gebrauchtroller-Seite, die Sie selbst pflegen",
+   "Ersatzteil-Anfrage mit Foto",
+   "Google-Profil mit Öffnungszeiten"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Bei Gelbe Seiten verlinken Sie auf eine Rollerfahrer-Fanseite, und Ihre Unterseite dort ist leer bis auf Besucherzähler und Wetter. Ich habe Ihnen mitgebracht, wie eine eigene Seite mit Werkstatt-Termin aussehen könnte.",
+  "obj": "'Die Rollerfahrer kennen uns': Die aus dem Club ja. Wer neu einen Roller sucht, googelt und landet heute auf einer leeren Seite.",
+  "k": "christians",
+  "addr": "Ensheimer Straße 146",
+  "tel": "06894 9667990",
+  "welle": 27
+ },
+ {
+  "name": "Schu & Schneider GmbH",
+  "branche": "Ingenieurbüro für Metallbau",
+  "url": "http://www.schu-schneider.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Vorher anrufen und Termin vereinbaren",
+  "audit": [
+   "Die Website besteht aus einem Satz 'Herzlich willkommen auf der Homepage der Firma' und der Adresse",
+   "Keine Leistung, kein Projekt, kein Menü",
+   "Keine sichere Verbindung (nur http), Telefon nicht antippbar"
+  ],
+  "hebel": "Architekten, Bauträger und Metallbauer suchen Ingenieurbüros online und schauen sich Referenzprojekte an. Eine Seite mit nur der Adresse zeigt nicht, was das Büro kann. Leistungen und Projekte machen daraus Anfragen.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Website mit Leistungen, Referenzprojekten, Projektanfrage mit Upload, Google-Profil",
+  "svc": [
+   "Projektanfrage mit Upload von Plänen",
+   "Referenzprojekte mit Eckdaten",
+   "Karriereseite für Ingenieure und Techniker",
+   "Google-Profil"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite zeigt nur 'Herzlich willkommen auf der Homepage der Firma' und die Adresse. Ich habe Ihnen mitgebracht, wie Ihre Leistungen und Projekte aussehen könnten.",
+  "obj": "'Unsere Kunden kennen uns aus der Branche': Neue Auftraggeber prüfen trotzdem online, und dort steht heute nur die Adresse.",
+  "k": "schusch",
+  "addr": "Weimarer Straße 10",
+  "tel": "06851 93540",
+  "welle": 27
+ },
+ {
+  "name": "Kosmetikstudio Anne",
+  "branche": "Kosmetikstudio",
+  "url": "http://www.kosmetikstudio-anne.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Termin nur nach Voranmeldung, vorher anrufen",
+  "audit": [
+   "Die Startseite ist im Kern nur das Impressum: Name, Adresse, Telefon und E-Mail",
+   "Keine Behandlung, kein Preis, kein Foto",
+   "Das Impressum beruft sich noch auf §5 und §6 TMG, das 2024 durch das Digitale-Dienste-Gesetz ersetzt wurde"
+  ],
+  "hebel": "Kosmetikkundinnen suchen nach Behandlungen und Preisen, und Gutscheine werden oft spontan online gesucht. Eine Seite mit Behandlungen, Preisen, Terminanfrage und Gutschein-Bestellung holt beides.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Behandlungen, Preisen, Terminanfrage, Gutschein-Anfrage, aktuellem Impressum, Google-Profil",
+  "svc": [
+   "Terminanfrage mit Wunschbehandlung",
+   "Gutschein-Bestellung",
+   "Google-Profil mit Fotos",
+   "Aktuelles Impressum"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite zeigt im Moment vor allem das Impressum, aber keine einzige Behandlung. Ich habe Ihnen mitgebracht, wie Ihr Studio online aussehen könnte.",
+  "obj": "'Meine Kundinnen kommen über Empfehlung': Und suchen dann nach Preisen und Gutscheinen. Die fehlen heute.",
+  "k": "anne",
+  "addr": "Am Steinhübel 9",
+  "tel": "06856 8070238",
+  "welle": 27
+ },
+ {
+  "name": "Hotel-Restaurant Zur Eiche",
+  "branche": "Hotel und Restaurant",
+  "url": "http://www.hotelzureiche.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Dringend",
+  "visit": "Vorher anrufen und klären, ob der Betrieb geöffnet ist",
+  "audit": [
+   "Die Domain hotelzureiche.de zeigt nur 'STRATO - Domain not available', in sechs Sprachen",
+   "Bei Google erscheint die Domain mit genau diesem Titel",
+   "Kein Name, keine Zimmer, keine Speisekarte, keine Telefonnummer"
+  ],
+  "hebel": "Hotelgäste buchen am Handy, und wer den Namen googelt, landet auf einer Fehlermeldung. Diese Buchungen gehen an Portale mit Provision oder an die Konkurrenz. Eine Seite mit Zimmern und Direktanfrage holt sie ohne Provision.",
+  "p": [
+   "790 bis 1.190 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager auf der vorhandenen Domain mit Zimmern, Restaurant, Direktanfrage, Google-Profil",
+  "svc": [
+   "Zimmeranfrage mit Datum und Personen",
+   "Speisekarte, die Sie selbst pflegen",
+   "Google-Hotelprofil mit Fotos",
+   "Feier-Anfrage"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Domain hotelzureiche.de zeigt gerade nur 'Domain not available' von STRATO. Ich habe Ihnen mitgebracht, wie dort Ihr Haus mit Direktanfrage stehen könnte.",
+  "obj": "'Wir laufen über die Portale': Jede Direktanfrage spart die Provision, und die Domain haben Sie schon.",
+  "k": "eiche",
+  "addr": "Hauptstraße 86",
+  "tel": "06854 1885",
+  "welle": 27
+ },
+ {
+  "name": "Nail & Beauty Point Iris Wilhelm",
+  "branche": "Nagelstudio",
+  "url": "http://www.nail-and-beauty-point.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Dringend",
+  "visit": "Vorher anrufen und klären, ob das Studio geöffnet ist",
+  "audit": [
+   "Die Domain nail-and-beauty-point.de zeigt nur 'STRATO - Domain not available', in sechs Sprachen",
+   "Bei Google erscheint die Domain mit genau diesem Titel",
+   "Kein Name, keine Preise, keine Telefonnummer"
+  ],
+  "hebel": "Nagelkundinnen suchen am Handy nach Preisen, Fotos und einem freien Termin. Eine Fehlermeldung des Hosters wirkt wie ein geschlossenes Studio. Ein Onepager mit Preisen, Galerie und Terminanfrage stellt das sofort richtig.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager auf der vorhandenen Domain mit Leistungen, Preisen, Galerie, Terminanfrage, Google-Profil",
+  "svc": [
+   "Terminanfrage mit Wunschtag",
+   "Galerie, die Sie vom Handy befüllen",
+   "Instagram-Anbindung",
+   "Google-Profil mit Fotos"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Domain zeigt gerade nur 'Domain not available' von STRATO. Ich habe Ihnen mitgebracht, wie dort Ihr Studio mit Terminanfrage aussehen könnte.",
+  "obj": "'Meine Kundinnen kommen über Instagram': Gut, dann verbinden wir beides. Wer Sie googelt, soll keine Fehlermeldung sehen.",
+  "k": "wilhelm",
+  "addr": "Namborner Straße 6",
+  "tel": "06854 802702",
+  "welle": 27
  }
 ]

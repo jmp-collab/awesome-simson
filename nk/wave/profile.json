@@ -821,5 +821,35 @@
   35,
   "Neukunde",
   60
+ ],
+ "christians": [
+  "auftrag",
+  300,
+  "Auftrag",
+  15
+ ],
+ "schusch": [
+  "auftrag",
+  5000,
+  "Auftrag",
+  2
+ ],
+ "anne": [
+  "auftrag",
+  60,
+  "Termin",
+  30
+ ],
+ "eiche": [
+  "unterkunft",
+  70,
+  "Nacht",
+  15
+ ],
+ "wilhelm": [
+  "auftrag",
+  45,
+  "Termin",
+  30
  ]
 }

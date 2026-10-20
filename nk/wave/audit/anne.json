@@ -1,0 +1,102 @@
+{
+ "k": "anne",
+ "url": "http://www.kosmetikstudio-anne.de",
+ "date": "2026-10-20",
+ "desk": {
+  "ok": true,
+  "load_s": 1.2,
+  "status": 200,
+  "final": "http://www.kosmetikstudio-anne.de/",
+  "title": "Kosmetikstudio Anne",
+  "desc": null,
+  "viewport": "width=device-width, initial-scale=0.6",
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [
+   "Kosmetik­studio Anne\n🌴"
+  ],
+  "words": 33,
+  "tel": 0,
+  "mail": [
+   "info@kosmetikstudio-anne.de"
+  ],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": false,
+  "imgs": 0,
+  "broken": [],
+  "noalt": 0,
+  "big": [],
+  "years": [],
+  "small": 0,
+  "total": 3,
+  "taps": 0,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [
+   "http://www.kosmetikstudio-anne.de/style.css",
+   "http://www.kosmetikstudio-anne.de/leckerli_one.woff2",
+   "http://www.kosmetikstudio-anne.de/oswald_extralight.woff2"
+  ],
+  "impressum": false,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 4,
+  "bytes": 38337,
+  "img_bytes": 0
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 0.6,
+  "status": 200,
+  "final": "http://www.kosmetikstudio-anne.de/",
+  "title": "Kosmetikstudio Anne",
+  "desc": null,
+  "viewport": "width=device-width, initial-scale=0.6",
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [
+   "Kosmetik­studio Anne\n🌴"
+  ],
+  "words": 33,
+  "tel": 0,
+  "mail": [
+   "info@kosmetikstudio-anne.de"
+  ],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": false,
+  "imgs": 0,
+  "broken": [],
+  "noalt": 0,
+  "big": [],
+  "years": [],
+  "small": 0,
+  "total": 3,
+  "taps": 0,
+  "placeholders": [],
+  "scrollW": 650,
+  "innerW": 650,
+  "http_res": [
+   "http://www.kosmetikstudio-anne.de/style.css",
+   "http://www.kosmetikstudio-anne.de/leckerli_one.woff2",
+   "http://www.kosmetikstudio-anne.de/oswald_extralight.woff2"
+  ],
+  "impressum": false,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 4,
+  "bytes": 38337,
+  "img_bytes": 0
+ },
+ "http_to": "http://www.kosmetikstudio-anne.de/",
+ "http_code": "200",
+ "http_redirects_to_https": false
+}
