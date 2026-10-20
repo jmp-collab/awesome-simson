@@ -1,0 +1,104 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "alt_text": "Zimmerpreise und Fotos setze ich mit Ihnen gemeinsam ein.",
+ "hours": [],
+ "mcta": "Anrufen",
+ "slug": "zum-m-hlehannes",
+ "theme": "spa",
+ "name": "Hotel-Restaurant Zum Mühlehannes",
+ "branche": "Hotel und Restaurant",
+ "addr": "Obere Kaiserstraße 97-101 · 66386 St. Ingbert-Rohrbach",
+ "tel": "06894 95560",
+ "url": "http://www.zum-muehlehannes.de",
+ "label": "Solide Chance",
+ "visit": "Nachmittags, Familie Michely direkt ansprechen",
+ "logo_a": "Zum",
+ "logo_b": "Mühlehannes",
+ "nav": [
+  "Zimmer",
+  "Speisekarte",
+  "Feiern",
+  "Kontakt"
+ ],
+ "eyebrow": "Hotel-Restaurant in St. Ingbert-Rohrbach seit 1905",
+ "h1": "Seit 1905 bei Familie Michely.",
+ "lead": "Gutbürgerliche und internationale Küche, Pilsstube mit 6 Sorten Bier vom Fass, behagliche Zimmer mit Dusche, WC, Telefon und TV. Und der passende Rahmen für Ihr Fest.",
+ "cta1": "Zimmer anfragen",
+ "cta2": "Speisekarte",
+ "badge": [
+  "1905",
+  "in Familienbesitz"
+ ],
+ "deco": "1905",
+ "hero_img": "",
+ "trust": [
+  "<b>Seit 1905</b> in Familienbesitz",
+  "<b>6 Sorten</b> Bier vom Fass",
+  "<b>Zimmer</b> und Feiern unter einem Dach"
+ ],
+ "svc_title": "Bei uns",
+ "services": [
+  [
+   "Zimmer",
+   "Mit Dusche, WC, Telefon und TV."
+  ],
+  [
+   "Restaurant",
+   "Gutbürgerlich und international."
+  ],
+  [
+   "Pilsstube",
+   "6 Sorten Bier vom Fass."
+  ],
+  [
+   "Feiern",
+   "Familie, Freunde, Geschäftspartner."
+  ],
+  [
+   "Wandern",
+   "Schöne Wege in der Umgebung."
+  ],
+  [
+   "Anfrage",
+   "Zimmer oder Feier anfragen."
+  ]
+ ],
+ "band": "Zimmer oder Feier? Datum und Personenzahl schicken.",
+ "contact": "Hotel-Restaurant Zum Mühlehannes<br>Obere Kaiserstraße 97-101<br>66386 St. Ingbert-Rohrbach<br><br>Telefon 06894 95560",
+ "audit": [
+  "Die Startseite sagt nur 'Willkommen' und 'viel Spass beim Stöbern', Zimmer, Preise und Buchung fehlen",
+  "Seiten heißen '?page=home/karte', Google kann sie keinem Thema zuordnen",
+  "Keine sichere Verbindung (nur http), Telefon nicht antippbar, keine Zimmeranfrage"
+ ],
+ "hebel": "Hotelgäste buchen am Handy und vergleichen Zimmer, Preise und Fotos. Ohne Zimmeranfrage gehen diese Buchungen an Portale mit Provision oder an die Konkurrenz. Eine Seite mit Zimmern, Fotos und Direktanfrage holt Buchungen ohne Provision.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 79 €"
+ ],
+ "paket": "Neue Website mit Zimmern, Restaurant, Feiern, Direktanfrage mit Datum, sicherer Verbindung, Google-Profil",
+ "svc": [
+  "Zimmeranfrage mit Datum und Personen",
+  "Feier-Anfrage",
+  "Speisekarte als Text",
+  "Google-Hotelprofil mit Fotos"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite findet man weder Zimmerpreise noch eine Möglichkeit, direkt anzufragen. Ich habe Ihnen mitgebracht, wie das mit Direktanfrage aussehen könnte.",
+ "obj": "'Die Buchungen kommen über die Portale': Und kosten dort Provision. Jede Direktanfrage über die eigene Seite spart sie.",
+ "obs": [
+  "Keine Zimmer, keine Preise, keine Anfrage.",
+  "Seitennamen '?page=home/...'.",
+  "Keine sichere Verbindung."
+ ],
+ "neu": [
+  "Zimmer mit Fotos",
+  "Direktanfrage",
+  "Feiern und Speisekarte"
+ ]
+}

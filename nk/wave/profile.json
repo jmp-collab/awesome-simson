@@ -761,5 +761,35 @@
   2000,
   "Neukunde",
   3
+ ],
+ "stambene": [
+  "auftrag",
+  20,
+  "Neukunde",
+  40
+ ],
+ "graf": [
+  "auftrag",
+  1500,
+  "Neukunde",
+  4
+ ],
+ "ecker2": [
+  "auftrag",
+  2000,
+  "Neukunde",
+  3
+ ],
+ "lueck": [
+  "auftrag",
+  80,
+  "Neukunde",
+  15
+ ],
+ "muehle": [
+  "unterkunft",
+  75,
+  "Nacht",
+  20
  ]
 }

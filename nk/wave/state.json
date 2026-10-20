@@ -362,9 +362,19 @@
   "ducke-klaus-dieter-steuerberater",
   "spang-gmbh-knut-foto",
   "bachmann-volker-raumausstattung",
-  "trautmann-treuhand-gmbh-steuerberatungsg"
+  "trautmann-treuhand-gmbh-steuerberatungsg",
+  "stambene-fussorthop-die-schuhmachermeist",
+  "dirk-graf-vers-finanzen-immo",
+  "ecker-paul-steuerberater-dipl-betriebswi",
+  "l-ck-evelin-dr-tier-rztin",
+  "zum-m-hlehannes",
+  "stambene-fussorthop-die-schuhmachermeist",
+  "dirk-graf-vers-finanzen-immo",
+  "ecker-paul-steuerberater-dipl-betriebswi",
+  "l-ck-evelin-dr-tier-rztin",
+  "zum-m-hlehannes"
  ],
- "wave": 24,
+ "wave": 25,
  "deferred": {
   "l-a-nails-nagelstudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
   "nieland-julia-pasta": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
@@ -434,19 +444,18 @@
   "bestattungsinstitut-flunkert": "gepflegte Seite, sensibles Thema"
  },
  "queue_neu": [
-  "stambene-fussorthop-die-schuhmachermeist",
-  "l-ck-evelin-dr-tier-rztin",
-  "ecker-paul-steuerberater-dipl-betriebswi",
   "anita-schulz-steuerberatung",
   "weidmann-franz-josef",
   "holzer-yvonne-fotostudio",
-  "zum-m-hlehannes",
-  "dirk-graf-vers-finanzen-immo",
   "burgard-metzgerei",
-  "m-ller-silke-beauty-nails"
+  "m-ller-silke-beauty-nails",
+  "kersting-gerecke-christiane-dr-tier-rzti",
+  "laubinger-norbert-glas-und-geb-udereinig",
+  "hotel-caf-bistro-europa",
+  "restaurant-hotel-la-piazza"
  ],
  "hinweis": "Neue Leads kommen aus wave/harvest_gs.py (Gelbe Seiten, Ort x Branche) + wave/screen.py (Alterssignale); Kandidaten in wave/new_near.json/screen.json",
- "queue_neu_hinweis": "Pool aus Branchen-Harvest (Bäckerei, Metzgerei, Hotel, Steuerberater, Fotograf, Tierarzt, Raumausstattung). Stambene: Splash \"< enter >\"; Dirk Graf: STRATO \"Domain not available\". Tierärzte ohne Heilversprechen formulieren.",
+ "queue_neu_hinweis": "Restpool eher solide. Für Welle 26: harvest_gs.py neue Orte (dudweiler, st.-wendel, saarbruecken-dudweiler, merzig?) mit allen Branchen, oder neue Branchen (umzüge, bestatter behutsam, getränkehandel, zweirad, landmaschinen, pension, ferienwohnung, nachhilfe, hundeschule).",
  "skip": [
   "naturfreundehaus",
   "zickwolff-garten-und-landschaftsbau",

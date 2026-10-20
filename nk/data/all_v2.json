@@ -30844,5 +30844,93 @@
   "tel": "06894 44 08",
   "slug": "stambene-fussorthop-die-schuhmachermeist",
   "src": "gelbeseiten"
+ },
+ {
+  "name": "Lück Evelin Dr. Tierärztin",
+  "branch": "Tierärzte",
+  "addr": "Ensheimer Str. 158, 66386 St. Ingbert",
+  "plz": "66386",
+  "url": "http://www.TierarztpraxisLueck.de",
+  "final": "http://www.tierarztpraxislueck.de/",
+  "tel": "06894 3 75 75",
+  "slug": "l-ck-evelin-dr-tier-rztin",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Ecker Paul Steuerberater Dipl.-Betriebswirt",
+  "branch": "Steuerberatung",
+  "addr": "Am Felsenbrunnen 1, 66450 Bexbach",
+  "plz": "66450",
+  "url": "http://www.pauleckersteuerberatung.de",
+  "final": "http://www.pauleckersteuerberatung.de/",
+  "tel": "06826 9 23 90",
+  "slug": "ecker-paul-steuerberater-dipl-betriebswi",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Anita Schulz Steuerberatung",
+  "branch": "Steuerberatung",
+  "addr": "Im Reihersbruch 1, 66386 St. Ingbert (Rohrbach)",
+  "plz": "66386",
+  "url": "http://as-steuerberatung.de",
+  "final": "http://as-steuerberatung.de/",
+  "tel": "06894 9 53 60",
+  "slug": "anita-schulz-steuerberatung",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Weidmann Franz-Josef",
+  "branch": "Bäckereien",
+  "addr": "Josefstaler Str. 216, 66386 St. Ingbert",
+  "plz": "66386",
+  "url": "http://www.baeckerei-weidmann.de",
+  "final": "http://www.baeckerei-weidmann.de/",
+  "tel": "06894 45 89",
+  "slug": "weidmann-franz-josef",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Holzer Yvonne Fotostudio",
+  "branch": "Fotografen und Fotostudios",
+  "addr": "Kreisstr. 11, 66578 Schiffweiler (Landsweiler-Reden)",
+  "plz": "66578",
+  "url": "http://www.photyv.de",
+  "final": "https://www.photyv.de/",
+  "tel": "06821 96 37 18",
+  "slug": "holzer-yvonne-fotostudio",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Zum Mühlehannes",
+  "branch": "Hotels",
+  "addr": "Obere Kaiserstr. 97-101, 66386 St. Ingbert (Rohrbach)",
+  "plz": "66386",
+  "url": "http://www.zum-muehlehannes.de",
+  "final": "http://www.zum-muehlehannes.de/",
+  "tel": "06894 9 55 60",
+  "slug": "zum-m-hlehannes",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Dirk Graf Vers./Finanzen/Immo.",
+  "branch": "Versicherungsmakler",
+  "addr": "Hermannstr. 15, 66538 Neunkirchen (Innenstadt)",
+  "plz": "66538",
+  "url": "http://haus360.direct",
+  "final": "http://haus360.direct/",
+  "tel": "06821 3 29 36 40",
+  "slug": "dirk-graf-vers-finanzen-immo",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Burgard Metzgerei",
+  "branch": "Fleischereien",
+  "addr": "Saarbrücker Str. 73, 66299 Friedrichsthal",
+  "plz": "66299",
+  "url": "https://www.metzgerei-burgard.de/",
+  "final": "https://www.metzgerei-burgard.de/",
+  "tel": "06897 8 84 68",
+  "slug": "burgard-metzgerei",
+  "src": "gelbeseiten"
  }
 ]

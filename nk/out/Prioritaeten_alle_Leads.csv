@@ -21,6 +21,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 119;fritsch;Bedachungsgeschäft Fritsch GmbH;Dachdeckerei;15;7;2;18000;690;78;e3p52s;06806 6601;Montag bis Freitag zu den Bürozeiten
 122;heckmann;Stammtischlerei Martin Heckmann;Tischlerei;15;7;2;10500;690;78;eisdwm;06806 9312071;Vorher anrufen, mobil 0176 23281933
 127;trautmann;Trautmann Treuhand GmbH;Steuerberatungsgesellschaft;15;7;2;6000;790;78;lhiu7u;06894 91470;Vorher anrufen und Termin vereinbaren
+130;ecker2;Steuerkanzlei Paul Ecker;Steuerberatung;15;7;2;6000;790;78;few7cu;06826 92390;Vorher anrufen und Termin vereinbaren
 14;mdm;MetallDesignMüller;Metallbau / Geländer, Treppen, Tore;15;6;3;10000;690;72;lmn7fq;06821 1799757;Früh morgens 7 bis 8 Uhr oder vorher anrufen (Handwerker oft auf Montage)
 63;welzow;Welzower Stuben;Restaurant und Partyservice;15;6;3;12000;990;72;72a3z2;06821 690943;Nachmittags zwischen 14 und 18 Uhr, Chef Leonard Bala direkt ansprechen
 77;mauermann;Elektro Mauermann;Elektro, Kälte und Klima;15;6;3;10000;790;72;tmfe33;06821 962171;Früh morgens oder vorher anrufen
@@ -30,6 +31,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 111;wk;WK Elektrotechnik;Elektrotechnik;15;6;3;8000;690;72;bsckry;06897 9523033;Vorher anrufen, mobil 0177 3079526
 115;tatsch;Elektro Rainer Tatsch;Elektromeister;15;6;3;7500;690;72;x2xg5g;06894 36699;Vorher anrufen und klären, ob der Betrieb aktiv ist
 124;ducke;Steuerberater Klaus Dieter Ducke;Steuerberatung;15;6;3;4500;790;72;nfjnoc;06894 9903650;Vorher anrufen und Termin vereinbaren
+129;graf;Dirk Graf Versicherungen, Finanzen, Immobilien;Versicherungsmakler;15;6;3;6000;790;72;w5hqoo;06821 3293640;Vorher anrufen und Termin vereinbaren
 12;dolomiti;Dolomiti Pizzeria, Gelateria & Pasticceria;Eiscafé / Pizzeria / Pasticceria;15;6;2;10800;690;66;ihd7wc;06821 9424024;Nachmittags kurz nach Öffnung, nicht zur Abendspitze
 17;hvoltage;HIGH VOLTAGE Veranstaltungstechnik;Veranstaltungstechnik / Bühnen-, Ton-, Licht- und Videotechnik;17;5;4;7200;990;66;7zza4y;06821 983161;Vorher anrufen, Lager und Büro sind nicht immer besetzt (Veranstaltungen oft abends und am Wochenende)
 22;vsv;VSV Abbruch GmbH;Abbruch / Entkernung / Schadstoffsanierung;15;6;2;16000;990;66;odr2ap;06821 590721;Vorher anrufen, Büro werktags vormittags
@@ -90,7 +92,10 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 47;luu;Luu Asien Bistro;Asiatisches und vietnamesisches Bistro;38;5;1;2340;690;35.1;utcsjg;06821 9140902;Nachmittags vor 16:30 Uhr, vor der Öffnung
 51;daenzo;Pizza Heimservice Da Enzo;Pizzeria und Lieferdienst;38;5;1;2340;690;35.1;amsjox;06821 9316899;Nachmittags vor 17 Uhr, montags geschlossen
 2;asia;Asia Wok Bistro;Restaurant vietnamesisch / Thai mit Heimservice;21;5;3;2340;990;33.6;kr24if;06821 140373;14:45 bis 16:30 Uhr (zwischen Mittag und Abend)
+131;lueck;Tierarztpraxis Dr. Evelin Lück;Tierarztpraxis;15;7;4;1200;990;33.2;zpcjnj;06894 37575;Außerhalb der Sprechzeiten, vorher anrufen
+132;muehle;Hotel-Restaurant Zum Mühlehannes;Hotel und Restaurant;15;6;4;1350;990;30.7;svavzb;06894 95560;Nachmittags, Familie Michely direkt ansprechen
 102;prinz;Christof Prinz Friseure;Friseursalon;21;5;3;2000;990;30.2;5rvb6l;06806 800072;Dienstag bis Freitag vormittags
+128;stambene;Schuh- und Schlüsseldienst Stambene;Schuhmacher-Meisterbetrieb;15;7;3;800;690;30.2;ddsunh;06894 4408;Montag bis Freitag zu den Öffnungszeiten
 7;roemer;Wirtshaus Römer, Neinkeijer Steak-House;Steakhaus / Wirtshaus;53;4;0;16800;990;30;f6kqsc;06821 942756;15:00 bis 16:30 Uhr (vor Öffnung um 17 Uhr), nicht dienstags
 43;stoerr;Rollladen Störr;Fenster, Haustüren und Rollläden;59;4;0;14000;990;30;qocotn;06821 51700;Nach den Betriebsferien (ab 20.10.), vormittags in der Ausstellung
 53;audeh;Audeh Trockenbau;Trockenbau, Fliesen- und Bodenverlegung;56;3;2;10000;690;30;bnf6t4;0157 59621497;Abends anrufen, Inhaber ist tagsüber auf Baustellen

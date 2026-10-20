@@ -1522,5 +1522,65 @@
    "Terminanfrage",
    "Server sauber konfiguriert"
   ]
+ },
+ "stambene": {
+  "obs": [
+   "Vorschaltseite mit '< enter >'.",
+   "Google-Titel 'Liuci' statt Luigi.",
+   "Keine Leistungen, keine sichere Verbindung."
+  ],
+  "neu": [
+   "Zeiten auf der Startseite",
+   "Leistungen",
+   "Richtiger Name bei Google"
+  ]
+ },
+ "graf": {
+  "obs": [
+   "Nur 'STRATO - Domain not available'.",
+   "Bei Google mit diesem Titel.",
+   "Kein Name, kein Impressum."
+  ],
+  "neu": [
+   "Drei Bereiche klar",
+   "Terminanfrage",
+   "Pflichtangaben"
+  ]
+ },
+ "ecker2": {
+  "obs": [
+   "Tippfehler 'Fiananzamt'.",
+   "E-Mail-Link führt zur Sitemap.",
+   "Keine sichere Verbindung, am Handy zu breit."
+  ],
+  "neu": [
+   "Sauberer Kanzlei-Auftritt",
+   "Terminanfrage",
+   "Sichere Verbindung"
+  ]
+ },
+ "lueck": {
+  "obs": [
+   "Google-Profil war gelöscht, wochenlang unbemerkt.",
+   "Joomla-Standardtext im Fußbereich.",
+   "Keine sichere Verbindung, am Handy zu breit."
+  ],
+  "neu": [
+   "Saubere eigene Website",
+   "Überwachtes Google-Profil",
+   "Sprechzeiten am Handy"
+  ]
+ },
+ "muehle": {
+  "obs": [
+   "Keine Zimmer, keine Preise, keine Anfrage.",
+   "Seitennamen '?page=home/...'.",
+   "Keine sichere Verbindung."
+  ],
+  "neu": [
+   "Zimmer mit Fotos",
+   "Direktanfrage",
+   "Feiern und Speisekarte"
+  ]
  }
 }

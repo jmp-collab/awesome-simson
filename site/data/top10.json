@@ -4055,5 +4055,165 @@
   "addr": "Albert-Weisgerber-Allee 31",
   "tel": "06894 91470",
   "welle": 24
+ },
+ {
+  "name": "Schuh- und Schlüsseldienst Stambene",
+  "branche": "Schuhmacher-Meisterbetrieb",
+  "url": "http://www.stambene.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Montag bis Freitag zu den Öffnungszeiten",
+  "audit": [
+   "Die Startseite ist eine Vorschaltseite mit '< enter >', wie sie um das Jahr 2000 üblich war",
+   "Der Google-Titel lautet 'Liuci Stambene', auf der Seite selbst steht 'Luigi Stambene'",
+   "Leistungen fehlen ganz, die Unterseiten liegen unter /sites/*.htm, keine sichere Verbindung, Telefon nicht antippbar"
+  ],
+  "hebel": "Wer 'Schuster St. Ingbert' oder 'Schlüsseldienst St. Ingbert' sucht, braucht Öffnungszeiten und Adresse sofort. Eine Vorschaltseite mit 'enter' und ein Tippfehler im Namen kosten genau diese Laufkundschaft. Ein Onepager mit Zeiten, Leistungen und Google-Profil bringt sie in den Laden.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Leistungen, Öffnungszeiten, Anfahrt, sicherer Verbindung, Google-Profil",
+  "svc": [
+   "Öffnungszeiten auf der Startseite",
+   "Google-Profil für Schuster und Schlüsseldienst",
+   "Preisliste für gängige Reparaturen",
+   "Sichere Verbindung"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite beginnt noch mit einer Vorschaltseite '< enter >', und bei Google steht 'Liuci' statt Luigi. Ich habe Ihnen mitgebracht, wie die Seite heute aussehen könnte.",
+  "obj": "'Die Leute kommen doch vorbei': Und vorher schauen sie am Handy, ob offen ist. Genau das zeigt die neue Seite sofort.",
+  "k": "stambene",
+  "addr": "Kaiserstraße 78",
+  "tel": "06894 4408",
+  "welle": 25
+ },
+ {
+  "name": "Dirk Graf Versicherungen, Finanzen, Immobilien",
+  "branche": "Versicherungsmakler",
+  "url": "http://haus360.direct",
+  "g": "keine Google-Daten erfasst",
+  "label": "Dringend",
+  "visit": "Vorher anrufen und Termin vereinbaren",
+  "audit": [
+   "Die Domain haus360.direct zeigt nur die Meldung des Hosters 'STRATO - Domain not available', in sechs Sprachen",
+   "Bei Google erscheint die Domain mit genau diesem Titel",
+   "Kein Name, keine Leistung, keine Telefonnummer und kein Impressum mit den Pflichtangaben für Vermittler"
+  ],
+  "hebel": "Versicherung, Finanzierung und Immobilien sind Vertrauenssache. Wer den Namen googelt und auf 'Domain not available' landet, sucht sich einen anderen Berater. Ein schlichter Auftritt mit den drei Bereichen, Terminanfrage und Pflichtangaben stellt das richtig.",
+  "p": [
+   "790 bis 1.190 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit drei Bereichen, Terminanfrage, Pflichtangaben für Vermittler, Google-Profil",
+  "svc": [
+   "Terminanfrage nach Bereich",
+   "Immobilien-Angebote, die Sie selbst pflegen",
+   "Google-Profil mit Bewertungen",
+   "Impressum mit Vermittler-Angaben"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Domain haus360.direct zeigt gerade nur 'Domain not available' von STRATO. Ich habe Ihnen mitgebracht, wie dort Ihr Auftritt stehen könnte.",
+  "obj": "'Meine Kunden kommen über Empfehlung': Und genau die googeln Sie, bevor sie anrufen. Dort steht im Moment nur eine Fehlermeldung.",
+  "k": "graf",
+  "addr": "Hermannstraße 15",
+  "tel": "06821 3293640",
+  "welle": 25
+ },
+ {
+  "name": "Steuerkanzlei Paul Ecker",
+  "branche": "Steuerberatung",
+  "url": "http://www.pauleckersteuerberatung.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Vorher anrufen und Termin vereinbaren",
+  "audit": [
+   "Auf der Startseite steht 'Fiananzamt Homburg' mit Tippfehler",
+   "Der E-Mail-Link führt nicht zur E-Mail, sondern zur Sitemap-Seite des Baukastens",
+   "Keine sichere Verbindung (nur http), am Handy rund 990 Pixel breit, Telefon nicht antippbar"
+  ],
+  "hebel": "Neue Mandanten, vor allem Gesellschaften, prüfen eine Kanzlei online. Ein Tippfehler beim Finanzamt und ein E-Mail-Link, der ins Leere führt, passen nicht zu einer Steuerkanzlei. Ein sauberer Auftritt mit Schwerpunkt GmbH und Terminanfrage schafft Vertrauen.",
+  "p": [
+   "790 bis 1.190 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Website mit Schwerpunkt Gesellschaften, Bereichen Selbständige und Privat, Terminanfrage, Pflichtangaben, sicherer Verbindung",
+  "svc": [
+   "Terminanfrage mit Anliegen",
+   "Sicherer Upload für Unterlagen, mit Ihnen abgestimmt",
+   "Google-Profil der Kanzlei",
+   "Seite für GmbH-Gründer"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht 'Fiananzamt', und der E-Mail-Link führt zur Sitemap statt zur E-Mail. Ich habe Ihnen mitgebracht, wie ein sauberer Kanzlei-Auftritt aussehen könnte.",
+  "obj": "'Meine Mandanten kennen mich': Neue Gesellschaften prüfen online, und dort zählt jedes Detail.",
+  "k": "ecker2",
+  "addr": "Am Felsenbrunnen 1",
+  "tel": "06826 92390",
+  "welle": 25
+ },
+ {
+  "name": "Tierarztpraxis Dr. Evelin Lück",
+  "branche": "Tierarztpraxis",
+  "url": "http://www.tierarztpraxislueck.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Außerhalb der Sprechzeiten, vorher anrufen",
+  "audit": [
+   "Unter 'Aktuelles' schreibt die Praxis selbst, dass ihr Google-Unternehmensprofil komplett gelöscht wurde und Kunden sie wochenlang nicht gefunden haben",
+   "Im Fußbereich steht noch der Standardsatz 'Joomla! ist freie, unter der GNU/GPL-Lizenz veröffentlichte Software', auf Unterseiten steht 'Aktuelle Seite: Home'",
+   "Keine sichere Verbindung (nur http), am Handy rund 980 Pixel breit, Telefon nicht antippbar"
+  ],
+  "hebel": "Die Praxis hat erlebt, wie schnell man ohne Google-Profil unsichtbar wird. Eine eigene, saubere Website ist die Basis, die niemand löschen kann, und ein gepflegtes und überwachtes Google-Profil sorgt dafür, dass das nicht wieder unbemerkt passiert.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "39 bis 69 €"
+  ],
+  "paket": "Neue Website mit Leistungen, Sprechzeiten, Anfahrt, Notfallhinweis, sicherer Verbindung, Google-Profil-Pflege mit Überwachung",
+  "svc": [
+   "Monatliche Prüfung des Google-Profils",
+   "Sprechzeiten und Urlaubshinweise selbst pflegen",
+   "Anfrage für Hausbesuche",
+   "Seite Kennzeichnung und Heimtierausweis"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ich habe auf Ihrer Seite gelesen, dass Ihr Google-Profil gelöscht wurde. Ich habe Ihnen mitgebracht, wie eine Website plus überwachtes Google-Profil aussehen könnte, damit das nicht wieder unbemerkt passiert.",
+  "obj": "'Jetzt sind wir ja wieder bei Google': Gut. Mit einer monatlichen Prüfung merken Sie es beim nächsten Mal sofort und nicht erst nach Wochen.",
+  "k": "lueck",
+  "addr": "Ensheimer Straße 158",
+  "tel": "06894 37575",
+  "welle": 25
+ },
+ {
+  "name": "Hotel-Restaurant Zum Mühlehannes",
+  "branche": "Hotel und Restaurant",
+  "url": "http://www.zum-muehlehannes.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Nachmittags, Familie Michely direkt ansprechen",
+  "audit": [
+   "Die Startseite sagt nur 'Willkommen' und 'viel Spass beim Stöbern', Zimmer, Preise und Buchung fehlen",
+   "Seiten heißen '?page=home/karte', Google kann sie keinem Thema zuordnen",
+   "Keine sichere Verbindung (nur http), Telefon nicht antippbar, keine Zimmeranfrage"
+  ],
+  "hebel": "Hotelgäste buchen am Handy und vergleichen Zimmer, Preise und Fotos. Ohne Zimmeranfrage gehen diese Buchungen an Portale mit Provision oder an die Konkurrenz. Eine Seite mit Zimmern, Fotos und Direktanfrage holt Buchungen ohne Provision.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 79 €"
+  ],
+  "paket": "Neue Website mit Zimmern, Restaurant, Feiern, Direktanfrage mit Datum, sicherer Verbindung, Google-Profil",
+  "svc": [
+   "Zimmeranfrage mit Datum und Personen",
+   "Feier-Anfrage",
+   "Speisekarte als Text",
+   "Google-Hotelprofil mit Fotos"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite findet man weder Zimmerpreise noch eine Möglichkeit, direkt anzufragen. Ich habe Ihnen mitgebracht, wie das mit Direktanfrage aussehen könnte.",
+  "obj": "'Die Buchungen kommen über die Portale': Und kosten dort Provision. Jede Direktanfrage über die eigene Seite spart sie.",
+  "k": "muehle",
+  "addr": "Obere Kaiserstraße 97-101",
+  "tel": "06894 95560",
+  "welle": 25
  }
 ]

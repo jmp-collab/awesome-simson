@@ -1,0 +1,77 @@
+{
+ "key": "l-ck-evelin-dr-tier-rztin",
+ "url": "http://www.tierarztpraxislueck.de/",
+ "title": "Startseite",
+ "text": "Startseite\nUnsere Leistungen\nSprechzeiten\nAktuelles\nKontakt\nAnfahrt\nGallery\nLinks\nImpressum\nDatenschutzerklärung\nAktuelle Seite: Home\nStartseite\n\nHerzlich Willkommen\nauf der\n\n \n\nInternetseite\n\nder Tierarztpraxis\n\nDr. Evelin Lück\n\n\n \n\n \n\n\t\nKontakt\nTierarztpraxis\n \n\nDr. Evelin Lück\n\nEnsheimer Straße 158\n\n66386 St.Ingbert\n\n \n \nTelefon\n\n06894 - 37575\n\n \n\nSprechzeiten\n\n \n\n \n\nMontag:\n\n\t\n\n09:30 - 12:30 h\n16:00 - 19:00 h\n \n\n\n\n\nDienstag:\n\n\t\n\n09:30 - 12:30 h\n16:00 - 19:00 h\n\n\n\n\nMittwoch:\n\n\t\n\n16:00 - 19:00 h\n \n\n\n\n\nDonnerstag:\n\n\t\n\n09:30 - 12:30 h\n16:00 - 19:00 h\n \n\n\n\n\nFreitag:\n\n\t\n\n09:30 - 12:30 h\n\n\n\n\n \n\nsowie nach Vereinbarung\n\n\nCopyright © 2026 Tierarztpraxis Lück. Alle Rechte vorbehalten.\nJoomla! ist freie, unter der GNU/GPL-Lizenz veröffentlichte Software.",
+ "imgs": [
+  {
+   "src": "http://www.tierarztpraxislueck.de/images/praxis/Tiere.png",
+   "w": 7422,
+   "h": 2504
+  }
+ ],
+ "bg": [
+  "http://www.tierarztpraxislueck.de/templates/tierartzpraxis_lueck2/images/Bottom_texture.jpg",
+  "http://www.tierarztpraxislueck.de/templates/tierartzpraxis_lueck2/images/page_gl.png",
+  "http://www.tierarztpraxislueck.de/templates/tierartzpraxis_lueck2/images/header-object.png",
+  "http://www.tierarztpraxislueck.de/templates/tierartzpraxis_lueck2/images/spacer.gif",
+  "http://www.tierarztpraxislueck.de/templates/tierartzpraxis_lueck2/images/subitem.png"
+ ],
+ "tel": [],
+ "mail": [],
+ "links": [
+  {
+   "t": "Startseite",
+   "h": "http://www.tierarztpraxislueck.de/"
+  },
+  {
+   "t": "Unsere Leistungen",
+   "h": "http://www.tierarztpraxislueck.de/index.php/leistung.html"
+  },
+  {
+   "t": "Sprechzeiten",
+   "h": "http://www.tierarztpraxislueck.de/index.php/sprechzeiten.html"
+  },
+  {
+   "t": "Aktuelles",
+   "h": "http://www.tierarztpraxislueck.de/index.php/aktuelles.html"
+  },
+  {
+   "t": "Kontakt",
+   "h": "http://www.tierarztpraxislueck.de/index.php/kontakt.html"
+  },
+  {
+   "t": "Anfahrt",
+   "h": "http://www.tierarztpraxislueck.de/index.php/anfahrt.html"
+  },
+  {
+   "t": "Gallery",
+   "h": "http://www.tierarztpraxislueck.de/index.php/gallery.html"
+  },
+  {
+   "t": "Links",
+   "h": "http://www.tierarztpraxislueck.de/index.php/links.html"
+  },
+  {
+   "t": "Impressum",
+   "h": "http://www.tierarztpraxislueck.de/index.php/impressum.html"
+  },
+  {
+   "t": "Datenschutzerklärung",
+   "h": "http://www.tierarztpraxislueck.de/index.php/datenschutzerklaerung.html"
+  },
+  {
+   "t": "Joomla!",
+   "h": "http://www.joomla.org/"
+  },
+  {
+   "t": "GNU/GPL-Lizenz",
+   "h": "http://www.gnu.org/licenses/gpl-2.0.html"
+  }
+ ],
+ "saved": [
+  "img/l-ck-evelin-dr-tier-rztin_0.png",
+  "img/l-ck-evelin-dr-tier-rztin_1.png",
+  "img/l-ck-evelin-dr-tier-rztin_2.png"
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "k": "lueck",
+ "url": "http://www.tierarztpraxislueck.de",
+ "date": "2026-10-20",
+ "desk": {
+  "ok": true,
+  "load_s": 5.2,
+  "status": 200,
+  "final": "http://www.tierarztpraxislueck.de/",
+  "title": "Startseite",
+  "desc": null,
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": "Joomla! - Open Source Content Management",
+  "h1": [],
+  "words": 60,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 2,
+  "broken": [],
+  "noalt": 1,
+  "big": [
+   {
+    "src": "http://www.tierarztpraxislueck.de/images/praxis/Tiere.png",
+    "nat": 7422,
+    "shown": 832
+   }
+  ],
+  "years": [
+   2026
+  ],
+  "small": 4,
+  "total": 37,
+  "taps": 2,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [
+   "http://www.tierarztpraxislueck.de/media/system/js/mootools-core.js",
+   "http://www.tierarztpraxislueck.de/media/system/js/core.js",
+   "http://www.tierarztpraxislueck.de/media/system/js/caption.js",
+   "http://www.tierarztpraxislueck.de/templates/system/css/system.css",
+   "http://www.tierarztpraxislueck.de/templates/system/css/general.css"
+  ],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 26,
+  "bytes": 965940,
+  "img_bytes": 708973
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 3.6,
+  "status": 200,
+  "final": "http://www.tierarztpraxislueck.de/",
+  "title": "Startseite",
+  "desc": null,
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": "Joomla! - Open Source Content Management",
+  "h1": [],
+  "words": 60,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": true,
+  "imgs": 2,
+  "broken": [],
+  "noalt": 1,
+  "big": [
+   {
+    "src": "http://www.tierarztpraxislueck.de/images/praxis/Tiere.png",
+    "nat": 7422,
+    "shown": 832
+   }
+  ],
+  "years": [
+   2026
+  ],
+  "small": 4,
+  "total": 37,
+  "taps": 2,
+  "placeholders": [],
+  "scrollW": 980,
+  "innerW": 980,
+  "http_res": [
+   "http://www.tierarztpraxislueck.de/media/system/js/mootools-core.js",
+   "http://www.tierarztpraxislueck.de/media/system/js/core.js",
+   "http://www.tierarztpraxislueck.de/media/system/js/caption.js",
+   "http://www.tierarztpraxislueck.de/templates/system/css/system.css",
+   "http://www.tierarztpraxislueck.de/templates/system/css/general.css"
+  ],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [],
+  "requests": 26,
+  "bytes": 965940,
+  "img_bytes": 708973
+ },
+ "http_to": "http://www.tierarztpraxislueck.de/",
+ "http_code": "200",
+ "http_redirects_to_https": false
+}
