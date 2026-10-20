@@ -2630,7 +2630,7 @@
   }
  },
  "forster": {
-  "score": 31,
+  "score": 45,
   "datum": "2026-10-19",
   "befunde": [
    {
@@ -2640,14 +2640,6 @@
     "beleg": "Die Seite ist 507 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 77 % verkleinert oder man muss seitlich wischen.",
     "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
     "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
-   },
-   {
-    "id": "bild_kaputt",
-    "sev": "hoch",
-    "titel": "Ein Bild lädt nicht",
-    "beleg": "Nicht geladen: https://beulenfrei.com/",
-    "folge": "Leere Kästen oder fehlende Logos wirken, als sei der Betrieb nicht mehr aktiv.",
-    "fix": "Alle Bilder geprüft und neu eingebunden"
    },
    {
     "id": "desc",
@@ -2689,7 +2681,6 @@
   ],
   "nutzen": [
    "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
-   "Alle Bilder und das Logo laden zuverlässig",
    "Schaden mit Foto melden, Rückmeldung mit Preisrahmen",
    "Ihre Bewertungen gut sichtbar auf der Startseite",
    "Eigene Seite für Smart Repair vor der Leasing-Rückgabe"
@@ -9815,6 +9806,577 @@
    "breite_m": 980,
    "woerter": 82,
    "titel": "Eiscafè Trento"
+  }
+ },
+ "lang": {
+  "score": 21,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 1096 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 36 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.garten-lang.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "3 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Suchwortliste dreimal wiederholt, mit Tippfehler.",
+   "Keine sichere Verbindung, am Handy zu breit.",
+   "Nummer nicht antippbar."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Große Fotos",
+   "Anfrage mit Foto"
+  ],
+  "hebel": "Teiche, Terrassen und Gartenumgestaltung sind Aufträge im vier- bis fünfstelligen Bereich, und Kunden entscheiden über Bilder. Die wiederholte Suchwortliste schadet eher, als sie hilft. Saubere Seiten je Leistung mit großen Fotos und Anfrage per Foto bringen die Anfragen.",
+  "extra": [
+   "Garten-Anfrage mit Foto und ungefährer Fläche",
+   "Galerie vorher und nachher, die Sie vom Handy befüllen",
+   "Seite Schwimmteich und Teichbau",
+   "Luftbild-Service als eigene Leistung"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 6000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 990,
+   "breakeven": 1,
+   "jahr": 18000
+  },
+  "gemessen": {
+   "load_m": 1.4,
+   "mb": 0.3,
+   "breite_m": 1096,
+   "woerter": 151,
+   "titel": "Garten-lang außenanlagen Teichbau gartengestaltung Quadrokopter Luftbilder"
+  }
+ },
+ "hundehuett": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.speiselokal-hundehuett-heusweiler.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 19 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "4 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Menüpunkt mit Backslashes, Link kaputt.",
+   "Link auf 'Die Seite infos existiert nicht'.",
+   "Startseite ist ein Bild, Telefon nicht antippbar."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Empfehlungskarte vorne",
+   "Reservierung mit einem Fingertipp"
+  ],
+  "hebel": "Bei nur zwei Öffnungstagen zählt jeder Tisch. Wer am Freitag 'Restaurant Heusweiler' sucht, will Zeiten, Karte und eine Reservierung mit einem Fingertipp. Eine aufgeräumte Seite mit Empfehlungskarte vorne und Anruf-Knopf füllt die Tische.",
+  "extra": [
+   "Empfehlungskarte des Monats, die Sie selbst pflegen",
+   "Reservierungsanfrage für Freitag und Sonntag",
+   "Seite für Feiern und Büffet",
+   "Google-Profil mit Zeiten und Fotos"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 35,
+   "einheit": "Neukunde",
+   "anzahl": 60,
+   "preis": 790,
+   "breakeven": 23,
+   "jahr": 2100
+  },
+  "gemessen": {
+   "load_m": 1.6,
+   "mb": 0.2,
+   "breite_m": 980,
+   "woerter": 19,
+   "titel": "Hundehütt Heusweiler"
+  }
+ },
+ "fey": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.fensterbau-fey.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "text",
+    "sev": "hoch",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 26 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Startseite mit nur einem Satz.",
+   "Keine sichere Verbindung, am Handy zu breit.",
+   "Tippfehler 'Telfon', nur GMX-Adresse."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Anfrage mit Maßen"
+  ],
+  "hebel": "Fenster und Türen sind große Aufträge, und Kunden vergleichen online, bevor sie anrufen. Eine Startseite mit einem einzigen Satz verschenkt 50 Jahre Erfahrung und eigene Fertigung. Leistungen, Referenzen und Anfrage nach Maßen holen diese Kunden.",
+  "extra": [
+   "Anfrage mit Maßen und Foto",
+   "Referenzgalerie vorher und nachher",
+   "Google-Profile für Kirkel und Saarbrücken",
+   "Seite zu Fördermitteln für Fenstertausch, mit Ihnen abgestimmt"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 6000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 990,
+   "breakeven": 1,
+   "jahr": 18000
+  },
+  "gemessen": {
+   "load_m": 1.4,
+   "mb": 0.2,
+   "breite_m": 980,
+   "woerter": 26,
+   "titel": "Fensterbau Helmut Fey"
+  }
+ },
+ "wk": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.wkelektrotechnik.de/index2.html ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "text",
+    "sev": "mittel",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 89 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "js",
+    "sev": "niedrig",
+    "titel": "Technische Fehler im Hintergrund",
+    "beleg": "2 Fehlermeldungen beim Laden der Startseite.",
+    "folge": "Fehler können Formulare, Karten oder Menüs unbemerkt lahmlegen.",
+    "fix": "Saubere, geprüfte Technik"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Startseite index2.html, Seiten nur Nummern.",
+   "Kein Telefon auf der Startseite.",
+   "Keine sichere Verbindung, am Handy zu breit."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Telefon mit einem Fingertipp"
+  ],
+  "hebel": "Ihre Referenzliste mit Praxen, Versicherungen und Firmen ist ein starkes Argument, das heute niemand findet. Eine Seite mit Leistungen, Referenzen und Telefon auf einen Blick macht aus der Erfahrung Anfragen.",
+  "extra": [
+   "Referenzliste übersichtlich nach Branchen",
+   "Anfrage mit Foto vom Zählerschrank",
+   "Google-Profil mit Leistungen",
+   "Sichere Verbindung und sprechende Seitennamen"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 2000,
+   "einheit": "Auftrag",
+   "anzahl": 4,
+   "preis": 690,
+   "breakeven": 1,
+   "jahr": 8000
+  },
+  "gemessen": {
+   "load_m": 4.3,
+   "mb": 0.4,
+   "breite_m": 980,
+   "woerter": 89,
+   "titel": "WK Elektrotechnik"
+  }
+ },
+ "staudt": {
+  "score": 18,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "text",
+    "sev": "mittel",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 51 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "jahr",
+    "sev": "mittel",
+    "titel": "Copyright 2018: wirkt nicht gepflegt",
+    "beleg": "Im Fußbereich steht das Jahr 2018.",
+    "folge": "Ein altes Jahr lässt Besucher zweifeln, ob Angaben wie Öffnungszeiten oder Preise noch stimmen.",
+    "fix": "Aktuelle Seite, die Sie selbst pflegen können"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "js",
+    "sev": "niedrig",
+    "titel": "Technische Fehler im Hintergrund",
+    "beleg": "2 Fehlermeldungen beim Laden der Startseite.",
+    "folge": "Fehler können Formulare, Karten oder Menüs unbemerkt lahmlegen.",
+    "fix": "Saubere, geprüfte Technik"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Startseite nur 'Willkommen' und Adresse, © 2018.",
+   "'Galerie' und 'Produkte' führen ins Leere.",
+   "Am Handy zu breit, keine Anfrage."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen",
+   "Produktwelten mit Bildern",
+   "Anfrage mit Badmaßen"
+  ],
+  "hebel": "Badmöbel direkt ab Werk mit der größten Werksausstellung im Saarland sind ein starkes Alleinstellungsmerkmal. Wer 'Badmöbel Saarland' sucht, sieht davon auf der Startseite nichts. Produktseiten mit Bildern und eine Anfrage mit Badmaßen bringen Besucher in die Ausstellung.",
+  "extra": [
+   "Anfrage mit Badmaßen und Foto",
+   "Produktseiten je Möbelprogramm",
+   "Händlerbereich",
+   "Seite barrierefreies Bad mit Zuschuss-Hinweis, mit Ihnen abgestimmt"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 3000,
+   "einheit": "Auftrag",
+   "anzahl": 5,
+   "preis": 1490,
+   "breakeven": 1,
+   "jahr": 15000
+  },
+  "gemessen": {
+   "load_m": 3.1,
+   "mb": 0.7,
+   "breite_m": 980,
+   "woerter": 51,
+   "titel": "Badmöbel - Staudt"
   }
  }
 }

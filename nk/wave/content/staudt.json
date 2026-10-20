@@ -1,0 +1,106 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "Aus der Ausstellung",
+ "gallery": [
+  "img/staudt-gmbh-badm-bel_2.jpg"
+ ],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "hours": [],
+ "mcta": "Anrufen",
+ "slug": "staudt-gmbh-badm-bel",
+ "theme": "praxis",
+ "name": "Badmöbel Staudt GmbH",
+ "branche": "Badmöbel-Hersteller mit Werksausstellung",
+ "addr": "Saarbrücker Straße 83 · 66265 Heusweiler",
+ "tel": "06806 7417",
+ "url": "https://www.badmoebel-staudt.de",
+ "label": "Solide Chance",
+ "visit": "Zu Ausstellungszeiten vorbeischauen, vorher anrufen",
+ "logo_a": "Badmöbel",
+ "logo_b": "Staudt",
+ "nav": [
+  "Ausstellung",
+  "Produkte",
+  "Barrierefrei",
+  "Kontakt"
+ ],
+ "eyebrow": "Badmöbel direkt ab Werk, Heusweiler",
+ "h1": "Badmöbel direkt ab Werk.",
+ "lead": "In der größten saarländischen Werksausstellung für Badmöbel in Heusweiler: Beratung, Verkauf und Montage, Spiegelschränke, barrierefreie Bäder, fugenlose Duschwandverkleidung und Individualprogramm.",
+ "cta1": "Ausstellung besuchen",
+ "cta2": "Anrufen: 06806 7417",
+ "badge": [
+  "40",
+  "Jahre Ihr Partner"
+ ],
+ "deco": "",
+ "hero_img": "img/staudt-gmbh-badm-bel_1.jpg",
+ "trust": [
+  "<b>Direkt ab Werk</b> aus Heusweiler",
+  "<b>Größte saarländische</b> Werksausstellung für Badmöbel",
+  "<b>Beratung, Verkauf und Montage</b>"
+ ],
+ "svc_title": "Produkte",
+ "services": [
+  [
+   "Badmöbel",
+   "Individualprogramm nach Maß."
+  ],
+  [
+   "Spiegelschränke",
+   "Passend zu Ihrem Bad."
+  ],
+  [
+   "Barrierefreie Bäder",
+   "Komfort für jedes Alter."
+  ],
+  [
+   "Duschwandverkleidung",
+   "Fugenlos und pflegeleicht."
+  ],
+  [
+   "Mineralstoff-Waschbecken",
+   "Modern und robust."
+  ],
+  [
+   "Möbelwände",
+   "Für Bad und Wohnen."
+  ]
+ ],
+ "band": "Neues Bad geplant? Maße schicken oder Ausstellung besuchen.",
+ "contact": "Badmöbel Staudt GmbH<br>Saarbrücker Straße 83<br>66265 Heusweiler<br><br>Telefon 06806 7417<br>info@badmoebel-staudt.de",
+ "audit": [
+  "Auf der Startseite steht nur 'Willkommen bei Badmöbel Staudt' und die Adresse, darunter '© 2018'",
+  "Die Menüpunkte 'Galerie' und 'Produkte' führen ins Leere (Link '#none'), am Handy ist die Seite rund 950 Pixel breit",
+  "Telefon und E-Mail sind nicht antippbar, ein Anfrageformular für Badmöbel gibt es nicht"
+ ],
+ "hebel": "Badmöbel direkt ab Werk mit der größten Werksausstellung im Saarland sind ein starkes Alleinstellungsmerkmal. Wer 'Badmöbel Saarland' sucht, sieht davon auf der Startseite nichts. Produktseiten mit Bildern und eine Anfrage mit Badmaßen bringen Besucher in die Ausstellung.",
+ "p": [
+  "1.490 bis 2.190 €",
+  "2.190 bis 3.290 €",
+  "39 bis 79 €"
+ ],
+ "paket": "Neue Website mit Produktwelten, Ausstellung, barrierefreien Bädern, Händlerbereich, Anfrage mit Badmaßen, Google-Profil",
+ "svc": [
+  "Anfrage mit Badmaßen und Foto",
+  "Produktseiten je Möbelprogramm",
+  "Händlerbereich",
+  "Seite barrierefreies Bad mit Zuschuss-Hinweis, mit Ihnen abgestimmt"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Sie haben die größte Badmöbel-Werksausstellung im Saarland, aber auf der Startseite steht nur 'Willkommen', und 'Produkte' führt ins Leere. Ich habe Ihnen mitgebracht, wie das als Produktwelt aussehen könnte.",
+ "obj": "'Die Leute kommen in die Ausstellung': Damit sie kommen, müssen sie online sehen, was es dort gibt.",
+ "obs": [
+  "Startseite nur 'Willkommen' und Adresse, © 2018.",
+  "'Galerie' und 'Produkte' führen ins Leere.",
+  "Am Handy zu breit, keine Anfrage."
+ ],
+ "neu": [
+  "Produktwelten mit Bildern",
+  "Anfrage mit Badmaßen",
+  "Am Handy lesbar"
+ ]
+}

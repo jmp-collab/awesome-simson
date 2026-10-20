@@ -1,0 +1,55 @@
+{
+ "key": "fey-helmut-fensterbau-schlosserei",
+ "url": "http://www.fensterbau-fey.de/",
+ "title": "Fensterbau Helmut Fey",
+ "text": "Start\nWir stellen\n   uns vor\n    Unsere\nLeistungen\nBilder\nAnfragen\nKontakt\nImpressum\nLinks\n              \nAuf den folgenden Seiten möchten wir Ihnen unsere Firma mit all unseren Möglichkeiten vorstellen.\n\n",
+ "imgs": [
+  {
+   "src": "http://www.fensterbau-fey.de/img/FensterLinksSchatten.png",
+   "w": 455,
+   "h": 1276
+  }
+ ],
+ "bg": [
+  "http://www.fensterbau-fey.de/img/Hintergrund2.png"
+ ],
+ "tel": [],
+ "mail": [],
+ "links": [
+  {
+   "t": "Start",
+   "h": "http://www.fensterbau-fey.de/index.html"
+  },
+  {
+   "t": "Wir stellen\n   uns vor",
+   "h": "http://www.fensterbau-fey.de/wir.html"
+  },
+  {
+   "t": "Unsere\nLeistungen",
+   "h": "http://www.fensterbau-fey.de/unsere.html"
+  },
+  {
+   "t": "Bilder",
+   "h": "http://www.fensterbau-fey.de/bilder.html"
+  },
+  {
+   "t": "Anfragen",
+   "h": "http://www.fensterbau-fey.de/anfragen.html"
+  },
+  {
+   "t": "Kontakt",
+   "h": "http://www.fensterbau-fey.de/kontakt.html"
+  },
+  {
+   "t": "Impressum",
+   "h": "http://www.fensterbau-fey.de/impressum.html"
+  },
+  {
+   "t": "Links",
+   "h": "http://www.fensterbau-fey.de/links.html"
+  }
+ ],
+ "saved": [
+  "img/fey-helmut-fensterbau-schlosserei_0.png"
+ ]
+}

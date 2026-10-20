@@ -1,0 +1,113 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "Hinweis",
+ "alt_text": "Keine Kartenzahlung möglich, bitte bar zahlen.",
+ "hours": [
+  [
+   "Freitag",
+   "17:30 bis 22:00"
+  ],
+  [
+   "Sonntag",
+   "11:30 bis 14:00"
+  ]
+ ],
+ "mcta": "Anrufen",
+ "slug": "speiselokal-hundeh-tt-restaurant",
+ "theme": "spa",
+ "name": "Speiselokal Hundehütt",
+ "branche": "Restaurant",
+ "addr": "Am Schwimmbad 27 · 66265 Heusweiler",
+ "tel": "06806 79494",
+ "url": "http://www.speiselokal-hundehuett-heusweiler.de",
+ "label": "Solide Chance",
+ "visit": "Freitag vor 17:30 Uhr, Inhaber Heinz-Georg Kunz",
+ "logo_a": "Hundehütt",
+ "logo_b": "Heusweiler",
+ "nav": [
+  "Speisekarte",
+  "Sonntagskarte",
+  "Galerie",
+  "Anfahrt"
+ ],
+ "eyebrow": "Restaurant in Heusweiler",
+ "h1": "Frisch gekocht. Gut bürgerlich, Steaks und Wild.",
+ "lead": "Das Restaurant mit Frischegarantie: Spezialitäten, Steaks, Salate, gut bürgerliche Küche und Wildspezialitäten, dazu die monatlich wechselnde Empfehlungskarte.",
+ "cta1": "Tisch reservieren",
+ "cta2": "Speisekarte",
+ "badge": [
+  "Fr + So",
+  "geöffnet"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Frischegarantie</b>: alles frisch zubereitet",
+  "<b>Monatlich</b> wechselnde Empfehlungskarte",
+  "<b>Sonntagsmittag</b> geöffnet"
+ ],
+ "svc_title": "Bei uns",
+ "services": [
+  [
+   "Spezialitäten und Steaks",
+   "Unsere Klassiker."
+  ],
+  [
+   "Gut bürgerliche Küche",
+   "Schnitzel, Salate und mehr."
+  ],
+  [
+   "Wildspezialitäten",
+   "Je nach Saison."
+  ],
+  [
+   "Empfehlungskarte",
+   "Wechselt jeden Monat."
+  ],
+  [
+   "Sonntagskarte",
+   "Mittagstisch am Sonntag."
+  ],
+  [
+   "Büffet und Menüs",
+   "Für Feiern auf Anfrage."
+  ]
+ ],
+ "band": "Tisch für Freitag oder Sonntag? Kurz anrufen.",
+ "contact": "Speiselokal Hundehütt<br>Heinz-Georg Kunz<br>Am Schwimmbad 27<br>66265 Heusweiler<br><br>Telefon 06806 79494<br>Mobil 0170 5467977",
+ "audit": [
+  "Im Menü steht ein Punkt mit Backslashes ('\\\"Muttertag'), der Link dahinter ist kaputt",
+  "Ein Link der Startseite führt auf 'Die Seite infos existiert nicht'",
+  "Die Startseite ist im Kern ein Bild mit den Wörtern Anfahrt, Galerie und Speisekarte, Telefon nicht antippbar, keine sichere Verbindung"
+ ],
+ "hebel": "Bei nur zwei Öffnungstagen zählt jeder Tisch. Wer am Freitag 'Restaurant Heusweiler' sucht, will Zeiten, Karte und eine Reservierung mit einem Fingertipp. Eine aufgeräumte Seite mit Empfehlungskarte vorne und Anruf-Knopf füllt die Tische.",
+ "p": [
+  "790 bis 1.190 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Speisekarte als Text, Empfehlungskarte, Öffnungszeiten, Reservierung per Anruf oder Anfrage, Google-Profil",
+ "svc": [
+  "Empfehlungskarte des Monats, die Sie selbst pflegen",
+  "Reservierungsanfrage für Freitag und Sonntag",
+  "Seite für Feiern und Büffet",
+  "Google-Profil mit Zeiten und Fotos"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. In Ihrem Menü steht ein Punkt mit Backslashes vor 'Muttertag', und ein Link führt auf 'Die Seite infos existiert nicht'. Ich habe Ihnen mitgebracht, wie Ihre Seite mit Empfehlungskarte aussehen könnte.",
+ "obj": "'Unsere Gäste kennen uns': Die Stammgäste ja. Neue Gäste suchen am Handy, und bei nur zwei Abenden muss die Reservierung sofort klappen.",
+ "obs": [
+  "Menüpunkt mit Backslashes, Link kaputt.",
+  "Link auf 'Die Seite infos existiert nicht'.",
+  "Startseite ist ein Bild, Telefon nicht antippbar."
+ ],
+ "neu": [
+  "Empfehlungskarte vorne",
+  "Reservierung mit einem Fingertipp",
+  "Zeiten klar am Handy"
+ ]
+}

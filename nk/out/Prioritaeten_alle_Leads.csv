@@ -11,6 +11,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 82;ecker;Metallbaumontage Arno Ecker;Metallbau;15;7;3;9000;690;84;ct37za;06858 9005085;Früh morgens oder vorher anrufen
 88;kessler;Elektro und Solartechnik Keßler;Elektro und Solartechnik;15;7;3;24000;690;84;b267yq;06825 940332;Vorher anrufen
 106;rechkemmer;Rechkemmer Bedachungen;Dachdeckerei;15;7;3;18000;690;84;trkdm5;06806 608980;Früh morgens oder vorher anrufen
+110;fey;Fensterbau Helmut Fey;Fensterbau und Schlosserei;15;7;3;18000;990;84;2mbk3o;06849 6133;Montag bis Freitag zwischen 7 und 16 Uhr
 75;specht;Specht Auto-Service GmbH;Vespa, Piaggio und Aprilia Händler;15;7;2;14000;990;78;yyvgjq;06821 7496607;Vormittags im Laden, Inhaber Uwe Specht direkt ansprechen
 93;cniklas;Christian Niklas GmbH;Fenster, Türen, Rollläden, Markisen;15;7;2;24000;690;78;g65gcm;06825 970020;Vorher anrufen
 105;graber;Schreinerei Heiko Graber;Schreinerei-Meisterbetrieb;15;7;2;15000;790;78;antn6i;06897 600657;Vorher anrufen
@@ -20,6 +21,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 84;niklas;Erwin Niklas Schreinerei & Fensterbau GmbH;Fenster, Türen und Wintergärten;15;6;3;24000;990;72;fiozdz;06825 2486;Vormittags, vorher anrufen
 85;fischer;Schreinerei Bernd Fischer;Schreinerei;15;6;3;10500;790;72;xsxonq;06825 499780;Vorher anrufen, mobil 0172 6838252
 94;weisk;Weiskircher GmbH;Natursteine, Fliesen, Grabmale;15;6;3;12000;990;72;txmvrr;06825 2759;Vormittags, vorher anrufen
+111;wk;WK Elektrotechnik;Elektrotechnik;15;6;3;8000;690;72;bsckry;06897 9523033;Vorher anrufen, mobil 0177 3079526
 12;dolomiti;Dolomiti Pizzeria, Gelateria & Pasticceria;Eiscafé / Pizzeria / Pasticceria;15;6;2;10800;690;66;ihd7wc;06821 9424024;Nachmittags kurz nach Öffnung, nicht zur Abendspitze
 17;hvoltage;HIGH VOLTAGE Veranstaltungstechnik;Veranstaltungstechnik / Bühnen-, Ton-, Licht- und Videotechnik;17;5;4;7200;990;66;7zza4y;06821 983161;Vorher anrufen, Lager und Büro sind nicht immer besetzt (Veranstaltungen oft abends und am Wochenende)
 22;vsv;VSV Abbruch GmbH;Abbruch / Entkernung / Schadstoffsanierung;15;6;2;16000;990;66;odr2ap;06821 590721;Vorher anrufen, Büro werktags vormittags
@@ -34,12 +36,14 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 66;droeschel;Aluminiumprofil- und Glastechnik Marco Dröschel;Metallbau, Aluminium und Glas;21;6;1;12000;990;60;m56tnv;06821 2902675;Morgens früh oder nachmittags, vorher anrufen
 69;jung;Steven Jung GmbH Dachdeckermeister;Dachdeckerei;24;5;3;18000;790;60;kdhf6s;06821 9649937;Früh morgens oder vorher anrufen, mobil 0177 3316944
 74;socacel;SOCACEL Fleischtechnologie GmbH;Anlagen und Zusatzstoffe für die Fleisch- und Fischindustrie;24;6;1;30000;1990;60;xo4jli;06821 33393;Vorher anrufen, Termin vereinbaren
-30;forster;Lackierservice Forster;KFZ-Lackiererei / Karosseriebau / Smart Repair;31;5;2;7200;690;54;3hy5xw;06821 9729239;Werktags zwischen 8 und 9 Uhr oder nachmittags gegen 16 Uhr in der Werkstatt
+108;lang;Garten Lang;Gartengestaltung und Teichbau;21;6;1;18000;990;60;smakuw;0177 6809029;Vorher anrufen, 0177 6809029
+112;staudt;Badmöbel Staudt GmbH;Badmöbel-Hersteller mit Werksausstellung;18;5;3;15000;1490;60;du54e4;06806 7417;Zu Ausstellungszeiten vorbeischauen, vorher anrufen
 68;malburg;Schreinerei Malburg GmbH;Schreinerei und Bestattungen;28;5;2;9000;990;54;2qj3tz;06821 6278;Vormittags in der Werkstatt, vorher kurz anrufen
 79;schaefer;Schreinermeister Frank Schäfer;Schreinerei;31;5;2;10500;990;54;oinmkr;06858 6998188;Vorher anrufen, mobil 0179 7306242
 80;kirsch;Heizung-Sanitär Kirsch UG;Heizung und Sanitär;28;5;2;18000;990;54;pdjm5t;06821 96410;Bürozeiten Mo bis Fr 7:30 bis 12 und 14 bis 17 Uhr, vorher anrufen
 95;ruffing;Elektro Ruffing;Elektroinstallation und Photovoltaik;28;5;2;12000;990;54;72nw2k;06826 6998;Vorher anrufen, mobil 0172 6668383
 100;mueller;Elektro Erwin Müller;Elektro und Fernsehen;15;6;3;2400;690;53.7;4wegjw;06881 80406;Vorher anrufen und klären, ob der Betrieb aktiv ist
+109;hundehuett;Speiselokal Hundehütt;Restaurant;15;7;3;2100;790;51.2;exqslq;06806 79494;Freitag vor 17:30 Uhr, Inhaber Heinz-Georg Kunz
 92;siegel;Augenoptik Siegel;Augenoptik;15;6;3;3200;990;50.8;mpjvfc;06825 88840;Vorher anrufen
 18;hobler;Elektro Hobler UG;Elektroinstallation / Elektriker;41;5;1;5400;690;48;khjgpu;06821 952063;Morgens zwischen 7 und 9 Uhr (Büro Mo bis Fr 6 bis 13 Uhr erreichbar)
 32;kirschhock;Haus- und Montage Service Kirschhock;Hausmeister- und Montageservice;35;4;3;3600;690;48;6vsmks;06821 306991;Vorher anrufen (mobil 0175 4147742), am besten früh morgens
@@ -50,6 +54,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 34;campanella;La Campanella;Pizzeria / Lieferdienst;24;6;1;2340;690;43.9;4qyb27;06821 3624333;Nachmittags zwischen 15 und 17 Uhr, nicht zur Essenszeit
 15;heil;Schlosserei Heil GmbH;Schlosserei / Metallbau / Schmiede;42;5;0;6000;690;42;jj6gjo;06821 51362;Früh morgens 7 bis 8 Uhr in der Werkstatt oder vorher anrufen
 25;schneider;Musikunterricht Birgit Schneider;Musikunterricht;45;4;2;3840;690;42;7khn4s;06821 42184;Vormittags vor dem Unterricht, vorher anrufen
+30;forster;Lackierservice Forster;KFZ-Lackiererei / Karosseriebau / Smart Repair;45;4;2;7200;690;42;3hy5xw;06821 9729239;Werktags zwischen 8 und 9 Uhr oder nachmittags gegen 16 Uhr in der Werkstatt
 31;htb;HTB Haus-Technik Bechtel GmbH;Elektro-, Sicherheits- und Haustechnik;45;4;2;7200;990;42;oiylva;06821 952200;Früh morgens oder vorher anrufen, Teams sind tagsüber beim Kunden
 33;hegi;Hegi Fenstervertrieb und Montage;Fenster, Rollläden, Haustüren (Vertrieb und Montage);45;4;2;16000;690;42;kil76q;06821 59180;Werktags vormittags, vorher anrufen
 41;hifi;Hifi Zenit;Hifi- und Car-Hifi-Fachhandel;42;4;2;6000;990;42;qw57hp;06821 177223;Nachmittags im Laden, vorher anrufen (oft Termine beim Kunden)

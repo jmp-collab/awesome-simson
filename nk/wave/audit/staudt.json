@@ -1,0 +1,106 @@
+{
+ "k": "staudt",
+ "url": "https://www.badmoebel-staudt.de",
+ "date": "2026-10-20",
+ "desk": {
+  "ok": true,
+  "load_s": 3.9,
+  "status": 200,
+  "final": "https://www.badmoebel-staudt.de/",
+  "title": "Badmöbel - Staudt",
+  "desc": "Wir sind Hersteller von Badmöbel !",
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [],
+  "words": 51,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": false,
+  "imgs": 6,
+  "broken": [
+   {
+    "src": "https://www.badmoebel-staudt.de/",
+    "alt": ""
+   }
+  ],
+  "noalt": 4,
+  "big": [],
+  "years": [
+   2018
+  ],
+  "small": 1,
+  "total": 21,
+  "taps": 0,
+  "placeholders": [],
+  "scrollW": 1366,
+  "innerW": 1366,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Unexpected token ')'",
+   "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "requests": 114,
+  "bytes": 736149,
+  "img_bytes": 384156
+ },
+ "mob": {
+  "ok": true,
+  "load_s": 3.1,
+  "status": 200,
+  "final": "https://www.badmoebel-staudt.de/",
+  "title": "Badmöbel - Staudt",
+  "desc": "Wir sind Hersteller von Badmöbel !",
+  "viewport": null,
+  "ogimg": null,
+  "ogtitle": null,
+  "generator": null,
+  "h1": [],
+  "words": 51,
+  "tel": 0,
+  "mail": [],
+  "wa": 0,
+  "forms": 0,
+  "maps": false,
+  "localbiz": false,
+  "favicon": false,
+  "imgs": 6,
+  "broken": [
+   {
+    "src": "https://www.badmoebel-staudt.de/",
+    "alt": ""
+   }
+  ],
+  "noalt": 4,
+  "big": [],
+  "years": [
+   2018
+  ],
+  "small": 1,
+  "total": 21,
+  "taps": 0,
+  "placeholders": [],
+  "scrollW": 980,
+  "innerW": 980,
+  "http_res": [],
+  "impressum": true,
+  "datenschutz": true,
+  "errors": [
+   "Unexpected token ')'",
+   "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "requests": 117,
+  "bytes": 978243,
+  "img_bytes": 569786
+ },
+ "http_to": "https://www.badmoebel-staudt.de/",
+ "http_code": "200",
+ "http_redirects_to_https": true
+}

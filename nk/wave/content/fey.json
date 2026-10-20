@@ -1,0 +1,101 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "alt_text": "Referenzfotos setze ich mit Ihnen gemeinsam ein.",
+ "hours": [
+  [
+   "Montag bis Freitag",
+   "7:00 bis 16:00"
+  ]
+ ],
+ "mcta": "Anrufen",
+ "slug": "fey-helmut-fensterbau-schlosserei",
+ "theme": "papier",
+ "name": "Fensterbau Helmut Fey",
+ "branche": "Fensterbau und Schlosserei",
+ "addr": "Abstäberhof 3 · 66459 Kirkel-Neuhäusel",
+ "tel": "06849 6133",
+ "url": "http://www.fensterbau-fey.de",
+ "label": "Solide Chance",
+ "visit": "Montag bis Freitag zwischen 7 und 16 Uhr",
+ "logo_a": "Fensterbau",
+ "logo_b": "Fey",
+ "nav": [
+  "Fenster",
+  "Türen",
+  "Bilder",
+  "Anfrage"
+ ],
+ "eyebrow": "Familienbetrieb seit 1974, Kirkel und Saarbrücken",
+ "h1": "Fenster und Türen, gefertigt in Kirkel.",
+ "lead": "1974 von Helmut Fey gegründet, heute mit der zweiten Generation: Fenster und Türen aus Kunststoff oder Aluminium, in der eigenen Werkstatt in Kirkel nach Ihren Wünschen gefertigt. Zweigstelle in Saarbrücken-Schafbrücke.",
+ "cta1": "Anrufen: 06849 6133",
+ "cta2": "Anfrage mit Maßen",
+ "badge": [
+  "1974",
+  "gegründet"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Seit 1974</b> Familienbetrieb",
+  "<b>Eigene Fertigung</b> in Kirkel",
+  "<b>Zwei Standorte</b>: Kirkel und Saarbrücken"
+ ],
+ "svc_title": "Leistungen",
+ "services": [
+  [
+   "Kunststofffenster",
+   "Gefertigt nach Maß."
+  ],
+  [
+   "Aluminiumfenster",
+   "Langlebig und schlank."
+  ],
+  [
+   "Türen",
+   "Kunststoff oder Aluminium."
+  ],
+  [
+   "Beratung",
+   "Im Geschäft oder bei Ihnen zu Hause."
+  ]
+ ],
+ "band": "Neue Fenster geplant? Maße oder Foto schicken, wir melden uns.",
+ "contact": "Fensterbau Helmut Fey<br>Abstäberhof 3<br>66459 Kirkel<br><br>Telefon 06849 6133<br>Zweigstelle Kaiserstraße 9+11<br>66121 Saarbrücken-Schafbrücke<br>Telefon 0681 83909273",
+ "audit": [
+  "Die Startseite enthält nur einen Satz ('Auf den folgenden Seiten möchten wir Ihnen unsere Firma ... vorstellen'), Google findet weder Fenster noch Kirkel",
+  "Keine sichere Verbindung (nur http), am Handy rund 930 Pixel breit",
+  "Telefon nicht antippbar, Kontakt nur über eine GMX-Adresse, 'Telfon' mit Tippfehler auf der Kontaktseite"
+ ],
+ "hebel": "Fenster und Türen sind große Aufträge, und Kunden vergleichen online, bevor sie anrufen. Eine Startseite mit einem einzigen Satz verschenkt 50 Jahre Erfahrung und eigene Fertigung. Leistungen, Referenzen und Anfrage nach Maßen holen diese Kunden.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Leistungen, beiden Standorten, Referenzen, Anfrage mit Maßen, sicherer Verbindung, Google-Profil",
+ "svc": [
+  "Anfrage mit Maßen und Foto",
+  "Referenzgalerie vorher und nachher",
+  "Google-Profile für Kirkel und Saarbrücken",
+  "Seite zu Fördermitteln für Fenstertausch, mit Ihnen abgestimmt"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht nur ein einziger Satz, Google findet weder Fenster noch Kirkel. Ich habe Ihnen mitgebracht, wie 50 Jahre Fensterbau online aussehen könnten.",
+ "obj": "'Wir sind seit 1974 bekannt': Genau das gehört nach vorne. Neue Bauherren kennen Sie noch nicht.",
+ "obs": [
+  "Startseite mit nur einem Satz.",
+  "Keine sichere Verbindung, am Handy zu breit.",
+  "Tippfehler 'Telfon', nur GMX-Adresse."
+ ],
+ "neu": [
+  "Leistungen und Standorte",
+  "Anfrage mit Maßen",
+  "Sichere Verbindung"
+ ]
+}

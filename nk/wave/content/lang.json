@@ -1,0 +1,104 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "hours": [],
+ "mcta": "Anrufen",
+ "slug": "lang-martin-gartengestaltung",
+ "theme": "spa",
+ "name": "Garten Lang",
+ "branche": "Gartengestaltung und Teichbau",
+ "addr": "Im Driescher 17 · 66459 Kirkel-Neuhäusel",
+ "tel": "0177 6809029",
+ "url": "http://www.garten-lang.de",
+ "label": "Solide Chance",
+ "visit": "Vorher anrufen, 0177 6809029",
+ "logo_a": "Garten",
+ "logo_b": "Lang",
+ "nav": [
+  "Teichbau",
+  "Stein und Holz",
+  "Planung",
+  "Kontakt"
+ ],
+ "eyebrow": "Gartengestaltung aus Kirkel seit 1997",
+ "h1": "Denn gut gedacht ist nichts, ohne gut gemacht.",
+ "lead": "Kleine Firma aus Kirkel, gegründet 1997: Neu- und Umgestaltung von privaten Gärten und Außenanlagen, von Teich und Bachlauf bis Holzterrasse und Steinzaun.",
+ "cta1": "Anrufen: 0177 6809029",
+ "cta2": "Garten-Anfrage mit Foto",
+ "badge": [
+  "1997",
+  "gegründet"
+ ],
+ "deco": "",
+ "hero_img": "img/lang-martin-gartengestaltung_0.jpg",
+ "trust": [
+  "<b>Seit 1997</b> in Kirkel",
+  "<b>Private Gärten</b> und Außenanlagen",
+  "<b>Planung</b> mit CAD und Luftbildern"
+ ],
+ "svc_title": "Schwerpunkte",
+ "services": [
+  [
+   "Teichbau",
+   "Teiche, Schwimmteiche, Bachläufe."
+  ],
+  [
+   "Steinarbeiten",
+   "Wege, Mauern, Hang und Wand."
+  ],
+  [
+   "Holzterrassen",
+   "Gebaut nach Maß."
+  ],
+  [
+   "Steinzaun und Sichtschutz",
+   "Für mehr Privatsphäre."
+  ],
+  [
+   "Rollrasen",
+   "Schnell grün."
+  ],
+  [
+   "Planung und Luftbilder",
+   "Gartenplanung mit CAD und Drohne."
+  ]
+ ],
+ "band": "Garten umgestalten? Foto schicken, wir melden uns.",
+ "contact": "Garten Lang<br>Martin Lang<br>Im Driescher 17<br>66459 Kirkel-Neuhäusel<br><br>Mobil 0177 6809029<br>info@garten-lang.de",
+ "audit": [
+  "Auf der Startseite steht dreimal hintereinander dieselbe Suchwortliste ('Teichbau, Schwuimmteichbau, Luftbilder mit Drohne ...'), inklusive Tippfehler: Google wertet das als Keyword-Spam",
+  "Keine sichere Verbindung (nur http), am Handy rund 1100 Pixel breit",
+  "Die Nummer ist nicht antippbar, die Unterseiten liegen als .htm-Dateien in Ordnern mit Leerzeichen"
+ ],
+ "hebel": "Teiche, Terrassen und Gartenumgestaltung sind Aufträge im vier- bis fünfstelligen Bereich, und Kunden entscheiden über Bilder. Die wiederholte Suchwortliste schadet eher, als sie hilft. Saubere Seiten je Leistung mit großen Fotos und Anfrage per Foto bringen die Anfragen.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Seiten je Leistung, großer Galerie, Anfrage mit Foto, sicherer Verbindung, Google-Profil",
+ "svc": [
+  "Garten-Anfrage mit Foto und ungefährer Fläche",
+  "Galerie vorher und nachher, die Sie vom Handy befüllen",
+  "Seite Schwimmteich und Teichbau",
+  "Luftbild-Service als eigene Leistung"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht dieselbe Suchwortliste dreimal hintereinander, das wertet Google heute eher als Spam. Ich habe Ihnen mitgebracht, wie Ihre Gärten groß und sauber gezeigt werden könnten.",
+ "obj": "'Die Liste war für Google gedacht': Früher half das, heute schadet es. Eigene Seiten je Leistung bringen das, was die Liste versprochen hat.",
+ "obs": [
+  "Suchwortliste dreimal wiederholt, mit Tippfehler.",
+  "Keine sichere Verbindung, am Handy zu breit.",
+  "Nummer nicht antippbar."
+ ],
+ "neu": [
+  "Seiten je Leistung",
+  "Große Fotos",
+  "Anfrage mit Foto"
+ ]
+}

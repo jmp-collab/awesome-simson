@@ -1282,5 +1282,65 @@
    "Eiskarte",
    "Google-Profil mit Fotos"
   ]
+ },
+ "lang": {
+  "obs": [
+   "Suchwortliste dreimal wiederholt, mit Tippfehler.",
+   "Keine sichere Verbindung, am Handy zu breit.",
+   "Nummer nicht antippbar."
+  ],
+  "neu": [
+   "Seiten je Leistung",
+   "Große Fotos",
+   "Anfrage mit Foto"
+  ]
+ },
+ "hundehuett": {
+  "obs": [
+   "Menüpunkt mit Backslashes, Link kaputt.",
+   "Link auf 'Die Seite infos existiert nicht'.",
+   "Startseite ist ein Bild, Telefon nicht antippbar."
+  ],
+  "neu": [
+   "Empfehlungskarte vorne",
+   "Reservierung mit einem Fingertipp",
+   "Zeiten klar am Handy"
+  ]
+ },
+ "fey": {
+  "obs": [
+   "Startseite mit nur einem Satz.",
+   "Keine sichere Verbindung, am Handy zu breit.",
+   "Tippfehler 'Telfon', nur GMX-Adresse."
+  ],
+  "neu": [
+   "Leistungen und Standorte",
+   "Anfrage mit Maßen",
+   "Sichere Verbindung"
+  ]
+ },
+ "wk": {
+  "obs": [
+   "Startseite index2.html, Seiten nur Nummern.",
+   "Kein Telefon auf der Startseite.",
+   "Keine sichere Verbindung, am Handy zu breit."
+  ],
+  "neu": [
+   "Leistungen und Referenzen",
+   "Telefon mit einem Fingertipp",
+   "Sichere Verbindung"
+  ]
+ },
+ "staudt": {
+  "obs": [
+   "Startseite nur 'Willkommen' und Adresse, © 2018.",
+   "'Galerie' und 'Produkte' führen ins Leere.",
+   "Am Handy zu breit, keine Anfrage."
+  ],
+  "neu": [
+   "Produktwelten mit Bildern",
+   "Anfrage mit Badmaßen",
+   "Am Handy lesbar"
+  ]
  }
 }

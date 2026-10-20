@@ -76,7 +76,7 @@ def findings(k, t, a):
             f"Auf der Startseite stehen nur {words} lesbare Wörter.",
             "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
             "Leistungen, Ort und Öffnungszeiten als echter Text")
-    for b in [x for x in (d.get("broken") or []) if not re.search(r"counter|activities|pixel|track|stat\.|zaehler|livepages|/i\.gif|spacer|blank\.gif", str(x), re.I)][:2]:
+    for b in [x for x in (d.get("broken") or []) if str(x.get("src","") if isinstance(x,dict) else x).rstrip("/").count("/")>2 and not re.search(r"counter|activities|pixel|track|stat\.|zaehler|livepages|/i\.gif|spacer|blank\.gif", str(x), re.I)][:2]:
         add("bild_kaputt", "hoch", "Ein Bild lädt nicht",
             f"Nicht geladen: {b.get('alt') or b.get('src', '')[-60:]}",
             "Leere Kästen oder fehlende Logos wirken, als sei der Betrieb nicht mehr aktiv.",

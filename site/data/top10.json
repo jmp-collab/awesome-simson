@@ -3415,5 +3415,165 @@
   "addr": "Am Markt 7",
   "tel": "06806 7397",
   "welle": 20
+ },
+ {
+  "name": "Garten Lang",
+  "branche": "Gartengestaltung und Teichbau",
+  "url": "http://www.garten-lang.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Vorher anrufen, 0177 6809029",
+  "audit": [
+   "Auf der Startseite steht dreimal hintereinander dieselbe Suchwortliste ('Teichbau, Schwuimmteichbau, Luftbilder mit Drohne ...'), inklusive Tippfehler: Google wertet das als Keyword-Spam",
+   "Keine sichere Verbindung (nur http), am Handy rund 1100 Pixel breit",
+   "Die Nummer ist nicht antippbar, die Unterseiten liegen als .htm-Dateien in Ordnern mit Leerzeichen"
+  ],
+  "hebel": "Teiche, Terrassen und Gartenumgestaltung sind Aufträge im vier- bis fünfstelligen Bereich, und Kunden entscheiden über Bilder. Die wiederholte Suchwortliste schadet eher, als sie hilft. Saubere Seiten je Leistung mit großen Fotos und Anfrage per Foto bringen die Anfragen.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Website mit Seiten je Leistung, großer Galerie, Anfrage mit Foto, sicherer Verbindung, Google-Profil",
+  "svc": [
+   "Garten-Anfrage mit Foto und ungefährer Fläche",
+   "Galerie vorher und nachher, die Sie vom Handy befüllen",
+   "Seite Schwimmteich und Teichbau",
+   "Luftbild-Service als eigene Leistung"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht dieselbe Suchwortliste dreimal hintereinander, das wertet Google heute eher als Spam. Ich habe Ihnen mitgebracht, wie Ihre Gärten groß und sauber gezeigt werden könnten.",
+  "obj": "'Die Liste war für Google gedacht': Früher half das, heute schadet es. Eigene Seiten je Leistung bringen das, was die Liste versprochen hat.",
+  "k": "lang",
+  "addr": "Im Driescher 17",
+  "tel": "0177 6809029",
+  "welle": 21
+ },
+ {
+  "name": "Speiselokal Hundehütt",
+  "branche": "Restaurant",
+  "url": "http://www.speiselokal-hundehuett-heusweiler.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Freitag vor 17:30 Uhr, Inhaber Heinz-Georg Kunz",
+  "audit": [
+   "Im Menü steht ein Punkt mit Backslashes ('\\\"Muttertag'), der Link dahinter ist kaputt",
+   "Ein Link der Startseite führt auf 'Die Seite infos existiert nicht'",
+   "Die Startseite ist im Kern ein Bild mit den Wörtern Anfahrt, Galerie und Speisekarte, Telefon nicht antippbar, keine sichere Verbindung"
+  ],
+  "hebel": "Bei nur zwei Öffnungstagen zählt jeder Tisch. Wer am Freitag 'Restaurant Heusweiler' sucht, will Zeiten, Karte und eine Reservierung mit einem Fingertipp. Eine aufgeräumte Seite mit Empfehlungskarte vorne und Anruf-Knopf füllt die Tische.",
+  "p": [
+   "790 bis 1.190 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Website mit Speisekarte als Text, Empfehlungskarte, Öffnungszeiten, Reservierung per Anruf oder Anfrage, Google-Profil",
+  "svc": [
+   "Empfehlungskarte des Monats, die Sie selbst pflegen",
+   "Reservierungsanfrage für Freitag und Sonntag",
+   "Seite für Feiern und Büffet",
+   "Google-Profil mit Zeiten und Fotos"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. In Ihrem Menü steht ein Punkt mit Backslashes vor 'Muttertag', und ein Link führt auf 'Die Seite infos existiert nicht'. Ich habe Ihnen mitgebracht, wie Ihre Seite mit Empfehlungskarte aussehen könnte.",
+  "obj": "'Unsere Gäste kennen uns': Die Stammgäste ja. Neue Gäste suchen am Handy, und bei nur zwei Abenden muss die Reservierung sofort klappen.",
+  "k": "hundehuett",
+  "addr": "Am Schwimmbad 27",
+  "tel": "06806 79494",
+  "welle": 21
+ },
+ {
+  "name": "Fensterbau Helmut Fey",
+  "branche": "Fensterbau und Schlosserei",
+  "url": "http://www.fensterbau-fey.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Montag bis Freitag zwischen 7 und 16 Uhr",
+  "audit": [
+   "Die Startseite enthält nur einen Satz ('Auf den folgenden Seiten möchten wir Ihnen unsere Firma ... vorstellen'), Google findet weder Fenster noch Kirkel",
+   "Keine sichere Verbindung (nur http), am Handy rund 930 Pixel breit",
+   "Telefon nicht antippbar, Kontakt nur über eine GMX-Adresse, 'Telfon' mit Tippfehler auf der Kontaktseite"
+  ],
+  "hebel": "Fenster und Türen sind große Aufträge, und Kunden vergleichen online, bevor sie anrufen. Eine Startseite mit einem einzigen Satz verschenkt 50 Jahre Erfahrung und eigene Fertigung. Leistungen, Referenzen und Anfrage nach Maßen holen diese Kunden.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Website mit Leistungen, beiden Standorten, Referenzen, Anfrage mit Maßen, sicherer Verbindung, Google-Profil",
+  "svc": [
+   "Anfrage mit Maßen und Foto",
+   "Referenzgalerie vorher und nachher",
+   "Google-Profile für Kirkel und Saarbrücken",
+   "Seite zu Fördermitteln für Fenstertausch, mit Ihnen abgestimmt"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht nur ein einziger Satz, Google findet weder Fenster noch Kirkel. Ich habe Ihnen mitgebracht, wie 50 Jahre Fensterbau online aussehen könnten.",
+  "obj": "'Wir sind seit 1974 bekannt': Genau das gehört nach vorne. Neue Bauherren kennen Sie noch nicht.",
+  "k": "fey",
+  "addr": "Abstäberhof 3",
+  "tel": "06849 6133",
+  "welle": 21
+ },
+ {
+  "name": "WK Elektrotechnik",
+  "branche": "Elektrotechnik",
+  "url": "http://www.wkelektrotechnik.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Vorher anrufen, mobil 0177 3079526",
+  "audit": [
+   "Die Startseite liegt unter index2.html, Seitennamen sind Nummern (39994.html, 40555.html), Google kann sie keinem Thema zuordnen",
+   "Auf der Startseite steht weder Telefon noch Adresse, Kontakt erst auf einer Unterseite",
+   "Keine sichere Verbindung (nur http), am Handy rund 920 Pixel breit"
+  ],
+  "hebel": "Ihre Referenzliste mit Praxen, Versicherungen und Firmen ist ein starkes Argument, das heute niemand findet. Eine Seite mit Leistungen, Referenzen und Telefon auf einen Blick macht aus der Erfahrung Anfragen.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager mit Leistungen, Referenzliste, Anfrage mit Foto, sicherer Verbindung, Google-Profil",
+  "svc": [
+   "Referenzliste übersichtlich nach Branchen",
+   "Anfrage mit Foto vom Zählerschrank",
+   "Google-Profil mit Leistungen",
+   "Sichere Verbindung und sprechende Seitennamen"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Referenzliste ist beeindruckend, aber auf der Startseite steht weder Telefon noch Adresse, und die Seiten heißen nur Nummern. Ich habe Ihnen mitgebracht, wie das auf einen Blick aussehen könnte.",
+  "obj": "'Meine Kunden kommen über Empfehlung': Und schauen dann nach. Die Referenzen gehören dahin, wo sie sofort gesehen werden.",
+  "k": "wk",
+  "addr": "Hofstraße 24",
+  "tel": "06897 9523033",
+  "welle": 21
+ },
+ {
+  "name": "Badmöbel Staudt GmbH",
+  "branche": "Badmöbel-Hersteller mit Werksausstellung",
+  "url": "https://www.badmoebel-staudt.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Zu Ausstellungszeiten vorbeischauen, vorher anrufen",
+  "audit": [
+   "Auf der Startseite steht nur 'Willkommen bei Badmöbel Staudt' und die Adresse, darunter '© 2018'",
+   "Die Menüpunkte 'Galerie' und 'Produkte' führen ins Leere (Link '#none'), am Handy ist die Seite rund 950 Pixel breit",
+   "Telefon und E-Mail sind nicht antippbar, ein Anfrageformular für Badmöbel gibt es nicht"
+  ],
+  "hebel": "Badmöbel direkt ab Werk mit der größten Werksausstellung im Saarland sind ein starkes Alleinstellungsmerkmal. Wer 'Badmöbel Saarland' sucht, sieht davon auf der Startseite nichts. Produktseiten mit Bildern und eine Anfrage mit Badmaßen bringen Besucher in die Ausstellung.",
+  "p": [
+   "1.490 bis 2.190 €",
+   "2.190 bis 3.290 €",
+   "39 bis 79 €"
+  ],
+  "paket": "Neue Website mit Produktwelten, Ausstellung, barrierefreien Bädern, Händlerbereich, Anfrage mit Badmaßen, Google-Profil",
+  "svc": [
+   "Anfrage mit Badmaßen und Foto",
+   "Produktseiten je Möbelprogramm",
+   "Händlerbereich",
+   "Seite barrierefreies Bad mit Zuschuss-Hinweis, mit Ihnen abgestimmt"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Sie haben die größte Badmöbel-Werksausstellung im Saarland, aber auf der Startseite steht nur 'Willkommen', und 'Produkte' führt ins Leere. Ich habe Ihnen mitgebracht, wie das als Produktwelt aussehen könnte.",
+  "obj": "'Die Leute kommen in die Ausstellung': Damit sie kommen, müssen sie online sehen, was es dort gibt.",
+  "k": "staudt",
+  "addr": "Saarbrücker Straße 83",
+  "tel": "06806 7417",
+  "welle": 21
  }
 ]

@@ -30514,5 +30514,93 @@
   "tel": "06806 73 97",
   "slug": "trento-eiscaf",
   "src": "gelbeseiten"
+ },
+ {
+  "name": "WK Elektrotechnik",
+  "branch": "Elektroinstallationen",
+  "addr": "Hofstr. 24, 66299 Friedrichsthal (Bildstock)",
+  "plz": "66299",
+  "url": "http://www.wkelektrotechnik.de",
+  "final": "http://www.wkelektrotechnik.de/index2.html",
+  "tel": "06897 9 52 30 33",
+  "slug": "wk-elektrotechnik",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "RZE Elektrotechnik GmbH",
+  "branch": "Elektroinstallationen",
+  "addr": "Hermann-Löns-Str. 3, 66459 Kirkel (Altstadt)",
+  "plz": "66459",
+  "url": "http://www.rze-elektrotechnik.de",
+  "final": "http://www.rze-elektrotechnik.de/",
+  "tel": "06841 9 59 59 08",
+  "slug": "rze-elektrotechnik-gmbh",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Speiselokal Hundehütt Restaurant",
+  "branch": "Gaststätten und Restaurants",
+  "addr": "Am Schwimmbad 27, 66265 Heusweiler",
+  "plz": "66265",
+  "url": "http://www.speiselokal-hundehuett-heusweiler.de",
+  "final": "http://www.speiselokal-hundehuett-heusweiler.de/",
+  "tel": "06806 7 94 94",
+  "slug": "speiselokal-hundeh-tt-restaurant",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Gelenkwellenbau G. Klein GmbH",
+  "branch": "Autoreparaturen",
+  "addr": "Im Schiffelland 14, 66386 St. Ingbert",
+  "plz": "66386",
+  "url": "http://www.gelenkwellen-klein.de",
+  "final": "http://www.gelenkwellen-klein.de/",
+  "tel": "06894 68 86",
+  "slug": "gelenkwellenbau-g-klein-gmbh",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Fey Helmut Fensterbau Schlosserei",
+  "branch": "Fenster",
+  "addr": "Abstäberhof 3, 66459 Kirkel (Neuhäusel)",
+  "plz": "66459",
+  "url": "http://www.fensterbau-fey.de",
+  "final": "http://www.fensterbau-fey.de/",
+  "tel": "06849 61 33",
+  "slug": "fey-helmut-fensterbau-schlosserei",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Lang Martin Gartengestaltung",
+  "branch": "Garten- und Landschaftsbau",
+  "addr": "Im Driescher 17, 66459 Kirkel (Neuhäusel)",
+  "plz": "66459",
+  "url": "http://www.garten-lang.de",
+  "final": "http://www.garten-lang.de/",
+  "tel": "0177 6 80 90 29",
+  "slug": "lang-martin-gartengestaltung",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Herrmann Thomas Objektberatung",
+  "branch": "Tischlereien",
+  "addr": "Am Weiherdamm 1, 66287 Quierschied (Fischbach)",
+  "plz": "66287",
+  "url": "http://www.objektberatung-herrmann.de",
+  "final": "http://www.objektberatung-herrmann.de/",
+  "tel": "06897 1 72 90 84",
+  "slug": "herrmann-thomas-objektberatung",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Staudt GmbH Badmöbel",
+  "branch": "Sanitärinstallationen",
+  "addr": "Saarbrücker Str. 83, 66265 Heusweiler",
+  "plz": "66265",
+  "url": "http://www.badmoebel-staudt.de",
+  "final": "https://www.badmoebel-staudt.de/",
+  "tel": "06806 74 17",
+  "slug": "staudt-gmbh-badm-bel",
+  "src": "gelbeseiten"
  }
 ]

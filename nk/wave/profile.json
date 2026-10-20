@@ -641,5 +641,35 @@
   12,
   "Neukunde",
   80
+ ],
+ "lang": [
+  "auftrag",
+  6000,
+  "Auftrag",
+  3
+ ],
+ "hundehuett": [
+  "auftrag",
+  35,
+  "Neukunde",
+  60
+ ],
+ "fey": [
+  "auftrag",
+  6000,
+  "Auftrag",
+  3
+ ],
+ "wk": [
+  "auftrag",
+  2000,
+  "Auftrag",
+  4
+ ],
+ "staudt": [
+  "auftrag",
+  3000,
+  "Auftrag",
+  5
  ]
 }
