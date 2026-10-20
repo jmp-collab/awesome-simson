@@ -1,0 +1,140 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "Auszug aus der Preisliste",
+ "menu": [
+  [
+   "Beratung",
+   "30 Minuten, wird beim Termin verrechnet",
+   "35 €"
+  ],
+  [
+   "Haarschnitt kurz",
+   "Beratung, Wäsche, Schnitt, Styling",
+   "59 €"
+  ],
+  [
+   "Haarschnitt mittel",
+   "",
+   "63 €"
+  ],
+  [
+   "Haarschnitt lang",
+   "",
+   "69 €"
+  ],
+  [
+   "Farbbehandlung",
+   "40 g, je weitere 10 g 7 €",
+   "47 €"
+  ],
+  [
+   "Shine & Tone",
+   "",
+   "ab 39 €"
+  ]
+ ],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "hours": [
+  [
+   "Dienstag, Mittwoch, Freitag",
+   "9:00 bis 18:00"
+  ],
+  [
+   "Samstag",
+   "8:00 bis 13:00"
+  ],
+  [
+   "Montag, Donnerstag",
+   "geschlossen"
+  ]
+ ],
+ "mcta": "Anrufen",
+ "slug": "wolny-friseur-bettina",
+ "theme": "beauty",
+ "name": "Friseursalon Bettina Wolny",
+ "branche": "Friseursalon",
+ "addr": "Hauptstraße 56 · 66557 Illingen",
+ "tel": "06825 8006065",
+ "url": "https://bettinawolny.wixsite.com/wolny",
+ "label": "Quick Win",
+ "visit": "Dienstag bis Freitag vormittags, Termin nur nach Absprache",
+ "logo_a": "Bettina",
+ "logo_b": "Wolny",
+ "nav": [
+  "Salon",
+  "Preise",
+  "Produkte",
+  "Termin"
+ ],
+ "eyebrow": "La Biosthetique Salon in Illingen",
+ "h1": "Ein Ort zum Ankommen.",
+ "lead": "Zeit für Schönheit. Zeit für Sie. Friseursalon Bettina Wolny in Illingen, mit persönlicher Beratung rund um Haar, Kopfhaut, Farbe und Schnitt.",
+ "cta1": "Anrufen: 06825 8006065",
+ "cta2": "Termin anfragen",
+ "badge": [
+  "Termin",
+  "nur nach Absprache"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>La Biosthetique</b> Salon",
+  "<b>Persönliche Beratung</b> zu Haar und Kopfhaut",
+  "<b>Termine</b> nach telefonischer Absprache"
+ ],
+ "svc_title": "Preise",
+ "services": [
+  [
+   "Schnitt und Styling",
+   "Typgerecht, abgestimmt auf Ihren Alltag."
+  ],
+  [
+   "Farbe und Glanz",
+   "Individuelle Farbberatung und sanfte Coloration."
+  ],
+  [
+   "Beratung",
+   "Rund um Haar und Kopfhaut."
+  ],
+  [
+   "Produkte",
+   "Pflege für zu Hause."
+  ]
+ ],
+ "band": "Termin gewünscht? Kurz anrufen oder online anfragen.",
+ "contact": "Friseursalon Bettina Wolny<br>Hauptstraße 56<br>66557 Illingen<br><br>Telefon 06825 8006065<br>B.Wolny@web.de",
+ "audit": [
+  "Die Seite läuft auf der kostenlosen Wix-Adresse bettinawolny.wixsite.com/wolny statt auf einer eigenen Domain",
+  "Oben steht auf jeder Seite das Wix-Werbebanner 'Diese Website wurde mit Wix.com erstellt. Erstelle noch heute deine eigene Website.'",
+  "Am Donnerstag steht bei den Öffnungszeiten nur '-----------'"
+ ],
+ "hebel": "Ein Salon mit Preisen ab 59 € braucht einen Auftritt, der so hochwertig wirkt wie die Arbeit. Ein Werbebanner für Wix und eine wixsite-Adresse wirken wie ein Provisorium. Eine eigene Domain mit Terminanfrage und Google-Profil macht den Unterschied.",
+ "p": [
+  "690 bis 990 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Eigene Domain, neue Website mit Preisen, Öffnungszeiten, Terminanfrage, Google-Profil, ohne Werbebanner",
+ "svc": [
+  "Eigene Domain, zum Beispiel friseur-wolny.de",
+  "Terminanfrage mit Wunschtag",
+  "Google-Profil mit Fotos und Zeiten",
+  "Produktseite für La Biosthetique"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite steht oben das Werbebanner 'Diese Website wurde mit Wix.com erstellt', und die Adresse ist eine Wix-Adresse. Ich habe Ihnen mitgebracht, wie Ihr Salon mit eigener Domain aussehen könnte.",
+ "obj": "'Wix ist doch kostenlos': Genau deshalb steht das Werbebanner oben. Eine eigene Domain kostet wenige Euro im Monat und wirkt so hochwertig wie Ihr Salon.",
+ "obs": [
+  "Wix-Werbebanner auf jeder Seite.",
+  "Kostenlose wixsite-Adresse statt eigener Domain.",
+  "Donnerstag in den Zeiten nur '-----------'."
+ ],
+ "neu": [
+  "Eigene Domain ohne Werbung",
+  "Terminanfrage",
+  "Zeiten klar am Handy"
+ ]
+}

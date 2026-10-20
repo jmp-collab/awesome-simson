@@ -3095,5 +3095,165 @@
   "addr": "Heusweilerstraße 40",
   "tel": "0179 9215181",
   "welle": 18
+ },
+ {
+  "name": "Fahrschule Strempel",
+  "branche": "Fahrschule",
+  "url": "https://www.fahrschule-strempel.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Montag oder Mittwoch ab 18 Uhr zur Anmeldezeit",
+  "audit": [
+   "Der E-Mail-Link auf der Startseite führt zur Webagentur (info@braun-medienagentur.de), nicht zur Fahrschule",
+   "Auf der Kontaktseite steht noch der Platzhalter 'Neuer Text' aus dem Baukasten",
+   "Die Startseite heißt bei Google nur 'Home', Telefon und Mobil sind nicht antippbar"
+  ],
+  "hebel": "Fahrschüler suchen am Handy und melden sich dort an, wo es am schnellsten geht. Wer heute auf den E-Mail-Link tippt, schreibt der Webagentur statt Ihnen. Eine Online-Anmeldung mit Klasse und Wunschtermin, die direkt bei Ihnen ankommt, holt diese Anmeldungen.",
+  "p": [
+   "790 bis 1.190 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Website mit Klassen, Theoriezeiten, Fahrzeugen, Online-Anmeldung, richtiger E-Mail-Adresse, Google-Profil",
+  "svc": [
+   "Online-Anmeldung mit Klasse und Wunschtermin",
+   "Theoriezeiten, die Sie selbst pflegen",
+   "Seite für Auffrischungskurse",
+   "Google-Profil mit Anmeldezeiten"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Mir ist aufgefallen, dass der E-Mail-Link auf Ihrer Startseite zur Webagentur führt statt zu Ihnen, und auf der Kontaktseite steht noch 'Neuer Text'. Ich habe Ihnen mitgebracht, wie die Seite mit Online-Anmeldung aussehen könnte.",
+  "obj": "'Die Schüler kommen montags und mittwochs vorbei': Viele ja. Die anderen melden sich abends am Handy an, und die Mail landet heute bei der Agentur.",
+  "k": "strempel",
+  "addr": "Oberbexbacher Straße 54",
+  "tel": "0172 6815909",
+  "welle": 19
+ },
+ {
+  "name": "Friseursalon Bettina Wolny",
+  "branche": "Friseursalon",
+  "url": "https://bettinawolny.wixsite.com/wolny",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Dienstag bis Freitag vormittags, Termin nur nach Absprache",
+  "audit": [
+   "Die Seite läuft auf der kostenlosen Wix-Adresse bettinawolny.wixsite.com/wolny statt auf einer eigenen Domain",
+   "Oben steht auf jeder Seite das Wix-Werbebanner 'Diese Website wurde mit Wix.com erstellt. Erstelle noch heute deine eigene Website.'",
+   "Am Donnerstag steht bei den Öffnungszeiten nur '-----------'"
+  ],
+  "hebel": "Ein Salon mit Preisen ab 59 € braucht einen Auftritt, der so hochwertig wirkt wie die Arbeit. Ein Werbebanner für Wix und eine wixsite-Adresse wirken wie ein Provisorium. Eine eigene Domain mit Terminanfrage und Google-Profil macht den Unterschied.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Eigene Domain, neue Website mit Preisen, Öffnungszeiten, Terminanfrage, Google-Profil, ohne Werbebanner",
+  "svc": [
+   "Eigene Domain, zum Beispiel friseur-wolny.de",
+   "Terminanfrage mit Wunschtag",
+   "Google-Profil mit Fotos und Zeiten",
+   "Produktseite für La Biosthetique"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite steht oben das Werbebanner 'Diese Website wurde mit Wix.com erstellt', und die Adresse ist eine Wix-Adresse. Ich habe Ihnen mitgebracht, wie Ihr Salon mit eigener Domain aussehen könnte.",
+  "obj": "'Wix ist doch kostenlos': Genau deshalb steht das Werbebanner oben. Eine eigene Domain kostet wenige Euro im Monat und wirkt so hochwertig wie Ihr Salon.",
+  "k": "wolny",
+  "addr": "Hauptstraße 56",
+  "tel": "06825 8006065",
+  "welle": 19
+ },
+ {
+  "name": "Elektro Erwin Müller",
+  "branche": "Elektro und Fernsehen",
+  "url": "http://www.elektro-erwin-mueller.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Quick Win",
+  "visit": "Vorher anrufen und klären, ob der Betrieb aktiv ist",
+  "audit": [
+   "Die Domain elektro-erwin-mueller.de zeigt nur die Standardseite des Hosters: 'STRATO - Domain reserved', in sechs Sprachen",
+   "Kein Name, keine Leistung, keine Telefonnummer auf der Seite",
+   "Bei Google erscheint die Domain mit dem Titel 'STRATO - Domain reserved'"
+  ],
+  "hebel": "Wer einen Elektriker oder Fernsehservice in Eppelborn sucht und auf 'Domain reserved' landet, ruft den Nächsten an. Die Domain ist schon da und bezahlt. Ein Onepager mit Leistungen und Telefon macht aus ihr einen Auftragsbringer.",
+  "p": [
+   "690 bis 990 €",
+   "1.290 bis 1.790 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Onepager auf der vorhandenen Domain mit Leistungen, Telefon, Anfrage, Google-Profil",
+  "svc": [
+   "Reparatur-Anfrage mit Foto",
+   "Google-Profil mit Leistungen und Zeiten",
+   "Seite für Fernseh- und Antennenservice",
+   "Sichere Verbindung auf der vorhandenen Domain"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Domain elektro-erwin-mueller.de zeigt nur 'STRATO - Domain reserved'. Ich habe Ihnen mitgebracht, wie dort eine Seite mit Ihren Leistungen aussehen könnte.",
+  "obj": "'Die Domain hat mir mal jemand eingerichtet': Dann fehlt nur noch der Inhalt. Der Entwurf steht, Sie müssen nur Leistungen und Zeiten bestätigen.",
+  "k": "mueller",
+  "addr": "Illtalstraße 65a",
+  "tel": "06881 80406",
+  "welle": 19
+ },
+ {
+  "name": "Malerbetrieb Schnöll",
+  "branche": "Maler und Lackierer",
+  "url": "https://www.malerei-schnoell.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Vorher anrufen, mobil 0176 42014067",
+  "audit": [
+   "Auf der Startseite steht keine Telefonnummer und keine einzige Leistung, nur eine Stellenanzeige und Zertifikate",
+   "Lamurista und Concreto stehen nur als Menüpunkte, ohne Erklärung, was das für Kunden ist",
+   "Die Telefonnummer steht erst auf der Kontaktseite, nicht auf der Startseite, wo Besucher zuerst suchen"
+  ],
+  "hebel": "Kreative Wandtechniken wie Betonoptik verkaufen sich über Bilder und Erklärung. Heute sieht ein Besucher auf der Startseite vor allem eine Stellenanzeige. Leistungen mit Vorher-nachher-Fotos und eine Anfrage per Foto holen die Kunden, und eine eigene Karriereseite holt die Fachkräfte.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Website mit Leistungen, Seiten für Lamurista und Concreto, Galerie vorher und nachher, Anfrage mit Foto, Karriereseite",
+  "svc": [
+   "Seiten für Lamurista und Concreto mit Fotos",
+   "Anfrage mit Foto vom Raum",
+   "Eigene Karriereseite statt Stellenanzeige auf der Startseite",
+   "Google-Profil mit Fotos"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht vor allem die Stellenanzeige, aber keine Leistung und keine Telefonnummer. Ich habe Ihnen mitgebracht, wie Kunden und Bewerber getrennt angesprochen werden könnten.",
+  "obj": "'Wir suchen gerade vor allem Leute': Dann bekommt die Stellenanzeige eine eigene Seite, die besser gefunden wird, und die Startseite gehört den Kunden.",
+  "k": "schnoell",
+  "addr": "Bahnhofstraße 12",
+  "tel": "06826 50371",
+  "welle": 19
+ },
+ {
+  "name": "Christof Prinz Friseure",
+  "branche": "Friseursalon",
+  "url": "http://www.christofprinz.de",
+  "g": "keine Google-Daten erfasst",
+  "label": "Solide Chance",
+  "visit": "Dienstag bis Freitag vormittags",
+  "audit": [
+   "Die Startseite heißt bei Google nur 'christofprinz.de', ohne Friseur, ohne Ort",
+   "Auf der Startseite stehen weder Leistungen noch Preise, nur Kontakt, Zeiten und eine Stellenanzeige",
+   "Ohne 'https' eingetippt bleibt die Seite unverschlüsselt, der Browser zeigt dann 'Nicht sicher'"
+  ],
+  "hebel": "Wer 'Friseur Eppelborn' oder 'Friseur Wiesbach' sucht, findet eine Seite, die bei Google nur 'christofprinz.de' heißt. Ein Titel mit Ort, Leistungen mit Preisen und eine Terminanfrage holen diese Suchen in den Salon.",
+  "p": [
+   "990 bis 1.490 €",
+   "1.490 bis 2.190 €",
+   "29 bis 49 €"
+  ],
+  "paket": "Neue Website mit Leistungen und Preisen, Team, Terminanfrage, Karriereseite, Google-Titel mit Ort, sichere Weiterleitung",
+  "svc": [
+   "Terminanfrage mit Wunschtag",
+   "Preisliste, die Sie selbst pflegen",
+   "Karriereseite für Friseure und Azubis",
+   "Google-Profil mit Fotos aus dem Salon"
+  ],
+  "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite heißt bei Google nur 'christofprinz.de', ohne Friseur und ohne Ort, und Leistungen stehen keine drauf. Ich habe Ihnen mitgebracht, wie die Seite mit Leistungen und Terminanfrage aussehen könnte.",
+  "obj": "'Unsere Kunden kennen uns': Neue Kunden suchen nach 'Friseur' und dem Ort, und genau das fehlt Ihrer Seite bei Google.",
+  "k": "prinz",
+  "addr": "Hauptstraße 87",
+  "tel": "06806 800072",
+  "welle": 19
  }
 ]

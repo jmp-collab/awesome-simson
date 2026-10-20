@@ -1,0 +1,108 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [
+  "img/schn-ll-manuel-malermeister_1.jpg",
+  "img/schn-ll-manuel-malermeister_4.jpg",
+  "img/schn-ll-manuel-malermeister_0.jpg"
+ ],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "hours": [],
+ "mcta": "Anrufen",
+ "slug": "schn-ll-manuel-malermeister",
+ "theme": "spa",
+ "name": "Malerbetrieb Schnöll",
+ "branche": "Maler und Lackierer",
+ "addr": "Bahnhofstraße 12 · 66450 Bexbach",
+ "tel": "06826 50371",
+ "url": "https://www.malerei-schnoell.de",
+ "label": "Solide Chance",
+ "visit": "Vorher anrufen, mobil 0176 42014067",
+ "logo_a": "Malerbetrieb",
+ "logo_b": "Schnöll",
+ "nav": [
+  "Leistungen",
+  "Galerie",
+  "Über uns",
+  "Kontakt"
+ ],
+ "eyebrow": "Malermeister in Bexbach, seit 1986",
+ "h1": "Traditionelles Handwerk, moderne Techniken.",
+ "lead": "Den Malerbetrieb Schnöll gibt es seit 1986, seit 1995 in Bexbach. 2019 hat Maler- und Lackierermeister Manuel Schnöll den Betrieb übernommen, mit kreativen Techniken wie Lamurista und Concreto.",
+ "cta1": "Anrufen: 06826 50371",
+ "cta2": "Anfrage mit Foto",
+ "badge": [
+  "1986",
+  "gegründet"
+ ],
+ "deco": "FARBE",
+ "hero_img": "img/schn-ll-manuel-malermeister_3.jpg",
+ "trust": [
+  "<b>Meisterbetrieb</b> seit 1986",
+  "<b>Kreative Techniken</b> wie Lamurista und Concreto",
+  "<b>Innen und außen</b>"
+ ],
+ "svc_title": "Was wir machen",
+ "services": [
+  [
+   "Malerarbeiten",
+   "Innen und außen."
+  ],
+  [
+   "Lackierarbeiten",
+   "Für Türen, Fenster und mehr."
+  ],
+  [
+   "Lamurista",
+   "Kreative Wandgestaltung."
+  ],
+  [
+   "Concreto",
+   "Betonoptik für Wand und Boden."
+  ],
+  [
+   "Beratung",
+   "Persönlich und vor Ort."
+  ],
+  [
+   "Wir suchen Dich",
+   "Maler, Lackierer oder Stuckateur (m/w/d)."
+  ]
+ ],
+ "band": "Projekt geplant? Foto schicken, wir melden uns.",
+ "contact": "Malerbetrieb Schnöll<br>Manuel Schnöll<br>Bahnhofstraße 12<br>66450 Bexbach<br><br>Telefon 06826 50371<br>Mobil 0176 42014067<br>info@malerei-schnoell.de",
+ "audit": [
+  "Auf der Startseite steht keine Telefonnummer und keine einzige Leistung, nur eine Stellenanzeige und Zertifikate",
+  "Lamurista und Concreto stehen nur als Menüpunkte, ohne Erklärung, was das für Kunden ist",
+  "Die Telefonnummer steht erst auf der Kontaktseite, nicht auf der Startseite, wo Besucher zuerst suchen"
+ ],
+ "hebel": "Kreative Wandtechniken wie Betonoptik verkaufen sich über Bilder und Erklärung. Heute sieht ein Besucher auf der Startseite vor allem eine Stellenanzeige. Leistungen mit Vorher-nachher-Fotos und eine Anfrage per Foto holen die Kunden, und eine eigene Karriereseite holt die Fachkräfte.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Leistungen, Seiten für Lamurista und Concreto, Galerie vorher und nachher, Anfrage mit Foto, Karriereseite",
+ "svc": [
+  "Seiten für Lamurista und Concreto mit Fotos",
+  "Anfrage mit Foto vom Raum",
+  "Eigene Karriereseite statt Stellenanzeige auf der Startseite",
+  "Google-Profil mit Fotos"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Startseite steht vor allem die Stellenanzeige, aber keine Leistung und keine Telefonnummer. Ich habe Ihnen mitgebracht, wie Kunden und Bewerber getrennt angesprochen werden könnten.",
+ "obj": "'Wir suchen gerade vor allem Leute': Dann bekommt die Stellenanzeige eine eigene Seite, die besser gefunden wird, und die Startseite gehört den Kunden.",
+ "obs": [
+  "Startseite ohne Leistungen und ohne Telefon.",
+  "Lamurista und Concreto ohne Erklärung.",
+  "Telefon erst auf der Kontaktseite."
+ ],
+ "neu": [
+  "Leistungen mit Fotos",
+  "Anfrage mit Foto",
+  "Karriereseite"
+ ]
+}

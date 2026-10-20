@@ -312,9 +312,19 @@
   "weiskircher-gmbh",
   "ruffing-horst-elektroinstallationsmeiste",
   "h-nnicke-fahrschule",
-  "dachdeckerei-fe-gmbh"
+  "dachdeckerei-fe-gmbh",
+  "strempel-hans-j-rgen",
+  "wolny-friseur-bettina",
+  "m-ller-erwin-elektro-fernsehen",
+  "schn-ll-manuel-malermeister",
+  "prinz-christof-friseur",
+  "strempel-hans-j-rgen",
+  "wolny-friseur-bettina",
+  "m-ller-erwin-elektro-fernsehen",
+  "schn-ll-manuel-malermeister",
+  "prinz-christof-friseur"
  ],
- "wave": 18,
+ "wave": 19,
  "deferred": {
   "l-a-nails-nagelstudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
   "nieland-julia-pasta": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
@@ -383,18 +393,9 @@
   "coyote-caf": "Kette (Franchise)",
   "bestattungsinstitut-flunkert": "gepflegte Seite, sensibles Thema"
  },
- "queue_neu": [
-  "strempel-hans-j-rgen",
-  "schn-ll-manuel-malermeister",
-  "m-ller-erwin-elektro-fernsehen",
-  "emi-gmbh-elektroinstallationen",
-  "elektro-gross-gmbh",
-  "wolny-friseur-bettina",
-  "prinz-christof-friseur",
-  "wagner-karlheinz-stahl-und-metallbau"
- ],
+ "queue_neu": [],
  "hinweis": "Neue Leads kommen aus wave/harvest_gs.py (Gelbe Seiten, Ort x Branche) + wave/screen.py (Alterssignale); Kandidaten in wave/new_near.json/screen.json",
- "queue_neu_hinweis": "Restpool aus screen.json (Bexbach/Illingen/Eppelborn). Müller Erwin: STRATO Domain reserved (nur wenn Betrieb aktiv). Danach harvest_gs.py für quierschied, sulzbach, st.-ingbert, homburg.",
+ "queue_neu_hinweis": "Pool weitgehend erschöpft. Nächste Welle: harvest_gs.py für neue Orte (Ortsslug vorher testen: quierschied, sulzbach-saar, st.-ingbert, homburg, kirkel, heusweiler), PLZ filtern, screen.py mit Ausgabedatei, ranken.",
  "skip": [
   "naturfreundehaus",
   "zickwolff-garten-und-landschaftsbau",
@@ -403,8 +404,10 @@
   "s-oliver-store",
   "born-blumenhaus-fleuropdienst",
   "seiler-friseurteam-friseur",
-  "herz-hair-hairdesign"
+  "herz-hair-hairdesign",
+  "emi-gmbh-elektroinstallationen",
+  "elektro-gross-gmbh"
  ],
- "skip_grund": "naturfreundehaus: nur Unterseite im Bundesverbandsportal; zickwolff: Seite liefert auch per curl 403, nicht prüfbar; holiday-inn: Kette; bella-italia: in leads_slim als Dublette markiert; s-oliver: Kette; born: Fleurop-Portalseite; seiler: Geschäftsaufgabe 31.03.2026; herz-hair: Domain geparkt/zu verkaufen, Betrieb nicht verifiziert",
+ "skip_grund": "naturfreundehaus: nur Unterseite im Bundesverbandsportal; zickwolff: Seite liefert auch per curl 403, nicht prüfbar; holiday-inn: Kette; bella-italia: in leads_slim als Dublette markiert; s-oliver: Kette; born: Fleurop-Portalseite; seiler: Geschäftsaufgabe 31.03.2026; herz-hair: Domain geparkt/zu verkaufen, Betrieb nicht verifiziert; emi: Domain gehört Montum GmbH (Großbetrieb); elektro-gross: Seite solide",
  "artifact": "https://claude.ai/artifact/Qaz96D4vgCvD55f7L6r4sz (artifact2/index.html, ab Welle 18); Welle 1-17: https://claude.ai/artifact/7Eh4A2tnRzjDBboCZzxjBB"
 }

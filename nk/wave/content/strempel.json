@@ -1,0 +1,113 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "",
+ "alt_text": "",
+ "hours": [
+  [
+   "Anmeldung Mo und Mi",
+   "18:00 bis 19:00"
+  ],
+  [
+   "Unterricht Mo und Mi",
+   "19:00 bis 20:30"
+  ]
+ ],
+ "mcta": "Anrufen",
+ "slug": "strempel-hans-j-rgen",
+ "theme": "gelato",
+ "name": "Fahrschule Strempel",
+ "branche": "Fahrschule",
+ "addr": "Oberbexbacher Straße 54 · 66450 Bexbach",
+ "tel": "0172 6815909",
+ "url": "https://www.fahrschule-strempel.de",
+ "label": "Solide Chance",
+ "visit": "Montag oder Mittwoch ab 18 Uhr zur Anmeldezeit",
+ "logo_a": "Fahrschule",
+ "logo_b": "Strempel",
+ "nav": [
+  "Klassen",
+  "Theorie",
+  "Fahrzeuge",
+  "Anmelden"
+ ],
+ "eyebrow": "Fahrschule in Bexbach",
+ "h1": "Einfach lernen mit System.",
+ "lead": "Fahrschule Strempel in Bexbach: Theorie montags und mittwochs, verschiedene Fahrschulautos zum Ausprobieren und Auffrischungskurse für alle, die länger nicht gefahren sind.",
+ "cta1": "Jetzt anmelden",
+ "cta2": "Anrufen: 0172 6815909",
+ "badge": [
+  "Mo + Mi",
+  "Anmeldung 18 bis 19 Uhr"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Theorie</b> Montag und Mittwoch",
+  "<b>Verschiedene Fahrschulautos</b> zum Ausprobieren",
+  "<b>Auffrischungskurse</b> für Wiedereinsteiger"
+ ],
+ "svc_title": "Unser Angebot",
+ "services": [
+  [
+   "Führerschein",
+   "Theorie und Praxis in Bexbach."
+  ],
+  [
+   "Fahrschulautos",
+   "Verschiedene Modelle zum Ausprobieren."
+  ],
+  [
+   "Auffrischungskurse",
+   "Für Fahranfänger und Wiedereinsteiger."
+  ],
+  [
+   "Schulungsraum",
+   "Unterricht Mo und Mi, 19:00 bis 20:30."
+  ],
+  [
+   "Anmeldung",
+   "Mo und Mi, 18:00 bis 19:00, oder online."
+  ],
+  [
+   "Kontakt",
+   "Büro 06826 510853, mobil 0172 6815909."
+  ]
+ ],
+ "band": "Führerschein geplant? Online anmelden, wir melden uns.",
+ "contact": "Fahrschule Strempel<br>Oberbexbacher Straße 54<br>66450 Bexbach<br><br>Büro 06826 510853<br>Mobil 0172 6815909<br>info@fahrschule-strempel.de",
+ "audit": [
+  "Der E-Mail-Link auf der Startseite führt zur Webagentur (info@braun-medienagentur.de), nicht zur Fahrschule",
+  "Auf der Kontaktseite steht noch der Platzhalter 'Neuer Text' aus dem Baukasten",
+  "Die Startseite heißt bei Google nur 'Home', Telefon und Mobil sind nicht antippbar"
+ ],
+ "hebel": "Fahrschüler suchen am Handy und melden sich dort an, wo es am schnellsten geht. Wer heute auf den E-Mail-Link tippt, schreibt der Webagentur statt Ihnen. Eine Online-Anmeldung mit Klasse und Wunschtermin, die direkt bei Ihnen ankommt, holt diese Anmeldungen.",
+ "p": [
+  "790 bis 1.190 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Klassen, Theoriezeiten, Fahrzeugen, Online-Anmeldung, richtiger E-Mail-Adresse, Google-Profil",
+ "svc": [
+  "Online-Anmeldung mit Klasse und Wunschtermin",
+  "Theoriezeiten, die Sie selbst pflegen",
+  "Seite für Auffrischungskurse",
+  "Google-Profil mit Anmeldezeiten"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Mir ist aufgefallen, dass der E-Mail-Link auf Ihrer Startseite zur Webagentur führt statt zu Ihnen, und auf der Kontaktseite steht noch 'Neuer Text'. Ich habe Ihnen mitgebracht, wie die Seite mit Online-Anmeldung aussehen könnte.",
+ "obj": "'Die Schüler kommen montags und mittwochs vorbei': Viele ja. Die anderen melden sich abends am Handy an, und die Mail landet heute bei der Agentur.",
+ "obs": [
+  "E-Mail-Link führt zur Webagentur.",
+  "Platzhalter 'Neuer Text' auf der Kontaktseite.",
+  "Startseite heißt bei Google nur 'Home'."
+ ],
+ "neu": [
+  "Online-Anmeldung",
+  "Richtige E-Mail-Adresse",
+  "Theoriezeiten auf der Startseite"
+ ]
+}

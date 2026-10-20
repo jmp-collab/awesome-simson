@@ -30382,5 +30382,82 @@
   "tel": "0179 9 21 51 81",
   "slug": "dachdeckerei-fe-gmbh",
   "src": "gelbeseiten"
+ },
+ {
+  "name": "Strempel Hans-Jürgen",
+  "branch": "Fahrschulen",
+  "addr": "Oberbexbacher Str. 54, 66450 Bexbach",
+  "plz": "66450",
+  "url": "http://www.fahrschule-strempel.de",
+  "final": "https://www.fahrschule-strempel.de/",
+  "tel": "0172 6 81 59 09",
+  "slug": "strempel-hans-j-rgen",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Schnöll Manuel Malermeister",
+  "branch": "Malerbetriebe",
+  "addr": "Bahnhofstr. 12, 66450 Bexbach",
+  "plz": "66450",
+  "url": "http://www.malerei-schnoell.de",
+  "final": "https://www.malerei-schnoell.de/",
+  "tel": "06826 5 03 71",
+  "slug": "schn-ll-manuel-malermeister",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Müller Erwin Elektro Fernsehen",
+  "branch": "Elektrogeräte und -bedarf",
+  "addr": "Illtalstr. 65a, 66571 Eppelborn (Bubach)",
+  "plz": "66571",
+  "url": "http://www.elektro-erwin-mueller.de",
+  "final": "http://www.elektro-erwin-mueller.de/",
+  "tel": "06881 8 04 06",
+  "slug": "m-ller-erwin-elektro-fernsehen",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "EMI GmbH Elektroinstallationen",
+  "branch": "Elektroinstallationen",
+  "addr": "Hauptstr. 78, 66583 Spiesen-Elversberg (Spiesen)",
+  "plz": "66583",
+  "url": "http://www.emi-gmbh.de",
+  "final": "http://www.montum.de/",
+  "tel": "06821 97 29 10",
+  "slug": "emi-gmbh-elektroinstallationen",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Elektro GROSS GmbH",
+  "branch": "Elektroinstallationen",
+  "addr": "Zeppelinstr. 21, 66557 Illingen (Uchtelfangen)",
+  "plz": "66557",
+  "url": "http://www.elektro-gross.net",
+  "final": "https://www.elektro-gross.net/",
+  "tel": "06825 4 06 08 61",
+  "slug": "elektro-gross-gmbh",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Wolny Friseur Bettina",
+  "branch": "Friseure",
+  "addr": "Hauptstr. 56, 66557 Illingen",
+  "plz": "66557",
+  "url": "https://bettinawolny.wixsite.com/wolny/",
+  "final": "https://bettinawolny.wixsite.com/wolny",
+  "tel": "06825 8 00 60 65",
+  "slug": "wolny-friseur-bettina",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Prinz Christof Friseur",
+  "branch": "Friseure",
+  "addr": "Hauptstr. 87, 66571 Eppelborn (Wiesbach)",
+  "plz": "66571",
+  "url": "http://www.christofprinz.de",
+  "final": "http://www.christofprinz.de/",
+  "tel": "06806 80 00 72",
+  "slug": "prinz-christof-friseur",
+  "src": "gelbeseiten"
  }
 ]

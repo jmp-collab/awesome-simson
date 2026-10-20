@@ -1162,5 +1162,65 @@
    "Leistungen und Referenzen",
    "Sauberes Google-Profil"
   ]
+ },
+ "strempel": {
+  "obs": [
+   "E-Mail-Link führt zur Webagentur.",
+   "Platzhalter 'Neuer Text' auf der Kontaktseite.",
+   "Startseite heißt bei Google nur 'Home'."
+  ],
+  "neu": [
+   "Online-Anmeldung",
+   "Richtige E-Mail-Adresse",
+   "Theoriezeiten auf der Startseite"
+  ]
+ },
+ "wolny": {
+  "obs": [
+   "Wix-Werbebanner auf jeder Seite.",
+   "Kostenlose wixsite-Adresse statt eigener Domain.",
+   "Donnerstag in den Zeiten nur '-----------'."
+  ],
+  "neu": [
+   "Eigene Domain ohne Werbung",
+   "Terminanfrage",
+   "Zeiten klar am Handy"
+  ]
+ },
+ "mueller": {
+  "obs": [
+   "Nur 'STRATO - Domain reserved'.",
+   "Kein Name, keine Nummer.",
+   "Bei Google Titel 'Domain reserved'."
+  ],
+  "neu": [
+   "Leistungen und Telefon",
+   "Anfrage mit Foto",
+   "Ihr Name bei Google"
+  ]
+ },
+ "schnoell": {
+  "obs": [
+   "Startseite ohne Leistungen und ohne Telefon.",
+   "Lamurista und Concreto ohne Erklärung.",
+   "Telefon erst auf der Kontaktseite."
+  ],
+  "neu": [
+   "Leistungen mit Fotos",
+   "Anfrage mit Foto",
+   "Karriereseite"
+  ]
+ },
+ "prinz": {
+  "obs": [
+   "Google-Titel nur 'christofprinz.de'.",
+   "Keine Leistungen, keine Preise auf der Startseite.",
+   "http ohne Weiterleitung auf https."
+  ],
+  "neu": [
+   "Titel mit Friseur und Ort",
+   "Leistungen und Preise",
+   "Terminanfrage"
+  ]
  }
 }

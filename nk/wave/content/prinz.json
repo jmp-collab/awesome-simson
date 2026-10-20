@@ -1,0 +1,105 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "alt_text": "Leistungen, Preise und Teamfotos setze ich mit Ihnen gemeinsam ein. Auf der Startseite stehen davon bisher keine.",
+ "hours": [
+  [
+   "Dienstag bis Freitag",
+   "9:00 bis 18:00"
+  ],
+  [
+   "Samstag",
+   "8:00 bis 14:00"
+  ]
+ ],
+ "mcta": "Anrufen",
+ "slug": "prinz-christof-friseur",
+ "theme": "event",
+ "name": "Christof Prinz Friseure",
+ "branche": "Friseursalon",
+ "addr": "Hauptstraße 87 · 66571 Eppelborn-Wiesbach",
+ "tel": "06806 800072",
+ "url": "http://www.christofprinz.de",
+ "label": "Solide Chance",
+ "visit": "Dienstag bis Freitag vormittags",
+ "logo_a": "Christof",
+ "logo_b": "Prinz",
+ "nav": [
+  "Salon",
+  "Leistungen",
+  "Team",
+  "Jobs"
+ ],
+ "eyebrow": "Friseursalon in Eppelborn-Wiesbach",
+ "h1": "Haare mit Haltung.",
+ "lead": "Christof Prinz in Wiesbach: kreatives Team, moderner Salon mit Kunst und Kaffee. Termine Dienstag bis Samstag.",
+ "cta1": "Anrufen: 06806 800072",
+ "cta2": "Termin anfragen",
+ "badge": [
+  "Di bis Sa",
+  "geöffnet"
+ ],
+ "deco": "",
+ "hero_img": "",
+ "trust": [
+  "<b>Kreatives Team</b> mit Ausbildung",
+  "<b>Moderner Salon</b> mit Kunst und Kaffee",
+  "<b>Termine</b> Dienstag bis Samstag"
+ ],
+ "svc_title": "Bei uns",
+ "services": [
+  [
+   "Schnitt",
+   "Für Damen und Herren."
+  ],
+  [
+   "Farbe",
+   "Beratung und Coloration."
+  ],
+  [
+   "Styling",
+   "Für Alltag und Anlass."
+  ],
+  [
+   "Jobs",
+   "Friseur/in oder Ausbildung."
+  ]
+ ],
+ "band": "Termin gewünscht? Kurz anrufen oder online anfragen.",
+ "contact": "Christof Prinz<br>Hauptstraße 87<br>66571 Eppelborn-Wiesbach<br><br>Telefon 06806 800072<br>haare@christofprinz.de",
+ "audit": [
+  "Die Startseite heißt bei Google nur 'christofprinz.de', ohne Friseur, ohne Ort",
+  "Auf der Startseite stehen weder Leistungen noch Preise, nur Kontakt, Zeiten und eine Stellenanzeige",
+  "Ohne 'https' eingetippt bleibt die Seite unverschlüsselt, der Browser zeigt dann 'Nicht sicher'"
+ ],
+ "hebel": "Wer 'Friseur Eppelborn' oder 'Friseur Wiesbach' sucht, findet eine Seite, die bei Google nur 'christofprinz.de' heißt. Ein Titel mit Ort, Leistungen mit Preisen und eine Terminanfrage holen diese Suchen in den Salon.",
+ "p": [
+  "990 bis 1.490 €",
+  "1.490 bis 2.190 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Leistungen und Preisen, Team, Terminanfrage, Karriereseite, Google-Titel mit Ort, sichere Weiterleitung",
+ "svc": [
+  "Terminanfrage mit Wunschtag",
+  "Preisliste, die Sie selbst pflegen",
+  "Karriereseite für Friseure und Azubis",
+  "Google-Profil mit Fotos aus dem Salon"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Ihre Seite heißt bei Google nur 'christofprinz.de', ohne Friseur und ohne Ort, und Leistungen stehen keine drauf. Ich habe Ihnen mitgebracht, wie die Seite mit Leistungen und Terminanfrage aussehen könnte.",
+ "obj": "'Unsere Kunden kennen uns': Neue Kunden suchen nach 'Friseur' und dem Ort, und genau das fehlt Ihrer Seite bei Google.",
+ "obs": [
+  "Google-Titel nur 'christofprinz.de'.",
+  "Keine Leistungen, keine Preise auf der Startseite.",
+  "http ohne Weiterleitung auf https."
+ ],
+ "neu": [
+  "Titel mit Friseur und Ort",
+  "Leistungen und Preise",
+  "Terminanfrage"
+ ]
+}

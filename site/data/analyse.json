@@ -8828,5 +8828,391 @@
    "woerter": 90,
    "titel": "Feß Bedachungen GmbH-Seit über 20 Jahren."
   }
+ },
+ "strempel": {
+  "score": 55,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "titel",
+    "sev": "hoch",
+    "titel": "Google zeigt einen nichtssagenden Titel",
+    "beleg": "Seitentitel: 'Home'",
+    "folge": "Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.",
+    "fix": "Titel mit Leistung und Ort, z. B. 'Ihr Betrieb in Neunkirchen | Leistung'"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   }
+  ],
+  "sicht": [
+   "E-Mail-Link führt zur Webagentur.",
+   "Platzhalter 'Neuer Text' auf der Kontaktseite.",
+   "Startseite heißt bei Google nur 'Home'."
+  ],
+  "nutzen": [
+   "Bei Google mit Leistung und Ort sichtbar statt mit 'Home'",
+   "Online-Anmeldung",
+   "Richtige E-Mail-Adresse",
+   "Theoriezeiten auf der Startseite"
+  ],
+  "hebel": "Fahrschüler suchen am Handy und melden sich dort an, wo es am schnellsten geht. Wer heute auf den E-Mail-Link tippt, schreibt der Webagentur statt Ihnen. Eine Online-Anmeldung mit Klasse und Wunschtermin, die direkt bei Ihnen ankommt, holt diese Anmeldungen.",
+  "extra": [
+   "Online-Anmeldung mit Klasse und Wunschtermin",
+   "Theoriezeiten, die Sie selbst pflegen",
+   "Seite für Auffrischungskurse",
+   "Google-Profil mit Anmeldezeiten"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 2500,
+   "einheit": "Neukunde",
+   "anzahl": 4,
+   "preis": 790,
+   "breakeven": 1,
+   "jahr": 10000
+  },
+  "gemessen": {
+   "load_m": 5.7,
+   "mb": 1.0,
+   "breite_m": 390,
+   "woerter": 255,
+   "titel": "Home"
+  }
+ },
+ "wolny": {
+  "score": 65,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "text",
+    "sev": "mittel",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 73 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   }
+  ],
+  "sicht": [
+   "Wix-Werbebanner auf jeder Seite.",
+   "Kostenlose wixsite-Adresse statt eigener Domain.",
+   "Donnerstag in den Zeiten nur '-----------'."
+  ],
+  "nutzen": [
+   "Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen",
+   "Anfragen auch abends und am Wochenende, per Formular oder WhatsApp",
+   "Eigene Domain ohne Werbung",
+   "Terminanfrage",
+   "Zeiten klar am Handy"
+  ],
+  "hebel": "Ein Salon mit Preisen ab 59 € braucht einen Auftritt, der so hochwertig wirkt wie die Arbeit. Ein Werbebanner für Wix und eine wixsite-Adresse wirken wie ein Provisorium. Eine eigene Domain mit Terminanfrage und Google-Profil macht den Unterschied.",
+  "extra": [
+   "Eigene Domain, zum Beispiel friseur-wolny.de",
+   "Terminanfrage mit Wunschtag",
+   "Google-Profil mit Fotos und Zeiten",
+   "Produktseite für La Biosthetique"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 60,
+   "einheit": "Termin",
+   "anzahl": 30,
+   "preis": 690,
+   "breakeven": 12,
+   "jahr": 1800
+  },
+  "gemessen": {
+   "load_m": 2.9,
+   "mb": 1.1,
+   "breite_m": 320,
+   "woerter": 73,
+   "titel": "Friseursalon Bettina Wolny La Biosthetique Salon in Illingen"
+  }
+ },
+ "mueller": {
+  "score": 15,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "mobil",
+    "sev": "hoch",
+    "titel": "Auf dem Handy nicht lesbar",
+    "beleg": "Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen.",
+    "folge": "Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.",
+    "fix": "Seite für Handys gebaut, große Schrift, Knöpfe zum Antippen"
+   },
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.elektro-erwin-mueller.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "text",
+    "sev": "mittel",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 80 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "anfrage",
+    "sev": "mittel",
+    "titel": "Keine direkte Anfrage möglich",
+    "beleg": "Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite.",
+    "folge": "Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.",
+    "fix": "Anfrage per Formular und WhatsApp, rund um die Uhr"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Nur 'STRATO - Domain reserved'.",
+   "Kein Name, keine Nummer.",
+   "Bei Google Titel 'Domain reserved'."
+  ],
+  "nutzen": [
+   "Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen",
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Anfrage mit Foto",
+   "Ihr Name bei Google"
+  ],
+  "hebel": "Wer einen Elektriker oder Fernsehservice in Eppelborn sucht und auf 'Domain reserved' landet, ruft den Nächsten an. Die Domain ist schon da und bezahlt. Ein Onepager mit Leistungen und Telefon macht aus ihr einen Auftragsbringer.",
+  "extra": [
+   "Reparatur-Anfrage mit Foto",
+   "Google-Profil mit Leistungen und Zeiten",
+   "Seite für Fernseh- und Antennenservice",
+   "Sichere Verbindung auf der vorhandenen Domain"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 400,
+   "einheit": "Auftrag",
+   "anzahl": 6,
+   "preis": 690,
+   "breakeven": 2,
+   "jahr": 2400
+  },
+  "gemessen": {
+   "load_m": 0.3,
+   "mb": 0.0,
+   "breite_m": 980,
+   "woerter": 80,
+   "titel": "STRATO - Domain reserved"
+  }
+ },
+ "schnoell": {
+  "score": 76,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   }
+  ],
+  "sicht": [
+   "Startseite ohne Leistungen und ohne Telefon.",
+   "Lamurista und Concreto ohne Erklärung.",
+   "Telefon erst auf der Kontaktseite."
+  ],
+  "nutzen": [
+   "Leistungen mit Fotos",
+   "Anfrage mit Foto",
+   "Karriereseite"
+  ],
+  "hebel": "Kreative Wandtechniken wie Betonoptik verkaufen sich über Bilder und Erklärung. Heute sieht ein Besucher auf der Startseite vor allem eine Stellenanzeige. Leistungen mit Vorher-nachher-Fotos und eine Anfrage per Foto holen die Kunden, und eine eigene Karriereseite holt die Fachkräfte.",
+  "extra": [
+   "Seiten für Lamurista und Concreto mit Fotos",
+   "Anfrage mit Foto vom Raum",
+   "Eigene Karriereseite statt Stellenanzeige auf der Startseite",
+   "Google-Profil mit Fotos"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 3000,
+   "einheit": "Auftrag",
+   "anzahl": 3,
+   "preis": 990,
+   "breakeven": 1,
+   "jahr": 9000
+  },
+  "gemessen": {
+   "load_m": 6.1,
+   "mb": 0.9,
+   "breite_m": 390,
+   "woerter": 129,
+   "titel": "Malerbetrieb Schnöll, Kreativ, Qualität, Zuverlässig"
+  }
+ },
+ "prinz": {
+  "score": 21,
+  "datum": "2026-10-20",
+  "befunde": [
+   {
+    "id": "tel",
+    "sev": "hoch",
+    "titel": "Telefonnummer lässt sich nicht antippen",
+    "beleg": "Auf der Startseite gibt es keinen Anruf-Link (tel:).",
+    "folge": "Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.",
+    "fix": "Anrufen-Knopf, der am Handy immer sichtbar bleibt"
+   },
+   {
+    "id": "ssl",
+    "sev": "hoch",
+    "titel": "Seite ist nicht verschlüsselt",
+    "beleg": "Die Seite läuft unter http://www.christofprinz.de/ ohne https.",
+    "folge": "Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.",
+    "fix": "Kostenloses SSL-Zertifikat, alles auf https"
+   },
+   {
+    "id": "desc",
+    "sev": "mittel",
+    "titel": "Keine Beschreibung für Google",
+    "beleg": "Die Seite hat keine Meta-Beschreibung.",
+    "folge": "Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.",
+    "fix": "Beschreibung mit Angebot, Ort und Telefonnummer"
+   },
+   {
+    "id": "text",
+    "sev": "mittel",
+    "titel": "Zu wenig Text für Google",
+    "beleg": "Auf der Startseite stehen nur 66 lesbare Wörter.",
+    "folge": "Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.",
+    "fix": "Leistungen, Ort und Öffnungszeiten als echter Text"
+   },
+   {
+    "id": "mixed",
+    "sev": "mittel",
+    "titel": "Unsichere Inhalte auf der Seite",
+    "beleg": "5 Dateien werden unverschlüsselt (http) geladen.",
+    "folge": "Browser blockieren solche Inhalte teilweise oder warnen.",
+    "fix": "Alle Inhalte über https"
+   },
+   {
+    "id": "schema",
+    "sev": "niedrig",
+    "titel": "Google erkennt Adresse und Öffnungszeiten nicht automatisch",
+    "beleg": "Keine strukturierten Firmendaten (LocalBusiness) gefunden.",
+    "folge": "Diese Daten helfen Google, Sie in der Kartensuche und mit Öffnungszeiten anzuzeigen.",
+    "fix": "Strukturierte Daten für Adresse, Telefon, Öffnungszeiten"
+   },
+   {
+    "id": "og",
+    "sev": "niedrig",
+    "titel": "Beim Teilen per WhatsApp erscheint kein Vorschaubild",
+    "beleg": "Kein Vorschaubild (og:image) hinterlegt.",
+    "folge": "Empfehlungen per WhatsApp oder Facebook sehen leer aus und werden seltener geöffnet.",
+    "fix": "Vorschaubild mit Logo oder Foto für jede Seite"
+   },
+   {
+    "id": "favicon",
+    "sev": "niedrig",
+    "titel": "Kein Symbol im Browser-Tab",
+    "beleg": "Kein Favicon hinterlegt.",
+    "folge": "In Tabs und Lesezeichen fehlt Ihr Logo, die Seite wirkt unfertig.",
+    "fix": "Favicon aus Ihrem Logo"
+   }
+  ],
+  "sicht": [
+   "Google-Titel nur 'christofprinz.de'.",
+   "Keine Leistungen, keine Preise auf der Startseite.",
+   "http ohne Weiterleitung auf https."
+  ],
+  "nutzen": [
+   "Ein Tipp genügt, und das Telefon klingelt bei Ihnen",
+   "Keine 'Nicht sicher'-Warnung mehr im Browser",
+   "Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen",
+   "Titel mit Friseur und Ort",
+   "Leistungen und Preise"
+  ],
+  "hebel": "Wer 'Friseur Eppelborn' oder 'Friseur Wiesbach' sucht, findet eine Seite, die bei Google nur 'christofprinz.de' heißt. Ein Titel mit Ort, Leistungen mit Preisen und eine Terminanfrage holen diese Suchen in den Salon.",
+  "extra": [
+   "Terminanfrage mit Wunschtag",
+   "Preisliste, die Sie selbst pflegen",
+   "Karriereseite für Friseure und Azubis",
+   "Google-Profil mit Fotos aus dem Salon"
+  ],
+  "rechner": {
+   "typ": "auftrag",
+   "wert": 50,
+   "einheit": "Termin",
+   "anzahl": 40,
+   "preis": 990,
+   "breakeven": 20,
+   "jahr": 2000
+  },
+  "gemessen": {
+   "load_m": 2.3,
+   "mb": 0.4,
+   "breite_m": 390,
+   "woerter": 66,
+   "titel": "christofprinz.de"
+  }
  }
 }

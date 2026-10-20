@@ -1215,7 +1215,41 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Google-Profil mit Leistungen
 - Karriereseite für Elektroniker und Azubis
 
-## 37. Augenoptik Siegel (Lead 92, Score 15/100)
+## 37. Elektro Erwin Müller (Lead 100, Score 15/100)
+
+- Elektro und Fernsehen · Tel. 06881 80406 · Besuch: Vorher anrufen und klären, ob der Betrieb aktiv ist
+- Vorschau: webdesign-neunkirchen.de/v/4wegjw · Website-Check-PDF: checks/100_mueller_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Auf dem Handy nicht lesbar: Die Seite ist 980 Pixel breit, ein Handy zeigt rund 390. Alles wird auf etwa 40 % verkleinert oder man muss seitlich wischen. → Die meisten Kunden suchen einen Betrieb in der Nähe am Handy. Wer zoomen muss, geht zurück zu Google und ruft den Nächsten an.
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Seite ist nicht verschlüsselt: Die Seite läuft unter http://www.elektro-erwin-mueller.de/ ohne https. → Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 80 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+
+**Sichtprüfung:**
+- Nur 'STRATO - Domain reserved'.
+- Kein Name, keine Nummer.
+- Bei Google Titel 'Domain reserved'.
+
+**Größter Hebel:** Wer einen Elektriker oder Fernsehservice in Eppelborn sucht und auf 'Domain reserved' landet, ruft den Nächsten an. Die Domain ist schon da und bezahlt. Ein Onepager mit Leistungen und Telefon macht aus ihr einen Auftragsbringer.
+
+**Was der Betrieb davon hat:**
+- Am Handy sofort lesbar: Leistungen, Zeiten und Telefon ohne Zoomen
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Keine 'Nicht sicher'-Warnung mehr im Browser
+- Anfrage mit Foto
+- Ihr Name bei Google
+
+**Rechenbeispiel:** 6 zusätzliche Aufträge im Jahr zu je 400 € sind 2.400 € Mehrumsatz. Der Website-Preis entspricht 2 Aufträgen.
+
+**Zusatzleistungen zum Anbieten:**
+- Reparatur-Anfrage mit Foto
+- Google-Profil mit Leistungen und Zeiten
+- Seite für Fernseh- und Antennenservice
+- Sichere Verbindung auf der vorhandenen Domain
+
+## 38. Augenoptik Siegel (Lead 92, Score 15/100)
 
 - Augenoptik · Tel. 06825 88840 · Besuch: Vorher anrufen
 - Vorschau: webdesign-neunkirchen.de/v/mpjvfc · Website-Check-PDF: checks/92_siegel_Website-Check.pdf
@@ -1249,7 +1283,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Google-Profil mit Zeiten und Fotos
 - Fassungs-Galerie, die Sie selbst befüllen
 
-## 38. Elektro Hobler UG (Lead 18, Score 41/100)
+## 39. Elektro Hobler UG (Lead 18, Score 41/100)
 
 - Elektroinstallation / Elektriker · Tel. 06821 952063 · Besuch: Morgens zwischen 7 und 9 Uhr (Büro Mo bis Fr 6 bis 13 Uhr erreichbar)
 - Vorschau: webdesign-neunkirchen.de/v/khjgpu · Website-Check-PDF: checks/18_hobler_Website-Check.pdf
@@ -1281,7 +1315,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Ausbildungsseite mit Google-Jobdaten und Posts für Azubis
 - Firmeneinträge in Branchenverzeichnissen vereinheitlichen
 
-## 39. Haus- und Montage Service Kirschhock (Lead 32, Score 35/100)
+## 40. Haus- und Montage Service Kirschhock (Lead 32, Score 35/100)
 
 - Hausmeister- und Montageservice · Tel. 06821 306991 · Besuch: Vorher anrufen (mobil 0175 4147742), am besten früh morgens
 - Vorschau: webdesign-neunkirchen.de/v/6vsmks · Website-Check-PDF: checks/32_kirschhock_Website-Check.pdf
@@ -1314,7 +1348,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Infoblatt für Hausverwaltungen (Rahmenvertrag)
 - Vorher/Nachher-Fotos aus Aufträgen als Referenzen
 
-## 40. Carsten Lander GmbH (Lead 72, Score 35/100)
+## 41. Carsten Lander GmbH (Lead 72, Score 35/100)
 
 - Stuckateur- und Malerbetrieb · Tel. 06897 61762 · Besuch: Vorher anrufen oder per WhatsApp melden
 - Vorschau: webdesign-neunkirchen.de/v/mrbje5 · Website-Check-PDF: checks/72_lander_Website-Check.pdf
@@ -1346,7 +1380,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Einheitliche Adresse in Google und Verzeichnissen
 - Eigene Seite für Wasserschäden mit schneller Erreichbarkeit
 
-## 41. Fahrschule Hönnicke (Lead 96, Score 35/100)
+## 42. Fahrschule Hönnicke (Lead 96, Score 35/100)
 
 - Fahrschule · Tel. 06826 3510 · Besuch: Mittwoch oder Freitag ab 17 Uhr im Büro
 - Vorschau: webdesign-neunkirchen.de/v/fh25wf · Website-Check-PDF: checks/96_hoennicke_Website-Check.pdf
@@ -1378,7 +1412,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Instagram-Anbindung für bestandene Prüfungen
 - Google-Profil mit Bürozeiten
 
-## 42. Hermann Didié Büro- und Zeichenbedarf (Lead 13, Score 15/100)
+## 43. Hermann Didié Büro- und Zeichenbedarf (Lead 13, Score 15/100)
 
 - Bürobedarf / Künstler- und Bastelbedarf · Tel. 06821 22757 · Besuch: Vormittag unter der Woche, wenn wenig Kundschaft im Laden ist
 - Vorschau: webdesign-neunkirchen.de/v/322wzl · Website-Check-PDF: checks/13_didie_Website-Check.pdf
@@ -1413,7 +1447,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Firmenkunden-Seite für Bürobedarf mit Bestellung per Mail
 - Bewertungs-QR an der Kasse
 
-## 43. Blumen Rebel (Lead 28, Score 15/100)
+## 44. Blumen Rebel (Lead 28, Score 15/100)
 
 - Blumengeschäft / Gärtnerei / Grabpflege · Tel. 06821 86217 · Besuch: Vormittags in der Gärtnerei, nicht vor Muttertag, Allerheiligen oder Weihnachten
 - Vorschau: webdesign-neunkirchen.de/v/vh4jxx · Website-Check-PDF: checks/28_rebel_Website-Check.pdf
@@ -1447,7 +1481,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Instagram mit saisonalen Sträußen, 2 bis 3 Beiträge pro Woche
 - Zwei Google-Profile sauber trennen (Geschäft und Gärtnerei)
 
-## 44. La Campanella (Lead 34, Score 24/100)
+## 45. La Campanella (Lead 34, Score 24/100)
 
 - Pizzeria / Lieferdienst · Tel. 06821 3624333 · Besuch: Nachmittags zwischen 15 und 17 Uhr, nicht zur Essenszeit
 - Vorschau: webdesign-neunkirchen.de/v/4qyb27 · Website-Check-PDF: checks/34_campanella_Website-Check.pdf
@@ -1480,7 +1514,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Seite 'Halal Pizza Neunkirchen' als Suchtreffer
 - Mittagsangebot als Google-Beitrag und WhatsApp-Status
 
-## 45. Schlosserei Heil GmbH (Lead 15, Score 42/100)
+## 46. Schlosserei Heil GmbH (Lead 15, Score 42/100)
 
 - Schlosserei / Metallbau / Schmiede · Tel. 06821 51362 · Besuch: Früh morgens 7 bis 8 Uhr in der Werkstatt oder vorher anrufen
 - Vorschau: webdesign-neunkirchen.de/v/jj6gjo · Website-Check-PDF: checks/15_heil_Website-Check.pdf
@@ -1511,7 +1545,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Industriekunden-Seite für WHG-Arbeiten (Tankanlagen, Auffangwannen) als eigener Suchtreffer
 - Stellenseite für Metallbauer und Azubis
 
-## 46. Musikunterricht Birgit Schneider (Lead 25, Score 45/100)
+## 47. Musikunterricht Birgit Schneider (Lead 25, Score 45/100)
 
 - Musikunterricht · Tel. 06821 42184 · Besuch: Vormittags vor dem Unterricht, vorher anrufen
 - Vorschau: webdesign-neunkirchen.de/v/7khn4s · Website-Check-PDF: checks/25_schneider_Website-Check.pdf
@@ -1542,7 +1576,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Eintrag in Musikschul- und Nachhilfeverzeichnissen
 - Aushang mit QR-Code für Kitas und Grundschulen in Wellesweiler
 
-## 47. HTB Haus-Technik Bechtel GmbH (Lead 31, Score 45/100)
+## 48. HTB Haus-Technik Bechtel GmbH (Lead 31, Score 45/100)
 
 - Elektro-, Sicherheits- und Haustechnik · Tel. 06821 952200 · Besuch: Früh morgens oder vorher anrufen, Teams sind tagsüber beim Kunden
 - Vorschau: webdesign-neunkirchen.de/v/oiylva · Website-Check-PDF: checks/31_htb_Website-Check.pdf
@@ -1574,7 +1608,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Instandhaltungsvertrag als Produkt mit Anfrage für Hausverwaltungen
 - Google-Profil mit Leistungen, Bewertungen nach Aufträgen anfragen
 
-## 48. Hegi Fenstervertrieb und Montage (Lead 33, Score 45/100)
+## 49. Hegi Fenstervertrieb und Montage (Lead 33, Score 45/100)
 
 - Fenster, Rollläden, Haustüren (Vertrieb und Montage) · Tel. 06821 59180 · Besuch: Werktags vormittags, vorher anrufen
 - Vorschau: webdesign-neunkirchen.de/v/kil76q · Website-Check-PDF: checks/33_hegi_Website-Check.pdf
@@ -1606,7 +1640,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Referenzfotos aus Montagen (Vorher/Nachher)
 - Einträge in Branchenverzeichnissen vereinheitlichen
 
-## 49. Hifi Zenit (Lead 41, Score 42/100)
+## 50. Hifi Zenit (Lead 41, Score 42/100)
 
 - Hifi- und Car-Hifi-Fachhandel · Tel. 06821 177223 · Besuch: Nachmittags im Laden, vorher anrufen (oft Termine beim Kunden)
 - Vorschau: webdesign-neunkirchen.de/v/qw57hp · Website-Check-PDF: checks/41_hifi_Website-Check.pdf
@@ -1638,7 +1672,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Gebrauchtgeräte und Inzahlungnahmen als eigene Seite
 - Google-Profil mit Fotos aus dem Studio
 
-## 50. Malerbetrieb Gleich GmbH (Lead 57, Score 45/100)
+## 51. Malerbetrieb Gleich GmbH (Lead 57, Score 45/100)
 
 - Malerbetrieb · Tel. 06821 963636 · Besuch: Morgens früh oder nachmittags, vorher anrufen
 - Vorschau: webdesign-neunkirchen.de/v/goweaj · Website-Check-PDF: checks/57_gleich_Website-Check.pdf
@@ -1670,7 +1704,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Projektseiten mit Vorher-Nachher
 - Karriereseite für Maler und Azubis
 
-## 51. Fliesenmarkt Schwenk GmbH (Lead 60, Score 42/100)
+## 52. Fliesenmarkt Schwenk GmbH (Lead 60, Score 42/100)
 
 - Fliesenhandel und Verlegung · Tel. 06821 485601 · Besuch: Vormittags in der Ausstellung Wellesweiler
 - Vorschau: webdesign-neunkirchen.de/v/hhe3wr · Website-Check-PDF: checks/60_schwenk_Website-Check.pdf
@@ -1702,7 +1736,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Badideen-Galerie aus Referenzen
 - Zwei Google-Profile sauber gepflegt
 
-## 52. Jollytherm GmbH (Lead 70, Score 42/100)
+## 53. Jollytherm GmbH (Lead 70, Score 42/100)
 
 - Hersteller Flächenheizungen · Tel. 06821 964930 · Besuch: Vorher anrufen und Termin mit der Geschäftsführung vereinbaren
 - Vorschau: webdesign-neunkirchen.de/v/tfpwp4 · Website-Check-PDF: checks/70_jolly_Website-Check.pdf
@@ -1733,7 +1767,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Ratgeberseiten für Suchanfragen wie 'Fußbodenheizung nachrüsten'
 - Produktdatenblätter als saubere, druckbare Seiten
 
-## 53. Bad & Bausanierung Schuler (Lead 76, Score 51/100)
+## 54. Bad & Bausanierung Schuler (Lead 76, Score 51/100)
 
 - Bad- und Bausanierung · Tel. 06821 633075 · Besuch: Früh morgens oder vorher anrufen
 - Vorschau: webdesign-neunkirchen.de/v/nmit5w · Website-Check-PDF: checks/76_schuler_Website-Check.pdf
@@ -1764,7 +1798,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Eine Domain mit sicherer Verbindung und passender E-Mail
 - Seite zu barrierearmen Bädern und Zuschüssen, mit Ihnen abgestimmt
 
-## 54. Blumenatelier Mendel (Lead 89, Score 15/100)
+## 55. Blumenatelier Mendel (Lead 89, Score 15/100)
 
 - Blumenatelier · Tel. 06825 496570 · Besuch: Vorher anrufen
 - Vorschau: webdesign-neunkirchen.de/v/jdvgzy · Website-Check-PDF: checks/89_mendel_Website-Check.pdf
@@ -1798,7 +1832,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Google-Profil mit Fotos und Öffnungszeiten
 - Seite für Hochzeitsfloristik
 
-## 55. Wibilo-Kebap-Haus (Lead 11, Score 15/100)
+## 56. Wibilo-Kebap-Haus (Lead 11, Score 15/100)
 
 - Döner / Imbiss mit Lieferservice · Tel. 06821 9533808 · Besuch: Werktags 14 bis 16 Uhr, nach dem Mittagsgeschäft (geöffnet Mo bis Sa ab 12 Uhr)
 - Vorschau: webdesign-neunkirchen.de/v/enipj7 · Website-Check-PDF: checks/11_wibilo_Website-Check.pdf
@@ -1833,7 +1867,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Speisekarte zusätzlich auf Türkisch und Englisch
 - Stempelkarte digital (WhatsApp) für Stammkunden
 
-## 56. M-Trucks GmbH (Lead 36, Score 55/100)
+## 57. M-Trucks GmbH (Lead 36, Score 55/100)
 
 - Nutzfahrzeug-Werkstatt und Teilehandel · Tel. 06821 74963-14 · Besuch: Morgens ab 7 Uhr oder nach 16 Uhr, vorher anrufen
 - Vorschau: webdesign-neunkirchen.de/v/mjifl6 · Website-Check-PDF: checks/36_mtrucks_Website-Check.pdf
@@ -1864,7 +1898,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Seite für Flottenkunden mit Wartungsvertrag
 - Google-Profil mit Fotos aus der Werkstatt, Bewertungen nach Reparaturen anfragen
 
-## 57. Grill au Bois (Lead 44, Score 52/100)
+## 58. Grill au Bois (Lead 44, Score 52/100)
 
 - Steakhaus und Eventgastronomie · Tel. 06821 89999 · Besuch: Nachmittags zwischen Mittag- und Abendservice, vorher anrufen
 - Vorschau: webdesign-neunkirchen.de/v/eeuj5q · Website-Check-PDF: checks/44_grill_Website-Check.pdf
@@ -1896,7 +1930,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Brunch und Mittagskonzept als eigene Seiten für Google
 - Gemeinsamer Auftritt mit dem Hotel am Zoo
 
-## 58. Karosserie & Lack JuWel GmbH (Lead 59, Score 55/100)
+## 59. Karosserie & Lack JuWel GmbH (Lead 59, Score 55/100)
 
 - Karosserie und Lackiererei · Tel. 06821 59333 · Besuch: Morgens ab 7:30 Uhr, vorher anrufen
 - Vorschau: webdesign-neunkirchen.de/v/z7qt2y · Website-Check-PDF: checks/59_juwel_Website-Check.pdf
@@ -1926,7 +1960,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Ablauf nach dem Unfall in 4 Schritten
 - Google-Profil mit Werkstattfotos
 
-## 59. BoGro Fachhandel für Bodenbeläge (Lead 61, Score 58/100)
+## 60. BoGro Fachhandel für Bodenbeläge (Lead 61, Score 58/100)
 
 - Bodenbeläge, Lieferung und Verlegung · Tel. 06821 179053 · Besuch: Dienstag bis Donnerstag nachmittags, Ausstellung ist bis 17 Uhr offen
 - Vorschau: webdesign-neunkirchen.de/v/vqt5il · Website-Check-PDF: checks/61_bogro_Website-Check.pdf
@@ -1956,7 +1990,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Referenzen 'vorher und nachher' aus Neunkirchen
 - E-Mail-Adresse mit eigener Domain
 
-## 60. MF-Marascia Fenster-Tor-Tür GmbH (Lead 71, Score 52/100)
+## 61. MF-Marascia Fenster-Tor-Tür GmbH (Lead 71, Score 52/100)
 
 - Fenster, Türen und Tore · Tel. 06821 7901291 · Besuch: Vorher anrufen, das Team ist viel im Außendienst
 - Vorschau: webdesign-neunkirchen.de/v/uwyl6n · Website-Check-PDF: checks/71_marascia_Website-Check.pdf
@@ -1986,7 +2020,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Referenzgalerie vorher und nachher
 - Seite zu Fördermitteln für Fenstertausch, mit Ihnen abgestimmt
 
-## 61. D&G Industriemontage GmbH (Lead 73, Score 52/100)
+## 62. D&G Industriemontage GmbH (Lead 73, Score 52/100)
 
 - Industriemontage · Tel. 06821 983150 · Besuch: Vorher anrufen und Termin mit Geschäftsführer Dirk Giebel vereinbaren
 - Vorschau: webdesign-neunkirchen.de/v/eflokh · Website-Check-PDF: checks/73_dg_Website-Check.pdf
@@ -2017,7 +2051,37 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Englische Version für internationale Kunden
 - Anfrage mit Maschinentyp, Standort und Zeitraum
 
-## 62. Beauty Nails Ornella (Lead 04, Score 15/100)
+## 63. Fahrschule Strempel (Lead 98, Score 55/100)
+
+- Fahrschule · Tel. 0172 6815909 · Besuch: Montag oder Mittwoch ab 18 Uhr zur Anmeldezeit
+- Vorschau: webdesign-neunkirchen.de/v/guasgi · Website-Check-PDF: checks/98_strempel_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Google zeigt einen nichtssagenden Titel: Seitentitel: 'Home' → Der Titel ist die blaue Überschrift in den Google-Ergebnissen. Ohne Ort und Leistung klickt dort kaum jemand.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+
+**Sichtprüfung:**
+- E-Mail-Link führt zur Webagentur.
+- Platzhalter 'Neuer Text' auf der Kontaktseite.
+- Startseite heißt bei Google nur 'Home'.
+
+**Größter Hebel:** Fahrschüler suchen am Handy und melden sich dort an, wo es am schnellsten geht. Wer heute auf den E-Mail-Link tippt, schreibt der Webagentur statt Ihnen. Eine Online-Anmeldung mit Klasse und Wunschtermin, die direkt bei Ihnen ankommt, holt diese Anmeldungen.
+
+**Was der Betrieb davon hat:**
+- Bei Google mit Leistung und Ort sichtbar statt mit 'Home'
+- Online-Anmeldung
+- Richtige E-Mail-Adresse
+- Theoriezeiten auf der Startseite
+
+**Rechenbeispiel:** 4 zusätzliche Neukunden im Jahr zu je 2.500 € sind 10.000 € Mehrumsatz. Der Website-Preis entspricht 1 Neukunde.
+
+**Zusatzleistungen zum Anbieten:**
+- Online-Anmeldung mit Klasse und Wunschtermin
+- Theoriezeiten, die Sie selbst pflegen
+- Seite für Auffrischungskurse
+- Google-Profil mit Anmeldezeiten
+
+## 64. Beauty Nails Ornella (Lead 04, Score 15/100)
 
 - Nagelstudio / Kosmetik · Tel. 06821 4013600 · Besuch: Vormittag oder telefonisch Termin vereinbaren
 - Vorschau: webdesign-neunkirchen.de/v/fzuql4 · Website-Check-PDF: checks/04_ornella_Website-Check.pdf
@@ -2051,7 +2115,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Online-Terminbuchung mit Erinnerung per SMS oder E-Mail
 - Gutscheinverkauf online zu Muttertag und Weihnachten
 
-## 63. Luu Asien Bistro (Lead 47, Score 38/100)
+## 65. Luu Asien Bistro (Lead 47, Score 38/100)
 
 - Asiatisches und vietnamesisches Bistro · Tel. 06821 9140902 · Besuch: Nachmittags vor 16:30 Uhr, vor der Öffnung
 - Vorschau: webdesign-neunkirchen.de/v/utcsjg · Website-Check-PDF: checks/47_luu_Website-Check.pdf
@@ -2083,7 +2147,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Google-Profil mit Karte und Fotos
 - Lieferando nur noch als Zusatzkanal
 
-## 64. Pizza Heimservice Da Enzo (Lead 51, Score 38/100)
+## 66. Pizza Heimservice Da Enzo (Lead 51, Score 38/100)
 
 - Pizzeria und Lieferdienst · Tel. 06821 9316899 · Besuch: Nachmittags vor 17 Uhr, montags geschlossen
 - Vorschau: webdesign-neunkirchen.de/v/amsjox · Website-Check-PDF: checks/51_daenzo_Website-Check.pdf
@@ -2115,7 +2179,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Google-Profil mit Karte und Fotos
 - Lieferando nur noch als Zusatzkanal
 
-## 65. Asia Wok Bistro (Lead 02, Score 21/100)
+## 67. Asia Wok Bistro (Lead 02, Score 21/100)
 
 - Restaurant vietnamesisch / Thai mit Heimservice · Tel. 06821 140373 · Besuch: 14:45 bis 16:30 Uhr (zwischen Mittag und Abend)
 - Vorschau: webdesign-neunkirchen.de/v/kr24if · Website-Check-PDF: checks/02_asia_Website-Check.pdf
@@ -2149,7 +2213,41 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Bewertungsantworten mit KI-Entwurf zur Freigabe, besonders bei Kritik
 - Mittagstisch-Seite für Berufstätige in der Innenstadt
 
-## 66. Wirtshaus Römer, Neinkeijer Steak-House (Lead 07, Score 53/100)
+## 68. Christof Prinz Friseure (Lead 102, Score 21/100)
+
+- Friseursalon · Tel. 06806 800072 · Besuch: Dienstag bis Freitag vormittags
+- Vorschau: webdesign-neunkirchen.de/v/5rvb6l · Website-Check-PDF: checks/102_prinz_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [hoch] Telefonnummer lässt sich nicht antippen: Auf der Startseite gibt es keinen Anruf-Link (tel:). → Am Handy muss die Nummer abgeschrieben werden. Jeder zusätzliche Schritt kostet Anrufe.
+- [hoch] Seite ist nicht verschlüsselt: Die Seite läuft unter http://www.christofprinz.de/ ohne https. → Browser zeigen 'Nicht sicher'. Das schreckt ab, und Formulare dürfen so keine Daten übertragen.
+- [mittel] Keine Beschreibung für Google: Die Seite hat keine Meta-Beschreibung. → Google zeigt dann zufällige Textschnipsel, oft Cookie-Hinweise oder Menüpunkte.
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 66 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Unsichere Inhalte auf der Seite: 5 Dateien werden unverschlüsselt (http) geladen. → Browser blockieren solche Inhalte teilweise oder warnen.
+
+**Sichtprüfung:**
+- Google-Titel nur 'christofprinz.de'.
+- Keine Leistungen, keine Preise auf der Startseite.
+- http ohne Weiterleitung auf https.
+
+**Größter Hebel:** Wer 'Friseur Eppelborn' oder 'Friseur Wiesbach' sucht, findet eine Seite, die bei Google nur 'christofprinz.de' heißt. Ein Titel mit Ort, Leistungen mit Preisen und eine Terminanfrage holen diese Suchen in den Salon.
+
+**Was der Betrieb davon hat:**
+- Ein Tipp genügt, und das Telefon klingelt bei Ihnen
+- Keine 'Nicht sicher'-Warnung mehr im Browser
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Titel mit Friseur und Ort
+- Leistungen und Preise
+
+**Rechenbeispiel:** 40 zusätzliche Termine im Jahr zu je 50 € sind 2.000 € Mehrumsatz. Der Website-Preis entspricht 20 Terminen.
+
+**Zusatzleistungen zum Anbieten:**
+- Terminanfrage mit Wunschtag
+- Preisliste, die Sie selbst pflegen
+- Karriereseite für Friseure und Azubis
+- Google-Profil mit Fotos aus dem Salon
+
+## 69. Wirtshaus Römer, Neinkeijer Steak-House (Lead 07, Score 53/100)
 
 - Steakhaus / Wirtshaus · Tel. 06821 942756 · Besuch: 15:00 bis 16:30 Uhr (vor Öffnung um 17 Uhr), nicht dienstags
 - Vorschau: webdesign-neunkirchen.de/v/f6kqsc · Website-Check-PDF: checks/07_roemer_Website-Check.pdf
@@ -2178,7 +2276,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Online-Gutscheine als Weihnachtsgeschenk
 - Antwortvorlagen für Bewertungen und E-Mail-Anfragen
 
-## 67. Rollladen Störr (Lead 43, Score 59/100)
+## 70. Rollladen Störr (Lead 43, Score 59/100)
 
 - Fenster, Haustüren und Rollläden · Tel. 06821 51700 · Besuch: Nach den Betriebsferien (ab 20.10.), vormittags in der Ausstellung
 - Vorschau: webdesign-neunkirchen.de/v/qocotn · Website-Check-PDF: checks/43_stoerr_Website-Check.pdf
@@ -2207,7 +2305,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Seite zu Förderung und Einbruchschutz
 - Google-Profil mit Fotos jeder Montage
 
-## 68. Audeh Trockenbau (Lead 53, Score 56/100)
+## 71. Audeh Trockenbau (Lead 53, Score 56/100)
 
 - Trockenbau, Fliesen- und Bodenverlegung · Tel. 0157 59621497 · Besuch: Abends anrufen, Inhaber ist tagsüber auf Baustellen
 - Vorschau: webdesign-neunkirchen.de/v/bnf6t4 · Website-Check-PDF: checks/53_audeh_Website-Check.pdf
@@ -2238,7 +2336,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Landingpages 'Trockenbau Neunkirchen' und 'Fliesenleger Neunkirchen'
 - Google-Profil mit Projektfotos
 
-## 69. Felicita Catering (Lead 62, Score 62/100)
+## 72. Felicita Catering (Lead 62, Score 62/100)
 
 - Catering und Event-Catering · Tel. 0152 22333003 · Besuch: Vorher anrufen, Termin mit Lajos Waadt
 - Vorschau: webdesign-neunkirchen.de/v/3n2mmw · Website-Check-PDF: checks/62_felicita_Website-Check.pdf
@@ -2268,7 +2366,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Fotoshooting bei einem Event
 - E-Mail-Adresse mit eigener Domain
 
-## 70. Balkan Bäckerei Prizreni (Lead 46, Score 38/100)
+## 73. Balkan Bäckerei Prizreni (Lead 46, Score 38/100)
 
 - Bäckerei mit Burek, Pizza und Gebäck · Tel. 0155 10932660 · Besuch: Vormittags im Laden, ruhige Zeit vor dem Mittagsgeschäft
 - Vorschau: webdesign-neunkirchen.de/v/liae2m · Website-Check-PDF: checks/46_balkan_Website-Check.pdf
@@ -2300,7 +2398,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Google-Profil mit Karte und Fotos
 - Lieferando nur noch als Zusatzkanal statt auf der eigenen Domain
 
-## 71. Pizzeria Gondoliere Heimservice (Lead 03, Score 45/100)
+## 74. Pizzeria Gondoliere Heimservice (Lead 03, Score 45/100)
 
 - Pizzeria / Lieferdienst · Tel. 06821 13211 · Besuch: Di bis Fr gegen 16:00 Uhr (vor Öffnung um 17 Uhr)
 - Vorschau: webdesign-neunkirchen.de/v/hrxs2j · Website-Check-PDF: checks/03_gondoliere_Website-Check.pdf
@@ -2332,7 +2430,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Bewertungsmanagement: 4,0 Schnitt mit Beschwerden über Lieferzeit, Antwortvorlagen und Lieferzeit-Hinweis auf der Seite
 - Instagram Reels vom Holzofen und der Familie Abbruzzino, 2 pro Woche
 
-## 72. Hair-Design-Cosmetic Koble (Lead 20, Score 28/100)
+## 75. Hair-Design-Cosmetic Koble (Lead 20, Score 28/100)
 
 - Friseur / Kosmetik · Tel. 06821 9838460 · Besuch: Dienstag bis Freitag vormittags, nicht samstags
 - Vorschau: webdesign-neunkirchen.de/v/rttms3 · Website-Check-PDF: checks/20_koble_Website-Check.pdf
@@ -2364,7 +2462,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Bewertungs-QR am Spiegel, Ziel 50 Bewertungen im ersten Jahr
 - Gutscheine online, vor allem zu Weihnachten und Muttertag
 
-## 73. Institut DIVNA (Lead 23, Score 31/100)
+## 76. Institut DIVNA (Lead 23, Score 31/100)
 
 - Podologie / Kosmetik / Wellness · Tel. 06821 983190 · Besuch: Dienstag bis Freitag zwischen den Terminen, vorher anrufen
 - Vorschau: webdesign-neunkirchen.de/v/5dpx2a · Website-Check-PDF: checks/23_divna_Website-Check.pdf
@@ -2397,7 +2495,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Gutscheine für Kosmetik online (Weihnachten, Muttertag)
 - Barrierefreie Gestaltung für ältere Patienten
 
-## 74. Hausarztpraxis Wellesweiler (Lead 26, Score 31/100)
+## 77. Hausarztpraxis Wellesweiler (Lead 26, Score 31/100)
 
 - Hausarztpraxis / Allgemeinmedizin · Tel. 06821 4311 · Besuch: Nicht in der Sprechstunde: am besten anrufen und um 10 Minuten mit der Praxismanagerin bitten (Mittwoch oder Freitag nachmittags)
 - Vorschau: webdesign-neunkirchen.de/v/a7yt7z · Website-Check-PDF: checks/26_praxiswell_Website-Check.pdf
@@ -2430,7 +2528,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Google-Profil mit korrekten Sprechzeiten und Links zu Online-Rezept
 - KI-Workshop fürs Team: Patientenbriefe und Antworten schneller schreiben (datenschutzkonform)
 
-## 75. Schlüssel Thielen (Lead 01, Score 15/100)
+## 78. Schlüssel Thielen (Lead 01, Score 15/100)
 
 - Schlüsseldienst / Sicherheitsfachhandel · Tel. 06821 22510 · Besuch: Vormittag (nur Mo bis Fr 9 bis 13 Uhr geöffnet)
 - Vorschau: webdesign-neunkirchen.de/v/eglxtn · Website-Check-PDF: checks/01_thielen_Website-Check.pdf
@@ -2464,7 +2562,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Lokale Einträge vereinheitlichen (Das Örtliche, Gelbe Seiten, 11880) für konsistente NAP-Daten
 - Seite 'Tresorberatung' als eigener Suchtreffer für höherwertige Aufträge
 
-## 76. Praxis für Physiotherapie Hermann Rutz (Lead 05, Score 15/100)
+## 79. Praxis für Physiotherapie Hermann Rutz (Lead 05, Score 15/100)
 
 - Physiotherapie · Tel. 06821 23665 · Besuch: Nachmittag Mo bis Do, kurz an der Anmeldung nach dem Inhaber fragen
 - Vorschau: webdesign-neunkirchen.de/v/wp7grp · Website-Check-PDF: checks/05_rutz_Website-Check.pdf
@@ -2498,7 +2596,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Leistungsseiten verständlich erklärt (Bobath, Lymphdrainage, Beckenboden) für lokale Suchtreffer
 - Barrierearme Gestaltung für ältere Patientinnen und Patienten
 
-## 77. Versicherungsbüro Roland Flick (Lead 54, Score 35/100)
+## 80. Versicherungsbüro Roland Flick (Lead 54, Score 35/100)
 
 - Versicherungsmakler · Tel. 06821 4017830 · Besuch: Vormittags zwischen 9 und 12 Uhr im Büro
 - Vorschau: webdesign-neunkirchen.de/v/ppadlc · Website-Check-PDF: checks/54_flick_Website-Check.pdf
@@ -2531,7 +2629,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Landingpages 'Kfz-Versicherung wechseln' (Wechselsaison bis 30.11.) und 'Berufsunfähigkeit'
 - Google-Profil mit Foto und Bürozeiten
 
-## 78. Brech-Motors (Lead 55, Score 39/100)
+## 81. Brech-Motors (Lead 55, Score 39/100)
 
 - Autovermietung, Kfz-Service, Fahrzeughandel · Tel. 0177 6922223 · Besuch: Vormittags zwischen 8 und 15 Uhr
 - Vorschau: webdesign-neunkirchen.de/v/ten4qe · Website-Check-PDF: checks/55_brech_Website-Check.pdf
@@ -2563,7 +2661,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Landingpage 'Transporter mieten Neunkirchen'
 - Google-Profil mit Fahrzeugfotos
 
-## 79. Musikwelt Neunkirchen (Lead 45, Score 63/100)
+## 82. Musikwelt Neunkirchen (Lead 45, Score 63/100)
 
 - Musikschule · Tel. 06821 919650 · Besuch: Nachmittags vor dem Unterricht, vorher anrufen
 - Vorschau: webdesign-neunkirchen.de/v/sc5zbc · Website-Check-PDF: checks/45_musik_Website-Check.pdf
@@ -2592,7 +2690,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Landingpages pro Instrument für Google
 - Schülerkonzerte und Workshops als Eventseite
 
-## 80. Tanzschule Hinsberger (Lead 48, Score 66/100)
+## 83. Tanzschule Hinsberger (Lead 48, Score 66/100)
 
 - Tanzschule · Tel. 0176 22226726 · Besuch: Abends vor einem Kurs, Richard Hinsberger direkt ansprechen
 - Vorschau: webdesign-neunkirchen.de/v/fhlzty · Website-Check-PDF: checks/48_tanz_Website-Check.pdf
@@ -2620,7 +2718,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Kursplan als Text, für Google lesbar
 - Instagram-Reels aus dem Unterricht auf der Seite
 
-## 81. Morrone & Partner (Lead 49, Score 48/100)
+## 84. Morrone & Partner (Lead 49, Score 48/100)
 
 - Versicherungsmakler und Baufinanzierung · Tel. 06821 52091 · Besuch: Termin telefonisch vereinbaren
 - Vorschau: webdesign-neunkirchen.de/v/d7dmqf · Website-Check-PDF: checks/49_morrone_Website-Check.pdf
@@ -2651,7 +2749,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Profil mit Foto und Zulassung
 - Adressen in allen Verzeichnissen vereinheitlichen
 
-## 82. Torsten Tobä Metallbau (Lead 52, Score 66/100)
+## 85. Torsten Tobä Metallbau (Lead 52, Score 66/100)
 
 - Metallbau-Meisterbetrieb · Tel. 0177 2006808 · Besuch: Früh morgens oder nach Feierabend, vorher anrufen
 - Vorschau: webdesign-neunkirchen.de/v/fnkuq5 · Website-Check-PDF: checks/52_tobae_Website-Check.pdf
@@ -2679,7 +2777,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Landingpages 'Außentreppe' und 'Stahlbalkon' für Google
 - Google-Profil mit Fotos jeder Montage
 
-## 83. Die Tanzwerkstatt Susanne Sprung (Lead 09, Score 62/100)
+## 86. Die Tanzwerkstatt Susanne Sprung (Lead 09, Score 62/100)
 
 - Tanzschule / Musical / Yoga · Tel. 06821 690035 · Besuch: Nachmittag vor Kursbeginn, ca. 15:00 Uhr
 - Vorschau: webdesign-neunkirchen.de/v/suyk2t · Website-Check-PDF: checks/09_tanzwerkstatt_Website-Check.pdf
@@ -2708,7 +2806,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Google-Profil: Kurse als Leistungen, Fotos, Bewertungsbitte an Eltern (aktuell 11 Bewertungen)
 - Sommer-Workshops und Ferienkurse als eigene Kampagne
 
-## 84. Damaskus Haus (Lead 08, Score 52/100)
+## 87. Damaskus Haus (Lead 08, Score 52/100)
 
 - Syrisches Restaurant / Imbiss / Döner · Tel. 06821 149263 · Besuch: 15:00 bis 17:00 Uhr
 - Vorschau: webdesign-neunkirchen.de/v/7glrnj · Website-Check-PDF: checks/08_damaskus_Website-Check.pdf
@@ -2739,7 +2837,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Mittagsmenü für Berufstätige und Pendler am Bahnhof
 - Mehrsprachiges Google-Profil, Beiträge auch auf Arabisch
 
-## 85. Pension am Scheiber Hof (Lead 58, Score 27/100)
+## 88. Pension am Scheiber Hof (Lead 58, Score 27/100)
 
 - Pension · Tel. 06821 88381 · Besuch: Vorher anrufen, Rezeption nach Absprache
 - Vorschau: webdesign-neunkirchen.de/v/ulssdt · Website-Check-PDF: checks/58_scheiber_Website-Check.pdf
@@ -2773,7 +2871,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Gemeinsamer Auftritt mit Pension am Stummplatz
 - Google-Profil mit den neuen Zimmerfotos
 
-## 86. Praxis für Osteopathie Melanie Lembcke (Lead 29, Score 55/100)
+## 89. Praxis für Osteopathie Melanie Lembcke (Lead 29, Score 55/100)
 
 - Osteopathie / Pilates · Tel. 0176 21391233 · Besuch: Vorher anrufen, Behandlungen laufen nach Termin
 - Vorschau: webdesign-neunkirchen.de/v/y25ong · Website-Check-PDF: checks/29_lembcke_Website-Check.pdf
@@ -2804,7 +2902,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Google-Profil mit Leistungen, Antworten auf Bewertungen
 - Kooperation mit Hebammen und Kinderärzten der Region (Empfehlungen, Links)
 
-## 87. Asia Haus Thaimassage (Lead 19, Score 56/100)
+## 90. Asia Haus Thaimassage (Lead 19, Score 56/100)
 
 - Traditionelle Thai-Massage · Tel. 01590 6636103 · Besuch: Vormittags gegen 9 Uhr zur Öffnung, vorher kurz anrufen
 - Vorschau: webdesign-neunkirchen.de/v/jsivqo · Website-Check-PDF: checks/19_asiahaus_Website-Check.pdf
@@ -2833,7 +2931,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Google-Profil: Leistungen mit Preisen, Antworten auf Bewertungen mit KI-Vorlagen
 - Seite zusätzlich auf Thai und Englisch
 
-## 88. Horst Sehte GmbH (Lead 21, Score 73/100)
+## 91. Horst Sehte GmbH (Lead 21, Score 73/100)
 
 - Dachdecker · Tel. 06821 51356 · Besuch: Früh morgens 7 bis 8 Uhr oder vorher anrufen (Mobil laut Impressum vorhanden)
 - Vorschau: webdesign-neunkirchen.de/v/kmvidf · Website-Check-PDF: checks/21_sehte_Website-Check.pdf
@@ -2860,7 +2958,65 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Ratgeber zu Förderung für Dachdämmung
 - Karriereseite für Dachdecker und Azubis
 
-## 89. Anhängerverleih Manfred Kurz (Lead 38, Score 55/100)
+## 92. Friseursalon Bettina Wolny (Lead 99, Score 65/100)
+
+- Friseursalon · Tel. 06825 8006065 · Besuch: Dienstag bis Freitag vormittags, Termin nur nach Absprache
+- Vorschau: webdesign-neunkirchen.de/v/i5gbxh · Website-Check-PDF: checks/99_wolny_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+- [mittel] Zu wenig Text für Google: Auf der Startseite stehen nur 73 lesbare Wörter. → Google kann nur finden, was als Text dasteht. Leistungen, Ort und Zeiten in Bildern sind für die Suche unsichtbar.
+- [mittel] Keine direkte Anfrage möglich: Kein Formular, keine E-Mail-Verlinkung und kein WhatsApp-Knopf auf der Startseite. → Wer abends sucht, kann nicht anrufen und schreibt dann dem Mitbewerber.
+
+**Sichtprüfung:**
+- Wix-Werbebanner auf jeder Seite.
+- Kostenlose wixsite-Adresse statt eigener Domain.
+- Donnerstag in den Zeiten nur '-----------'.
+
+**Größter Hebel:** Ein Salon mit Preisen ab 59 € braucht einen Auftritt, der so hochwertig wirkt wie die Arbeit. Ein Werbebanner für Wix und eine wixsite-Adresse wirken wie ein Provisorium. Eine eigene Domain mit Terminanfrage und Google-Profil macht den Unterschied.
+
+**Was der Betrieb davon hat:**
+- Google versteht, was Sie anbieten, und zeigt Sie bei passenden Suchen
+- Anfragen auch abends und am Wochenende, per Formular oder WhatsApp
+- Eigene Domain ohne Werbung
+- Terminanfrage
+- Zeiten klar am Handy
+
+**Rechenbeispiel:** 30 zusätzliche Termine im Jahr zu je 60 € sind 1.800 € Mehrumsatz. Der Website-Preis entspricht 12 Terminen.
+
+**Zusatzleistungen zum Anbieten:**
+- Eigene Domain, zum Beispiel friseur-wolny.de
+- Terminanfrage mit Wunschtag
+- Google-Profil mit Fotos und Zeiten
+- Produktseite für La Biosthetique
+
+## 93. Malerbetrieb Schnöll (Lead 101, Score 76/100)
+
+- Maler und Lackierer · Tel. 06826 50371 · Besuch: Vorher anrufen, mobil 0176 42014067
+- Vorschau: webdesign-neunkirchen.de/v/ms4skp · Website-Check-PDF: checks/101_schnoell_Website-Check.pdf
+
+**Was kaputt ist (gemessen):**
+
+**Sichtprüfung:**
+- Startseite ohne Leistungen und ohne Telefon.
+- Lamurista und Concreto ohne Erklärung.
+- Telefon erst auf der Kontaktseite.
+
+**Größter Hebel:** Kreative Wandtechniken wie Betonoptik verkaufen sich über Bilder und Erklärung. Heute sieht ein Besucher auf der Startseite vor allem eine Stellenanzeige. Leistungen mit Vorher-nachher-Fotos und eine Anfrage per Foto holen die Kunden, und eine eigene Karriereseite holt die Fachkräfte.
+
+**Was der Betrieb davon hat:**
+- Leistungen mit Fotos
+- Anfrage mit Foto
+- Karriereseite
+
+**Rechenbeispiel:** 3 zusätzliche Aufträge im Jahr zu je 3.000 € sind 9.000 € Mehrumsatz. Der Website-Preis entspricht 1 Auftrag.
+
+**Zusatzleistungen zum Anbieten:**
+- Seiten für Lamurista und Concreto mit Fotos
+- Anfrage mit Foto vom Raum
+- Eigene Karriereseite statt Stellenanzeige auf der Startseite
+- Google-Profil mit Fotos
+
+## 94. Anhängerverleih Manfred Kurz (Lead 38, Score 55/100)
 
 - Anhängerverleih · Tel. 06821 88317 · Besuch: Vormittags 10 bis 12 Uhr während der Öffnungszeit
 - Vorschau: webdesign-neunkirchen.de/v/wco5zb · Website-Check-PDF: checks/38_kurz_Website-Check.pdf
@@ -2891,7 +3047,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Google-Profil mit Fotos und Preisen
 - Kalender mit Verfügbarkeit (Ausbaustufe)
 
-## 90. Markt Apotheke (Lead 06, Score 55/100)
+## 95. Markt Apotheke (Lead 06, Score 55/100)
 
 - Apotheke · Tel. 06821 21811 · Besuch: Nachmittag ab 14:30 Uhr, nach Inhaberin Frau Daniels fragen
 - Vorschau: webdesign-neunkirchen.de/v/nkn7bl · Website-Check-PDF: checks/06_marktapo_Website-Check.pdf
@@ -2922,7 +3078,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Große Schrift und hoher Kontrast für ältere Kundschaft (Barrierefreiheit)
 - Karriereseite für PTA und Apothekerinnen und Apotheker
 
-## 91. Hotel-Restaurant Schafbrücker Mühle (Lead 67, Score 41/100)
+## 96. Hotel-Restaurant Schafbrücker Mühle (Lead 67, Score 41/100)
 
 - Hotel und Restaurant · Tel. 06824 3237 · Besuch: Nachmittags nach 14 Uhr, nicht freitags
 - Vorschau: webdesign-neunkirchen.de/v/idsn53 · Website-Check-PDF: checks/67_schafb_Website-Check.pdf
@@ -2954,7 +3110,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Wander- und Ausflugsseite für Google
 - Google-Profil mit Fotos von Zimmern und Saal
 
-## 92. Lattrich Orthopädie GmbH (Lead 24, Score 42/100)
+## 97. Lattrich Orthopädie GmbH (Lead 24, Score 42/100)
 
 - Sanitätshaus / Orthopädie- und Rehatechnik · Tel. 06821 22476 · Besuch: Werktags vormittags im Sanitätshaus Hebbelstraße, nach der Geschäftsführung fragen
 - Vorschau: webdesign-neunkirchen.de/v/smesnd · Website-Check-PDF: checks/24_lattrich_Website-Check.pdf
@@ -2986,7 +3142,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Google-Profile aller Standorte vereinheitlichen, Bewertungen nach Versorgung anfragen
 - Infoseiten für Ärzte und Pflegedienste in der Region
 
-## 93. Karate Dojo Neunkirchen e.V. (Lead 40, Score 63/100)
+## 98. Karate Dojo Neunkirchen e.V. (Lead 40, Score 63/100)
 
 - Karateverein (Shotokan) · Tel.  · Besuch: Vor oder nach dem Training (Mo, Mi, Fr abends), Ansprechpartner Vorstand
 - Vorschau: webdesign-neunkirchen.de/v/lz3jib · Website-Check-PDF: checks/40_karate_Website-Check.pdf
@@ -3014,7 +3170,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Vereinsseite, die der Vorstand selbst pflegt
 - Hinweis: Fotos mit Kindern nur mit Einwilligung der Eltern verwenden
 
-## 94. Hotel Zum Ellenfeld (Lead 10, Score 52/100)
+## 99. Hotel Zum Ellenfeld (Lead 10, Score 52/100)
 
 - Hotel / Restaurant · Tel. 06821 8169 · Besuch: Mo bis Do 14:00 bis 16:00 Uhr (nach dem Stammessen)
 - Vorschau: webdesign-neunkirchen.de/v/xk36qa · Website-Check-PDF: checks/10_ellenfeld_Website-Check.pdf
@@ -3044,7 +3200,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Bewertungsantworten (gemischte Hotelbewertungen)
 - Fotoshooting der Zimmer
 
-## 95. WFA Weinfachagentur Benkert GmbH (Lead 50, Score 73/100)
+## 100. WFA Weinfachagentur Benkert GmbH (Lead 50, Score 73/100)
 
 - Weinimport und Weinhandel · Tel. 06821 401746-0 · Besuch: Vorher anrufen, Termin mit Geschäftsführung
 - Vorschau: webdesign-neunkirchen.de/v/pas2hz · Website-Check-PDF: checks/50_wfa_Website-Check.pdf
@@ -3071,7 +3227,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Bereich 'Weinkarte für Gastronomen' mit Anfrage
 - Newsletter mit Neuheiten im Sortiment
 
-## 96. Ferienwohnungen Haus am Berg (Lead 39, Score 55/100)
+## 101. Ferienwohnungen Haus am Berg (Lead 39, Score 55/100)
 
 - Ferienwohnungen · Tel. 06821 25146 · Besuch: Vorher anrufen und Termin ausmachen, privater Vermieter
 - Vorschau: webdesign-neunkirchen.de/v/pxymsz · Website-Check-PDF: checks/39_hausamberg_Website-Check.pdf
@@ -3102,7 +3258,7 @@ Reihenfolge: nach Priorität (viele wichtige Mängel, hoher Nutzen im Verhältni
 - Eigene E-Mail-Adresse mit der Domain
 - Monteurs- und Geschäftsreisende-Seite für längere Aufenthalte
 
-## 97. Ferienapartment am Märzbrunnen (Lead 56, Score 52/100)
+## 102. Ferienapartment am Märzbrunnen (Lead 56, Score 52/100)
 
 - Ferienwohnung · Tel. 06821 58612 · Besuch: Vorher anrufen, privater Vermieter
 - Vorschau: webdesign-neunkirchen.de/v/vr2wbq · Website-Check-PDF: checks/56_maerz_Website-Check.pdf

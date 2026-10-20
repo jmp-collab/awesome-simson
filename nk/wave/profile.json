@@ -581,5 +581,35 @@
   6000,
   "Auftrag",
   3
+ ],
+ "strempel": [
+  "auftrag",
+  2500,
+  "Neukunde",
+  4
+ ],
+ "wolny": [
+  "auftrag",
+  60,
+  "Termin",
+  30
+ ],
+ "mueller": [
+  "auftrag",
+  400,
+  "Auftrag",
+  6
+ ],
+ "schnoell": [
+  "auftrag",
+  3000,
+  "Auftrag",
+  3
+ ],
+ "prinz": [
+  "auftrag",
+  50,
+  "Termin",
+  40
  ]
 }

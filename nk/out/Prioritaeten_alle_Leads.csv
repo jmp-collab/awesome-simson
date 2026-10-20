@@ -35,6 +35,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 79;schaefer;Schreinermeister Frank Schäfer;Schreinerei;31;5;2;10500;990;54;oinmkr;06858 6998188;Vorher anrufen, mobil 0179 7306242
 80;kirsch;Heizung-Sanitär Kirsch UG;Heizung und Sanitär;28;5;2;18000;990;54;pdjm5t;06821 96410;Bürozeiten Mo bis Fr 7:30 bis 12 und 14 bis 17 Uhr, vorher anrufen
 95;ruffing;Elektro Ruffing;Elektroinstallation und Photovoltaik;28;5;2;12000;990;54;72nw2k;06826 6998;Vorher anrufen, mobil 0172 6668383
+100;mueller;Elektro Erwin Müller;Elektro und Fernsehen;15;6;3;2400;690;53.7;4wegjw;06881 80406;Vorher anrufen und klären, ob der Betrieb aktiv ist
 92;siegel;Augenoptik Siegel;Augenoptik;15;6;3;3200;990;50.8;mpjvfc;06825 88840;Vorher anrufen
 18;hobler;Elektro Hobler UG;Elektroinstallation / Elektriker;41;5;1;5400;690;48;khjgpu;06821 952063;Morgens zwischen 7 und 9 Uhr (Büro Mo bis Fr 6 bis 13 Uhr erreichbar)
 32;kirschhock;Haus- und Montage Service Kirschhock;Hausmeister- und Montageservice;35;4;3;3600;690;48;6vsmks;06821 306991;Vorher anrufen (mobil 0175 4147742), am besten früh morgens
@@ -60,10 +61,12 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 61;bogro;BoGro Fachhandel für Bodenbeläge;Bodenbeläge, Lieferung und Verlegung;58;4;1;8000;990;36;vqt5il;06821 179053;Dienstag bis Donnerstag nachmittags, Ausstellung ist bis 17 Uhr offen
 71;marascia;MF-Marascia Fenster-Tor-Tür GmbH;Fenster, Türen und Tore;52;4;1;24000;990;36;uwyl6n;06821 7901291;Vorher anrufen, das Team ist viel im Außendienst
 73;dg;D&G Industriemontage GmbH;Industriemontage;52;4;1;15000;1490;36;eflokh;06821 983150;Vorher anrufen und Termin mit Geschäftsführer Dirk Giebel vereinbaren
+98;strempel;Fahrschule Strempel;Fahrschule;55;4;1;10000;790;36;guasgi;0172 6815909;Montag oder Mittwoch ab 18 Uhr zur Anmeldezeit
 4;ornella;Beauty Nails Ornella;Nagelstudio / Kosmetik;15;6;3;1350;690;35.5;fzuql4;06821 4013600;Vormittag oder telefonisch Termin vereinbaren
 47;luu;Luu Asien Bistro;Asiatisches und vietnamesisches Bistro;38;5;1;2340;690;35.1;utcsjg;06821 9140902;Nachmittags vor 16:30 Uhr, vor der Öffnung
 51;daenzo;Pizza Heimservice Da Enzo;Pizzeria und Lieferdienst;38;5;1;2340;690;35.1;amsjox;06821 9316899;Nachmittags vor 17 Uhr, montags geschlossen
 2;asia;Asia Wok Bistro;Restaurant vietnamesisch / Thai mit Heimservice;21;5;3;2340;990;33.6;kr24if;06821 140373;14:45 bis 16:30 Uhr (zwischen Mittag und Abend)
+102;prinz;Christof Prinz Friseure;Friseursalon;21;5;3;2000;990;30.2;5rvb6l;06806 800072;Dienstag bis Freitag vormittags
 7;roemer;Wirtshaus Römer, Neinkeijer Steak-House;Steakhaus / Wirtshaus;53;4;0;16800;990;30;f6kqsc;06821 942756;15:00 bis 16:30 Uhr (vor Öffnung um 17 Uhr), nicht dienstags
 43;stoerr;Rollladen Störr;Fenster, Haustüren und Rollläden;59;4;0;14000;990;30;qocotn;06821 51700;Nach den Betriebsferien (ab 20.10.), vormittags in der Ausstellung
 53;audeh;Audeh Trockenbau;Trockenbau, Fliesen- und Bodenverlegung;56;3;2;10000;690;30;bnf6t4;0157 59621497;Abends anrufen, Inhaber ist tagsüber auf Baustellen
@@ -87,6 +90,8 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 29;lembcke;Praxis für Osteopathie Melanie Lembcke;Osteopathie / Pilates;55;4;1;1600;690;19.9;y25ong;0176 21391233;Vorher anrufen, Behandlungen laufen nach Termin
 19;asiahaus;Asia Haus Thaimassage;Traditionelle Thai-Massage;56;4;0;1800;690;18.0;jsivqo;01590 6636103;Vormittags gegen 9 Uhr zur Öffnung, vorher kurz anrufen
 21;sehte;Horst Sehte GmbH;Dachdecker;73;3;0;15000;690;18;kmvidf;06821 51356;Früh morgens 7 bis 8 Uhr oder vorher anrufen (Mobil laut Impressum vorhanden)
+99;wolny;Friseursalon Bettina Wolny;Friseursalon;65;3;2;1800;690;18.0;i5gbxh;06825 8006065;Dienstag bis Freitag vormittags, Termin nur nach Absprache
+101;schnoell;Malerbetrieb Schnöll;Maler und Lackierer;76;3;0;9000;990;18;ms4skp;06826 50371;Vorher anrufen, mobil 0176 42014067
 38;kurz;Anhängerverleih Manfred Kurz;Anhängerverleih;55;4;1;1800;990;16.9;wco5zb;06821 88317;Vormittags 10 bis 12 Uhr während der Öffnungszeit
 6;marktapo;Markt Apotheke;Apotheke;55;4;1;1575;990;15.5;nkn7bl;06821 21811;Nachmittag ab 14:30 Uhr, nach Inhaberin Frau Daniels fragen
 67;schafb;Hotel-Restaurant Schafbrücker Mühle;Hotel und Restaurant;41;5;1;810;990;14.5;idsn53;06824 3237;Nachmittags nach 14 Uhr, nicht freitags
