@@ -1,0 +1,20 @@
+{
+ "key": "stammtischlerei-martin-heckmann",
+ "url": "http://www.stammtischlerei.de/",
+ "title": "Stammtischlerei Martin Heckmann",
+ "text": "STAMMTISCHLEREI\n\nMARTIN HECKMANN\n\n\n\n\nVÖLKLINGER STRASSE 2 | 66265 HEUSWEILER\n\n+49 176 23281933 | +49 6806 9312071\n\nMAIL@STAMMTISCHLEREI.DE\n\n\n",
+ "imgs": [],
+ "bg": [
+  "http://www.stammtischlerei.de/background_paper.jpeg"
+ ],
+ "tel": [],
+ "mail": [
+  "mailto:mail@stammtischlerei.de"
+ ],
+ "links": [
+  {
+   "t": "MAIL@STAMMTISCHLEREI.DE",
+   "h": "mailto:mail@stammtischlerei.de"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "g": "keine Google-Daten erfasst",
+ "menu_title": "",
+ "menu": [],
+ "gal_title": "",
+ "gallery": [],
+ "pill": "",
+ "alt_title": "Hinweis zum Entwurf",
+ "alt_text": "Öffnungszeiten aus Ihrem Hinweis ab 13. Mai 2026 übernommen, bitte einmal bestätigen.",
+ "hours": [
+  [
+   "Mittwoch bis Samstag",
+   "ab 17:00"
+  ],
+  [
+   "Sonntag",
+   "11:00 bis 14:00 und ab 17:00"
+  ],
+  [
+   "Montag, Dienstag",
+   "Ruhetag"
+  ]
+ ],
+ "mcta": "Anrufen",
+ "slug": "gasthaus-donauschenke-gastronomiebetrieb",
+ "theme": "spa",
+ "name": "Gasthaus Donauschenke",
+ "branche": "Gasthaus",
+ "addr": "Am Öschweg 26 · 66386 St. Ingbert",
+ "tel": "06894 5302477",
+ "url": "http://www.gasthaus-donauschenke.de",
+ "label": "Solide Chance",
+ "visit": "Mittwoch bis Samstag kurz vor 17 Uhr",
+ "logo_a": "Gasthaus",
+ "logo_b": "Donauschenke",
+ "nav": [
+  "Speisekarte",
+  "Wochenkarte",
+  "Veranstaltungen",
+  "Kontakt"
+ ],
+ "eyebrow": "Gasthaus in St. Ingbert",
+ "h1": "Gasthaus Donauschenke. Mittwochs ist Schnitzeltag.",
+ "lead": "Gemütliches Gasthaus in St. Ingbert mit Speisekarte, wechselnder Wochenkarte, Salatbar und Veranstaltungen. Ausgezeichnet im Schlemmerblock 2024.",
+ "cta1": "Tisch reservieren",
+ "cta2": "Speisekarte",
+ "badge": [
+  "Mi",
+  "Schnitzeltag"
+ ],
+ "deco": "",
+ "hero_img": "img/gasthaus-donauschenke-gastronomiebetrieb_2.jpg",
+ "trust": [
+  "<b>Wochenkarte</b> und Abendkarte",
+  "<b>Salatbar</b> im Gasthaus",
+  "<b>Veranstaltungen</b> übers Jahr"
+ ],
+ "svc_title": "Bei uns",
+ "services": [
+  [
+   "Speisekarte",
+   "Unsere Klassiker."
+  ],
+  [
+   "Wochenkarte",
+   "Wechselt jede Woche."
+  ],
+  [
+   "Schnitzeltag",
+   "Jeden Mittwoch."
+  ],
+  [
+   "Veranstaltungen",
+   "Termine im Jahr."
+  ],
+  [
+   "Feiern",
+   "Auf Anfrage."
+  ],
+  [
+   "Stellenangebote",
+   "Wir suchen Verstärkung."
+  ]
+ ],
+ "band": "Tisch für heute Abend? Kurz anrufen.",
+ "contact": "Gasthaus Donauschenke<br>Am Öschweg 26<br>66386 St. Ingbert<br><br>Telefon 06894 5302477",
+ "audit": [
+  "Oben stehen andere Öffnungszeiten (ab 17:30 Uhr, mit Tippfehler 'Mittoch') als im Hinweis darunter (seit 13. Mai 2026 ab 17:00 Uhr)",
+  "Auf der Startseite hängt im Oktober noch der Urlaubshinweis für 12. bis 25. August, darunter 'News aus 2024'",
+  "Feiertagszeiten stehen nur auf Facebook, am Handy ist die Seite rund 980 Pixel breit, Telefon nicht antippbar"
+ ],
+ "hebel": "Gäste entscheiden spontan, oft am Handy: Hat das Gasthaus heute offen und ab wann? Zwei verschiedene Zeiten und ein alter Urlaubshinweis verunsichern genau dann. Eine Seite mit einer klaren Zeit-Angabe, Wochenkarte vorne und Anruf-Knopf füllt die Tische.",
+ "p": [
+  "790 bis 1.190 €",
+  "1.290 bis 1.790 €",
+  "29 bis 49 €"
+ ],
+ "paket": "Neue Website mit Speise- und Wochenkarte, eindeutigen Öffnungszeiten, Aktuelles-Bereich zum Selbstpflegen, Google-Profil",
+ "svc": [
+  "Wochenkarte, die Sie selbst pflegen",
+  "Aktuelles mit Ablaufdatum, damit alte Hinweise verschwinden",
+  "Reservierungsanfrage",
+  "Google-Profil mit Feiertagszeiten"
+ ],
+ "open": "Ich bin Jean, Webdesigner aus Neunkirchen. Auf Ihrer Seite stehen oben andere Öffnungszeiten als im Hinweis darunter, und der Urlaubshinweis vom August hängt noch. Ich habe Ihnen mitgebracht, wie das klar und am Handy aussehen könnte.",
+ "obj": "'Das pflegt bei uns keiner': Genau dafür gibt es Hinweise mit Ablaufdatum. Sie tippen sie einmal ein, und sie verschwinden von selbst.",
+ "obs": [
+  "Zwei verschiedene Öffnungszeiten, Tippfehler 'Mittoch'.",
+  "Urlaubshinweis August und 'News aus 2024' im Oktober.",
+  "Feiertage nur auf Facebook."
+ ],
+ "neu": [
+  "Eine klare Zeit-Angabe",
+  "Wochenkarte vorne",
+  "Hinweise mit Ablaufdatum"
+ ]
+}

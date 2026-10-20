@@ -30701,5 +30701,82 @@
   "tel": "06894 3 66 99",
   "slug": "tatsch-rainer-elektromeister",
   "src": "gelbeseiten"
+ },
+ {
+  "name": "Friseursalon Struwwelstubb",
+  "branch": "Friseure",
+  "addr": "Hauptstr. 148, 66424 Homburg (Einöd)",
+  "plz": "66424",
+  "url": "http://www.struwwelstubb.de",
+  "final": "http://www.struwwelstubb.de/",
+  "tel": "06848 73 06 95",
+  "slug": "friseursalon-struwwelstubb",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Gasthaus Donauschenke Gastronomiebetrieb",
+  "branch": "Gaststätten und Restaurants",
+  "addr": "Am Öschweg 26, 66386 St. Ingbert",
+  "plz": "66386",
+  "url": "http://www.gasthaus-donauschenke.de",
+  "final": "http://www.gasthaus-donauschenke.de/",
+  "tel": "06894 5 30 24 77",
+  "slug": "gasthaus-donauschenke-gastronomiebetrieb",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Fritsch GmbH, Josef",
+  "branch": "Dachdeckereien",
+  "addr": "Trierer Str. 72, 66265 Heusweiler",
+  "plz": "66265",
+  "url": "http://www.fritsch-dach.de",
+  "final": "http://www.fritsch-dach.de/",
+  "tel": "06806 66 01",
+  "slug": "fritsch-gmbh-josef",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Fliesen Jolly GmbH Fliesenverlegung",
+  "branch": "Fliesen",
+  "addr": "Friedenstr. 16, 66299 Friedrichsthal",
+  "plz": "66299",
+  "url": "http://www.fliesen-jolly.de",
+  "final": "http://www.fliesen-jolly.de/",
+  "tel": "06897 80 11",
+  "slug": "fliesen-jolly-gmbh-fliesenverlegung",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Giovanni Bruno-Gallo Frisörsalon",
+  "branch": "Friseure",
+  "addr": "Gehnbachstr. 10, 66386 St. Ingbert",
+  "plz": "66386",
+  "url": "http://hairstyling-giovanni.de",
+  "final": "http://hairstyling-giovanni.de/",
+  "tel": "06894 1 66 24 74",
+  "slug": "giovanni-bruno-gallo-fris-rsalon",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Stammtischlerei Martin Heckmann",
+  "branch": "Tischlereien",
+  "addr": "Völklinger Str. 2, 66265 Heusweiler",
+  "plz": "66265",
+  "url": "http://www.stammtischlerei.de",
+  "final": "http://www.stammtischlerei.de/",
+  "tel": "06806 9 31 20 71",
+  "slug": "stammtischlerei-martin-heckmann",
+  "src": "gelbeseiten"
+ },
+ {
+  "name": "Müller Silke beauty & nails",
+  "branch": "Kosmetikstudios",
+  "addr": "Hauptstr. 124, 66287 Quierschied (Göttelborn)",
+  "plz": "66287",
+  "url": "http://www.beautylounge-silke.de",
+  "final": "https://www.beautylounge-silke.de/",
+  "tel": "06825 8 01 86 58",
+  "slug": "m-ller-silke-beauty-nails",
+  "src": "gelbeseiten"
  }
 ]

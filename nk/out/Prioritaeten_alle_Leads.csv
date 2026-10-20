@@ -5,6 +5,7 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 87;brill;Rosen Brill;Rosenzüchtung;15;8;2;9000;1490;90;qame3l;06821 6223;Vorher anrufen, Peter Brill
 90;pink;Pink und Schmitt Haustechnik;Heizung, Lüftung, Haustechnik;15;8;2;24000;690;90;v5qzy2;06881 962063;Vorher anrufen
 104;raber;Raber-Dach GmbH;Dachdeckerei;15;8;2;18000;690;90;cwmbm6;06825 8007920;Früh morgens oder vorher anrufen
+120;fjolly;Fliesen Jolly GmbH;Fliesenverlegung;15;8;2;12000;690;90;c4b4da;06897 8011;Vorher anrufen
 64;schappert;Dachdeckerei Schappert GmbH;Dachdeckerei;15;7;3;18000;690;84;7s5ilq;06824 7325;Früh morgens oder vorher anrufen
 65;laluna;Ristorante Pizzeria La Luna;Ristorante und Pizzeria mit Heimservice;15;7;3;12000;690;84;k4337j;06821 9839560;Nachmittags vor 17:30 Uhr, nicht mittwochs
 81;mayer;Mayers Fahrschule;Fahrschule;15;7;3;10000;690;84;kpifiq;06821 790679;Vorher anrufen, mobil 0172 6830198
@@ -15,6 +16,8 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 75;specht;Specht Auto-Service GmbH;Vespa, Piaggio und Aprilia Händler;15;7;2;14000;990;78;yyvgjq;06821 7496607;Vormittags im Laden, Inhaber Uwe Specht direkt ansprechen
 93;cniklas;Christian Niklas GmbH;Fenster, Türen, Rollläden, Markisen;15;7;2;24000;690;78;g65gcm;06825 970020;Vorher anrufen
 105;graber;Schreinerei Heiko Graber;Schreinerei-Meisterbetrieb;15;7;2;15000;790;78;antn6i;06897 600657;Vorher anrufen
+119;fritsch;Bedachungsgeschäft Fritsch GmbH;Dachdeckerei;15;7;2;18000;690;78;e3p52s;06806 6601;Montag bis Freitag zu den Bürozeiten
+122;heckmann;Stammtischlerei Martin Heckmann;Tischlerei;15;7;2;10500;690;78;eisdwm;06806 9312071;Vorher anrufen, mobil 0176 23281933
 14;mdm;MetallDesignMüller;Metallbau / Geländer, Treppen, Tore;15;6;3;10000;690;72;lmn7fq;06821 1799757;Früh morgens 7 bis 8 Uhr oder vorher anrufen (Handwerker oft auf Montage)
 63;welzow;Welzower Stuben;Restaurant und Partyservice;15;6;3;12000;990;72;72a3z2;06821 690943;Nachmittags zwischen 14 und 18 Uhr, Chef Leonard Bala direkt ansprechen
 77;mauermann;Elektro Mauermann;Elektro, Kälte und Klima;15;6;3;10000;790;72;tmfe33;06821 962171;Früh morgens oder vorher anrufen
@@ -53,6 +56,8 @@ nr;k;name;branche;score;wichtig;mittel;nutzen_jahr;preis_ab;prio;code;tel;besuch
 32;kirschhock;Haus- und Montage Service Kirschhock;Hausmeister- und Montageservice;35;4;3;3600;690;48;6vsmks;06821 306991;Vorher anrufen (mobil 0175 4147742), am besten früh morgens
 72;lander;Carsten Lander GmbH;Stuckateur- und Malerbetrieb;35;5;1;16000;990;48;mrbje5;06897 61762;Vorher anrufen oder per WhatsApp melden
 96;hoennicke;Fahrschule Hönnicke;Fahrschule;35;5;1;10000;790;48;fh25wf;06826 3510;Mittwoch oder Freitag ab 17 Uhr im Büro
+118;donau;Gasthaus Donauschenke;Gasthaus;15;6;4;2100;790;47.6;meiovo;06894 5302477;Mittwoch bis Samstag kurz vor 17 Uhr
+121;struwwel;Friseursalon Struwwelstubb;Friseursalon;15;6;3;2000;690;46.8;7narfb;06848 730695;Vormittags, Termin nach Absprache
 13;didie;Hermann Didié Büro- und Zeichenbedarf;Bürobedarf / Künstler- und Bastelbedarf;15;7;3;1600;690;46.5;322wzl;06821 22757;Vormittag unter der Woche, wenn wenig Kundschaft im Laden ist
 28;rebel;Blumen Rebel;Blumengeschäft / Gärtnerei / Grabpflege;15;7;3;1600;690;46.5;vh4jxx;06821 86217;Vormittags in der Gärtnerei, nicht vor Muttertag, Allerheiligen oder Weihnachten
 113;yvonne;Kosmetikinstitut Yvonne;Kosmetikinstitut;27;6;1;2800;790;45.4;kq3ke4;0151 11949299;Vorher anrufen, Termine nach Absprache

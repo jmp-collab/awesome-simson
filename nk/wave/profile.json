@@ -701,5 +701,35 @@
   4000,
   "Auftrag",
   4
+ ],
+ "donau": [
+  "auftrag",
+  35,
+  "Neukunde",
+  60
+ ],
+ "fritsch": [
+  "auftrag",
+  6000,
+  "Auftrag",
+  3
+ ],
+ "fjolly": [
+  "auftrag",
+  4000,
+  "Auftrag",
+  3
+ ],
+ "struwwel": [
+  "auftrag",
+  50,
+  "Termin",
+  40
+ ],
+ "heckmann": [
+  "auftrag",
+  3500,
+  "Auftrag",
+  3
  ]
 }

@@ -347,9 +347,14 @@
   "kopp-gerhard-gartengestaltung",
   "tatsch-rainer-elektromeister",
   "hans-j-rgen-hoffmann-kfz-mechaniker",
-  "schumacher-norbert-montagebetrieb"
+  "schumacher-norbert-montagebetrieb",
+  "gasthaus-donauschenke-gastronomiebetrieb",
+  "fritsch-gmbh-josef",
+  "fliesen-jolly-gmbh-fliesenverlegung",
+  "friseursalon-struwwelstubb",
+  "stammtischlerei-martin-heckmann"
  ],
- "wave": 22,
+ "wave": 23,
  "deferred": {
   "l-a-nails-nagelstudio": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
   "nieland-julia-pasta": "Domain geparkt/gekapert oder Betrieb unklar, vor Entwurf Inhaber klären",
@@ -419,6 +424,9 @@
   "bestattungsinstitut-flunkert": "gepflegte Seite, sensibles Thema"
  },
  "queue_neu": [
+  "m-ller-silke-beauty-nails",
+  "holzmann-susanne-friseursalon",
+  "slemani-barbashop-fris-rsalon",
   "sanitec-geb-udetechnik",
   "labisch-fenster-t-ren",
   "ulrich-mike-friseursalon",
@@ -430,7 +438,7 @@
   "zimmerei-dachdeckerei-bachschwiderski-gm"
  ],
  "hinweis": "Neue Leads kommen aus wave/harvest_gs.py (Gelbe Seiten, Ort x Branche) + wave/screen.py (Alterssignale); Kandidaten in wave/new_near.json/screen.json",
- "queue_neu_hinweis": "Die meisten hier sind eher solide (geholt in raw/). Sanitec: leerer Seitentitel. Heib: STRATO reserved. Weitere aus screen.json ranken oder harvest_gs.py für saarbruecken-ost? (Dudweiler, Sankt Wendel, Ottweiler-Ortsteile, Illingen erneut mit anderen Branchen: bäckerei, metzgerei, hotel, physiotherapie(ohne HWG-Aussagen), steuerberater).",
+ "queue_neu_hinweis": "Silke Müller: Baukasten-Vorlagentext (\"Ich freuen sich\", \"Mehr erfahren\" führt zur Startseite). Holzmann/Slemani: nur Facebook-Seite hinter Login (eigener Lead-Typ \"keine Website\"). Danach harvest_gs.py mit neuen Branchen/Orten (siehe vorige Hinweise).",
  "skip": [
   "naturfreundehaus",
   "zickwolff-garten-und-landschaftsbau",
@@ -441,8 +449,9 @@
   "seiler-friseurteam-friseur",
   "herz-hair-hairdesign",
   "emi-gmbh-elektroinstallationen",
-  "elektro-gross-gmbh"
+  "elektro-gross-gmbh",
+  "giovanni-bruno-gallo-fris-rsalon"
  ],
- "skip_grund": "naturfreundehaus: nur Unterseite im Bundesverbandsportal; zickwolff: Seite liefert auch per curl 403, nicht prüfbar; holiday-inn: Kette; bella-italia: in leads_slim als Dublette markiert; s-oliver: Kette; born: Fleurop-Portalseite; seiler: Geschäftsaufgabe 31.03.2026; herz-hair: Domain geparkt/zu verkaufen, Betrieb nicht verifiziert; emi: Domain gehört Montum GmbH (Großbetrieb); elektro-gross: Seite solide",
+ "skip_grund": "naturfreundehaus: nur Unterseite im Bundesverbandsportal; zickwolff: Seite liefert auch per curl 403, nicht prüfbar; holiday-inn: Kette; bella-italia: in leads_slim als Dublette markiert; s-oliver: Kette; born: Fleurop-Portalseite; seiler: Geschäftsaufgabe 31.03.2026; herz-hair: Domain geparkt/zu verkaufen, Betrieb nicht verifiziert; emi: Domain gehört Montum GmbH (Großbetrieb); elektro-gross: Seite solide; giovanni: Seite solide, Startseite nennt Geburtsdatum und Kindernamen (sensibel, nicht als Aufhänger nutzen)",
  "artifact": "https://claude.ai/artifact/Qaz96D4vgCvD55f7L6r4sz (artifact2/index.html, ab Welle 18); Welle 1-17: https://claude.ai/artifact/7Eh4A2tnRzjDBboCZzxjBB"
 }

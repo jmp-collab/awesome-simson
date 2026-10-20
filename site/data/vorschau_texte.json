@@ -1402,5 +1402,65 @@
    "Bereiche Privat und Gewerbe",
    "Anfrage mit Maßen"
   ]
+ },
+ "donau": {
+  "obs": [
+   "Zwei verschiedene Öffnungszeiten, Tippfehler 'Mittoch'.",
+   "Urlaubshinweis August und 'News aus 2024' im Oktober.",
+   "Feiertage nur auf Facebook."
+  ],
+  "neu": [
+   "Eine klare Zeit-Angabe",
+   "Wochenkarte vorne",
+   "Hinweise mit Ablaufdatum"
+  ]
+ },
+ "fritsch": {
+  "obs": [
+   "Nur 'demnächst neue Internetpräsenz', mit Tippfehler.",
+   "Keine Leistung, Nummer nicht antippbar.",
+   "Keine sichere Verbindung."
+  ],
+  "neu": [
+   "Leistungen und Referenzen",
+   "Anfrage mit Foto",
+   "Sichere Verbindung"
+  ]
+ },
+ "fjolly": {
+  "obs": [
+   "Nur 'Seite wird gerade überarbeitet'.",
+   "Kein Seitentitel.",
+   "Kein Name, keine Nummer."
+  ],
+  "neu": [
+   "Leistungen und Fotos",
+   "Anfrage mit Fläche",
+   "Sichere Verbindung"
+  ]
+ },
+ "struwwel": {
+  "obs": [
+   "Nur 'STRATO - Domain reserved'.",
+   "Kein Name, keine Zeiten, keine Nummer.",
+   "Bei Google Titel 'Domain reserved'."
+  ],
+  "neu": [
+   "Leistungen und Preise",
+   "Terminanfrage",
+   "Ihr Name bei Google"
+  ]
+ },
+ "heckmann": {
+  "obs": [
+   "Nur Visitenkarte, keine Leistung.",
+   "Kein Foto einer Arbeit.",
+   "Nummern nicht antippbar, keine sichere Verbindung."
+  ],
+  "neu": [
+   "Referenzgalerie",
+   "Anfrage mit Maßen",
+   "Sichere Verbindung"
+  ]
  }
 }
