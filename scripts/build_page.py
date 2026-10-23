@@ -16,7 +16,7 @@ SRC = ROOT / "README.md"
 OUT = ROOT / "docs" / "index.html"
 
 # Wird als canonical und og:url genutzt. Bei eigener Domain hier anpassen.
-SITE_URL = "https://jmp-collab.github.io/neu/"
+SITE_URL = "https://jmp-collab.github.io/awesome-simson/"
 TITLE = "Awesome Simson & Moped-Tuning: Foren, Anleitungen, Rechner"
 DESCRIPTION = (
     "Kuratierte Liste für Simson, DDR-Mopeds, Mofas und klassische Roller: Foren, "
@@ -50,7 +50,7 @@ def inline(text):
         if href.startswith("#"):
             pass
         elif not href.startswith("http"):
-            href = "https://github.com/jmp-collab/neu/blob/main/" + href
+            href = "https://github.com/jmp-collab/awesome-simson/blob/main/" + href
         ext = href.startswith("http")
         attrs = ' target="_blank" rel="noopener"' if ext else ""
         return f'<a href="{html.escape(href)}"{attrs}>{label}</a>'
@@ -267,7 +267,7 @@ footer{{max-width:1080px;margin:auto;padding:24px 16px 48px;color:var(--muted);f
 <header>
 <h1>Awesome Simson &amp; Moped-Tuning</h1>
 <p>{count} geprüfte Quellen für Simson, DDR-Mopeds, Mofas und klassische Roller: Foren, Anleitungen, Vergaser, Rechner, Recht, Museen und Treffen.</p>
-<a class="cta" href="https://github.com/jmp-collab/neu" target="_blank" rel="noopener">Auf GitHub ergänzen</a>
+<a class="cta" href="https://github.com/jmp-collab/awesome-simson" target="_blank" rel="noopener">Auf GitHub ergänzen</a>
 </header>
 <div class="bar"><div class="in">
 <input type="search" id="q" placeholder="Suchen, z. B. Vergaser, Schwalbe, Führerschein" aria-label="Liste durchsuchen">
@@ -277,7 +277,7 @@ footer{{max-width:1080px;margin:auto;padding:24px 16px 48px;color:var(--muted);f
 <main>
 {body}
 </main>
-<footer>Generiert aus <a href="https://github.com/jmp-collab/neu/blob/main/README.md">README.md</a>. MIT-Lizenz.</footer>
+<footer>Generiert aus <a href="https://github.com/jmp-collab/awesome-simson/blob/main/README.md">README.md</a>. MIT-Lizenz.</footer>
 <script>
 (function(){{
 var q=document.getElementById('q'),count=document.getElementById('count');
